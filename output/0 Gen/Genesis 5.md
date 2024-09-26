@@ -9,7 +9,6 @@ aliases:
   - Gen_5
 tags:
   - bible/chapter
-  - bible/Genesis/chapter
   - bible/Genesis/5
   - bible/old testament
 cssclass:
@@ -65,7 +64,7 @@ Enoch walked with God after he fathered Methuselah 300 years and had other sons 
 ###### 23
 Thus all the days of Enoch were 365 years.
 ###### 24
-Enoch walked with God, and he was not,  for God took him.
+Enoch walked with God, and he was not, for God took him.
 ###### 25
 When Methuselah had lived 187 years, he fathered Lamech.
 ###### 26

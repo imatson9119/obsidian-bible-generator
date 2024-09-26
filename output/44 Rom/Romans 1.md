@@ -9,7 +9,6 @@ aliases:
   - Rom_1
 tags:
   - bible/chapter
-  - bible/Romans/chapter
   - bible/Romans/1
   - bible/new testament
 cssclass:
@@ -23,7 +22,7 @@ Paul, a servant of Christ Jesus, called to be an apostle, set apart for the gosp
 ###### 2
 which he promised beforehand through his prophets in the holy Scriptures,
 ###### 3
-concerning his Son, who was descended from David  according to the flesh
+concerning his Son, who was descended from David according to the flesh
 ###### 4
 and was declared to be the Son of God in power according to the Spirit of holiness by his resurrection from the dead, Jesus Christ our Lord,
 ###### 5
@@ -31,7 +30,7 @@ through whom we have received grace and apostleship to bring about the obedience
 ###### 6
 including you who are called to belong to Jesus Christ,
 ###### 7
-To all those in Rome who are loved by God and called to be saints:   Grace to you and peace from God our Father and the Lord Jesus Christ.
+To all those in Rome who are loved by God and called to be saints: Grace to you and peace from God our Father and the Lord Jesus Christ.
 ###### 8
 First, I thank my God through Jesus Christ for all of you, because your faith is proclaimed in all the world.
 ###### 9
@@ -51,7 +50,7 @@ So I am eager to preach the gospel to you also who are in Rome.
 ###### 16
 For I am not ashamed of the gospel, for it is the power of God for salvation to everyone who believes, to the Jew first and also to the Greek.
 ###### 17
-For in it the righteousness of God is revealed from faith for faith,  as it is written, “The righteous shall live by faith.”
+For in it the righteousness of God is revealed from faith for faith, as it is written, “The righteous shall live by faith.”
 ###### 18
 For the wrath of God is revealed from heaven against all ungodliness and unrighteousness of men, who by their unrighteousness suppress the truth.
 ###### 19

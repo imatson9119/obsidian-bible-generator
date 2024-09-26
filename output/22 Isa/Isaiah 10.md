@@ -9,7 +9,6 @@ aliases:
   - Isa_10
 tags:
   - bible/chapter
-  - bible/Isaiah/chapter
   - bible/Isaiah/10
   - bible/old testament
 cssclass:
@@ -25,7 +24,7 @@ to turn aside the needy from justice and to rob the poor of my people of their r
 ###### 3
 What will you do on the day of punishment, in the ruin that will come from afar? To whom will you flee for help, and where will you leave your wealth?
 ###### 4
-Nothing remains but to crouch among the prisoners or fall among the slain.   For all this his anger has not turned away, and his hand is stretched out still.
+Nothing remains but to crouch among the prisoners or fall among the slain. For all this his anger has not turned away, and his hand is stretched out still.
 ###### 5
 Woe to Assyria, the rod of my anger; the staff in their hands is my fury!
 ###### 6
@@ -33,13 +32,13 @@ Against a godless nation I send him, and against the people of my wrath I comman
 ###### 7
 But he does not so intend, and his heart does not so think; but it is in his heart to destroy, and to cut off nations not a few;
 ###### 8
-for he says:   “Are not my commanders all kings?
+for he says: “Are not my commanders all kings?
 ###### 9
-Is not Calno like Carchemish? Is not Hamath like Arpad?   Is not Samaria like Damascus?
+Is not Calno like Carchemish? Is not Hamath like Arpad? Is not Samaria like Damascus?
 ###### 10
 As my hand has reached to the kingdoms of the idols, whose carved images were greater than those of Jerusalem and Samaria,
 ###### 11
-shall I not do to Jerusalem and her idols   as I have done to Samaria and her images?”
+shall I not do to Jerusalem and her idols as I have done to Samaria and her images?”
 ###### 12
 When the Lord has finished all his work on Mount Zion and on Jerusalem, he will punish the speech of the arrogant heart of the king of Assyria and the boastful look in his eyes.
 ###### 13
@@ -75,7 +74,7 @@ And in that day his burden will depart from your shoulder, and his yoke from you
 ###### 28
 He has come to Aiath; he has passed through Migron; at Michmash he stores his baggage;
 ###### 29
-they have crossed over the pass; at Geba they lodge for the night;   Ramah trembles;   Gibeah of Saul has fled.
+they have crossed over the pass; at Geba they lodge for the night; Ramah trembles; Gibeah of Saul has fled.
 ###### 30
 Cry aloud, O daughter of Gallim! Give attention, O Laishah! O poor Anathoth!
 ###### 31
@@ -83,7 +82,7 @@ Madmenah is in flight; the inhabitants of Gebim flee for safety.
 ###### 32
 This very day he will halt at Nob; he will shake his fist at the mount of the daughter of Zion, the hill of Jerusalem.
 ###### 33
-Behold, the Lord God of hosts   will lop the boughs with terrifying power; the great in height will be hewn down, and the lofty will be brought low.
+Behold, the Lord God of hosts will lop the boughs with terrifying power; the great in height will be hewn down, and the lofty will be brought low.
 ###### 34
 He will cut down the thickets of the forest with an axe, and Lebanon will fall by the Majestic One.
 

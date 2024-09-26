@@ -9,7 +9,6 @@ aliases:
   - Job_23
 tags:
   - bible/chapter
-  - bible/Job/chapter
   - bible/Job/23
   - bible/old testament
 cssclass:

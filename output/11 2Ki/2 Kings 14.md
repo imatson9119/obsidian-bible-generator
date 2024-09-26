@@ -9,7 +9,6 @@ aliases:
   - 2Ki_14
 tags:
   - bible/chapter
-  - bible/2 Kings/chapter
   - bible/2 Kings/14
   - bible/old testament
 cssclass:
@@ -69,7 +68,7 @@ And he did what was evil in the sight of the Lord. He did not depart from all th
 ###### 25
 He restored the border of Israel from Lebo-hamath as far as the Sea of the Arabah, according to the word of the Lord, the God of Israel, which he spoke by his servant Jonah the son of Amittai, the prophet, who was from Gath-hepher.
 ###### 26
-For the Lord  saw that the affliction of Israel was very bitter, for there was none left, bond or free, and there was none to help Israel.
+For the Lord saw that the affliction of Israel was very bitter, for there was none left, bond or free, and there was none to help Israel.
 ###### 27
 But the Lord had not said that he would blot out the name of Israel from under heaven, so he saved them by the hand of Jeroboam the son of Joash.
 ###### 28

@@ -9,7 +9,6 @@ aliases:
   - Psa_90
 tags:
   - bible/chapter
-  - bible/Psalm/chapter
   - bible/Psalm/90
   - bible/old testament
 cssclass:
@@ -21,7 +20,7 @@ cssclass:
 ###### 1
 Lord, you have been our dwelling place in all generations.
 ###### 2
-Before the mountains were brought forth, or ever you had formed the earth and the world,   from everlasting to everlasting you are God.
+Before the mountains were brought forth, or ever you had formed the earth and the world, from everlasting to everlasting you are God.
 ###### 3
 You return man to dust and say, “Return, O children of man!”
 ###### 4

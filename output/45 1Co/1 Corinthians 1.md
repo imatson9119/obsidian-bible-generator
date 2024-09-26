@@ -9,7 +9,6 @@ aliases:
   - 1Co_1
 tags:
   - bible/chapter
-  - bible/1 Corinthians/chapter
   - bible/1 Corinthians/1
   - bible/new testament
 cssclass:
@@ -55,7 +54,7 @@ For Christ did not send me to baptize but to preach the gospel, and not with wor
 ###### 18
 For the word of the cross is folly to those who are perishing, but to us who are being saved it is the power of God.
 ###### 19
-For it is written,   “I will destroy the wisdom of the wise, and the discernment of the discerning I will thwart.”
+For it is written, “I will destroy the wisdom of the wise, and the discernment of the discerning I will thwart.”
 ###### 20
 Where is the one who is wise? Where is the scribe? Where is the debater of this age? Has not God made foolish the wisdom of the world?
 ###### 21

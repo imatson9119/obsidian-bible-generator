@@ -9,7 +9,6 @@ aliases:
   - Jn_15
 tags:
   - bible/chapter
-  - bible/John/chapter
   - bible/John/15
   - bible/new testament
 cssclass:
@@ -19,7 +18,7 @@ cssclass:
 # John 15
 
 ###### 1
-“I am the     true vine, and my Father is     the vinedresser.
+“I am the true vine, and my Father is the vinedresser.
 ###### 2
 Every branch in me that does not bear fruit he takes away, and every branch that does bear fruit he prunes, that it may bear more fruit.
 ###### 3
@@ -47,7 +46,7 @@ Greater love has no one than this, that someone lay down his life for his friend
 ###### 14
 You are my friends if you do what I command you.
 ###### 15
-No longer do I call you servants,  for the servant does not know what his master is doing; but I have called you friends, for all that I have heard from my Father I have made known to you.
+No longer do I call you servants, for the servant does not know what his master is doing; but I have called you friends, for all that I have heard from my Father I have made known to you.
 ###### 16
 You did not choose me, but I chose you and appointed you that you should go and bear fruit and that your fruit should abide, so that whatever you ask the Father in my name, he may give it to you.
 ###### 17
@@ -61,7 +60,7 @@ Remember the word that I said to you: ‘A servant is not greater than his maste
 ###### 21
 But all these things they will do to you on account of my name, because they do not know him who sent me.
 ###### 22
-If I had not come and spoken to them, they would not have been guilty of sin,  but now they have no excuse for their sin.
+If I had not come and spoken to them, they would not have been guilty of sin, but now they have no excuse for their sin.
 ###### 23
 Whoever hates me hates my Father also.
 ###### 24
@@ -69,7 +68,7 @@ If I had not done among them the works that no one else did, they would not be g
 ###### 25
 But the word that is written in their Law must be fulfilled: ‘They hated me without a cause.’
 ###### 26
-“But     when the Helper comes, whom I will send to you from the Father, the Spirit of truth, who proceeds from the Father,     he will bear witness about me.
+“But when the Helper comes, whom I will send to you from the Father, the Spirit of truth, who proceeds from the Father, he will bear witness about me.
 ###### 27
 And you also will bear witness, because you have been with me from the beginning.
 

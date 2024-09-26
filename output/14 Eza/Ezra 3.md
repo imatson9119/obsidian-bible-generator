@@ -9,7 +9,6 @@ aliases:
   - Eza_3
 tags:
   - bible/chapter
-  - bible/Ezra/chapter
   - bible/Ezra/3
   - bible/old testament
 cssclass:
@@ -39,7 +38,7 @@ And Jeshua with his sons and his brothers, and Kadmiel and his sons, the sons of
 ###### 10
 And when the builders laid the foundation of the temple of the Lord, the priests in their vestments came forward with trumpets, and the Levites, the sons of Asaph, with cymbals, to praise the Lord, according to the directions of David king of Israel.
 ###### 11
-And they sang responsively, praising and giving thanks to the Lord,   “For he is good, for his steadfast love endures forever toward Israel.” And all the people shouted with a great shout when they praised the Lord, because the foundation of the house of the Lord was laid.
+And they sang responsively, praising and giving thanks to the Lord, “For he is good, for his steadfast love endures forever toward Israel.” And all the people shouted with a great shout when they praised the Lord, because the foundation of the house of the Lord was laid.
 ###### 12
 But many of the priests and Levites and heads of fathers’ houses, old men who had seen the first house, wept with a loud voice when they saw the foundation of this house being laid, though many shouted aloud for joy,
 ###### 13

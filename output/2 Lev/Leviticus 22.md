@@ -9,7 +9,6 @@ aliases:
   - Lev_22
 tags:
   - bible/chapter
-  - bible/Leviticus/chapter
   - bible/Leviticus/22
   - bible/old testament
 cssclass:
@@ -59,7 +58,7 @@ if it is to be accepted for you it shall be a male without blemish, of the bulls
 ###### 20
 You shall not offer anything that has a blemish, for it will not be acceptable for you.
 ###### 21
-And when anyone offers a sacrifice of peace offerings to the Lord  to fulfill a vow or as a freewill offering from the herd or from the flock, to be accepted it must be perfect; there shall be no blemish in it.
+And when anyone offers a sacrifice of peace offerings to the Lord to fulfill a vow or as a freewill offering from the herd or from the flock, to be accepted it must be perfect; there shall be no blemish in it.
 ###### 22
 Animals blind or disabled or mutilated or having a discharge or an itch or scabs you shall not offer to the Lord or give them to the Lord as a food offering on the altar.
 ###### 23

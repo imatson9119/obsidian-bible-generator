@@ -9,7 +9,6 @@ aliases:
   - Lev_27
 tags:
   - bible/chapter
-  - bible/Leviticus/chapter
   - bible/Leviticus/27
   - bible/old testament
 cssclass:

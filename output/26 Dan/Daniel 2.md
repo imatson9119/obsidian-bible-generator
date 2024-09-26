@@ -9,7 +9,6 @@ aliases:
   - Dan_2
 tags:
   - bible/chapter
-  - bible/Daniel/chapter
   - bible/Daniel/2
   - bible/old testament
 cssclass:
@@ -25,7 +24,7 @@ Then the king commanded that the magicians, the enchanters, the sorcerers, and t
 ###### 3
 And the king said to them, “I had a dream, and my spirit is troubled to know the dream.”
 ###### 4
-Then the Chaldeans said to the king in Aramaic,  “O king, live forever! Tell your servants the dream, and we will show the interpretation.”
+Then the Chaldeans said to the king in Aramaic, “O king, live forever! Tell your servants the dream, and we will show the interpretation.”
 ###### 5
 The king answered and said to the Chaldeans, “The word from me is firm: if you do not make known to me the dream and its interpretation, you shall be torn limb from limb, and your houses shall be laid in ruins.
 ###### 6
@@ -57,13 +56,13 @@ and told them to seek mercy from the God of heaven concerning this mystery, so t
 ###### 19
 Then the mystery was revealed to Daniel in a vision of the night. Then Daniel blessed the God of heaven.
 ###### 20
-Daniel answered and said:   “Blessed be the name of God forever and ever,   to whom belong wisdom and might.
+Daniel answered and said: “Blessed be the name of God forever and ever, to whom belong wisdom and might.
 ###### 21
-He changes times and seasons;   he removes kings and sets up kings;   he gives wisdom to the wise   and knowledge to those who have understanding;
+He changes times and seasons; he removes kings and sets up kings; he gives wisdom to the wise and knowledge to those who have understanding;
 ###### 22
-he reveals deep and hidden things;   he knows what is in the darkness,   and the light dwells with him.
+he reveals deep and hidden things; he knows what is in the darkness, and the light dwells with him.
 ###### 23
-To you, O God of my fathers,   I give thanks and praise, for you have given me wisdom and might, and have now made known to me what we asked of you, for you have made known to us the king’s matter.”
+To you, O God of my fathers, I give thanks and praise, for you have given me wisdom and might, and have now made known to me what we asked of you, for you have made known to us the king’s matter.”
 ###### 24
 Therefore Daniel went in to Arioch, whom the king had appointed to destroy the wise men of Babylon. He went and said thus to him: “Do not destroy the wise men of Babylon; bring me in before the king, and I will show the king the interpretation.”
 ###### 25

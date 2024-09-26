@@ -9,7 +9,6 @@ aliases:
   - Psa_50
 tags:
   - bible/chapter
-  - bible/Psalm/chapter
   - bible/Psalm/50
   - bible/old testament
 cssclass:
@@ -19,9 +18,9 @@ cssclass:
 # Psalm 50
 
 ###### 1
-The Mighty One, God the Lord, speaks and summons the earth   from the rising of the sun to its setting.
+The Mighty One, God the Lord, speaks and summons the earth from the rising of the sun to its setting.
 ###### 2
-Out of Zion, the perfection of beauty,   God shines forth.
+Out of Zion, the perfection of beauty, God shines forth.
 ###### 3
 Our God comes; he does not keep silence; before him is a devouring fire, around him a mighty tempest.
 ###### 4
@@ -31,7 +30,7 @@ He calls to the heavens above and to the earth, that he may judge his people:
 ###### 6
 The heavens declare his righteousness, for God himself is judge! Selah
 ###### 7
-“Hear, O my people, and I will speak; O Israel, I will testify against you.   I am God, your God.
+“Hear, O my people, and I will speak; O Israel, I will testify against you. I am God, your God.
 ###### 8
 Not for your sacrifices do I rebuke you; your burnt offerings are continually before me.
 ###### 9
@@ -41,7 +40,7 @@ For every beast of the forest is mine, the cattle on a thousand hills.
 ###### 11
 I know all the birds of the hills, and all that moves in the field is mine.
 ###### 12
-“If I were hungry, I would not tell you,   for the world and its fullness are mine.
+“If I were hungry, I would not tell you, for the world and its fullness are mine.
 ###### 13
 Do I eat the flesh of bulls or drink the blood of goats?
 ###### 14
@@ -51,11 +50,11 @@ and call upon me in the day of trouble; I will deliver you, and you shall glorif
 ###### 16
 But to the wicked God says: “What right have you to recite my statutes or take my covenant on your lips?
 ###### 17
-For you hate discipline,   and you cast my words behind you.
+For you hate discipline, and you cast my words behind you.
 ###### 18
-If you see a thief, you are pleased with him,   and you keep company with adulterers.
+If you see a thief, you are pleased with him, and you keep company with adulterers.
 ###### 19
-“You give your mouth free rein for evil,   and your tongue frames deceit.
+“You give your mouth free rein for evil, and your tongue frames deceit.
 ###### 20
 You sit and speak against your brother; you slander your own mother’s son.
 ###### 21

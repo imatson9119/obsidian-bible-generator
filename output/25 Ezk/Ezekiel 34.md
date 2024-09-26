@@ -9,7 +9,6 @@ aliases:
   - Ezk_34
 tags:
   - bible/chapter
-  - bible/Ezekiel/chapter
   - bible/Ezekiel/34
   - bible/old testament
 cssclass:

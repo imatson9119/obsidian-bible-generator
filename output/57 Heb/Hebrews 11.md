@@ -9,7 +9,6 @@ aliases:
   - Heb_11
 tags:
   - bible/chapter
-  - bible/Hebrews/chapter
   - bible/Hebrews/11
   - bible/new testament
 cssclass:
@@ -91,7 +90,7 @@ Women received back their dead by resurrection. Some were tortured, refusing to 
 ###### 36
 Others suffered mocking and flogging, and even chains and imprisonment.
 ###### 37
-They were stoned, they were sawn in two,  they were killed with the sword. They went about in skins of sheep and goats, destitute, afflicted, mistreated—
+They were stoned, they were sawn in two, they were killed with the sword. They went about in skins of sheep and goats, destitute, afflicted, mistreated—
 ###### 38
 of whom the world was not worthy—wandering about in deserts and mountains, and in dens and caves of the earth.
 ###### 39

@@ -9,7 +9,6 @@ aliases:
   - 2Sa_22
 tags:
   - bible/chapter
-  - bible/2 Samuel/chapter
   - bible/2 Samuel/22
   - bible/old testament
 cssclass:
@@ -21,9 +20,9 @@ cssclass:
 ###### 1
 And David spoke to the Lord the words of this song on the day when the Lord delivered him from the hand of all his enemies, and from the hand of Saul.
 ###### 2
-He said,   “The Lord is my rock and my fortress and my deliverer,
+He said, “The Lord is my rock and my fortress and my deliverer,
 ###### 3
-my God, my rock, in whom I take refuge,   my shield, and the horn of my salvation,   my stronghold and my refuge, my savior; you save me from violence.
+my God, my rock, in whom I take refuge, my shield, and the horn of my salvation, my stronghold and my refuge, my savior; you save me from violence.
 ###### 4
 I call upon the Lord, who is worthy to be praised, and I am saved from my enemies.
 ###### 5
@@ -33,17 +32,17 @@ the cords of Sheol entangled me; the snares of death confronted me.
 ###### 7
 “In my distress I called upon the Lord; to my God I called. From his temple he heard my voice, and my cry came to his ears.
 ###### 8
-“Then the earth reeled and rocked;   the foundations of the heavens trembled and quaked, because he was angry.
+“Then the earth reeled and rocked; the foundations of the heavens trembled and quaked, because he was angry.
 ###### 9
-Smoke went up from his nostrils, and devouring fire from his mouth;   glowing coals flamed forth from him.
+Smoke went up from his nostrils, and devouring fire from his mouth; glowing coals flamed forth from him.
 ###### 10
-He bowed the heavens and came down;   thick darkness was under his feet.
+He bowed the heavens and came down; thick darkness was under his feet.
 ###### 11
 He rode on a cherub and flew; he was seen on the wings of the wind.
 ###### 12
 He made darkness around him his canopy, thick clouds, a gathering of water.
 ###### 13
-Out of the brightness before him   coals of fire flamed forth.
+Out of the brightness before him coals of fire flamed forth.
 ###### 14
 The Lord thundered from heaven, and the Most High uttered his voice.
 ###### 15
@@ -59,7 +58,7 @@ They confronted me in the day of my calamity, but the Lord was my support.
 ###### 20
 He brought me out into a broad place; he rescued me, because he delighted in me.
 ###### 21
-“The Lord  dealt with me according to my righteousness; according to the cleanness of my hands he rewarded me.
+“The Lord dealt with me according to my righteousness; according to the cleanness of my hands he rewarded me.
 ###### 22
 For I have kept the ways of the Lord and have not wickedly departed from my God.
 ###### 23
@@ -73,7 +72,7 @@ And the Lord has rewarded me according to my righteousness, according to my clea
 ###### 27
 with the purified you deal purely, and with the crooked you make yourself seem tortuous.
 ###### 28
-You save a humble people,   but your eyes are on the haughty to bring them down.
+You save a humble people, but your eyes are on the haughty to bring them down.
 ###### 29
 For you are my lamp, O Lord, and my God lightens my darkness.
 ###### 30
@@ -81,7 +80,7 @@ For by you I can run against a troop, and by my God I can leap over a wall.
 ###### 31
 This God—his way is perfect; the word of the Lord proves true; he is a shield for all those who take refuge in him.
 ###### 32
-“For who is God, but the Lord?   And who is a rock, except our God?
+“For who is God, but the Lord? And who is a rock, except our God?
 ###### 33
 This God is my strong refuge and has made my way blameless.
 ###### 34
@@ -105,11 +104,11 @@ They looked, but there was none to save; they cried to the Lord, but he did not 
 ###### 43
 I beat them fine as the dust of the earth; I crushed them and stamped them down like the mire of the streets.
 ###### 44
-“You delivered me from strife with my people; you kept me as the head of the nations;   people whom I had not known served me.
+“You delivered me from strife with my people; you kept me as the head of the nations; people whom I had not known served me.
 ###### 45
 Foreigners came cringing to me; as soon as they heard of me, they obeyed me.
 ###### 46
-Foreigners lost heart and came trembling  out of their fortresses.
+Foreigners lost heart and came trembling out of their fortresses.
 ###### 47
 “The Lord lives, and blessed be my rock, and exalted be my God, the rock of my salvation,
 ###### 48

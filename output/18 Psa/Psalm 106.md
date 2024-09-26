@@ -9,7 +9,6 @@ aliases:
   - Psa_106
 tags:
   - bible/chapter
-  - bible/Psalm/chapter
   - bible/Psalm/106
   - bible/old testament
 cssclass:
@@ -19,7 +18,7 @@ cssclass:
 # Psalm 106
 
 ###### 1
-Praise the Lord!   Oh give thanks to the Lord, for he is good,   for his steadfast love endures forever!
+Praise the Lord! Oh give thanks to the Lord, for he is good, for his steadfast love endures forever!
 ###### 2
 Who can utter the mighty deeds of the Lord, or declare all his praise?
 ###### 3
@@ -33,7 +32,7 @@ Both we and our fathers have sinned; we have committed iniquity; we have done wi
 ###### 7
 Our fathers, when they were in Egypt, did not consider your wondrous works; they did not remember the abundance of your steadfast love, but rebelled by the sea, at the Red Sea.
 ###### 8
-Yet he saved them for his name’s sake,   that he might make known his mighty power.
+Yet he saved them for his name’s sake, that he might make known his mighty power.
 ###### 9
 He rebuked the Red Sea, and it became dry, and he led them through the deep as through a desert.
 ###### 10
@@ -63,7 +62,7 @@ They forgot God, their Savior, who had done great things in Egypt,
 ###### 22
 wondrous works in the land of Ham, and awesome deeds by the Red Sea.
 ###### 23
-Therefore he said he would destroy them— had not Moses, his chosen one,   stood in the breach before him, to turn away his wrath from destroying them.
+Therefore he said he would destroy them— had not Moses, his chosen one, stood in the breach before him, to turn away his wrath from destroying them.
 ###### 24
 Then they despised the pleasant land, having no faith in his promise.
 ###### 25
@@ -71,7 +70,7 @@ They murmured in their tents, and did not obey the voice of the Lord.
 ###### 26
 Therefore he raised his hand and swore to them that he would make them fall in the wilderness,
 ###### 27
-and would make their offspring fall among the nations,   scattering them among the lands.
+and would make their offspring fall among the nations, scattering them among the lands.
 ###### 28
 Then they yoked themselves to the Baal of Peor, and ate sacrifices offered to the dead;
 ###### 29
@@ -85,7 +84,7 @@ They angered him at the waters of Meribah, and it went ill with Moses on their a
 ###### 33
 for they made his spirit bitter, and he spoke rashly with his lips.
 ###### 34
-They did not destroy the peoples,   as the Lord commanded them,
+They did not destroy the peoples, as the Lord commanded them,
 ###### 35
 but they mixed with the nations and learned to do as they did.
 ###### 36
@@ -113,6 +112,6 @@ He caused them to be pitied by all those who held them captive.
 ###### 47
 Save us, O Lord our God, and gather us from among the nations, that we may give thanks to your holy name and glory in your praise.
 ###### 48
-Blessed be the Lord, the God of Israel, from everlasting to everlasting!   And let all the people say, “Amen!”   Praise the Lord!
+Blessed be the Lord, the God of Israel, from everlasting to everlasting! And let all the people say, “Amen!” Praise the Lord!
 
 

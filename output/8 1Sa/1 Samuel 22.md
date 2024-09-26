@@ -9,7 +9,6 @@ aliases:
   - 1Sa_22
 tags:
   - bible/chapter
-  - bible/1 Samuel/chapter
   - bible/1 Samuel/22
   - bible/old testament
 cssclass:

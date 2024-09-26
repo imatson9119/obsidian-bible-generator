@@ -9,7 +9,6 @@ aliases:
   - 1Co_10
 tags:
   - bible/chapter
-  - bible/1 Corinthians/chapter
   - bible/1 Corinthians/10
   - bible/new testament
 cssclass:
@@ -53,7 +52,7 @@ The cup of blessing that we bless, is it not a participation in the blood of Chr
 ###### 17
 Because there is one bread, we who are many are one body, for we all partake of the one bread.
 ###### 18
-Consider the people of Israel:  are not those who eat the sacrifices participants in the altar?
+Consider the people of Israel: are not those who eat the sacrifices participants in the altar?
 ###### 19
 What do I imply then? That food offered to idols is anything, or that an idol is anything?
 ###### 20

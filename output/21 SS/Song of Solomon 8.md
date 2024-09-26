@@ -9,7 +9,6 @@ aliases:
   - SS_8
 tags:
   - bible/chapter
-  - bible/Song of Solomon/chapter
   - bible/Song of Solomon/8
   - bible/old testament
 cssclass:
@@ -25,11 +24,11 @@ I would lead you and bring you into the house of my mother— she who used to te
 ###### 3
 His left hand is under my head, and his right hand embraces me!
 ###### 4
-I adjure you, O daughters of Jerusalem,   that you not stir up or awaken love until it pleases.
+I adjure you, O daughters of Jerusalem, that you not stir up or awaken love until it pleases.
 ###### 5
 Who is that coming up from the wilderness, leaning on her beloved? Under the apple tree I awakened you. There your mother was in labor with you; there she who bore you was in labor.
 ###### 6
-Set me as a seal upon your heart, as a seal upon your arm, for love is strong as death,   jealousy is fierce as the grave. Its flashes are flashes of fire, the very flame of the Lord.
+Set me as a seal upon your heart, as a seal upon your arm, for love is strong as death, jealousy is fierce as the grave. Its flashes are flashes of fire, the very flame of the Lord.
 ###### 7
 Many waters cannot quench love, neither can floods drown it. If a man offered for love all the wealth of his house, he would be utterly despised.
 ###### 8
@@ -43,7 +42,7 @@ Solomon had a vineyard at Baal-hamon; he let out the vineyard to keepers; each o
 ###### 12
 My vineyard, my very own, is before me; you, O Solomon, may have the thousand, and the keepers of the fruit two hundred.
 ###### 13
-O you who dwell in the gardens, with companions listening for your voice;   let me hear it.
+O you who dwell in the gardens, with companions listening for your voice; let me hear it.
 ###### 14
 Make haste, my beloved, and be like a gazelle or a young stag on the mountains of spices.
 

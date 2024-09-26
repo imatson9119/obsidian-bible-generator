@@ -9,7 +9,6 @@ aliases:
   - Deu_8
 tags:
   - bible/chapter
-  - bible/Deuteronomy/chapter
   - bible/Deuteronomy/8
   - bible/old testament
 cssclass:

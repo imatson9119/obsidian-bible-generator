@@ -9,7 +9,6 @@ aliases:
   - Ecc_5
 tags:
   - bible/chapter
-  - bible/Ecclesiastes/chapter
   - bible/Ecclesiastes/5
   - bible/old testament
 cssclass:
@@ -31,7 +30,7 @@ It is better that you should not vow than that you should vow and not pay.
 ###### 6
 Let not your mouth lead you into sin, and do not say before the messenger that it was a mistake. Why should God be angry at your voice and destroy the work of your hands?
 ###### 7
-For when dreams increase and words grow many, there is vanity; but  God is the one you must fear.
+For when dreams increase and words grow many, there is vanity; but God is the one you must fear.
 ###### 8
 If you see in a province the oppression of the poor and the violation of justice and righteousness, do not be amazed at the matter, for the high official is watched by a higher, and there are yet higher ones over them.
 ###### 9

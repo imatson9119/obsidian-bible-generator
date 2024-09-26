@@ -9,7 +9,6 @@ aliases:
   - Lev_21
 tags:
   - bible/chapter
-  - bible/Leviticus/chapter
   - bible/Leviticus/21
   - bible/old testament
 cssclass:
@@ -63,7 +62,7 @@ No man of the offspring of Aaron the priest who has a blemish shall come near to
 ###### 22
 He may eat the bread of his God, both of the most holy and of the holy things,
 ###### 23
-but he shall not go through the veil or approach the altar, because he has a blemish, that he may not profane my sanctuaries,  for I am the Lord who sanctifies them.”
+but he shall not go through the veil or approach the altar, because he has a blemish, that he may not profane my sanctuaries, for I am the Lord who sanctifies them.”
 ###### 24
 So Moses spoke to Aaron and to his sons and to all the people of Israel.
 

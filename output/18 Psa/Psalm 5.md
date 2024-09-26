@@ -9,7 +9,6 @@ aliases:
   - Psa_5
 tags:
   - bible/chapter
-  - bible/Psalm/chapter
   - bible/Psalm/5
   - bible/old testament
 cssclass:
@@ -33,9 +32,9 @@ You destroy those who speak lies; the Lord abhors the bloodthirsty and deceitful
 ###### 7
 But I, through the abundance of your steadfast love, will enter your house. I will bow down toward your holy temple in the fear of you.
 ###### 8
-Lead me, O Lord, in your righteousness because of my enemies;   make your way straight before me.
+Lead me, O Lord, in your righteousness because of my enemies; make your way straight before me.
 ###### 9
-For there is no truth in their mouth; their inmost self is destruction;   their throat is an open grave; they flatter with their tongue.
+For there is no truth in their mouth; their inmost self is destruction; their throat is an open grave; they flatter with their tongue.
 ###### 10
 Make them bear their guilt, O God; let them fall by their own counsels; because of the abundance of their transgressions cast them out, for they have rebelled against you.
 ###### 11

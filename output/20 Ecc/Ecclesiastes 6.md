@@ -9,7 +9,6 @@ aliases:
   - Ecc_6
 tags:
   - bible/chapter
-  - bible/Ecclesiastes/chapter
   - bible/Ecclesiastes/6
   - bible/old testament
 cssclass:

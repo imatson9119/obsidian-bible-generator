@@ -9,7 +9,6 @@ aliases:
   - 1Ki_15
 tags:
   - bible/chapter
-  - bible/1 Kings/chapter
   - bible/1 Kings/15
   - bible/old testament
 cssclass:
@@ -69,7 +68,7 @@ And Asa slept with his fathers and was buried with his fathers in the city of Da
 ###### 25
 Nadab the son of Jeroboam began to reign over Israel in the second year of Asa king of Judah, and he reigned over Israel two years.
 ###### 26
-He did what was evil in the sight of the Lord  and walked in the way of his father, and in his sin which he made Israel to sin.
+He did what was evil in the sight of the Lord and walked in the way of his father, and in his sin which he made Israel to sin.
 ###### 27
 Baasha the son of Ahijah, of the house of Issachar, conspired against him. And Baasha struck him down at Gibbethon, which belonged to the Philistines, for Nadab and all Israel were laying siege to Gibbethon.
 ###### 28
@@ -85,6 +84,6 @@ And there was war between Asa and Baasha king of Israel all their days.
 ###### 33
 In the third year of Asa king of Judah, Baasha the son of Ahijah began to reign over all Israel at Tirzah, and he reigned twenty-four years.
 ###### 34
-He did what was evil in the sight of the Lord  and walked in the way of Jeroboam and in his sin which he made Israel to sin.
+He did what was evil in the sight of the Lord and walked in the way of Jeroboam and in his sin which he made Israel to sin.
 
 

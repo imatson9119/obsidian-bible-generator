@@ -9,7 +9,6 @@ aliases:
   - Exo_19
 tags:
   - bible/chapter
-  - bible/Exodus/chapter
   - bible/Exodus/19
   - bible/old testament
 cssclass:
@@ -59,9 +58,9 @@ And as the sound of the trumpet grew louder and louder, Moses spoke, and God ans
 ###### 20
 The Lord came down on Mount Sinai, to the top of the mountain. And the Lord called Moses to the top of the mountain, and Moses went up.
 ###### 21
-And the Lord said to Moses, “Go down and warn the people, lest they break through to the Lord  to look and many of them perish.
+And the Lord said to Moses, “Go down and warn the people, lest they break through to the Lord to look and many of them perish.
 ###### 22
-Also let the priests who come near to the Lord  consecrate themselves, lest the Lord  break out against them.”
+Also let the priests who come near to the Lord consecrate themselves, lest the Lord break out against them.”
 ###### 23
 And Moses said to the Lord, “The people cannot come up to Mount Sinai, for you yourself warned us, saying, ‘Set limits around the mountain and consecrate it.’”
 ###### 24

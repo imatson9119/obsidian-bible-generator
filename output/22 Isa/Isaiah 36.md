@@ -9,7 +9,6 @@ aliases:
   - Isa_36
 tags:
   - bible/chapter
-  - bible/Isaiah/chapter
   - bible/Isaiah/36
   - bible/old testament
 cssclass:

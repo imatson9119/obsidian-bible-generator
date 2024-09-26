@@ -9,7 +9,6 @@ aliases:
   - Deu_26
 tags:
   - bible/chapter
-  - bible/Deuteronomy/chapter
   - bible/Deuteronomy/26
   - bible/old testament
 cssclass:

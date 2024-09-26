@@ -9,7 +9,6 @@ aliases:
   - Act_15
 tags:
   - bible/chapter
-  - bible/Acts/chapter
   - bible/Acts/15
   - bible/new testament
 cssclass:

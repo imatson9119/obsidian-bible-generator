@@ -9,7 +9,6 @@ aliases:
   - Psa_150
 tags:
   - bible/chapter
-  - bible/Psalm/chapter
   - bible/Psalm/150
   - bible/old testament
 cssclass:
@@ -29,6 +28,6 @@ Praise him with tambourine and dance; praise him with strings and pipe!
 ###### 5
 Praise him with sounding cymbals; praise him with loud clashing cymbals!
 ###### 6
-Let everything that has breath praise the Lord!   Praise the Lord!
+Let everything that has breath praise the Lord! Praise the Lord!
 
 

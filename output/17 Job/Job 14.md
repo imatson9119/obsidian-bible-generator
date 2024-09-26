@@ -9,7 +9,6 @@ aliases:
   - Job_14
 tags:
   - bible/chapter
-  - bible/Job/chapter
   - bible/Job/14
   - bible/old testament
 cssclass:

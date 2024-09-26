@@ -9,7 +9,6 @@ aliases:
   - Ezk_46
 tags:
   - bible/chapter
-  - bible/Ezekiel/chapter
   - bible/Ezekiel/46
   - bible/old testament
 cssclass:
@@ -25,7 +24,7 @@ The prince shall enter by the vestibule of the gate from outside, and shall take
 ###### 3
 The people of the land shall bow down at the entrance of that gate before the Lord on the Sabbaths and on the new moons.
 ###### 4
-The burnt offering that the prince offers to the Lord  on the Sabbath day shall be six lambs without blemish and a ram without blemish.
+The burnt offering that the prince offers to the Lord on the Sabbath day shall be six lambs without blemish and a ram without blemish.
 ###### 5
 And the grain offering with the ram shall be an ephah, and the grain offering with the lambs shall be as much as he is able, together with a hin of oil to each ephah.
 ###### 6

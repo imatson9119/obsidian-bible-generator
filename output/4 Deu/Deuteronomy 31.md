@@ -9,7 +9,6 @@ aliases:
   - Deu_31
 tags:
   - bible/chapter
-  - bible/Deuteronomy/chapter
   - bible/Deuteronomy/31
   - bible/old testament
 cssclass:
@@ -33,7 +32,7 @@ Be strong and courageous. Do not fear or be in dread of them, for it is the Lord
 ###### 7
 Then Moses summoned Joshua and said to him in the sight of all Israel, “Be strong and courageous, for you shall go with this people into the land that the Lord has sworn to their fathers to give them, and you shall put them in possession of it.
 ###### 8
-It is the Lord  who goes before you. He will be with you; he will not leave you or forsake you. Do not fear or be dismayed.”
+It is the Lord who goes before you. He will be with you; he will not leave you or forsake you. Do not fear or be dismayed.”
 ###### 9
 Then Moses wrote this law and gave it to the priests, the sons of Levi, who carried the ark of the covenant of the Lord, and to all the elders of Israel.
 ###### 10

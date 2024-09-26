@@ -9,7 +9,6 @@ aliases:
   - Ezk_36
 tags:
   - bible/chapter
-  - bible/Ezekiel/chapter
   - bible/Ezekiel/36
   - bible/old testament
 cssclass:
@@ -93,6 +92,6 @@ Then the nations that are left all around you shall know that I am the Lord; I h
 ###### 37
 “Thus says the Lord God: This also I will let the house of Israel ask me to do for them: to increase their people like a flock.
 ###### 38
-Like the flock for sacrifices,  like the flock at Jerusalem during her appointed feasts, so shall the waste cities be filled with flocks of people. Then they will know that I am the Lord.”
+Like the flock for sacrifices, like the flock at Jerusalem during her appointed feasts, so shall the waste cities be filled with flocks of people. Then they will know that I am the Lord.”
 
 

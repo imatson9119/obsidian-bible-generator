@@ -9,7 +9,6 @@ aliases:
   - 2Sa_18
 tags:
   - bible/chapter
-  - bible/2 Samuel/chapter
   - bible/2 Samuel/18
   - bible/old testament
 cssclass:
@@ -35,7 +34,7 @@ And the men of Israel were defeated there by the servants of David, and the loss
 ###### 8
 The battle spread over the face of all the country, and the forest devoured more people that day than the sword.
 ###### 9
-And Absalom happened to meet the servants of David. Absalom was riding on his mule, and the mule went under the thick branches of a great oak,  and his head caught fast in the oak, and he was suspended between heaven and earth, while the mule that was under him went on.
+And Absalom happened to meet the servants of David. Absalom was riding on his mule, and the mule went under the thick branches of a great oak, and his head caught fast in the oak, and he was suspended between heaven and earth, while the mule that was under him went on.
 ###### 10
 And a certain man saw it and told Joab, “Behold, I saw Absalom hanging in an oak.”
 ###### 11

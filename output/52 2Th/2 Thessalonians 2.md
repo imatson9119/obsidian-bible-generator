@@ -9,7 +9,6 @@ aliases:
   - 2Th_2
 tags:
   - bible/chapter
-  - bible/2 Thessalonians/chapter
   - bible/2 Thessalonians/2
   - bible/new testament
 cssclass:
@@ -43,7 +42,7 @@ Therefore God sends them a strong delusion, so that they may believe what is fal
 ###### 12
 in order that all may be condemned who did not believe the truth but had pleasure in unrighteousness.
 ###### 13
-But we ought always to give thanks to God for you, brothers beloved by the Lord, because God chose you as the firstfruits  to be saved, through sanctification by the Spirit and belief in the truth.
+But we ought always to give thanks to God for you, brothers beloved by the Lord, because God chose you as the firstfruits to be saved, through sanctification by the Spirit and belief in the truth.
 ###### 14
 To this he called you through our gospel, so that you may obtain the glory of our Lord Jesus Christ.
 ###### 15

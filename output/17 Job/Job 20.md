@@ -9,7 +9,6 @@ aliases:
   - Job_20
 tags:
   - bible/chapter
-  - bible/Job/chapter
   - bible/Job/20
   - bible/old testament
 cssclass:
@@ -25,7 +24,7 @@ Then Zophar the Naamathite answered and said:
 ###### 3
 I hear censure that insults me, and out of my understanding a spirit answers me.
 ###### 4
-Do you not know this from of old,   since man was placed on earth,
+Do you not know this from of old, since man was placed on earth,
 ###### 5
 that the exulting of the wicked is short, and the joy of the godless but for a moment?
 ###### 6
@@ -49,7 +48,7 @@ yet his food is turned in his stomach; it is the venom of cobras within him.
 ###### 15
 He swallows down riches and vomits them up again; God casts them out of his belly.
 ###### 16
-He will suck the poison of cobras;   the tongue of a viper will kill him.
+He will suck the poison of cobras; the tongue of a viper will kill him.
 ###### 17
 He will not look upon the rivers, the streams flowing with honey and curds.
 ###### 18
@@ -57,7 +56,7 @@ He will give back the fruit of his toil and will not swallow it down; from the p
 ###### 19
 For he has crushed and abandoned the poor; he has seized a house that he did not build.
 ###### 20
-“Because he knew no contentment in his belly,   he will not let anything in which he delights escape him.
+“Because he knew no contentment in his belly, he will not let anything in which he delights escape him.
 ###### 21
 There was nothing left after he had eaten; therefore his prosperity will not endure.
 ###### 22
@@ -65,16 +64,16 @@ In the fullness of his sufficiency he will be in distress; the hand of everyone 
 ###### 23
 To fill his belly to the full, God will send his burning anger against him and rain it upon him into his body.
 ###### 24
-He will flee from an iron weapon;   a bronze arrow will strike him through.
+He will flee from an iron weapon; a bronze arrow will strike him through.
 ###### 25
-It is drawn forth and comes out of his body;   the glittering point comes out of his gallbladder;   terrors come upon him.
+It is drawn forth and comes out of his body; the glittering point comes out of his gallbladder; terrors come upon him.
 ###### 26
-Utter darkness is laid up for his treasures;   a fire not fanned will devour him; what is left in his tent will be consumed.
+Utter darkness is laid up for his treasures; a fire not fanned will devour him; what is left in his tent will be consumed.
 ###### 27
 The heavens will reveal his iniquity, and the earth will rise up against him.
 ###### 28
 The possessions of his house will be carried away, dragged off in the day of God’s wrath.
 ###### 29
-This is the wicked man’s portion from God,   the heritage decreed for him by God.”
+This is the wicked man’s portion from God, the heritage decreed for him by God.”
 
 

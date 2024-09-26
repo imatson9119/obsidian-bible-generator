@@ -9,7 +9,6 @@ aliases:
   - Jer_32
 tags:
   - bible/chapter
-  - bible/Jeremiah/chapter
   - bible/Jeremiah/32
   - bible/old testament
 cssclass:
@@ -19,7 +18,7 @@ cssclass:
 # Jeremiah 32
 
 ###### 1
-The word that came to Jeremiah from the Lord  in the tenth year of Zedekiah king of Judah, which was the eighteenth year of Nebuchadnezzar.
+The word that came to Jeremiah from the Lord in the tenth year of Zedekiah king of Judah, which was the eighteenth year of Nebuchadnezzar.
 ###### 2
 At that time the army of the king of Babylon was besieging Jerusalem, and Jeremiah the prophet was shut up in the court of the guard that was in the palace of the king of Judah.
 ###### 3

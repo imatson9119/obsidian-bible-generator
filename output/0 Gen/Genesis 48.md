@@ -9,7 +9,6 @@ aliases:
   - Gen_48
 tags:
   - bible/chapter
-  - bible/Genesis/chapter
   - bible/Genesis/48
   - bible/old testament
 cssclass:
@@ -57,7 +56,7 @@ And Joseph said to his father, “Not this way, my father; since this one is the
 ###### 19
 But his father refused and said, “I know, my son, I know. He also shall become a people, and he also shall be great. Nevertheless, his younger brother shall be greater than he, and his offspring shall become a multitude of nations.”
 ###### 20
-So he blessed them that day, saying, “By you Israel will pronounce blessings, saying,   ‘God make you as Ephraim and as Manasseh.’” Thus he put Ephraim before Manasseh.
+So he blessed them that day, saying, “By you Israel will pronounce blessings, saying, ‘God make you as Ephraim and as Manasseh.’” Thus he put Ephraim before Manasseh.
 ###### 21
 Then Israel said to Joseph, “Behold, I am about to die, but God will be with you and will bring you again to the land of your fathers.
 ###### 22

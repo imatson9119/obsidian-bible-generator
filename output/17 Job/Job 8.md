@@ -9,7 +9,6 @@ aliases:
   - Job_8
 tags:
   - bible/chapter
-  - bible/Job/chapter
   - bible/Job/8
   - bible/old testament
 cssclass:
@@ -31,7 +30,7 @@ If you will seek God and plead with the Almighty for mercy,
 ###### 6
 if you are pure and upright, surely then he will rouse himself for you and restore your rightful habitation.
 ###### 7
-And though your beginning was small,   your latter days will be very great.
+And though your beginning was small, your latter days will be very great.
 ###### 8
 “For inquire, please, of bygone ages, and consider what the fathers have searched out.
 ###### 9
@@ -43,7 +42,7 @@ Will they not teach you and tell you and utter words out of their understanding?
 ###### 12
 While yet in flower and not cut down, they wither before any other plant.
 ###### 13
-Such are the paths of all who forget God;   the hope of the godless shall perish.
+Such are the paths of all who forget God; the hope of the godless shall perish.
 ###### 14
 His confidence is severed, and his trust is a spider’s web.
 ###### 15

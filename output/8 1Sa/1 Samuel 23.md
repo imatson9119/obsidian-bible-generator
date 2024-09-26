@@ -9,7 +9,6 @@ aliases:
   - 1Sa_23
 tags:
   - bible/chapter
-  - bible/1 Samuel/chapter
   - bible/1 Samuel/23
   - bible/old testament
 cssclass:

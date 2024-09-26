@@ -9,7 +9,6 @@ aliases:
   - Mrk_14
 tags:
   - bible/chapter
-  - bible/Mark/chapter
   - bible/Mark/14
   - bible/new testament
 cssclass:
@@ -65,7 +64,7 @@ And as they were eating, he took bread, and after blessing it broke it and gave 
 ###### 23
 And he took a cup, and when he had given thanks he gave it to them, and they all drank of it.
 ###### 24
-And he said to them, “This is my blood of the  covenant, which is poured out for many.
+And he said to them, “This is my blood of the covenant, which is poured out for many.
 ###### 25
 Truly, I say to you, I will not drink again of the fruit of the vine until that day when I drink it new in the kingdom of God.”
 ###### 26

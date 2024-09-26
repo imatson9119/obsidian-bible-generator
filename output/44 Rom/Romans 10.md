@@ -9,7 +9,6 @@ aliases:
   - Rom_10
 tags:
   - bible/chapter
-  - bible/Romans/chapter
   - bible/Romans/10
   - bible/new testament
 cssclass:
@@ -53,11 +52,11 @@ But they have not all obeyed the gospel. For Isaiah says, “Lord, who has belie
 ###### 17
 So faith comes from hearing, and hearing through the word of Christ.
 ###### 18
-But I ask, have they not heard? Indeed they have, for   “Their voice has gone out to all the earth, and their words to the ends of the world.”
+But I ask, have they not heard? Indeed they have, for “Their voice has gone out to all the earth, and their words to the ends of the world.”
 ###### 19
-But I ask, did Israel not understand? First Moses says,   “I will make you jealous of those who are not a nation; with a foolish nation I will make you angry.”
+But I ask, did Israel not understand? First Moses says, “I will make you jealous of those who are not a nation; with a foolish nation I will make you angry.”
 ###### 20
-Then Isaiah is so bold as to say,   “I have been found by those who did not seek me; I have shown myself to those who did not ask for me.”
+Then Isaiah is so bold as to say, “I have been found by those who did not seek me; I have shown myself to those who did not ask for me.”
 ###### 21
 But of Israel he says, “All day long I have held out my hands to a disobedient and contrary people.”
 

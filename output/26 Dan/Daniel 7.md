@@ -9,7 +9,6 @@ aliases:
   - Dan_7
 tags:
   - bible/chapter
-  - bible/Daniel/chapter
   - bible/Daniel/7
   - bible/old testament
 cssclass:
@@ -35,9 +34,9 @@ After this I saw in the night visions, and behold, a fourth beast, terrifying an
 ###### 8
 I considered the horns, and behold, there came up among them another horn, a little one, before which three of the first horns were plucked up by the roots. And behold, in this horn were eyes like the eyes of a man, and a mouth speaking great things.
 ###### 9
-“As I looked,   thrones were placed, and the Ancient of Days took his seat;   his clothing was white as snow, and the hair of his head like pure wool; his throne was fiery flames;   its wheels were burning fire.
+“As I looked, thrones were placed, and the Ancient of Days took his seat; his clothing was white as snow, and the hair of his head like pure wool; his throne was fiery flames; its wheels were burning fire.
 ###### 10
-A stream of fire issued and came out from before him;   a thousand thousands served him,   and ten thousand times ten thousand stood before him; the court sat in judgment, and the books were opened.
+A stream of fire issued and came out from before him; a thousand thousands served him, and ten thousand times ten thousand stood before him; the court sat in judgment, and the books were opened.
 ###### 11
 “I looked then because of the sound of the great words that the horn was speaking. And as I looked, the beast was killed, and its body destroyed and given over to be burned with fire.
 ###### 12
@@ -45,7 +44,7 @@ As for the rest of the beasts, their dominion was taken away, but their lives we
 ###### 13
 “I saw in the night visions, and behold, with the clouds of heaven there came one like a son of man, and he came to the Ancient of Days and was presented before him.
 ###### 14
-And to him was given dominion and glory and a kingdom, that all peoples, nations, and languages should serve him;   his dominion is an everlasting dominion, which shall not pass away, and his kingdom one that shall not be destroyed.
+And to him was given dominion and glory and a kingdom, that all peoples, nations, and languages should serve him; his dominion is an everlasting dominion, which shall not pass away, and his kingdom one that shall not be destroyed.
 ###### 15
 “As for me, Daniel, my spirit within me was anxious, and the visions of my head alarmed me.
 ###### 16
@@ -71,7 +70,7 @@ He shall speak words against the Most High, and shall wear out the saints of the
 ###### 26
 But the court shall sit in judgment, and his dominion shall be taken away, to be consumed and destroyed to the end.
 ###### 27
-And the kingdom and the dominion and the greatness of the kingdoms under the whole heaven shall be given to the people of the saints of the Most High;   his kingdom shall be an everlasting kingdom, and all dominions shall serve and obey him.’
+And the kingdom and the dominion and the greatness of the kingdoms under the whole heaven shall be given to the people of the saints of the Most High; his kingdom shall be an everlasting kingdom, and all dominions shall serve and obey him.’
 ###### 28
 “Here is the end of the matter. As for me, Daniel, my thoughts greatly alarmed me, and my color changed, but I kept the matter in my heart.”
 

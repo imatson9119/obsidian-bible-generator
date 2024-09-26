@@ -9,7 +9,6 @@ aliases:
   - Jos_4
 tags:
   - bible/chapter
-  - bible/Joshua/chapter
   - bible/Joshua/4
   - bible/old testament
 cssclass:
@@ -45,7 +44,7 @@ The sons of Reuben and the sons of Gad and the half-tribe of Manasseh passed ove
 ###### 13
 About 40,000 ready for war passed over before the Lord for battle, to the plains of Jericho.
 ###### 14
-On that day the Lord  exalted Joshua in the sight of all Israel, and they stood in awe of him just as they had stood in awe of Moses, all the days of his life.
+On that day the Lord exalted Joshua in the sight of all Israel, and they stood in awe of him just as they had stood in awe of Moses, all the days of his life.
 ###### 15
 And the Lord said to Joshua,
 ###### 16

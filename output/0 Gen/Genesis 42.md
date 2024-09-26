@@ -9,7 +9,6 @@ aliases:
   - Gen_42
 tags:
   - bible/chapter
-  - bible/Genesis/chapter
   - bible/Genesis/42
   - bible/old testament
 cssclass:

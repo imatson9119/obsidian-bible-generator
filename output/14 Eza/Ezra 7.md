@@ -9,7 +9,6 @@ aliases:
   - Eza_7
 tags:
   - bible/chapter
-  - bible/Ezra/chapter
   - bible/Ezra/7
   - bible/old testament
 cssclass:
@@ -41,7 +40,7 @@ For Ezra had set his heart to study the Law of the Lord, and to do it and to tea
 ###### 11
 This is a copy of the letter that King Artaxerxes gave to Ezra the priest, the scribe, a man learned in matters of the commandments of the Lord and his statutes for Israel:
 ###### 12
-“Artaxerxes, king of kings, to Ezra the priest, the scribe of the Law of the God of heaven. Peace.  And now
+“Artaxerxes, king of kings, to Ezra the priest, the scribe of the Law of the God of heaven. Peace. And now
 ###### 13
 I make a decree that anyone of the people of Israel or their priests or Levites in my kingdom, who freely offers to go to Jerusalem, may go with you.
 ###### 14

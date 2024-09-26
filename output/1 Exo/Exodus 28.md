@@ -9,7 +9,6 @@ aliases:
   - Exo_28
 tags:
   - bible/chapter
-  - bible/Exodus/chapter
   - bible/Exodus/28
   - bible/old testament
 cssclass:

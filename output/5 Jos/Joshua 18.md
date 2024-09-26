@@ -9,7 +9,6 @@ aliases:
   - Jos_18
 tags:
   - bible/chapter
-  - bible/Joshua/chapter
   - bible/Joshua/18
   - bible/old testament
 cssclass:
@@ -47,7 +46,7 @@ From there the boundary passes along southward in the direction of Luz, to the s
 ###### 14
 Then the boundary goes in another direction, turning on the western side southward from the mountain that lies to the south, opposite Beth-horon, and it ends at Kiriath-baal (that is, Kiriath-jearim), a city belonging to the people of Judah. This forms the western side.
 ###### 15
-And the southern side begins at the outskirts of Kiriath-jearim. And the boundary goes from there to Ephron,  to the spring of the waters of Nephtoah.
+And the southern side begins at the outskirts of Kiriath-jearim. And the boundary goes from there to Ephron, to the spring of the waters of Nephtoah.
 ###### 16
 Then the boundary goes down to the border of the mountain that overlooks the Valley of the Son of Hinnom, which is at the north end of the Valley of Rephaim. And it then goes down the Valley of Hinnom, south of the shoulder of the Jebusites, and downward to En-rogel.
 ###### 17

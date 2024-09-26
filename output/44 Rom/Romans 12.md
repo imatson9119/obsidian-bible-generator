@@ -9,7 +9,6 @@ aliases:
   - Rom_12
 tags:
   - bible/chapter
-  - bible/Romans/chapter
   - bible/Romans/12
   - bible/new testament
 cssclass:
@@ -39,7 +38,7 @@ Let love be genuine. Abhor what is evil; hold fast to what is good.
 ###### 10
 Love one another with brotherly affection. Outdo one another in showing honor.
 ###### 11
-Do not be slothful in zeal, be fervent in spirit,  serve the Lord.
+Do not be slothful in zeal, be fervent in spirit, serve the Lord.
 ###### 12
 Rejoice in hope, be patient in tribulation, be constant in prayer.
 ###### 13
@@ -49,7 +48,7 @@ Bless those who persecute you; bless and do not curse them.
 ###### 15
 Rejoice with those who rejoice, weep with those who weep.
 ###### 16
-Live in harmony with one another. Do not be haughty, but associate with the lowly.  Never be wise in your own sight.
+Live in harmony with one another. Do not be haughty, but associate with the lowly. Never be wise in your own sight.
 ###### 17
 Repay no one evil for evil, but give thought to do what is honorable in the sight of all.
 ###### 18

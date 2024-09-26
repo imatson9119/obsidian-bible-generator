@@ -9,7 +9,6 @@ aliases:
   - Job_1
 tags:
   - bible/chapter
-  - bible/Job/chapter
   - bible/Job/1
   - bible/old testament
 cssclass:
@@ -59,7 +58,7 @@ and behold, a great wind came across the wilderness and struck the four corners 
 ###### 20
 Then Job arose and tore his robe and shaved his head and fell on the ground and worshiped.
 ###### 21
-And he said, “Naked I came from my mother’s womb, and naked shall I return. The Lord  gave, and the Lord has taken away; blessed be the name of the Lord.”
+And he said, “Naked I came from my mother’s womb, and naked shall I return. The Lord gave, and the Lord has taken away; blessed be the name of the Lord.”
 ###### 22
 In all this Job did not sin or charge God with wrong.
 

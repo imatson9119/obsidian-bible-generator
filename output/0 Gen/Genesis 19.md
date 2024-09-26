@@ -9,7 +9,6 @@ aliases:
   - Gen_19
 tags:
   - bible/chapter
-  - bible/Genesis/chapter
   - bible/Genesis/19
   - bible/old testament
 cssclass:
@@ -91,8 +90,8 @@ So they made their father drink wine that night also. And the younger arose and 
 ###### 36
 Thus both the daughters of Lot became pregnant by their father.
 ###### 37
-The firstborn bore a son and called his name Moab.  He is the father of the Moabites to this day.
+The firstborn bore a son and called his name Moab. He is the father of the Moabites to this day.
 ###### 38
-The younger also bore a son and called his name Ben-ammi.  He is the father of the Ammonites to this day.
+The younger also bore a son and called his name Ben-ammi. He is the father of the Ammonites to this day.
 
 

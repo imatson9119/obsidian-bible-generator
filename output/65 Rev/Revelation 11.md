@@ -9,7 +9,6 @@ aliases:
   - Rev_11
 tags:
   - bible/chapter
-  - bible/Revelation/chapter
   - bible/Revelation/11
   - bible/new testament
 cssclass:
@@ -31,7 +30,7 @@ And if anyone would harm them, fire pours from their mouth and consumes their fo
 ###### 6
 They have the power to shut the sky, that no rain may fall during the days of their prophesying, and they have power over the waters to turn them into blood and to strike the earth with every kind of plague, as often as they desire.
 ###### 7
-And when they have finished their testimony, the beast that rises from the bottomless pit  will make war on them and conquer them and kill them,
+And when they have finished their testimony, the beast that rises from the bottomless pit will make war on them and conquer them and kill them,
 ###### 8
 and their dead bodies will lie in the street of the great city that symbolically is called Sodom and Egypt, where their Lord was crucified.
 ###### 9
@@ -51,7 +50,7 @@ Then the seventh angel blew his trumpet, and there were loud voices in heaven, s
 ###### 16
 And the twenty-four elders who sit on their thrones before God fell on their faces and worshiped God,
 ###### 17
-saying, “We give thanks to you, Lord God Almighty,   who is and who was, for you have taken your great power and begun to reign.
+saying, “We give thanks to you, Lord God Almighty, who is and who was, for you have taken your great power and begun to reign.
 ###### 18
 The nations raged, but your wrath came, and the time for the dead to be judged, and for rewarding your servants, the prophets and saints, and those who fear your name, both small and great, and for destroying the destroyers of the earth.”
 ###### 19

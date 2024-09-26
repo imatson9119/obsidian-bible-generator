@@ -9,7 +9,6 @@ aliases:
   - Pro_29
 tags:
   - bible/chapter
-  - bible/Proverbs/chapter
   - bible/Proverbs/29
   - bible/old testament
 cssclass:
@@ -43,7 +42,7 @@ A fool gives full vent to his spirit, but a wise man quietly holds it back.
 ###### 12
 If a ruler listens to falsehood, all his officials will be wicked.
 ###### 13
-The poor man and the oppressor meet together; the Lord  gives light to the eyes of both.
+The poor man and the oppressor meet together; the Lord gives light to the eyes of both.
 ###### 14
 If a king faithfully judges the poor, his throne will be established forever.
 ###### 15
@@ -57,15 +56,15 @@ Where there is no prophetic vision the people cast off restraint, but blessed is
 ###### 19
 By mere words a servant is not disciplined, for though he understands, he will not respond.
 ###### 20
-Do you see a man who is hasty in his words?   There is more hope for a fool than for him.
+Do you see a man who is hasty in his words? There is more hope for a fool than for him.
 ###### 21
 Whoever pampers his servant from childhood will in the end find him his heir.
 ###### 22
 A man of wrath stirs up strife, and one given to anger causes much transgression.
 ###### 23
-One’s pride will bring him low,   but he who is lowly in spirit will obtain honor.
+One’s pride will bring him low, but he who is lowly in spirit will obtain honor.
 ###### 24
-The partner of a thief hates his own life;   he hears the curse, but discloses nothing.
+The partner of a thief hates his own life; he hears the curse, but discloses nothing.
 ###### 25
 The fear of man lays a snare, but whoever trusts in the Lord is safe.
 ###### 26

@@ -9,7 +9,6 @@ aliases:
   - Mrk_9
 tags:
   - bible/chapter
-  - bible/Mark/chapter
   - bible/Mark/9
   - bible/new testament
 cssclass:
@@ -31,7 +30,7 @@ And Peter said to Jesus, “Rabbi, it is good that we are here. Let us make thre
 ###### 6
 For he did not know what to say, for they were terrified.
 ###### 7
-And a cloud overshadowed them, and a voice came out of the cloud, “This is my beloved Son;  listen to him.”
+And a cloud overshadowed them, and a voice came out of the cloud, “This is my beloved Son; listen to him.”
 ###### 8
 And suddenly, looking around, they no longer saw anyone with them but Jesus only.
 ###### 9
@@ -101,9 +100,9 @@ For the one who is not against us is for us.
 ###### 41
 For truly, I say to you, whoever gives you a cup of water to drink because you belong to Christ will by no means lose his reward.
 ###### 42
-“Whoever causes one of     these little ones who believe in me to sin,      it would be better for him if a great millstone were hung around his neck and he were thrown into the sea.
+“Whoever causes one of these little ones who believe in me to sin, it would be better for him if a great millstone were hung around his neck and he were thrown into the sea.
 ###### 43
-And if your hand causes you to sin, cut it off. It is better for you to enter life crippled than with two hands to go to hell,  to the unquenchable fire.
+And if your hand causes you to sin, cut it off. It is better for you to enter life crippled than with two hands to go to hell, to the unquenchable fire.
 ###### 45
 And if your foot causes you to sin, cut it off. It is better for you to enter life lame than with two feet to be thrown into hell.
 ###### 47

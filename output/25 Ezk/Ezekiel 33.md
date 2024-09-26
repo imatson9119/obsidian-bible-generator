@@ -9,7 +9,6 @@ aliases:
   - Ezk_33
 tags:
   - bible/chapter
-  - bible/Ezekiel/chapter
   - bible/Ezekiel/33
   - bible/old testament
 cssclass:

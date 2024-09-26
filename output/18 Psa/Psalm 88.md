@@ -9,7 +9,6 @@ aliases:
   - Psa_88
 tags:
   - bible/chapter
-  - bible/Psalm/chapter
   - bible/Psalm/88
   - bible/old testament
 cssclass:
@@ -21,7 +20,7 @@ cssclass:
 ###### 1
 O Lord, God of my salvation, I cry out day and night before you.
 ###### 2
-Let my prayer come before you;   incline your ear to my cry!
+Let my prayer come before you; incline your ear to my cry!
 ###### 3
 For my soul is full of troubles, and my life draws near to Sheol.
 ###### 4
@@ -37,13 +36,13 @@ You have caused my companions to shun me; you have made me a horror to them. I a
 ###### 9
 my eye grows dim through sorrow. Every day I call upon you, O Lord; I spread out my hands to you.
 ###### 10
-Do you work wonders for the dead?   Do the departed rise up to praise you? Selah
+Do you work wonders for the dead? Do the departed rise up to praise you? Selah
 ###### 11
 Is your steadfast love declared in the grave, or your faithfulness in Abaddon?
 ###### 12
 Are your wonders known in the darkness, or your righteousness in the land of forgetfulness?
 ###### 13
-But I, O Lord, cry to you;   in the morning my prayer comes before you.
+But I, O Lord, cry to you; in the morning my prayer comes before you.
 ###### 14
 O Lord, why do you cast my soul away? Why do you hide your face from me?
 ###### 15

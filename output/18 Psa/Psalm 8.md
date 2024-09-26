@@ -9,7 +9,6 @@ aliases:
   - Psa_8
 tags:
   - bible/chapter
-  - bible/Psalm/chapter
   - bible/Psalm/8
   - bible/old testament
 cssclass:
@@ -29,7 +28,7 @@ what is man that you are mindful of him, and the son of man that you care for hi
 ###### 5
 Yet you have made him a little lower than the heavenly beings and crowned him with glory and honor.
 ###### 6
-You have given him dominion over the works of your hands;   you have put all things under his feet,
+You have given him dominion over the works of your hands; you have put all things under his feet,
 ###### 7
 all sheep and oxen, and also the beasts of the field,
 ###### 8

@@ -9,7 +9,6 @@ aliases:
   - 2Co_6
 tags:
   - bible/chapter
-  - bible/2 Corinthians/chapter
   - bible/2 Corinthians/6
   - bible/new testament
 cssclass:
@@ -21,7 +20,7 @@ cssclass:
 ###### 1
 Working together with him, then, we appeal to you not to receive the grace of God in vain.
 ###### 2
-For he says,   “In a favorable time I listened to you, and in a day of salvation I have helped you.” Behold, now is the favorable time; behold, now is the day of salvation.
+For he says, “In a favorable time I listened to you, and in a day of salvation I have helped you.” Behold, now is the favorable time; behold, now is the day of salvation.
 ###### 3
 We put no obstacle in anyone’s way, so that no fault may be found with our ministry,
 ###### 4
@@ -49,7 +48,7 @@ Do not be unequally yoked with unbelievers. For what partnership has righteousne
 ###### 15
 What accord has Christ with Belial? Or what portion does a believer share with an unbeliever?
 ###### 16
-What agreement has the temple of God with idols? For we are the temple of the living God; as God said,   “I will make my dwelling among them and walk among them, and I will be their God, and they shall be my people.
+What agreement has the temple of God with idols? For we are the temple of the living God; as God said, “I will make my dwelling among them and walk among them, and I will be their God, and they shall be my people.
 ###### 17
 Therefore go out from their midst, and be separate from them, says the Lord, and touch no unclean thing; then I will welcome you,
 ###### 18

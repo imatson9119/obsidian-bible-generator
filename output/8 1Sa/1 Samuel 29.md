@@ -9,7 +9,6 @@ aliases:
   - 1Sa_29
 tags:
   - bible/chapter
-  - bible/1 Samuel/chapter
   - bible/1 Samuel/29
   - bible/old testament
 cssclass:
@@ -27,7 +26,7 @@ the commanders of the Philistines said, “What are these Hebrews doing here?”
 ###### 4
 But the commanders of the Philistines were angry with him. And the commanders of the Philistines said to him, “Send the man back, that he may return to the place to which you have assigned him. He shall not go down with us to battle, lest in the battle he become an adversary to us. For how could this fellow reconcile himself to his lord? Would it not be with the heads of the men here?
 ###### 5
-Is not this David, of whom they sing to one another in dances,   ‘Saul has struck down his thousands, and David his ten thousands’?”
+Is not this David, of whom they sing to one another in dances, ‘Saul has struck down his thousands, and David his ten thousands’?”
 ###### 6
 Then Achish called David and said to him, “As the Lord lives, you have been honest, and to me it seems right that you should march out and in with me in the campaign. For I have found nothing wrong in you from the day of your coming to me to this day. Nevertheless, the lords do not approve of you.
 ###### 7

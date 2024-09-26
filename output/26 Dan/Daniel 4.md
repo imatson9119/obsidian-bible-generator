@@ -9,7 +9,6 @@ aliases:
   - Dan_4
 tags:
   - bible/chapter
-  - bible/Daniel/chapter
   - bible/Daniel/4
   - bible/old testament
 cssclass:
@@ -23,7 +22,7 @@ King Nebuchadnezzar to all peoples, nations, and languages, that dwell in all th
 ###### 2
 It has seemed good to me to show the signs and wonders that the Most High God has done for me.
 ###### 3
-How great are his signs, how mighty his wonders!   His kingdom is an everlasting kingdom,   and his dominion endures from generation to generation.
+How great are his signs, how mighty his wonders! His kingdom is an everlasting kingdom, and his dominion endures from generation to generation.
 ###### 4
 I, Nebuchadnezzar, was at ease in my house and prospering in my palace.
 ###### 5
@@ -85,9 +84,9 @@ and you shall be driven from among men, and your dwelling shall be with the beas
 ###### 33
 Immediately the word was fulfilled against Nebuchadnezzar. He was driven from among men and ate grass like an ox, and his body was wet with the dew of heaven till his hair grew as long as eagles’ feathers, and his nails were like birds’ claws.
 ###### 34
-At the end of the days I, Nebuchadnezzar, lifted my eyes to heaven, and my reason returned to me, and I blessed the Most High, and praised and honored him who lives forever,   for his dominion is an everlasting dominion, and his kingdom endures from generation to generation;
+At the end of the days I, Nebuchadnezzar, lifted my eyes to heaven, and my reason returned to me, and I blessed the Most High, and praised and honored him who lives forever, for his dominion is an everlasting dominion, and his kingdom endures from generation to generation;
 ###### 35
-all the inhabitants of the earth are accounted as nothing, and he does according to his will among the host of heaven and among the inhabitants of the earth;   and none can stay his hand or say to him, “What have you done?”
+all the inhabitants of the earth are accounted as nothing, and he does according to his will among the host of heaven and among the inhabitants of the earth; and none can stay his hand or say to him, “What have you done?”
 ###### 36
 At the same time my reason returned to me, and for the glory of my kingdom, my majesty and splendor returned to me. My counselors and my lords sought me, and I was established in my kingdom, and still more greatness was added to me.
 ###### 37

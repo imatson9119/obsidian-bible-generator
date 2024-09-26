@@ -9,7 +9,6 @@ aliases:
   - Psa_77
 tags:
   - bible/chapter
-  - bible/Psalm/chapter
   - bible/Psalm/77
   - bible/old testament
 cssclass:
@@ -35,7 +34,7 @@ I said, “Let me remember my song in the night; let me meditate in my heart.”
 ###### 8
 Has his steadfast love forever ceased? Are his promises at an end for all time?
 ###### 9
-Has God forgotten to be gracious?   Has he in anger shut up his compassion?” Selah
+Has God forgotten to be gracious? Has he in anger shut up his compassion?” Selah
 ###### 10
 Then I said, “I will appeal to this, to the years of the right hand of the Most High.”
 ###### 11
@@ -43,7 +42,7 @@ I will remember the deeds of the Lord; yes, I will remember your wonders of old.
 ###### 12
 I will ponder all your work, and meditate on your mighty deeds.
 ###### 13
-Your way, O God, is holy.   What god is great like our God?
+Your way, O God, is holy. What god is great like our God?
 ###### 14
 You are the God who works wonders; you have made known your might among the peoples.
 ###### 15
@@ -53,7 +52,7 @@ When the waters saw you, O God, when the waters saw you, they were afraid; indee
 ###### 17
 The clouds poured out water; the skies gave forth thunder; your arrows flashed on every side.
 ###### 18
-The crash of your thunder was in the whirlwind;   your lightnings lighted up the world; the earth trembled and shook.
+The crash of your thunder was in the whirlwind; your lightnings lighted up the world; the earth trembled and shook.
 ###### 19
 Your way was through the sea, your path through the great waters; yet your footprints were unseen.
 ###### 20

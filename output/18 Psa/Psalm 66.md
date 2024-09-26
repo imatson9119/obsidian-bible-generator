@@ -9,7 +9,6 @@ aliases:
   - Psa_66
 tags:
   - bible/chapter
-  - bible/Psalm/chapter
   - bible/Psalm/66
   - bible/old testament
 cssclass:
@@ -21,13 +20,13 @@ cssclass:
 ###### 1
 Shout for joy to God, all the earth;
 ###### 2
-sing the glory of his name;   give to him glorious praise!
+sing the glory of his name; give to him glorious praise!
 ###### 3
 Say to God, “How awesome are your deeds! So great is your power that your enemies come cringing to you.
 ###### 4
 All the earth worships you and sings praises to you; they sing praises to your name.” Selah
 ###### 5
-Come and see what God has done:   he is awesome in his deeds toward the children of man.
+Come and see what God has done: he is awesome in his deeds toward the children of man.
 ###### 6
 He turned the sea into dry land; they passed through the river on foot. There did we rejoice in him,
 ###### 7
@@ -53,7 +52,7 @@ Come and hear, all you who fear God, and I will tell what he has done for my sou
 ###### 17
 I cried to him with my mouth, and high praise was on my tongue.
 ###### 18
-If I had cherished iniquity in my heart,   the Lord would not have listened.
+If I had cherished iniquity in my heart, the Lord would not have listened.
 ###### 19
 But truly God has listened; he has attended to the voice of my prayer.
 ###### 20

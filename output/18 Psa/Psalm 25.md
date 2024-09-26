@@ -9,7 +9,6 @@ aliases:
   - Psa_25
 tags:
   - bible/chapter
-  - bible/Psalm/chapter
   - bible/Psalm/25
   - bible/old testament
 cssclass:
@@ -21,7 +20,7 @@ cssclass:
 ###### 1
 To you, O Lord, I lift up my soul.
 ###### 2
-O my God, in you I trust;   let me not be put to shame;   let not my enemies exult over me.
+O my God, in you I trust; let me not be put to shame; let not my enemies exult over me.
 ###### 3
 Indeed, none who wait for you shall be put to shame; they shall be ashamed who are wantonly treacherous.
 ###### 4
@@ -29,7 +28,7 @@ Make me to know your ways, O Lord; teach me your paths.
 ###### 5
 Lead me in your truth and teach me, for you are the God of my salvation; for you I wait all the day long.
 ###### 6
-Remember your mercy, O Lord, and your steadfast love,   for they have been from of old.
+Remember your mercy, O Lord, and your steadfast love, for they have been from of old.
 ###### 7
 Remember not the sins of my youth or my transgressions; according to your steadfast love remember me, for the sake of your goodness, O Lord!
 ###### 8
@@ -57,7 +56,7 @@ Consider my affliction and my trouble, and forgive all my sins.
 ###### 19
 Consider how many are my foes, and with what violent hatred they hate me.
 ###### 20
-Oh, guard my soul, and deliver me!   Let me not be put to shame, for I take refuge in you.
+Oh, guard my soul, and deliver me! Let me not be put to shame, for I take refuge in you.
 ###### 21
 May integrity and uprightness preserve me, for I wait for you.
 ###### 22

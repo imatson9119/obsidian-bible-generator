@@ -9,7 +9,6 @@ aliases:
   - 2Ch_15
 tags:
   - bible/chapter
-  - bible/2 Chronicles/chapter
   - bible/2 Chronicles/15
   - bible/old testament
 cssclass:
@@ -33,7 +32,7 @@ They were broken in pieces. Nation was crushed by nation and city by city, for G
 ###### 7
 But you, take courage! Do not let your hands be weak, for your work shall be rewarded.”
 ###### 8
-As soon as Asa heard these words, the prophecy of Azariah the son of Oded, he took courage and put away the detestable idols from all the land of Judah and Benjamin and from the cities that he had taken in the hill country of Ephraim, and he repaired the altar of the Lord  that was in front of the vestibule of the house of the Lord.
+As soon as Asa heard these words, the prophecy of Azariah the son of Oded, he took courage and put away the detestable idols from all the land of Judah and Benjamin and from the cities that he had taken in the hill country of Ephraim, and he repaired the altar of the Lord that was in front of the vestibule of the house of the Lord.
 ###### 9
 And he gathered all Judah and Benjamin, and those from Ephraim, Manasseh, and Simeon who were residing with them, for great numbers had deserted to him from Israel when they saw that the Lord his God was with him.
 ###### 10

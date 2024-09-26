@@ -9,7 +9,6 @@ aliases:
   - Isa_16
 tags:
   - bible/chapter
-  - bible/Isaiah/chapter
   - bible/Isaiah/16
   - bible/old testament
 cssclass:
@@ -23,15 +22,15 @@ Send the lamb to the ruler of the land, from Sela, by way of the desert, to the 
 ###### 2
 Like fleeing birds, like a scattered nest, so are the daughters of Moab at the fords of the Arnon.
 ###### 3
-“Give counsel; grant justice;   make your shade like night at the height of noon; shelter the outcasts; do not reveal the fugitive;
+“Give counsel; grant justice; make your shade like night at the height of noon; shelter the outcasts; do not reveal the fugitive;
 ###### 4
 let the outcasts of Moab sojourn among you; be a shelter to them from the destroyer. When the oppressor is no more, and destruction has ceased, and he who tramples underfoot has vanished from the land,
 ###### 5
 then a throne will be established in steadfast love, and on it will sit in faithfulness in the tent of David one who judges and seeks justice and is swift to do righteousness.”
 ###### 6
-We have heard of the pride of Moab— how proud he is!—   of his arrogance, his pride, and his insolence; in his idle boasting he is not right.
+We have heard of the pride of Moab— how proud he is!— of his arrogance, his pride, and his insolence; in his idle boasting he is not right.
 ###### 7
-Therefore let Moab wail for Moab,   let everyone wail. Mourn, utterly stricken, for the raisin cakes of Kir-hareseth.
+Therefore let Moab wail for Moab, let everyone wail. Mourn, utterly stricken, for the raisin cakes of Kir-hareseth.
 ###### 8
 For the fields of Heshbon languish, and the vine of Sibmah; the lords of the nations have struck down its branches, which reached to Jazer and strayed to the desert; its shoots spread abroad and passed over the sea.
 ###### 9

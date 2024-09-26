@@ -9,7 +9,6 @@ aliases:
   - 2Co_9
 tags:
   - bible/chapter
-  - bible/2 Corinthians/chapter
   - bible/2 Corinthians/9
   - bible/new testament
 cssclass:
@@ -35,7 +34,7 @@ Each one must give as he has decided in his heart, not reluctantly or under comp
 ###### 8
 And God is able to make all grace abound to you, so that having all sufficiency in all things at all times, you may abound in every good work.
 ###### 9
-As it is written,   “He has distributed freely, he has given to the poor; his righteousness endures forever.”
+As it is written, “He has distributed freely, he has given to the poor; his righteousness endures forever.”
 ###### 10
 He who supplies seed to the sower and bread for food will supply and multiply your seed for sowing and increase the harvest of your righteousness.
 ###### 11

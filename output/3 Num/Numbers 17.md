@@ -9,7 +9,6 @@ aliases:
   - Num_17
 tags:
   - bible/chapter
-  - bible/Numbers/chapter
   - bible/Numbers/17
   - bible/old testament
 cssclass:

@@ -9,7 +9,6 @@ aliases:
   - Jos_20
 tags:
   - bible/chapter
-  - bible/Joshua/chapter
   - bible/Joshua/20
   - bible/old testament
 cssclass:

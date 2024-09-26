@@ -9,7 +9,6 @@ aliases:
   - Col_1
 tags:
   - bible/chapter
-  - bible/Colossians/chapter
   - bible/Colossians/1
   - bible/new testament
 cssclass:
@@ -21,7 +20,7 @@ cssclass:
 ###### 1
 Paul, an apostle of Christ Jesus by the will of God, and Timothy our brother,
 ###### 2
-To the saints and faithful brothers in Christ at Colossae:   Grace to you and peace from God our Father.
+To the saints and faithful brothers in Christ at Colossae: Grace to you and peace from God our Father.
 ###### 3
 We always thank God, the Father of our Lord Jesus Christ, when we pray for you,
 ###### 4

@@ -9,7 +9,6 @@ aliases:
   - Isa_5
 tags:
   - bible/chapter
-  - bible/Isaiah/chapter
   - bible/Isaiah/5
   - bible/old testament
 cssclass:
@@ -25,25 +24,25 @@ He dug it and cleared it of stones, and planted it with choice vines; he built a
 ###### 3
 And now, O inhabitants of Jerusalem and men of Judah, judge between me and my vineyard.
 ###### 4
-What more was there to do for my vineyard, that I have not done in it?   When I looked for it to yield grapes, why did it yield wild grapes?
+What more was there to do for my vineyard, that I have not done in it? When I looked for it to yield grapes, why did it yield wild grapes?
 ###### 5
-And now I will tell you what I will do to my vineyard. I will remove its hedge, and it shall be devoured;   I will break down its wall, and it shall be trampled down.
+And now I will tell you what I will do to my vineyard. I will remove its hedge, and it shall be devoured; I will break down its wall, and it shall be trampled down.
 ###### 6
-I will make it a waste; it shall not be pruned or hoed, and briers and thorns shall grow up;   I will also command the clouds that they rain no rain upon it.
+I will make it a waste; it shall not be pruned or hoed, and briers and thorns shall grow up; I will also command the clouds that they rain no rain upon it.
 ###### 7
 For the vineyard of the Lord of hosts is the house of Israel, and the men of Judah are his pleasant planting; and he looked for justice, but behold, bloodshed; for righteousness, but behold, an outcry!
 ###### 8
 Woe to those who join house to house, who add field to field, until there is no more room, and you are made to dwell alone in the midst of the land.
 ###### 9
-The Lord of hosts has sworn in my hearing:   “Surely many houses shall be desolate, large and beautiful houses, without inhabitant.
+The Lord of hosts has sworn in my hearing: “Surely many houses shall be desolate, large and beautiful houses, without inhabitant.
 ###### 10
 For ten acres of vineyard shall yield but one bath, and a homer of seed shall yield but an ephah.”
 ###### 11
 Woe to those who rise early in the morning, that they may run after strong drink, who tarry late into the evening as wine inflames them!
 ###### 12
-They have lyre and harp, tambourine and flute and wine at their feasts,   but they do not regard the deeds of the Lord, or see the work of his hands.
+They have lyre and harp, tambourine and flute and wine at their feasts, but they do not regard the deeds of the Lord, or see the work of his hands.
 ###### 13
-Therefore my people go into exile   for lack of knowledge; their honored men go hungry, and their multitude is parched with thirst.
+Therefore my people go into exile for lack of knowledge; their honored men go hungry, and their multitude is parched with thirst.
 ###### 14
 Therefore Sheol has enlarged its appetite and opened its mouth beyond measure, and the nobility of Jerusalem and her multitude will go down, her revelers and he who exults in her.
 ###### 15
@@ -57,7 +56,7 @@ Woe to those who draw iniquity with cords of falsehood, who draw sin as with car
 ###### 19
 who say: “Let him be quick, let him speed his work that we may see it; let the counsel of the Holy One of Israel draw near, and let it come, that we may know it!”
 ###### 20
-Woe to those who call evil good and good evil,   who put darkness for light and light for darkness, who put bitter for sweet and sweet for bitter!
+Woe to those who call evil good and good evil, who put darkness for light and light for darkness, who put bitter for sweet and sweet for bitter!
 ###### 21
 Woe to those who are wise in their own eyes, and shrewd in their own sight!
 ###### 22
@@ -67,7 +66,7 @@ who acquit the guilty for a bribe, and deprive the innocent of his right!
 ###### 24
 Therefore, as the tongue of fire devours the stubble, and as dry grass sinks down in the flame, so their root will be as rottenness, and their blossom go up like dust; for they have rejected the law of the Lord of hosts, and have despised the word of the Holy One of Israel.
 ###### 25
-Therefore the anger of the Lord was kindled against his people, and he stretched out his hand against them and struck them, and the mountains quaked; and their corpses were as refuse in the midst of the streets.   For all this his anger has not turned away, and his hand is stretched out still.
+Therefore the anger of the Lord was kindled against his people, and he stretched out his hand against them and struck them, and the mountains quaked; and their corpses were as refuse in the midst of the streets. For all this his anger has not turned away, and his hand is stretched out still.
 ###### 26
 He will raise a signal for nations far away, and whistle for them from the ends of the earth; and behold, quickly, speedily they come!
 ###### 27

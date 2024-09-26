@@ -9,7 +9,6 @@ aliases:
   - Gen_20
 tags:
   - bible/chapter
-  - bible/Genesis/chapter
   - bible/Genesis/20
   - bible/old testament
 cssclass:
@@ -53,6 +52,6 @@ To Sarah he said, “Behold, I have given your brother a thousand pieces of silv
 ###### 17
 Then Abraham prayed to God, and God healed Abimelech, and also healed his wife and female slaves so that they bore children.
 ###### 18
-For the Lord  had closed all the wombs of the house of Abimelech because of Sarah, Abraham’s wife.
+For the Lord had closed all the wombs of the house of Abimelech because of Sarah, Abraham’s wife.
 
 

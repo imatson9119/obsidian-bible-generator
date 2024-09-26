@@ -9,7 +9,6 @@ aliases:
   - Rev_5
 tags:
   - bible/chapter
-  - bible/Revelation/chapter
   - bible/Revelation/5
   - bible/new testament
 cssclass:
@@ -41,7 +40,7 @@ and you have made them a kingdom and priests to our God, and they shall reign on
 ###### 11
 Then I looked, and I heard around the throne and the living creatures and the elders the voice of many angels, numbering myriads of myriads and thousands of thousands,
 ###### 12
-saying with a loud voice,   “Worthy is the Lamb who was slain, to receive power and wealth and wisdom and might and honor and glory and blessing!”
+saying with a loud voice, “Worthy is the Lamb who was slain, to receive power and wealth and wisdom and might and honor and glory and blessing!”
 ###### 13
 And I heard every creature in heaven and on earth and under the earth and in the sea, and all that is in them, saying, “To him who sits on the throne and to the Lamb be blessing and honor and glory and might forever and ever!”
 ###### 14

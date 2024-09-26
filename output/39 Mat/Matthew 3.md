@@ -9,7 +9,6 @@ aliases:
   - Mat_3
 tags:
   - bible/chapter
-  - bible/Matthew/chapter
   - bible/Matthew/3
   - bible/new testament
 cssclass:
@@ -23,7 +22,7 @@ In those days John the Baptist came preaching in the wilderness of Judea,
 ###### 2
 “Repent, for the kingdom of heaven is at hand.”
 ###### 3
-For this is he who was spoken of by the prophet Isaiah when he said,   “The voice of one crying in the wilderness:   ‘Prepare the way of the Lord; make his paths straight.’”
+For this is he who was spoken of by the prophet Isaiah when he said, “The voice of one crying in the wilderness: ‘Prepare the way of the Lord; make his paths straight.’”
 ###### 4
 Now John wore a garment of camel’s hair and a leather belt around his waist, and his food was locusts and wild honey.
 ###### 5

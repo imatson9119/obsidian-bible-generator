@@ -9,7 +9,6 @@ aliases:
   - Psa_107
 tags:
   - bible/chapter
-  - bible/Psalm/chapter
   - bible/Psalm/107
   - bible/old testament
 cssclass:
@@ -35,7 +34,7 @@ He led them by a straight way till they reached a city to dwell in.
 ###### 8
 Let them thank the Lord for his steadfast love, for his wondrous works to the children of man!
 ###### 9
-For he satisfies the longing soul,   and the hungry soul he fills with good things.
+For he satisfies the longing soul, and the hungry soul he fills with good things.
 ###### 10
 Some sat in darkness and in the shadow of death, prisoners in affliction and in irons,
 ###### 11
@@ -87,7 +86,7 @@ He turns rivers into a desert, springs of water into thirsty ground,
 ###### 34
 a fruitful land into a salty waste, because of the evil of its inhabitants.
 ###### 35
-He turns a desert into pools of water,   a parched land into springs of water.
+He turns a desert into pools of water, a parched land into springs of water.
 ###### 36
 And there he lets the hungry dwell, and they establish a city to live in;
 ###### 37

@@ -9,7 +9,6 @@ aliases:
   - 2Ch_20
 tags:
   - bible/chapter
-  - bible/2 Chronicles/chapter
   - bible/2 Chronicles/20
   - bible/old testament
 cssclass:
@@ -59,7 +58,7 @@ And the Levites, of the Kohathites and the Korahites, stood up to praise the Lor
 ###### 20
 And they rose early in the morning and went out into the wilderness of Tekoa. And when they went out, Jehoshaphat stood and said, “Hear me, Judah and inhabitants of Jerusalem! Believe in the Lord your God, and you will be established; believe his prophets, and you will succeed.”
 ###### 21
-And when he had taken counsel with the people, he appointed those who were to sing to the Lord and praise him in holy attire, as they went before the army, and say,   “Give thanks to the Lord, for his steadfast love endures forever.”
+And when he had taken counsel with the people, he appointed those who were to sing to the Lord and praise him in holy attire, as they went before the army, and say, “Give thanks to the Lord, for his steadfast love endures forever.”
 ###### 22
 And when they began to sing and praise, the Lord set an ambush against the men of Ammon, Moab, and Mount Seir, who had come against Judah, so that they were routed.
 ###### 23

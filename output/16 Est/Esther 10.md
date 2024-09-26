@@ -9,7 +9,6 @@ aliases:
   - Est_10
 tags:
   - bible/chapter
-  - bible/Esther/chapter
   - bible/Esther/10
   - bible/old testament
 cssclass:

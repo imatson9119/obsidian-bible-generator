@@ -9,7 +9,6 @@ aliases:
   - Psa_117
 tags:
   - bible/chapter
-  - bible/Psalm/chapter
   - bible/Psalm/117
   - bible/old testament
 cssclass:
@@ -21,6 +20,6 @@ cssclass:
 ###### 1
 Praise the Lord, all nations! Extol him, all peoples!
 ###### 2
-For great is his steadfast love toward us, and the faithfulness of the Lord endures forever.   Praise the Lord!
+For great is his steadfast love toward us, and the faithfulness of the Lord endures forever. Praise the Lord!
 
 

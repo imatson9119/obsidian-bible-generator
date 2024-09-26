@@ -9,7 +9,6 @@ aliases:
   - Num_18
 tags:
   - bible/chapter
-  - bible/Numbers/chapter
   - bible/Numbers/18
   - bible/old testament
 cssclass:

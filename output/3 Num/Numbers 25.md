@@ -9,7 +9,6 @@ aliases:
   - Num_25
 tags:
   - bible/chapter
-  - bible/Numbers/chapter
   - bible/Numbers/25
   - bible/old testament
 cssclass:

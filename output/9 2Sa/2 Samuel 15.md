@@ -9,7 +9,6 @@ aliases:
   - 2Sa_15
 tags:
   - bible/chapter
-  - bible/2 Samuel/chapter
   - bible/2 Samuel/15
   - bible/old testament
 cssclass:
@@ -41,7 +40,7 @@ But Absalom sent secret messengers throughout all the tribes of Israel, saying, 
 ###### 11
 With Absalom went two hundred men from Jerusalem who were invited guests, and they went in their innocence and knew nothing.
 ###### 12
-And while Absalom was offering the sacrifices, he sent for  Ahithophel the Gilonite, David’s counselor, from his city Giloh. And the conspiracy grew strong, and the people with Absalom kept increasing.
+And while Absalom was offering the sacrifices, he sent for Ahithophel the Gilonite, David’s counselor, from his city Giloh. And the conspiracy grew strong, and the people with Absalom kept increasing.
 ###### 13
 And a messenger came to David, saying, “The hearts of the men of Israel have gone after Absalom.”
 ###### 14

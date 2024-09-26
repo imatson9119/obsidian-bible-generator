@@ -9,7 +9,6 @@ aliases:
   - Act_4
 tags:
   - bible/chapter
-  - bible/Acts/chapter
   - bible/Acts/4
   - bible/new testament
 cssclass:
@@ -67,7 +66,7 @@ When they were released, they went to their friends and reported what the chief 
 ###### 24
 And when they heard it, they lifted their voices together to God and said, “Sovereign Lord, who made the heaven and the earth and the sea and everything in them,
 ###### 25
-who through the mouth of our father David, your servant, said by the Holy Spirit,   “‘Why did the Gentiles rage, and the peoples plot in vain?
+who through the mouth of our father David, your servant, said by the Holy Spirit, “‘Why did the Gentiles rage, and the peoples plot in vain?
 ###### 26
 The kings of the earth set themselves, and the rulers were gathered together, against the Lord and against his Anointed’—
 ###### 27

@@ -9,7 +9,6 @@ aliases:
   - Pro_17
 tags:
   - bible/chapter
-  - bible/Proverbs/chapter
   - bible/Proverbs/17
   - bible/old testament
 cssclass:
@@ -23,7 +22,7 @@ Better is a dry morsel with quiet than a house full of feasting with strife.
 ###### 2
 A servant who deals wisely will rule over a son who acts shamefully and will share the inheritance as one of the brothers.
 ###### 3
-The crucible is for silver, and the furnace is for gold,   and the Lord tests hearts.
+The crucible is for silver, and the furnace is for gold, and the Lord tests hearts.
 ###### 4
 An evildoer listens to wicked lips, and a liar gives ear to a mischievous tongue.
 ###### 5
@@ -41,9 +40,9 @@ A rebuke goes deeper into a man of understanding than a hundred blows into a foo
 ###### 11
 An evil man seeks only rebellion, and a cruel messenger will be sent against him.
 ###### 12
-Let a man meet a she-bear robbed of her cubs   rather than a fool in his folly.
+Let a man meet a she-bear robbed of her cubs rather than a fool in his folly.
 ###### 13
-If anyone returns evil for good,   evil will not depart from his house.
+If anyone returns evil for good, evil will not depart from his house.
 ###### 14
 The beginning of strife is like letting out water, so quit before the quarrel breaks out.
 ###### 15
@@ -67,7 +66,7 @@ The wicked accepts a bribe in secret to pervert the ways of justice.
 ###### 24
 The discerning sets his face toward wisdom, but the eyes of a fool are on the ends of the earth.
 ###### 25
-A foolish son is a grief to his father   and bitterness to her who bore him.
+A foolish son is a grief to his father and bitterness to her who bore him.
 ###### 26
 To impose a fine on a righteous man is not good, nor to strike the noble for their uprightness.
 ###### 27

@@ -9,7 +9,6 @@ aliases:
   - 1Ti_4
 tags:
   - bible/chapter
-  - bible/1 Timothy/chapter
   - bible/1 Timothy/4
   - bible/new testament
 cssclass:

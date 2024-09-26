@@ -9,7 +9,6 @@ aliases:
   - 1Ch_22
 tags:
   - bible/chapter
-  - bible/1 Chronicles/chapter
   - bible/1 Chronicles/22
   - bible/old testament
 cssclass:
@@ -45,7 +44,7 @@ Only, may the Lord grant you discretion and understanding, that when he gives yo
 ###### 13
 Then you will prosper if you are careful to observe the statutes and the rules that the Lord commanded Moses for Israel. Be strong and courageous. Fear not; do not be dismayed.
 ###### 14
-With great pains I have provided for the house of the Lord  100,000 talents of gold, a million talents of silver, and bronze and iron beyond weighing, for there is so much of it; timber and stone, too, I have provided. To these you must add.
+With great pains I have provided for the house of the Lord 100,000 talents of gold, a million talents of silver, and bronze and iron beyond weighing, for there is so much of it; timber and stone, too, I have provided. To these you must add.
 ###### 15
 You have an abundance of workmen: stonecutters, masons, carpenters, and all kinds of craftsmen without number, skilled in working
 ###### 16

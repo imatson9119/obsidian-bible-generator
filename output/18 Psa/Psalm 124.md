@@ -9,7 +9,6 @@ aliases:
   - Psa_124
 tags:
   - bible/chapter
-  - bible/Psalm/chapter
   - bible/Psalm/124
   - bible/old testament
 cssclass:
@@ -19,7 +18,7 @@ cssclass:
 # Psalm 124
 
 ###### 1
-If it had not been the Lord who was on our side—   let Israel now say—
+If it had not been the Lord who was on our side— let Israel now say—
 ###### 2
 if it had not been the Lord who was on our side when people rose up against us,
 ###### 3

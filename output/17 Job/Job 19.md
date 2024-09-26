@@ -9,7 +9,6 @@ aliases:
   - Job_19
 tags:
   - bible/chapter
-  - bible/Job/chapter
   - bible/Job/19
   - bible/old testament
 cssclass:

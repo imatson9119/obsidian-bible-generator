@@ -9,7 +9,6 @@ aliases:
   - Exo_30
 tags:
   - bible/chapter
-  - bible/Exodus/chapter
   - bible/Exodus/30
   - bible/old testament
 cssclass:
@@ -43,7 +42,7 @@ The Lord said to Moses,
 ###### 12
 “When you take the census of the people of Israel, then each shall give a ransom for his life to the Lord when you number them, that there be no plague among them when you number them.
 ###### 13
-Each one who is numbered in the census shall give this: half a shekel according to the shekel of the sanctuary (the shekel is twenty gerahs),  half a shekel as an offering to the Lord.
+Each one who is numbered in the census shall give this: half a shekel according to the shekel of the sanctuary (the shekel is twenty gerahs), half a shekel as an offering to the Lord.
 ###### 14
 Everyone who is numbered in the census, from twenty years old and upward, shall give the Lord’s offering.
 ###### 15

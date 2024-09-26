@@ -9,7 +9,6 @@ aliases:
   - Isa_23
 tags:
   - bible/chapter
-  - bible/Isaiah/chapter
   - bible/Isaiah/23
   - bible/old testament
 cssclass:
@@ -31,11 +30,11 @@ When the report comes to Egypt, they will be in anguish over the report about Ty
 ###### 6
 Cross over to Tarshish; wail, O inhabitants of the coast!
 ###### 7
-Is this your exultant city   whose origin is from days of old, whose feet carried her to settle far away?
+Is this your exultant city whose origin is from days of old, whose feet carried her to settle far away?
 ###### 8
 Who has purposed this against Tyre, the bestower of crowns, whose merchants were princes, whose traders were the honored of the earth?
 ###### 9
-The Lord of hosts has purposed it,   to defile the pompous pride of all glory, to dishonor all the honored of the earth.
+The Lord of hosts has purposed it, to defile the pompous pride of all glory, to dishonor all the honored of the earth.
 ###### 10
 Cross over your land like the Nile, O daughter of Tarshish; there is no restraint anymore.
 ###### 11

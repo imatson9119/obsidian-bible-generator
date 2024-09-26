@@ -9,7 +9,6 @@ aliases:
   - Num_27
 tags:
   - bible/chapter
-  - bible/Numbers/chapter
   - bible/Numbers/27
   - bible/old testament
 cssclass:
@@ -23,7 +22,7 @@ Then drew near the daughters of Zelophehad the son of Hepher, son of Gilead, son
 ###### 2
 And they stood before Moses and before Eleazar the priest and before the chiefs and all the congregation, at the entrance of the tent of meeting, saying,
 ###### 3
-“Our father died in the wilderness. He was not among the company of those who gathered themselves together against the Lord  in the company of Korah, but died for his own sin. And he had no sons.
+“Our father died in the wilderness. He was not among the company of those who gathered themselves together against the Lord in the company of Korah, but died for his own sin. And he had no sons.
 ###### 4
 Why should the name of our father be taken away from his clan because he had no son? Give to us a possession among our father’s brothers.”
 ###### 5

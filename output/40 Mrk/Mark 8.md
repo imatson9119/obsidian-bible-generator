@@ -9,7 +9,6 @@ aliases:
   - Mrk_8
 tags:
   - bible/chapter
-  - bible/Mark/chapter
   - bible/Mark/8
   - bible/new testament
 cssclass:
@@ -87,7 +86,7 @@ But turning and seeing his disciples, he rebuked Peter and said, “Get behind m
 ###### 34
 And calling the crowd to him with his disciples, he said to them, “If anyone would come after me, let him deny himself and take up his cross and follow me.
 ###### 35
-For whoever would save his life  will lose it, but whoever loses his life for my sake and the gospel’s will save it.
+For whoever would save his life will lose it, but whoever loses his life for my sake and the gospel’s will save it.
 ###### 36
 For what does it profit a man to gain the whole world and forfeit his soul?
 ###### 37

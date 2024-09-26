@@ -9,7 +9,6 @@ aliases:
   - Luk_18
 tags:
   - bible/chapter
-  - bible/Luke/chapter
   - bible/Luke/18
   - bible/new testament
 cssclass:
@@ -75,7 +74,7 @@ But he said, “What is impossible with man is possible with God.”
 ###### 28
 And Peter said, “See, we have left our homes and followed you.”
 ###### 29
-And he said to them, “Truly, I say to you, there is no one who has left house or wife or brothers  or parents or children, for the sake of the kingdom of God,
+And he said to them, “Truly, I say to you, there is no one who has left house or wife or brothers or parents or children, for the sake of the kingdom of God,
 ###### 30
 who will not receive many times more in this time, and in the age to come eternal life.”
 ###### 31

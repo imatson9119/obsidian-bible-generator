@@ -9,7 +9,6 @@ aliases:
   - Psa_64
 tags:
   - bible/chapter
-  - bible/Psalm/chapter
   - bible/Psalm/64
   - bible/old testament
 cssclass:

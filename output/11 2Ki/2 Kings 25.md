@@ -9,7 +9,6 @@ aliases:
   - 2Ki_25
 tags:
   - bible/chapter
-  - bible/2 Kings/chapter
   - bible/2 Kings/25
   - bible/old testament
 cssclass:
@@ -35,7 +34,7 @@ They slaughtered the sons of Zedekiah before his eyes, and put out the eyes of Z
 ###### 8
 In the fifth month, on the seventh day of the month—that was the nineteenth year of King Nebuchadnezzar, king of Babylon—Nebuzaradan, the captain of the bodyguard, a servant of the king of Babylon, came to Jerusalem.
 ###### 9
-And he burned the house of the Lord  and the king’s house and all the houses of Jerusalem; every great house he burned down.
+And he burned the house of the Lord and the king’s house and all the houses of Jerusalem; every great house he burned down.
 ###### 10
 And all the army of the Chaldeans, who were with the captain of the guard, broke down the walls around Jerusalem.
 ###### 11

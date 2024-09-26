@@ -9,7 +9,6 @@ aliases:
   - 1Ki_2
 tags:
   - bible/chapter
-  - bible/1 Kings/chapter
   - bible/1 Kings/2
   - bible/old testament
 cssclass:
@@ -109,6 +108,6 @@ The king also said to Shimei, “You know in your own heart all the harm that yo
 ###### 45
 But King Solomon shall be blessed, and the throne of David shall be established before the Lord forever.”
 ###### 46
-Then the king commanded Benaiah the son of Jehoiada, and he went out and struck him down, and he died.   So the kingdom was established in the hand of Solomon.
+Then the king commanded Benaiah the son of Jehoiada, and he went out and struck him down, and he died. So the kingdom was established in the hand of Solomon.
 
 

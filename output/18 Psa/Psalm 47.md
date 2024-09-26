@@ -9,7 +9,6 @@ aliases:
   - Psa_47
 tags:
   - bible/chapter
-  - bible/Psalm/chapter
   - bible/Psalm/47
   - bible/old testament
 cssclass:
@@ -19,13 +18,13 @@ cssclass:
 # Psalm 47
 
 ###### 1
-Clap your hands, all peoples!   Shout to God with loud songs of joy!
+Clap your hands, all peoples! Shout to God with loud songs of joy!
 ###### 2
-For the Lord, the Most High, is to be feared,   a great king over all the earth.
+For the Lord, the Most High, is to be feared, a great king over all the earth.
 ###### 3
 He subdued peoples under us, and nations under our feet.
 ###### 4
-He chose our heritage for us,   the pride of Jacob whom he loves. Selah
+He chose our heritage for us, the pride of Jacob whom he loves. Selah
 ###### 5
 God has gone up with a shout, the Lord with the sound of a trumpet.
 ###### 6

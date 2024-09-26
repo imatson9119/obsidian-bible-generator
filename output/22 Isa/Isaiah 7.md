@@ -9,7 +9,6 @@ aliases:
   - Isa_7
 tags:
   - bible/chapter
-  - bible/Isaiah/chapter
   - bible/Isaiah/7
   - bible/old testament
 cssclass:
@@ -21,7 +20,7 @@ cssclass:
 ###### 1
 In the days of Ahaz the son of Jotham, son of Uzziah, king of Judah, Rezin the king of Syria and Pekah the son of Remaliah the king of Israel came up to Jerusalem to wage war against it, but could not yet mount an attack against it.
 ###### 2
-When the house of David was told, “Syria is in league with  Ephraim,” the heart of Ahaz and the heart of his people shook as the trees of the forest shake before the wind.
+When the house of David was told, “Syria is in league with Ephraim,” the heart of Ahaz and the heart of his people shook as the trees of the forest shake before the wind.
 ###### 3
 And the Lord said to Isaiah, “Go out to meet Ahaz, you and Shear-jashub your son, at the end of the conduit of the upper pool on the highway to the Washer’s Field.
 ###### 4
@@ -31,11 +30,11 @@ Because Syria, with Ephraim and the son of Remaliah, has devised evil against yo
 ###### 6
 “Let us go up against Judah and terrify it, and let us conquer it for ourselves, and set up the son of Tabeel as king in the midst of it,”
 ###### 7
-thus says the Lord God:   “‘It shall not stand, and it shall not come to pass.
+thus says the Lord God: “‘It shall not stand, and it shall not come to pass.
 ###### 8
 For the head of Syria is Damascus, and the head of Damascus is Rezin. And within sixty-five years Ephraim will be shattered from being a people.
 ###### 9
-And the head of Ephraim is Samaria, and the head of Samaria is the son of Remaliah.   If you are not firm in faith, you will not be firm at all.’”
+And the head of Ephraim is Samaria, and the head of Samaria is the son of Remaliah. If you are not firm in faith, you will not be firm at all.’”
 ###### 10
 Again the Lord spoke to Ahaz:
 ###### 11

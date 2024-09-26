@@ -9,7 +9,6 @@ aliases:
   - Gen_33
 tags:
   - bible/chapter
-  - bible/Genesis/chapter
   - bible/Genesis/33
   - bible/old testament
 cssclass:

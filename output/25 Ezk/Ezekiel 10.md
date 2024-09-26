@@ -9,7 +9,6 @@ aliases:
   - Ezk_10
 tags:
   - bible/chapter
-  - bible/Ezekiel/chapter
   - bible/Ezekiel/10
   - bible/old testament
 cssclass:
@@ -25,7 +24,7 @@ And he said to the man clothed in linen, “Go in among the whirling wheels unde
 ###### 3
 Now the cherubim were standing on the south side of the house, when the man went in, and a cloud filled the inner court.
 ###### 4
-And the glory of the Lord  went up from the cherub to the threshold of the house, and the house was filled with the cloud, and the court was filled with the brightness of the glory of the Lord.
+And the glory of the Lord went up from the cherub to the threshold of the house, and the house was filled with the cloud, and the court was filled with the brightness of the glory of the Lord.
 ###### 5
 And the sound of the wings of the cherubim was heard as far as the outer court, like the voice of God Almighty when he speaks.
 ###### 6
@@ -39,7 +38,7 @@ And I looked, and behold, there were four wheels beside the cherubim, one beside
 ###### 10
 And as for their appearance, the four had the same likeness, as if a wheel were within a wheel.
 ###### 11
-When they went, they went in any of their four directions  without turning as they went, but in whatever direction the front wheel faced, the others followed without turning as they went.
+When they went, they went in any of their four directions without turning as they went, but in whatever direction the front wheel faced, the others followed without turning as they went.
 ###### 12
 And their whole body, their rims, and their spokes, their wings, and the wheels were full of eyes all around—the wheels that the four of them had.
 ###### 13

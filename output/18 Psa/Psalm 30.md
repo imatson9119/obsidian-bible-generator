@@ -9,7 +9,6 @@ aliases:
   - Psa_30
 tags:
   - bible/chapter
-  - bible/Psalm/chapter
   - bible/Psalm/30
   - bible/old testament
 cssclass:
@@ -27,7 +26,7 @@ O Lord, you have brought up my soul from Sheol; you restored me to life from amo
 ###### 4
 Sing praises to the Lord, O you his saints, and give thanks to his holy name.
 ###### 5
-For his anger is but for a moment, and his favor is for a lifetime.   Weeping may tarry for the night, but joy comes with the morning.
+For his anger is but for a moment, and his favor is for a lifetime. Weeping may tarry for the night, but joy comes with the morning.
 ###### 6
 As for me, I said in my prosperity, “I shall never be moved.”
 ###### 7

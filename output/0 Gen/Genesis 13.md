@@ -9,7 +9,6 @@ aliases:
   - Gen_13
 tags:
   - bible/chapter
-  - bible/Genesis/chapter
   - bible/Genesis/13
   - bible/old testament
 cssclass:
@@ -37,7 +36,7 @@ Then Abram said to Lot, “Let there be no strife between you and me, and betwee
 ###### 9
 Is not the whole land before you? Separate yourself from me. If you take the left hand, then I will go to the right, or if you take the right hand, then I will go to the left.”
 ###### 10
-And Lot lifted up his eyes and saw that the Jordan Valley was well watered everywhere like the garden of the Lord, like the land of Egypt, in the direction of Zoar. (This was before the Lord  destroyed Sodom and Gomorrah.)
+And Lot lifted up his eyes and saw that the Jordan Valley was well watered everywhere like the garden of the Lord, like the land of Egypt, in the direction of Zoar. (This was before the Lord destroyed Sodom and Gomorrah.)
 ###### 11
 So Lot chose for himself all the Jordan Valley, and Lot journeyed east. Thus they separated from each other.
 ###### 12

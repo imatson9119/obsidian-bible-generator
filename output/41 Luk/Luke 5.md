@@ -9,7 +9,6 @@ aliases:
   - Luk_5
 tags:
   - bible/chapter
-  - bible/Luke/chapter
   - bible/Luke/5
   - bible/new testament
 cssclass:

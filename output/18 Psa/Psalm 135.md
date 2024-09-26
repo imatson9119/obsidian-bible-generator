@@ -9,7 +9,6 @@ aliases:
   - Psa_135
 tags:
   - bible/chapter
-  - bible/Psalm/chapter
   - bible/Psalm/135
   - bible/old testament
 cssclass:
@@ -43,7 +42,7 @@ Sihon, king of the Amorites, and Og, king of Bashan, and all the kingdoms of Can
 ###### 12
 and gave their land as a heritage, a heritage to his people Israel.
 ###### 13
-Your name, O Lord, endures forever,   your renown, O Lord, throughout all ages.
+Your name, O Lord, endures forever, your renown, O Lord, throughout all ages.
 ###### 14
 For the Lord will vindicate his people and have compassion on his servants.
 ###### 15
@@ -59,6 +58,6 @@ O house of Israel, bless the Lord! O house of Aaron, bless the Lord!
 ###### 20
 O house of Levi, bless the Lord! You who fear the Lord, bless the Lord!
 ###### 21
-Blessed be the Lord  from Zion, he who dwells in Jerusalem!   Praise the Lord!
+Blessed be the Lord from Zion, he who dwells in Jerusalem! Praise the Lord!
 
 

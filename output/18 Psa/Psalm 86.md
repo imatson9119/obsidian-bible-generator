@@ -9,7 +9,6 @@ aliases:
   - Psa_86
 tags:
   - bible/chapter
-  - bible/Psalm/chapter
   - bible/Psalm/86
   - bible/old testament
 cssclass:
@@ -27,19 +26,19 @@ Be gracious to me, O Lord, for to you do I cry all the day.
 ###### 4
 Gladden the soul of your servant, for to you, O Lord, do I lift up my soul.
 ###### 5
-For you, O Lord, are good and forgiving,   abounding in steadfast love to all who call upon you.
+For you, O Lord, are good and forgiving, abounding in steadfast love to all who call upon you.
 ###### 6
 Give ear, O Lord, to my prayer; listen to my plea for grace.
 ###### 7
-In the day of my trouble I call upon you,   for you answer me.
+In the day of my trouble I call upon you, for you answer me.
 ###### 8
-There is none like you among the gods, O Lord,   nor are there any works like yours.
+There is none like you among the gods, O Lord, nor are there any works like yours.
 ###### 9
 All the nations you have made shall come and worship before you, O Lord, and shall glorify your name.
 ###### 10
-For you are great and do wondrous things;   you alone are God.
+For you are great and do wondrous things; you alone are God.
 ###### 11
-Teach me your way, O Lord, that I may walk in your truth;   unite my heart to fear your name.
+Teach me your way, O Lord, that I may walk in your truth; unite my heart to fear your name.
 ###### 12
 I give thanks to you, O Lord my God, with my whole heart, and I will glorify your name forever.
 ###### 13

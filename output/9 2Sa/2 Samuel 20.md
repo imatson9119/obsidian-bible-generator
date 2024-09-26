@@ -9,7 +9,6 @@ aliases:
   - 2Sa_20
 tags:
   - bible/chapter
-  - bible/2 Samuel/chapter
   - bible/2 Samuel/20
   - bible/old testament
 cssclass:
@@ -19,7 +18,7 @@ cssclass:
 # 2 Samuel 20
 
 ###### 1
-Now there happened to be there a worthless man, whose name was Sheba, the son of Bichri, a Benjaminite. And he blew the trumpet and said,   “We have no portion in David, and we have no inheritance in the son of Jesse;   every man to his tents, O Israel!”
+Now there happened to be there a worthless man, whose name was Sheba, the son of Bichri, a Benjaminite. And he blew the trumpet and said, “We have no portion in David, and we have no inheritance in the son of Jesse; every man to his tents, O Israel!”
 ###### 2
 So all the men of Israel withdrew from David and followed Sheba the son of Bichri. But the men of Judah followed their king steadfastly from the Jordan to Jerusalem.
 ###### 3

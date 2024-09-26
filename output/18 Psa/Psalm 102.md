@@ -9,7 +9,6 @@ aliases:
   - Psa_102
 tags:
   - bible/chapter
-  - bible/Psalm/chapter
   - bible/Psalm/102
   - bible/old testament
 cssclass:
@@ -21,7 +20,7 @@ cssclass:
 ###### 1
 Hear my prayer, O Lord; let my cry come to you!
 ###### 2
-Do not hide your face from me in the day of my distress!   Incline your ear to me;   answer me speedily in the day when I call!
+Do not hide your face from me in the day of my distress! Incline your ear to me; answer me speedily in the day when I call!
 ###### 3
 For my days pass away like smoke, and my bones burn like a furnace.
 ###### 4
@@ -43,13 +42,13 @@ My days are like an evening shadow; I wither away like grass.
 ###### 12
 But you, O Lord, are enthroned forever; you are remembered throughout all generations.
 ###### 13
-You will arise and have pity on Zion; it is the time to favor her;   the appointed time has come.
+You will arise and have pity on Zion; it is the time to favor her; the appointed time has come.
 ###### 14
 For your servants hold her stones dear and have pity on her dust.
 ###### 15
 Nations will fear the name of the Lord, and all the kings of the earth will fear your glory.
 ###### 16
-For the Lord  builds up Zion; he appears in his glory;
+For the Lord builds up Zion; he appears in his glory;
 ###### 17
 he regards the prayer of the destitute and does not despise their prayer.
 ###### 18
@@ -65,7 +64,7 @@ when peoples gather together, and kingdoms, to worship the Lord.
 ###### 23
 He has broken my strength in midcourse; he has shortened my days.
 ###### 24
-“O my God,” I say, “take me not away in the midst of my days—   you whose years endure throughout all generations!”
+“O my God,” I say, “take me not away in the midst of my days— you whose years endure throughout all generations!”
 ###### 25
 Of old you laid the foundation of the earth, and the heavens are the work of your hands.
 ###### 26
@@ -73,6 +72,6 @@ They will perish, but you will remain; they will all wear out like a garment. Yo
 ###### 27
 but you are the same, and your years have no end.
 ###### 28
-The children of your servants shall dwell secure;   their offspring shall be established before you.
+The children of your servants shall dwell secure; their offspring shall be established before you.
 
 

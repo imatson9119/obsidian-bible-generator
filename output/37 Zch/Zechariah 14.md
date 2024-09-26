@@ -9,7 +9,6 @@ aliases:
   - Zch_14
 tags:
   - bible/chapter
-  - bible/Zechariah/chapter
   - bible/Zechariah/14
   - bible/old testament
 cssclass:
@@ -33,13 +32,13 @@ On that day there shall be no light, cold, or frost.
 ###### 7
 And there shall be a unique day, which is known to the Lord, neither day nor night, but at evening time there shall be light.
 ###### 8
-On that day living waters shall flow out from Jerusalem, half of them to the eastern sea and half of them to the western sea.  It shall continue in summer as in winter.
+On that day living waters shall flow out from Jerusalem, half of them to the eastern sea and half of them to the western sea. It shall continue in summer as in winter.
 ###### 9
 And the Lord will be king over all the earth. On that day the Lord will be one and his name one.
 ###### 10
 The whole land shall be turned into a plain from Geba to Rimmon south of Jerusalem. But Jerusalem shall remain aloft on its site from the Gate of Benjamin to the place of the former gate, to the Corner Gate, and from the Tower of Hananel to the king’s winepresses.
 ###### 11
-And it shall be inhabited, for there shall never again be a decree of utter destruction.  Jerusalem shall dwell in security.
+And it shall be inhabited, for there shall never again be a decree of utter destruction. Jerusalem shall dwell in security.
 ###### 12
 And this shall be the plague with which the Lord will strike all the peoples that wage war against Jerusalem: their flesh will rot while they are still standing on their feet, their eyes will rot in their sockets, and their tongues will rot in their mouths.
 ###### 13

@@ -9,7 +9,6 @@ aliases:
   - Isa_38
 tags:
   - bible/chapter
-  - bible/Isaiah/chapter
   - bible/Isaiah/38
   - bible/old testament
 cssclass:
@@ -39,25 +38,25 @@ A writing of Hezekiah king of Judah, after he had been sick and had recovered fr
 ###### 10
 I said, In the middle of my days I must depart; I am consigned to the gates of Sheol for the rest of my years.
 ###### 11
-I said, I shall not see the Lord, the Lord  in the land of the living; I shall look on man no more among the inhabitants of the world.
+I said, I shall not see the Lord, the Lord in the land of the living; I shall look on man no more among the inhabitants of the world.
 ###### 12
-My dwelling is plucked up and removed from me   like a shepherd’s tent;   like a weaver I have rolled up my life;   he cuts me off from the loom;   from day to night you bring me to an end;
+My dwelling is plucked up and removed from me like a shepherd’s tent; like a weaver I have rolled up my life; he cuts me off from the loom; from day to night you bring me to an end;
 ###### 13
 I calmed myself until morning; like a lion he breaks all my bones; from day to night you bring me to an end.
 ###### 14
-Like a swallow or a crane I chirp;   I moan like a dove.   My eyes are weary with looking upward. O Lord, I am oppressed; be my pledge of safety!
+Like a swallow or a crane I chirp; I moan like a dove. My eyes are weary with looking upward. O Lord, I am oppressed; be my pledge of safety!
 ###### 15
-What shall I say? For he has spoken to me, and he himself has done it.   I walk slowly all my years because of the bitterness of my soul.
+What shall I say? For he has spoken to me, and he himself has done it. I walk slowly all my years because of the bitterness of my soul.
 ###### 16
 O Lord, by these things men live, and in all these is the life of my spirit. Oh restore me to health and make me live!
 ###### 17
-Behold, it was for my welfare that I had great bitterness;   but in love you have delivered my life from the pit of destruction,   for you have cast all my sins behind your back.
+Behold, it was for my welfare that I had great bitterness; but in love you have delivered my life from the pit of destruction, for you have cast all my sins behind your back.
 ###### 18
 For Sheol does not thank you; death does not praise you; those who go down to the pit do not hope for your faithfulness.
 ###### 19
-The living, the living, he thanks you, as I do this day;   the father makes known to the children your faithfulness.
+The living, the living, he thanks you, as I do this day; the father makes known to the children your faithfulness.
 ###### 20
-The Lord will save me, and we will play my music on stringed instruments all the days of our lives,   at the house of the Lord.
+The Lord will save me, and we will play my music on stringed instruments all the days of our lives, at the house of the Lord.
 ###### 21
 Now Isaiah had said, “Let them take a cake of figs and apply it to the boil, that he may recover.”
 ###### 22

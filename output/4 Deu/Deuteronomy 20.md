@@ -9,7 +9,6 @@ aliases:
   - Deu_20
 tags:
   - bible/chapter
-  - bible/Deuteronomy/chapter
   - bible/Deuteronomy/20
   - bible/old testament
 cssclass:

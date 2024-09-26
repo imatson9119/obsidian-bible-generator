@@ -9,7 +9,6 @@ aliases:
   - Jer_43
 tags:
   - bible/chapter
-  - bible/Jeremiah/chapter
   - bible/Jeremiah/43
   - bible/old testament
 cssclass:

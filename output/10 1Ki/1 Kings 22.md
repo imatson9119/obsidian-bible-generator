@@ -9,7 +9,6 @@ aliases:
   - 1Ki_22
 tags:
   - bible/chapter
-  - bible/1 Kings/chapter
   - bible/1 Kings/22
   - bible/old testament
 cssclass:
@@ -121,7 +120,7 @@ And Jehoshaphat slept with his fathers and was buried with his fathers in the ci
 ###### 51
 Ahaziah the son of Ahab began to reign over Israel in Samaria in the seventeenth year of Jehoshaphat king of Judah, and he reigned two years over Israel.
 ###### 52
-He did what was evil in the sight of the Lord  and walked in the way of his father and in the way of his mother and in the way of Jeroboam the son of Nebat, who made Israel to sin.
+He did what was evil in the sight of the Lord and walked in the way of his father and in the way of his mother and in the way of Jeroboam the son of Nebat, who made Israel to sin.
 ###### 53
 He served Baal and worshiped him and provoked the Lord, the God of Israel, to anger in every way that his father had done.
 

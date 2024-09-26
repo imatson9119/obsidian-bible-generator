@@ -9,7 +9,6 @@ aliases:
   - 2Sa_17
 tags:
   - bible/chapter
-  - bible/2 Samuel/chapter
   - bible/2 Samuel/17
   - bible/old testament
 cssclass:
@@ -33,7 +32,7 @@ And when Hushai came to Absalom, Absalom said to him, “Thus has Ahithophel spo
 ###### 7
 Then Hushai said to Absalom, “This time the counsel that Ahithophel has given is not good.”
 ###### 8
-Hushai said, “You know that your father and his men are mighty men, and that they are enraged,  like a bear robbed of her cubs in the field. Besides, your father is expert in war; he will not spend the night with the people.
+Hushai said, “You know that your father and his men are mighty men, and that they are enraged, like a bear robbed of her cubs in the field. Besides, your father is expert in war; he will not spend the night with the people.
 ###### 9
 Behold, even now he has hidden himself in one of the pits or in some other place. And as soon as some of the people fall at the first attack, whoever hears it will say, ‘There has been a slaughter among the people who follow Absalom.’
 ###### 10

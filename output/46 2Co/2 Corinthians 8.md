@@ -9,7 +9,6 @@ aliases:
   - 2Co_8
 tags:
   - bible/chapter
-  - bible/2 Corinthians/chapter
   - bible/2 Corinthians/8
   - bible/new testament
 cssclass:
@@ -53,7 +52,7 @@ But thanks be to God, who put into the heart of Titus the same earnest care I ha
 ###### 17
 For he not only accepted our appeal, but being himself very earnest he is going to you of his own accord.
 ###### 18
-With him we are sending  the brother who is famous among all the churches for his preaching of the gospel.
+With him we are sending the brother who is famous among all the churches for his preaching of the gospel.
 ###### 19
 And not only that, but he has been appointed by the churches to travel with us as we carry out this act of grace that is being ministered by us, for the glory of the Lord himself and to show our good will.
 ###### 20

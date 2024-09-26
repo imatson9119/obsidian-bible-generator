@@ -9,7 +9,6 @@ aliases:
   - Mat_25
 tags:
   - bible/chapter
-  - bible/Matthew/chapter
   - bible/Matthew/25
   - bible/new testament
 cssclass:
@@ -19,7 +18,7 @@ cssclass:
 # Matthew 25
 
 ###### 1
-“Then the kingdom of heaven will be like     ten virgins who took their lamps    and went to meet the bridegroom.
+“Then the kingdom of heaven will be like ten virgins who took their lamps and went to meet the bridegroom.
 ###### 2
 Five of them were foolish, and five were wise.
 ###### 3
@@ -45,9 +44,9 @@ But he answered, ‘Truly, I say to you, I do not know you.’
 ###### 13
 Watch therefore, for you know neither the day nor the hour.
 ###### 14
-“For     it will be like a man     going on a journey, who called his servants    and entrusted to them his property.
+“For it will be like a man going on a journey, who called his servants and entrusted to them his property.
 ###### 15
-To one he gave five talents,  to another two, to another one, to each according to his ability. Then he went away.
+To one he gave five talents, to another two, to another one, to each according to his ability. Then he went away.
 ###### 16
 He who had received the five talents went at once and traded with them, and he made five talents more.
 ###### 17
@@ -79,7 +78,7 @@ For to everyone who has will more be given, and he will have an abundance. But f
 ###### 30
 And cast the worthless servant into the outer darkness. In that place there will be weeping and gnashing of teeth.’
 ###### 31
-“When the Son of Man comes in his glory, and all the angels with him,     then he will sit on his glorious throne.
+“When the Son of Man comes in his glory, and all the angels with him, then he will sit on his glorious throne.
 ###### 32
 Before him will be gathered all the nations, and he will separate people one from another as a shepherd separates the sheep from the goats.
 ###### 33
@@ -97,9 +96,9 @@ And when did we see you a stranger and welcome you, or naked and clothe you?
 ###### 39
 And when did we see you sick or in prison and visit you?’
 ###### 40
-And the King will answer them, ‘Truly, I say to you, as you did it to one of the least of these my brothers,  you did it to me.’
+And the King will answer them, ‘Truly, I say to you, as you did it to one of the least of these my brothers, you did it to me.’
 ###### 41
-“Then he will say to those on his left,     ‘Depart from me, you     cursed, into     the eternal fire prepared for     the devil and his angels.
+“Then he will say to those on his left, ‘Depart from me, you cursed, into the eternal fire prepared for the devil and his angels.
 ###### 42
 For I was hungry and you gave me no food, I was thirsty and you gave me no drink,
 ###### 43

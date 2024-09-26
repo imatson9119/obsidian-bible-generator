@@ -9,7 +9,6 @@ aliases:
   - Pro_27
 tags:
   - bible/chapter
-  - bible/Proverbs/chapter
   - bible/Proverbs/27
   - bible/old testament
 cssclass:
@@ -19,7 +18,7 @@ cssclass:
 # Proverbs 27
 
 ###### 1
-Do not boast about tomorrow,   for you do not know what a day may bring.
+Do not boast about tomorrow, for you do not know what a day may bring.
 ###### 2
 Let another praise you, and not your own mouth; a stranger, and not your own lips.
 ###### 3
@@ -37,7 +36,7 @@ Like a bird that strays from its nest is a man who strays from his home.
 ###### 9
 Oil and perfume make the heart glad, and the sweetness of a friend comes from his earnest counsel.
 ###### 10
-Do not forsake your friend and your father’s friend, and do not go to your brother’s house in the day of your calamity.   Better is a neighbor who is near than a brother who is far away.
+Do not forsake your friend and your father’s friend, and do not go to your brother’s house in the day of your calamity. Better is a neighbor who is near than a brother who is far away.
 ###### 11
 Be wise, my son, and make my heart glad, that I may answer him who reproaches me.
 ###### 12

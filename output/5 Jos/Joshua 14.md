@@ -9,7 +9,6 @@ aliases:
   - Jos_14
 tags:
   - bible/chapter
-  - bible/Joshua/chapter
   - bible/Joshua/14
   - bible/old testament
 cssclass:
@@ -31,7 +30,7 @@ The people of Israel did as the Lord commanded Moses; they allotted the land.
 ###### 6
 Then the people of Judah came to Joshua at Gilgal. And Caleb the son of Jephunneh the Kenizzite said to him, “You know what the Lord said to Moses the man of God in Kadesh-barnea concerning you and me.
 ###### 7
-I was forty years old when Moses the servant of the Lord  sent me from Kadesh-barnea to spy out the land, and I brought him word again as it was in my heart.
+I was forty years old when Moses the servant of the Lord sent me from Kadesh-barnea to spy out the land, and I brought him word again as it was in my heart.
 ###### 8
 But my brothers who went up with me made the heart of the people melt; yet I wholly followed the Lord my God.
 ###### 9

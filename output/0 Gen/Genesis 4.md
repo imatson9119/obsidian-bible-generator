@@ -9,7 +9,6 @@ aliases:
   - Gen_4
 tags:
   - bible/chapter
-  - bible/Genesis/chapter
   - bible/Genesis/4
   - bible/old testament
 cssclass:
@@ -25,7 +24,7 @@ And again, she bore his brother Abel. Now Abel was a keeper of sheep, and Cain a
 ###### 3
 In the course of time Cain brought to the Lord an offering of the fruit of the ground,
 ###### 4
-and Abel also brought of the firstborn of his flock and of their fat portions. And the Lord  had regard for Abel and his offering,
+and Abel also brought of the firstborn of his flock and of their fat portions. And the Lord had regard for Abel and his offering,
 ###### 5
 but for Cain and his offering he had no regard. So Cain was very angry, and his face fell.
 ###### 6
@@ -47,7 +46,7 @@ Cain said to the Lord, “My punishment is greater than I can bear.
 ###### 14
 Behold, you have driven me today away from the ground, and from your face I shall be hidden. I shall be a fugitive and a wanderer on the earth, and whoever finds me will kill me.”
 ###### 15
-Then the Lord said to him, “Not so! If anyone kills Cain, vengeance shall be taken on him sevenfold.” And the Lord  put a mark on Cain, lest any who found him should attack him.
+Then the Lord said to him, “Not so! If anyone kills Cain, vengeance shall be taken on him sevenfold.” And the Lord put a mark on Cain, lest any who found him should attack him.
 ###### 16
 Then Cain went away from the presence of the Lord and settled in the land of Nod, east of Eden.
 ###### 17

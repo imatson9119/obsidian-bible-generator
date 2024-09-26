@@ -9,7 +9,6 @@ aliases:
   - Jos_2
 tags:
   - bible/chapter
-  - bible/Joshua/chapter
   - bible/Joshua/2
   - bible/old testament
 cssclass:
@@ -37,7 +36,7 @@ Before the men lay down, she came up to them on the roof
 ###### 9
 and said to the men, “I know that the Lord has given you the land, and that the fear of you has fallen upon us, and that all the inhabitants of the land melt away before you.
 ###### 10
-For we have heard how the Lord  dried up the water of the Red Sea before you when you came out of Egypt, and what you did to the two kings of the Amorites who were beyond the Jordan, to Sihon and Og, whom you devoted to destruction.
+For we have heard how the Lord dried up the water of the Red Sea before you when you came out of Egypt, and what you did to the two kings of the Amorites who were beyond the Jordan, to Sihon and Og, whom you devoted to destruction.
 ###### 11
 And as soon as we heard it, our hearts melted, and there was no spirit left in any man because of you, for the Lord your God, he is God in the heavens above and on the earth beneath.
 ###### 12

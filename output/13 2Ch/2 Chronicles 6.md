@@ -9,7 +9,6 @@ aliases:
   - 2Ch_6
 tags:
   - bible/chapter
-  - bible/2 Chronicles/chapter
   - bible/2 Chronicles/6
   - bible/old testament
 cssclass:
@@ -101,6 +100,6 @@ Now, O my God, let your eyes be open and your ears attentive to the prayer of th
 ###### 41
 “And now arise, O Lord God, and go to your resting place, you and the ark of your might. Let your priests, O Lord God, be clothed with salvation, and let your saints rejoice in your goodness.
 ###### 42
-O Lord God, do not turn away the face of your anointed one!   Remember your steadfast love for David your servant.”
+O Lord God, do not turn away the face of your anointed one! Remember your steadfast love for David your servant.”
 
 

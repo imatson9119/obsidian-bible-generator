@@ -9,7 +9,6 @@ aliases:
   - Psa_35
 tags:
   - bible/chapter
-  - bible/Psalm/chapter
   - bible/Psalm/35
   - bible/old testament
 cssclass:
@@ -19,7 +18,7 @@ cssclass:
 # Psalm 35
 
 ###### 1
-Contend, O Lord, with those who contend with me;   fight against those who fight against me!
+Contend, O Lord, with those who contend with me; fight against those who fight against me!
 ###### 2
 Take hold of shield and buckler and rise for my help!
 ###### 3
@@ -35,7 +34,7 @@ For without cause they hid their net for me; without cause they dug a pit for my
 ###### 8
 Let destruction come upon him when he does not know it! And let the net that he hid ensnare him; let him fall into it—to his destruction!
 ###### 9
-Then my soul will rejoice in the Lord,   exulting in his salvation.
+Then my soul will rejoice in the Lord, exulting in his salvation.
 ###### 10
 All my bones shall say, “O Lord, who is like you, delivering the poor from him who is too strong for him, the poor and needy from him who robs him?”
 ###### 11
@@ -47,11 +46,11 @@ But I, when they were sick— I wore sackcloth; I afflicted myself with fasting;
 ###### 14
 I went about as though I grieved for my friend or my brother; as one who laments his mother, I bowed down in mourning.
 ###### 15
-But at my stumbling they rejoiced and gathered; they gathered together against me;   wretches whom I did not know tore at me without ceasing;
+But at my stumbling they rejoiced and gathered; they gathered together against me; wretches whom I did not know tore at me without ceasing;
 ###### 16
 like profane mockers at a feast, they gnash at me with their teeth.
 ###### 17
-How long, O Lord, will you look on? Rescue me from their destruction,   my precious life from the lions!
+How long, O Lord, will you look on? Rescue me from their destruction, my precious life from the lions!
 ###### 18
 I will thank you in the great congregation; in the mighty throng I will praise you.
 ###### 19
@@ -67,11 +66,11 @@ Awake and rouse yourself for my vindication, for my cause, my God and my Lord!
 ###### 24
 Vindicate me, O Lord, my God, according to your righteousness, and let them not rejoice over me!
 ###### 25
-Let them not say in their hearts,   “Aha, our heart’s desire!” Let them not say, “We have swallowed him up.”
+Let them not say in their hearts, “Aha, our heart’s desire!” Let them not say, “We have swallowed him up.”
 ###### 26
 Let them be put to shame and disappointed altogether who rejoice at my calamity! Let them be clothed with shame and dishonor who magnify themselves against me!
 ###### 27
-Let those who delight in my righteousness shout for joy and be glad   and say evermore,   “Great is the Lord, who delights in the welfare of his servant!”
+Let those who delight in my righteousness shout for joy and be glad and say evermore, “Great is the Lord, who delights in the welfare of his servant!”
 ###### 28
 Then my tongue shall tell of your righteousness and of your praise all the day long.
 

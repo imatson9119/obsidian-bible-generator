@@ -9,7 +9,6 @@ aliases:
   - Rev_18
 tags:
   - bible/chapter
-  - bible/Revelation/chapter
   - bible/Revelation/18
   - bible/new testament
 cssclass:
@@ -21,17 +20,17 @@ cssclass:
 ###### 1
 After this I saw another angel coming down from heaven, having great authority, and the earth was made bright with his glory.
 ###### 2
-And he called out with a mighty voice,   “Fallen, fallen is Babylon the great! She has become a dwelling place for demons, a haunt for every unclean spirit, a haunt for every unclean bird, a haunt for every unclean and detestable beast.
+And he called out with a mighty voice, “Fallen, fallen is Babylon the great! She has become a dwelling place for demons, a haunt for every unclean spirit, a haunt for every unclean bird, a haunt for every unclean and detestable beast.
 ###### 3
-For all nations have drunk   the wine of the passion of her sexual immorality, and the kings of the earth have committed immorality with her, and the merchants of the earth have grown rich from the power of her luxurious living.”
+For all nations have drunk the wine of the passion of her sexual immorality, and the kings of the earth have committed immorality with her, and the merchants of the earth have grown rich from the power of her luxurious living.”
 ###### 4
-Then I heard another voice from heaven saying,   “Come out of her, my people, lest you take part in her sins, lest you share in her plagues;
+Then I heard another voice from heaven saying, “Come out of her, my people, lest you take part in her sins, lest you share in her plagues;
 ###### 5
 for her sins are heaped high as heaven, and God has remembered her iniquities.
 ###### 6
 Pay her back as she herself has paid back others, and repay her double for her deeds; mix a double portion for her in the cup she mixed.
 ###### 7
-As she glorified herself and lived in luxury, so give her a like measure of torment and mourning, since in her heart she says,   ‘I sit as a queen, I am no widow, and mourning I shall never see.’
+As she glorified herself and lived in luxury, so give her a like measure of torment and mourning, since in her heart she says, ‘I sit as a queen, I am no widow, and mourning I shall never see.’
 ###### 8
 For this reason her plagues will come in a single day, death and mourning and famine, and she will be burned up with fire; for mighty is the Lord God who has judged her.”
 ###### 9
@@ -49,13 +48,13 @@ cinnamon, spice, incense, myrrh, frankincense, wine, oil, fine flour, wheat, cat
 ###### 15
 The merchants of these wares, who gained wealth from her, will stand far off, in fear of her torment, weeping and mourning aloud,
 ###### 16
-“Alas, alas, for the great city   that was clothed in fine linen, in purple and scarlet, adorned with gold, with jewels, and with pearls!
+“Alas, alas, for the great city that was clothed in fine linen, in purple and scarlet, adorned with gold, with jewels, and with pearls!
 ###### 17
 For in a single hour all this wealth has been laid waste.” And all shipmasters and seafaring men, sailors and all whose trade is on the sea, stood far off
 ###### 18
-and cried out as they saw the smoke of her burning,   “What city was like the great city?”
+and cried out as they saw the smoke of her burning, “What city was like the great city?”
 ###### 19
-And they threw dust on their heads as they wept and mourned, crying out, “Alas, alas, for the great city   where all who had ships at sea grew rich by her wealth! For in a single hour she has been laid waste.
+And they threw dust on their heads as they wept and mourned, crying out, “Alas, alas, for the great city where all who had ships at sea grew rich by her wealth! For in a single hour she has been laid waste.
 ###### 20
 Rejoice over her, O heaven, and you saints and apostles and prophets, for God has given judgment for you against her!”
 ###### 21

@@ -9,7 +9,6 @@ aliases:
   - Luk_11
 tags:
   - bible/chapter
-  - bible/Luke/chapter
   - bible/Luke/11
   - bible/new testament
 cssclass:
@@ -21,11 +20,11 @@ cssclass:
 ###### 1
 Now Jesus was praying in a certain place, and when he finished, one of his disciples said to him, “Lord, teach us to pray, as John taught his disciples.”
 ###### 2
-And he said to them, “When you pray, say:     “Father,     hallowed be     your name.     Your kingdom come.
+And he said to them, “When you pray, say: “Father, hallowed be your name. Your kingdom come.
 ###### 3
-Give us     each day our daily bread,
+Give us each day our daily bread,
 ###### 4
-and     forgive us our sins, for we ourselves forgive everyone who is indebted to us.   And     lead us not into temptation.”
+and forgive us our sins, for we ourselves forgive everyone who is indebted to us. And lead us not into temptation.”
 ###### 5
 And he said to them, “Which of you who has a friend will go to him at midnight and say to him, ‘Friend, lend me three loaves,
 ###### 6
@@ -33,13 +32,13 @@ for a friend of mine has arrived on a journey, and I have nothing to set before 
 ###### 7
 and he will answer from within, ‘Do not bother me; the door is now shut, and my children are with me in bed. I cannot get up and give you anything’?
 ###### 8
-I tell you, though he will not get up and give him anything because he is his friend, yet because of his impudence  he will rise and give him whatever he needs.
+I tell you, though he will not get up and give him anything because he is his friend, yet because of his impudence he will rise and give him whatever he needs.
 ###### 9
 And I tell you, ask, and it will be given to you; seek, and you will find; knock, and it will be opened to you.
 ###### 10
 For everyone who asks receives, and the one who seeks finds, and to the one who knocks it will be opened.
 ###### 11
-What father among you, if his son asks for  a fish, will instead of a fish give him a serpent;
+What father among you, if his son asks for a fish, will instead of a fish give him a serpent;
 ###### 12
 or if he asks for an egg, will give him a scorpion?
 ###### 13
@@ -65,7 +64,7 @@ but when one stronger than he attacks him and overcomes him, he takes away his a
 ###### 23
 Whoever is not with me is against me, and whoever does not gather with me scatters.
 ###### 24
-“When the unclean spirit has gone out of a person, it passes through     waterless places seeking rest, and finding none it says, ‘I will return to my house from which I came.’
+“When the unclean spirit has gone out of a person, it passes through waterless places seeking rest, and finding none it says, ‘I will return to my house from which I came.’
 ###### 25
 And when it comes, it finds the house swept and put in order.
 ###### 26
@@ -101,7 +100,7 @@ You fools! Did not he who made the outside make the inside also?
 ###### 41
 But give as alms those things that are within, and behold, everything is clean for you.
 ###### 42
-“But woe to you Pharisees! For     you tithe mint and rue and every herb, and neglect     justice and     the love of God.     These you ought to have done, without neglecting the others.
+“But woe to you Pharisees! For you tithe mint and rue and every herb, and neglect justice and the love of God. These you ought to have done, without neglecting the others.
 ###### 43
 Woe to you Pharisees! For you love the best seat in the synagogues and greetings in the marketplaces.
 ###### 44

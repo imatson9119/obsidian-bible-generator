@@ -9,7 +9,6 @@ aliases:
   - Pro_15
 tags:
   - bible/chapter
-  - bible/Proverbs/chapter
   - bible/Proverbs/15
   - bible/old testament
 cssclass:
@@ -31,13 +30,13 @@ A fool despises his father’s instruction, but whoever heeds reproof is prudent
 ###### 6
 In the house of the righteous there is much treasure, but trouble befalls the income of the wicked.
 ###### 7
-The lips of the wise spread knowledge;   not so the hearts of fools.
+The lips of the wise spread knowledge; not so the hearts of fools.
 ###### 8
 The sacrifice of the wicked is an abomination to the Lord, but the prayer of the upright is acceptable to him.
 ###### 9
 The way of the wicked is an abomination to the Lord, but he loves him who pursues righteousness.
 ###### 10
-There is severe discipline for him who forsakes the way;   whoever hates reproof will die.
+There is severe discipline for him who forsakes the way; whoever hates reproof will die.
 ###### 11
 Sheol and Abaddon lie open before the Lord; how much more the hearts of the children of man!
 ###### 12

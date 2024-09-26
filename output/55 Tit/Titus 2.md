@@ -9,7 +9,6 @@ aliases:
   - Tit_2
 tags:
   - bible/chapter
-  - bible/Titus/chapter
   - bible/Titus/2
   - bible/new testament
 cssclass:

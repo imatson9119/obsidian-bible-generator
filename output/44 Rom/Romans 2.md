@@ -9,7 +9,6 @@ aliases:
   - Rom_2
 tags:
   - bible/chapter
-  - bible/Romans/chapter
   - bible/Romans/2
   - bible/new testament
 cssclass:

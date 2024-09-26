@@ -9,7 +9,6 @@ aliases:
   - 2Ki_17
 tags:
   - bible/chapter
-  - bible/2 Kings/chapter
   - bible/2 Kings/17
   - bible/old testament
 cssclass:
@@ -43,7 +42,7 @@ and there they made offerings on all the high places, as the nations did whom th
 ###### 12
 and they served idols, of which the Lord had said to them, “You shall not do this.”
 ###### 13
-Yet the Lord  warned Israel and Judah by every prophet and every seer, saying, “Turn from your evil ways and keep my commandments and my statutes, in accordance with all the Law that I commanded your fathers, and that I sent to you by my servants the prophets.”
+Yet the Lord warned Israel and Judah by every prophet and every seer, saying, “Turn from your evil ways and keep my commandments and my statutes, in accordance with all the Law that I commanded your fathers, and that I sent to you by my servants the prophets.”
 ###### 14
 But they would not listen, but were stubborn, as their fathers had been, who did not believe in the Lord their God.
 ###### 15
@@ -59,7 +58,7 @@ Judah also did not keep the commandments of the Lord their God, but walked in th
 ###### 20
 And the Lord rejected all the descendants of Israel and afflicted them and gave them into the hand of plunderers, until he had cast them out of his sight.
 ###### 21
-When he had torn Israel from the house of David, they made Jeroboam the son of Nebat king. And Jeroboam drove Israel from following the Lord  and made them commit great sin.
+When he had torn Israel from the house of David, they made Jeroboam the son of Nebat king. And Jeroboam drove Israel from following the Lord and made them commit great sin.
 ###### 22
 The people of Israel walked in all the sins that Jeroboam did. They did not depart from them,
 ###### 23
@@ -81,7 +80,7 @@ The men of Babylon made Succoth-benoth, the men of Cuth made Nergal, the men of 
 ###### 31
 and the Avvites made Nibhaz and Tartak; and the Sepharvites burned their children in the fire to Adrammelech and Anammelech, the gods of Sepharvaim.
 ###### 32
-They also feared the Lord  and appointed from among themselves all sorts of people as priests of the high places, who sacrificed for them in the shrines of the high places.
+They also feared the Lord and appointed from among themselves all sorts of people as priests of the high places, who sacrificed for them in the shrines of the high places.
 ###### 33
 So they feared the Lord but also served their own gods, after the manner of the nations from among whom they had been carried away.
 ###### 34

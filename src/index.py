@@ -89,7 +89,7 @@ cssclass:
 
 ## Chapters
 
-{'\n'.join([f'#####[[{book_name} {i+1}|{i+1}]]' for i in range(len(bible_data[book_name]))])}
+{'\n\n'.join([f'##### [[{book_name} {i+1}|{i+1}]]' for i in range(len(bible_data[book_name]))])}
 '''
   return book
 

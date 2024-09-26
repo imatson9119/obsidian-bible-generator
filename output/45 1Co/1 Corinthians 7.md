@@ -9,7 +9,6 @@ aliases:
   - 1Co_7
 tags:
   - bible/chapter
-  - bible/1 Corinthians/chapter
   - bible/1 Corinthians/7
   - bible/new testament
 cssclass:
@@ -47,11 +46,11 @@ If any woman has a husband who is an unbeliever, and he consents to live with he
 ###### 14
 For the unbelieving husband is made holy because of his wife, and the unbelieving wife is made holy because of her husband. Otherwise your children would be unclean, but as it is, they are holy.
 ###### 15
-But if the unbelieving partner separates, let it be so. In such cases the brother or sister is not enslaved. God has called you  to peace.
+But if the unbelieving partner separates, let it be so. In such cases the brother or sister is not enslaved. God has called you to peace.
 ###### 16
 For how do you know, wife, whether you will save your husband? Or how do you know, husband, whether you will save your wife?
 ###### 17
-Only let each person lead the life  that the Lord has assigned to him, and to which God has called him. This is my rule in all the churches.
+Only let each person lead the life that the Lord has assigned to him, and to which God has called him. This is my rule in all the churches.
 ###### 18
 Was anyone at the time of his call already circumcised? Let him not seek to remove the marks of circumcision. Was anyone at the time of his call uncircumcised? Let him not seek circumcision.
 ###### 19
@@ -65,9 +64,9 @@ For he who was called in the Lord as a bondservant is a freedman of the Lord. Li
 ###### 23
 You were bought with a price; do not become bondservants of men.
 ###### 24
-So, brothers,  in whatever condition each was called, there let him remain with God.
+So, brothers, in whatever condition each was called, there let him remain with God.
 ###### 25
-Now concerning the betrothed,  I have no command from the Lord, but I give my judgment as one who by the Lord’s mercy is trustworthy.
+Now concerning the betrothed, I have no command from the Lord, but I give my judgment as one who by the Lord’s mercy is trustworthy.
 ###### 26
 I think that in view of the present distress it is good for a person to remain as he is.
 ###### 27

@@ -9,7 +9,6 @@ aliases:
   - Ezk_26
 tags:
   - bible/chapter
-  - bible/Ezekiel/chapter
   - bible/Ezekiel/26
   - bible/old testament
 cssclass:
@@ -51,7 +50,7 @@ I will make you a bare rock. You shall be a place for the spreading of nets. You
 ###### 16
 Then all the princes of the sea will step down from their thrones and remove their robes and strip off their embroidered garments. They will clothe themselves with trembling; they will sit on the ground and tremble every moment and be appalled at you.
 ###### 17
-And they will raise a lamentation over you and say to you, “‘How you have perished, you who were inhabited from the seas, O city renowned,   who was mighty on the sea; she and her inhabitants imposed their terror on all her inhabitants!
+And they will raise a lamentation over you and say to you, “‘How you have perished, you who were inhabited from the seas, O city renowned, who was mighty on the sea; she and her inhabitants imposed their terror on all her inhabitants!
 ###### 18
 Now the coastlands tremble on the day of your fall, and the coastlands that are on the sea are dismayed at your passing.’
 ###### 19

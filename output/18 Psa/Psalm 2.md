@@ -9,7 +9,6 @@ aliases:
   - Psa_2
 tags:
   - bible/chapter
-  - bible/Psalm/chapter
   - bible/Psalm/2
   - bible/old testament
 cssclass:
@@ -41,6 +40,6 @@ Now therefore, O kings, be wise; be warned, O rulers of the earth.
 ###### 11
 Serve the Lord with fear, and rejoice with trembling.
 ###### 12
-Kiss the Son, lest he be angry, and you perish in the way, for his wrath is quickly kindled.   Blessed are all who take refuge in him.
+Kiss the Son, lest he be angry, and you perish in the way, for his wrath is quickly kindled. Blessed are all who take refuge in him.
 
 

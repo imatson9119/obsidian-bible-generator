@@ -9,7 +9,6 @@ aliases:
   - 2Co_3
 tags:
   - bible/chapter
-  - bible/2 Corinthians/chapter
   - bible/2 Corinthians/3
   - bible/new testament
 cssclass:
@@ -53,6 +52,6 @@ But when one turns to the Lord, the veil is removed.
 ###### 17
 Now the Lord is the Spirit, and where the Spirit of the Lord is, there is freedom.
 ###### 18
-And we all, with unveiled face, beholding the glory of the Lord,  are being transformed into the same image from one degree of glory to another. For this comes from the Lord who is the Spirit.
+And we all, with unveiled face, beholding the glory of the Lord, are being transformed into the same image from one degree of glory to another. For this comes from the Lord who is the Spirit.
 
 

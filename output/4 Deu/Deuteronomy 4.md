@@ -9,7 +9,6 @@ aliases:
   - Deu_4
 tags:
   - bible/chapter
-  - bible/Deuteronomy/chapter
   - bible/Deuteronomy/4
   - bible/old testament
 cssclass:
@@ -43,7 +42,7 @@ And you came near and stood at the foot of the mountain, while the mountain burn
 ###### 12
 Then the Lord spoke to you out of the midst of the fire. You heard the sound of words, but saw no form; there was only a voice.
 ###### 13
-And he declared to you his covenant, which he commanded you to perform, that is, the Ten Commandments,  and he wrote them on two tablets of stone.
+And he declared to you his covenant, which he commanded you to perform, that is, the Ten Commandments, and he wrote them on two tablets of stone.
 ###### 14
 And the Lord commanded me at that time to teach you statutes and rules, that you might do them in the land that you are going over to possess.
 ###### 15
@@ -71,7 +70,7 @@ For the Lord your God is a consuming fire, a jealous God.
 ###### 26
 I call heaven and earth to witness against you today, that you will soon utterly perish from the land that you are going over the Jordan to possess. You will not live long in it, but will be utterly destroyed.
 ###### 27
-And the Lord  will scatter you among the peoples, and you will be left few in number among the nations where the Lord will drive you.
+And the Lord will scatter you among the peoples, and you will be left few in number among the nations where the Lord will drive you.
 ###### 28
 And there you will serve gods of wood and stone, the work of human hands, that neither see, nor hear, nor eat, nor smell.
 ###### 29

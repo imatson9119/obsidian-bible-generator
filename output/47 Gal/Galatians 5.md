@@ -9,7 +9,6 @@ aliases:
   - Gal_5
 tags:
   - bible/chapter
-  - bible/Galatians/chapter
   - bible/Galatians/5
   - bible/new testament
 cssclass:

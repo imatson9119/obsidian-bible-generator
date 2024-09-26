@@ -9,7 +9,6 @@ aliases:
   - Job_32
 tags:
   - bible/chapter
-  - bible/Job/chapter
   - bible/Job/32
   - bible/old testament
 cssclass:
@@ -33,7 +32,7 @@ And Elihu the son of Barachel the Buzite answered and said: “I am young in yea
 ###### 7
 I said, ‘Let days speak, and many years teach wisdom.’
 ###### 8
-But it is the spirit in man,   the breath of the Almighty, that makes him understand.
+But it is the spirit in man, the breath of the Almighty, that makes him understand.
 ###### 9
 It is not the old who are wise, nor the aged who understand what is right.
 ###### 10

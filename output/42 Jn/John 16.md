@@ -9,7 +9,6 @@ aliases:
   - Jn_16
 tags:
   - bible/chapter
-  - bible/John/chapter
   - bible/John/16
   - bible/new testament
 cssclass:
@@ -25,7 +24,7 @@ They will put you out of the synagogues. Indeed, the hour is coming when whoever
 ###### 3
 And they will do these things because they have not known the Father, nor me.
 ###### 4
-But I have said these things to you, that when their hour comes you may remember that I told them to you.   “I did not say these things to you from the beginning,     because I was with you.
+But I have said these things to you, that when their hour comes you may remember that I told them to you. “I did not say these things to you from the beginning, because I was with you.
 ###### 5
 But now I am going to him who sent me, and none of you asks me, ‘Where are you going?’
 ###### 6
@@ -49,7 +48,7 @@ He will glorify me, for he will take what is mine and declare it to you.
 ###### 15
 All that the Father has is mine; therefore I said that he will take what is mine and declare it to you.
 ###### 16
-“A little while, and you will see me no longer; and     again a little while, and you will see me.”
+“A little while, and you will see me no longer; and again a little while, and you will see me.”
 ###### 17
 So some of his disciples said to one another, “What is this that he says to us, ‘A little while, and you will not see me, and again a little while, and you will see me’; and, ‘because I am going to the Father’?”
 ###### 18
@@ -67,7 +66,7 @@ In that day you will ask nothing of me. Truly, truly, I say to you, whatever you
 ###### 24
 Until now you have asked nothing in my name. Ask, and you will receive, that your joy may be full.
 ###### 25
-“I have said these things to you in figures of speech.     The hour is coming when I will no longer speak to you in figures of speech but will tell you plainly about the Father.
+“I have said these things to you in figures of speech. The hour is coming when I will no longer speak to you in figures of speech but will tell you plainly about the Father.
 ###### 26
 In that day you will ask in my name, and I do not say to you that I will ask the Father on your behalf;
 ###### 27

@@ -9,7 +9,6 @@ aliases:
   - Psa_61
 tags:
   - bible/chapter
-  - bible/Psalm/chapter
   - bible/Psalm/61
   - bible/old testament
 cssclass:
@@ -19,7 +18,7 @@ cssclass:
 # Psalm 61
 
 ###### 1
-Hear my cry, O God,   listen to my prayer;
+Hear my cry, O God, listen to my prayer;
 ###### 2
 from the end of the earth I call to you when my heart is faint. Lead me to the rock that is higher than I,
 ###### 3

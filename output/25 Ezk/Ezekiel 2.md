@@ -9,7 +9,6 @@ aliases:
   - Ezk_2
 tags:
   - bible/chapter
-  - bible/Ezekiel/chapter
   - bible/Ezekiel/2
   - bible/old testament
 cssclass:
@@ -19,7 +18,7 @@ cssclass:
 # Ezekiel 2
 
 ###### 1
-And he said to me, “Son of man,  stand on your feet, and I will speak with you.”
+And he said to me, “Son of man, stand on your feet, and I will speak with you.”
 ###### 2
 And as he spoke to me, the Spirit entered into me and set me on my feet, and I heard him speaking to me.
 ###### 3

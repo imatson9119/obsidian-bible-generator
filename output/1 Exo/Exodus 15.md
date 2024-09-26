@@ -9,7 +9,6 @@ aliases:
   - Exo_15
 tags:
   - bible/chapter
-  - bible/Exodus/chapter
   - bible/Exodus/15
   - bible/old testament
 cssclass:
@@ -19,11 +18,11 @@ cssclass:
 # Exodus 15
 
 ###### 1
-Then Moses and the people of Israel sang this song to the Lord, saying,   “I will sing to the Lord, for he has triumphed gloriously; the horse and his rider he has thrown into the sea.
+Then Moses and the people of Israel sang this song to the Lord, saying, “I will sing to the Lord, for he has triumphed gloriously; the horse and his rider he has thrown into the sea.
 ###### 2
-The Lord is my strength and my song, and he has become my salvation; this is my God, and I will praise him,   my father’s God, and I will exalt him.
+The Lord is my strength and my song, and he has become my salvation; this is my God, and I will praise him, my father’s God, and I will exalt him.
 ###### 3
-The Lord is a man of war;   the Lord is his name.
+The Lord is a man of war; the Lord is his name.
 ###### 4
 “Pharaoh’s chariots and his host he cast into the sea, and his chosen officers were sunk in the Red Sea.
 ###### 5
@@ -47,11 +46,11 @@ You stretched out your right hand; the earth swallowed them.
 ###### 14
 The peoples have heard; they tremble; pangs have seized the inhabitants of Philistia.
 ###### 15
-Now are the chiefs of Edom dismayed; trembling seizes the leaders of Moab;   all the inhabitants of Canaan have melted away.
+Now are the chiefs of Edom dismayed; trembling seizes the leaders of Moab; all the inhabitants of Canaan have melted away.
 ###### 16
 Terror and dread fall upon them; because of the greatness of your arm, they are still as a stone, till your people, O Lord, pass by, till the people pass by whom you have purchased.
 ###### 17
-You will bring them in and plant them on your own mountain, the place, O Lord, which you have made for your abode,   the sanctuary, O Lord, which your hands have established.
+You will bring them in and plant them on your own mountain, the place, O Lord, which you have made for your abode, the sanctuary, O Lord, which your hands have established.
 ###### 18
 The Lord will reign forever and ever.”
 ###### 19
@@ -59,7 +58,7 @@ For when the horses of Pharaoh with his chariots and his horsemen went into the 
 ###### 20
 Then Miriam the prophetess, the sister of Aaron, took a tambourine in her hand, and all the women went out after her with tambourines and dancing.
 ###### 21
-And Miriam sang to them:   “Sing to the Lord, for he has triumphed gloriously; the horse and his rider he has thrown into the sea.”
+And Miriam sang to them: “Sing to the Lord, for he has triumphed gloriously; the horse and his rider he has thrown into the sea.”
 ###### 22
 Then Moses made Israel set out from the Red Sea, and they went into the wilderness of Shur. They went three days in the wilderness and found no water.
 ###### 23

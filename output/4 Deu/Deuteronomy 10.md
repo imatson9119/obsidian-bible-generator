@@ -9,7 +9,6 @@ aliases:
   - Deu_10
 tags:
   - bible/chapter
-  - bible/Deuteronomy/chapter
   - bible/Deuteronomy/10
   - bible/old testament
 cssclass:
@@ -25,7 +24,7 @@ And I will write on the tablets the words that were on the first tablets that yo
 ###### 3
 So I made an ark of acacia wood, and cut two tablets of stone like the first, and went up the mountain with the two tablets in my hand.
 ###### 4
-And he wrote on the tablets, in the same writing as before, the Ten Commandments  that the Lord had spoken to you on the mountain out of the midst of the fire on the day of the assembly. And the Lord gave them to me.
+And he wrote on the tablets, in the same writing as before, the Ten Commandments that the Lord had spoken to you on the mountain out of the midst of the fire on the day of the assembly. And the Lord gave them to me.
 ###### 5
 Then I turned and came down from the mountain and put the tablets in the ark that I had made. And there they are, as the Lord commanded me.”
 ###### 6
@@ -33,7 +32,7 @@ Then I turned and came down from the mountain and put the tablets in the ark tha
 ###### 7
 From there they journeyed to Gudgodah, and from Gudgodah to Jotbathah, a land with brooks of water.
 ###### 8
-At that time the Lord set apart the tribe of Levi to carry the ark of the covenant of the Lord  to stand before the Lord to minister to him and to bless in his name, to this day.
+At that time the Lord set apart the tribe of Levi to carry the ark of the covenant of the Lord to stand before the Lord to minister to him and to bless in his name, to this day.
 ###### 9
 Therefore Levi has no portion or inheritance with his brothers. The Lord is his inheritance, as the Lord your God said to him.)
 ###### 10

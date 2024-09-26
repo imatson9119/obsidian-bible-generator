@@ -9,7 +9,6 @@ aliases:
   - Isa_31
 tags:
   - bible/chapter
-  - bible/Isaiah/chapter
   - bible/Isaiah/31
   - bible/old testament
 cssclass:
@@ -21,11 +20,11 @@ cssclass:
 ###### 1
 Woe to those who go down to Egypt for help and rely on horses, who trust in chariots because they are many and in horsemen because they are very strong, but do not look to the Holy One of Israel or consult the Lord!
 ###### 2
-And yet he is wise and brings disaster;   he does not call back his words, but will arise against the house of the evildoers and against the helpers of those who work iniquity.
+And yet he is wise and brings disaster; he does not call back his words, but will arise against the house of the evildoers and against the helpers of those who work iniquity.
 ###### 3
 The Egyptians are man, and not God, and their horses are flesh, and not spirit. When the Lord stretches out his hand, the helper will stumble, and he who is helped will fall, and they will all perish together.
 ###### 4
-For thus the Lord said to me,   “As a lion or a young lion growls over his prey, and when a band of shepherds is called out against him he is not terrified by their shouting or daunted at their noise,   so the Lord of hosts will come down to fight on Mount Zion and on its hill.
+For thus the Lord said to me, “As a lion or a young lion growls over his prey, and when a band of shepherds is called out against him he is not terrified by their shouting or daunted at their noise, so the Lord of hosts will come down to fight on Mount Zion and on its hill.
 ###### 5
 Like birds hovering, so the Lord of hosts will protect Jerusalem; he will protect and deliver it; he will spare and rescue it.”
 ###### 6

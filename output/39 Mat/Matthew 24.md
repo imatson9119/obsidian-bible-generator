@@ -9,7 +9,6 @@ aliases:
   - Mat_24
 tags:
   - bible/chapter
-  - bible/Matthew/chapter
   - bible/Matthew/24
   - bible/new testament
 cssclass:
@@ -35,9 +34,9 @@ For nation will rise against nation, and kingdom against kingdom, and there will
 ###### 8
 All these are but the beginning of the birth pains.
 ###### 9
-“Then     they will deliver you up     to tribulation and     put you to death, and     you will be hated by all nations for my name’s sake.
+“Then they will deliver you up to tribulation and put you to death, and you will be hated by all nations for my name’s sake.
 ###### 10
-And then many will fall away  and betray one another and hate one another.
+And then many will fall away and betray one another and hate one another.
 ###### 11
 And many false prophets will arise and lead many astray.
 ###### 12
@@ -47,7 +46,7 @@ But the one who endures to the end will be saved.
 ###### 14
 And this gospel of the kingdom will be proclaimed throughout the whole world as a testimony to all nations, and then the end will come.
 ###### 15
-“So when you see the abomination of desolation     spoken of by the prophet Daniel, standing in     the holy place (    let the reader understand),
+“So when you see the abomination of desolation spoken of by the prophet Daniel, standing in the holy place ( let the reader understand),
 ###### 16
 then let those who are in Judea flee to the mountains.
 ###### 17
@@ -75,7 +74,7 @@ For as the lightning comes from the east and shines as far as the west, so will 
 ###### 28
 Wherever the corpse is, there the vultures will gather.
 ###### 29
-“Immediately after     the tribulation of those days     the sun will be darkened, and the moon will not give its light, and     the stars will fall from heaven, and the powers of the heavens will be shaken.
+“Immediately after the tribulation of those days the sun will be darkened, and the moon will not give its light, and the stars will fall from heaven, and the powers of the heavens will be shaken.
 ###### 30
 Then will appear in heaven the sign of the Son of Man, and then all the tribes of the earth will mourn, and they will see the Son of Man coming on the clouds of heaven with power and great glory.
 ###### 31
@@ -89,7 +88,7 @@ Truly, I say to you, this generation will not pass away until all these things t
 ###### 35
 Heaven and earth will pass away, but my words will not pass away.
 ###### 36
-“But concerning that day and hour     no one knows, not even the angels of heaven,     nor the Son,      but the Father only.
+“But concerning that day and hour no one knows, not even the angels of heaven, nor the Son, but the Father only.
 ###### 37
 For as were the days of Noah, so will be the coming of the Son of Man.
 ###### 38
@@ -107,7 +106,7 @@ But know this, that if the master of the house had known in what part of the nig
 ###### 44
 Therefore you also must be ready, for the Son of Man is coming at an hour you do not expect.
 ###### 45
-“Who then is     the faithful and     wise servant,    whom his master has set over his household, to give them their food at the proper time?
+“Who then is the faithful and wise servant, whom his master has set over his household, to give them their food at the proper time?
 ###### 46
 Blessed is that servant whom his master will find so doing when he comes.
 ###### 47
@@ -115,7 +114,7 @@ Truly, I say to you, he will set him over all his possessions.
 ###### 48
 But if that wicked servant says to himself, ‘My master is delayed,’
 ###### 49
-and begins to beat his fellow servants  and eats and drinks with drunkards,
+and begins to beat his fellow servants and eats and drinks with drunkards,
 ###### 50
 the master of that servant will come on a day when he does not expect him and at an hour he does not know
 ###### 51

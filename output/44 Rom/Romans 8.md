@@ -9,7 +9,6 @@ aliases:
   - Rom_8
 tags:
   - bible/chapter
-  - bible/Romans/chapter
   - bible/Romans/8
   - bible/new testament
 cssclass:
@@ -89,7 +88,7 @@ Who is to condemn? Christ Jesus is the one who died—more than that, who was ra
 ###### 35
 Who shall separate us from the love of Christ? Shall tribulation, or distress, or persecution, or famine, or nakedness, or danger, or sword?
 ###### 36
-As it is written,   “For your sake we are being killed all the day long; we are regarded as sheep to be slaughtered.”
+As it is written, “For your sake we are being killed all the day long; we are regarded as sheep to be slaughtered.”
 ###### 37
 No, in all these things we are more than conquerors through him who loved us.
 ###### 38

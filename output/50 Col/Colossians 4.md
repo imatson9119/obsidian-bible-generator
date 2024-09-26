@@ -9,7 +9,6 @@ aliases:
   - Col_4
 tags:
   - bible/chapter
-  - bible/Colossians/chapter
   - bible/Colossians/4
   - bible/new testament
 cssclass:

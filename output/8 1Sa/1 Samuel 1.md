@@ -9,7 +9,6 @@ aliases:
   - 1Sa_1
 tags:
   - bible/chapter
-  - bible/1 Samuel/chapter
   - bible/1 Samuel/1
   - bible/old testament
 cssclass:
@@ -55,13 +54,13 @@ Then Eli answered, “Go in peace, and the God of Israel grant your petition tha
 ###### 18
 And she said, “Let your servant find favor in your eyes.” Then the woman went her way and ate, and her face was no longer sad.
 ###### 19
-They rose early in the morning and worshiped before the Lord; then they went back to their house at Ramah. And Elkanah knew Hannah his wife, and the Lord  remembered her.
+They rose early in the morning and worshiped before the Lord; then they went back to their house at Ramah. And Elkanah knew Hannah his wife, and the Lord remembered her.
 ###### 20
 And in due time Hannah conceived and bore a son, and she called his name Samuel, for she said, “I have asked for him from the Lord.”
 ###### 21
 The man Elkanah and all his house went up to offer to the Lord the yearly sacrifice and to pay his vow.
 ###### 22
-But Hannah did not go up, for she said to her husband, “As soon as the child is weaned, I will bring him, so that he may appear in the presence of the Lord  and dwell there forever.”
+But Hannah did not go up, for she said to her husband, “As soon as the child is weaned, I will bring him, so that he may appear in the presence of the Lord and dwell there forever.”
 ###### 23
 Elkanah her husband said to her, “Do what seems best to you; wait until you have weaned him; only, may the Lord establish his word.” So the woman remained and nursed her son until she weaned him.
 ###### 24
@@ -73,6 +72,6 @@ And she said, “Oh, my lord! As you live, my lord, I am the woman who was stand
 ###### 27
 For this child I prayed, and the Lord has granted me my petition that I made to him.
 ###### 28
-Therefore I have lent him to the Lord. As long as he lives, he is lent to the Lord.”   And he worshiped the Lord there.
+Therefore I have lent him to the Lord. As long as he lives, he is lent to the Lord.” And he worshiped the Lord there.
 
 

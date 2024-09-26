@@ -9,7 +9,6 @@ aliases:
   - Jos_15
 tags:
   - bible/chapter
-  - bible/Joshua/chapter
   - bible/Joshua/15
   - bible/old testament
 cssclass:

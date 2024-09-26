@@ -9,7 +9,6 @@ aliases:
   - Ezk_16
 tags:
   - bible/chapter
-  - bible/Ezekiel/chapter
   - bible/Ezekiel/16
   - bible/old testament
 cssclass:

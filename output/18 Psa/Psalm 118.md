@@ -9,7 +9,6 @@ aliases:
   - Psa_118
 tags:
   - bible/chapter
-  - bible/Psalm/chapter
   - bible/Psalm/118
   - bible/old testament
 cssclass:
@@ -33,9 +32,9 @@ The Lord is on my side; I will not fear. What can man do to me?
 ###### 7
 The Lord is on my side as my helper; I shall look in triumph on those who hate me.
 ###### 8
-It is better to take refuge in the Lord   than to trust in man.
+It is better to take refuge in the Lord than to trust in man.
 ###### 9
-It is better to take refuge in the Lord   than to trust in princes.
+It is better to take refuge in the Lord than to trust in princes.
 ###### 10
 All nations surrounded me; in the name of the Lord I cut them off!
 ###### 11
@@ -45,11 +44,11 @@ They surrounded me like bees; they went out like a fire among thorns; in the nam
 ###### 13
 I was pushed hard, so that I was falling, but the Lord helped me.
 ###### 14
-The Lord is my strength and my song;   he has become my salvation.
+The Lord is my strength and my song; he has become my salvation.
 ###### 15
-Glad songs of salvation are in the tents of the righteous:   “The right hand of the Lord  does valiantly,
+Glad songs of salvation are in the tents of the righteous: “The right hand of the Lord does valiantly,
 ###### 16
-the right hand of the Lord exalts, the right hand of the Lord  does valiantly!”
+the right hand of the Lord exalts, the right hand of the Lord does valiantly!”
 ###### 17
 I shall not die, but I shall live, and recount the deeds of the Lord.
 ###### 18
@@ -57,9 +56,9 @@ The Lord has disciplined me severely, but he has not given me over to death.
 ###### 19
 Open to me the gates of righteousness, that I may enter through them and give thanks to the Lord.
 ###### 20
-This is the gate of the Lord;   the righteous shall enter through it.
+This is the gate of the Lord; the righteous shall enter through it.
 ###### 21
-I thank you that you have answered me   and have become my salvation.
+I thank you that you have answered me and have become my salvation.
 ###### 22
 The stone that the builders rejected has become the cornerstone.
 ###### 23

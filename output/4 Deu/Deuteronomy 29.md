@@ -9,7 +9,6 @@ aliases:
   - Deu_29
 tags:
   - bible/chapter
-  - bible/Deuteronomy/chapter
   - bible/Deuteronomy/29
   - bible/old testament
 cssclass:
@@ -57,7 +56,7 @@ Beware lest there be among you a man or woman or clan or tribe whose heart is tu
 ###### 19
 one who, when he hears the words of this sworn covenant, blesses himself in his heart, saying, ‘I shall be safe, though I walk in the stubbornness of my heart.’ This will lead to the sweeping away of moist and dry alike.
 ###### 20
-The Lord will not be willing to forgive him, but rather the anger of the Lord and his jealousy will smoke against that man, and the curses written in this book will settle upon him, and the Lord  will blot out his name from under heaven.
+The Lord will not be willing to forgive him, but rather the anger of the Lord and his jealousy will smoke against that man, and the curses written in this book will settle upon him, and the Lord will blot out his name from under heaven.
 ###### 21
 And the Lord will single him out from all the tribes of Israel for calamity, in accordance with all the curses of the covenant written in this Book of the Law.
 ###### 22
@@ -73,7 +72,7 @@ and went and served other gods and worshiped them, gods whom they had not known 
 ###### 27
 Therefore the anger of the Lord was kindled against this land, bringing upon it all the curses written in this book,
 ###### 28
-and the Lord  uprooted them from their land in anger and fury and great wrath, and cast them into another land, as they are this day.’
+and the Lord uprooted them from their land in anger and fury and great wrath, and cast them into another land, as they are this day.’
 ###### 29
 “The secret things belong to the Lord our God, but the things that are revealed belong to us and to our children forever, that we may do all the words of this law.
 

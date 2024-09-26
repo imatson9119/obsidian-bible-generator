@@ -9,7 +9,6 @@ aliases:
   - Jos_21
 tags:
   - bible/chapter
-  - bible/Joshua/chapter
   - bible/Joshua/21
   - bible/old testament
 cssclass:

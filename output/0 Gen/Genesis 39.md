@@ -9,7 +9,6 @@ aliases:
   - Gen_39
 tags:
   - bible/chapter
-  - bible/Genesis/chapter
   - bible/Genesis/39
   - bible/old testament
 cssclass:
@@ -23,7 +22,7 @@ Now Joseph had been brought down to Egypt, and Potiphar, an officer of Pharaoh, 
 ###### 2
 The Lord was with Joseph, and he became a successful man, and he was in the house of his Egyptian master.
 ###### 3
-His master saw that the Lord was with him and that the Lord  caused all that he did to succeed in his hands.
+His master saw that the Lord was with him and that the Lord caused all that he did to succeed in his hands.
 ###### 4
 So Joseph found favor in his sight and attended him, and he made him overseer of his house and put him in charge of all that he had.
 ###### 5

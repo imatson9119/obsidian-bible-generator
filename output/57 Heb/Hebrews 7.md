@@ -9,7 +9,6 @@ aliases:
   - Heb_7
 tags:
   - bible/chapter
-  - bible/Hebrews/chapter
   - bible/Hebrews/7
   - bible/new testament
 cssclass:
@@ -51,7 +50,7 @@ This becomes even more evident when another priest arises in the likeness of Mel
 ###### 16
 who has become a priest, not on the basis of a legal requirement concerning bodily descent, but by the power of an indestructible life.
 ###### 17
-For it is witnessed of him,   “You are a priest forever, after the order of Melchizedek.”
+For it is witnessed of him, “You are a priest forever, after the order of Melchizedek.”
 ###### 18
 For on the one hand, a former commandment is set aside because of its weakness and uselessness
 ###### 19
@@ -59,7 +58,7 @@ For on the one hand, a former commandment is set aside because of its weakness a
 ###### 20
 And it was not without an oath. For those who formerly became priests were made such without an oath,
 ###### 21
-but this one was made a priest with an oath by the one who said to him:   “The Lord has sworn and will not change his mind, ‘You are a priest forever.’”
+but this one was made a priest with an oath by the one who said to him: “The Lord has sworn and will not change his mind, ‘You are a priest forever.’”
 ###### 22
 This makes Jesus the guarantor of a better covenant.
 ###### 23
@@ -67,7 +66,7 @@ The former priests were many in number, because they were prevented by death fro
 ###### 24
 but he holds his priesthood permanently, because he continues forever.
 ###### 25
-Consequently, he is able to save to the uttermost  those who draw near to God through him, since he always lives to make intercession for them.
+Consequently, he is able to save to the uttermost those who draw near to God through him, since he always lives to make intercession for them.
 ###### 26
 For it was indeed fitting that we should have such a high priest, holy, innocent, unstained, separated from sinners, and exalted above the heavens.
 ###### 27

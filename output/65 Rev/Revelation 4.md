@@ -9,7 +9,6 @@ aliases:
   - Rev_4
 tags:
   - bible/chapter
-  - bible/Revelation/chapter
   - bible/Revelation/4
   - bible/new testament
 cssclass:
@@ -33,7 +32,7 @@ and before the throne there was as it were a sea of glass, like crystal. And aro
 ###### 7
 the first living creature like a lion, the second living creature like an ox, the third living creature with the face of a man, and the fourth living creature like an eagle in flight.
 ###### 8
-And the four living creatures, each of them with six wings, are full of eyes all around and within, and day and night they never cease to say,   “Holy, holy, holy, is the Lord God Almighty,   who was and is and is to come!”
+And the four living creatures, each of them with six wings, are full of eyes all around and within, and day and night they never cease to say, “Holy, holy, holy, is the Lord God Almighty, who was and is and is to come!”
 ###### 9
 And whenever the living creatures give glory and honor and thanks to him who is seated on the throne, who lives forever and ever,
 ###### 10

@@ -9,7 +9,6 @@ aliases:
   - Psa_73
 tags:
   - bible/chapter
-  - bible/Psalm/chapter
   - bible/Psalm/73
   - bible/old testament
 cssclass:

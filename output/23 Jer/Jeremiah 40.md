@@ -9,7 +9,6 @@ aliases:
   - Jer_40
 tags:
   - bible/chapter
-  - bible/Jeremiah/chapter
   - bible/Jeremiah/40
   - bible/old testament
 cssclass:
@@ -19,7 +18,7 @@ cssclass:
 # Jeremiah 40
 
 ###### 1
-The word that came to Jeremiah from the Lord  after Nebuzaradan the captain of the guard had let him go from Ramah, when he took him bound in chains along with all the captives of Jerusalem and Judah who were being exiled to Babylon.
+The word that came to Jeremiah from the Lord after Nebuzaradan the captain of the guard had let him go from Ramah, when he took him bound in chains along with all the captives of Jerusalem and Judah who were being exiled to Babylon.
 ###### 2
 The captain of the guard took Jeremiah and said to him, “The Lord your God pronounced this disaster against this place.
 ###### 3

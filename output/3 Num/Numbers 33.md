@@ -9,7 +9,6 @@ aliases:
   - Num_33
 tags:
   - bible/chapter
-  - bible/Numbers/chapter
   - bible/Numbers/33
   - bible/old testament
 cssclass:

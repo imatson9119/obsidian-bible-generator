@@ -9,7 +9,6 @@ aliases:
   - Psa_6
 tags:
   - bible/chapter
-  - bible/Psalm/chapter
   - bible/Psalm/6
   - bible/old testament
 cssclass:
@@ -21,7 +20,7 @@ cssclass:
 ###### 1
 O Lord, rebuke me not in your anger, nor discipline me in your wrath.
 ###### 2
-Be gracious to me, O Lord, for I am languishing;   heal me, O Lord, for my bones are troubled.
+Be gracious to me, O Lord, for I am languishing; heal me, O Lord, for my bones are troubled.
 ###### 3
 My soul also is greatly troubled. But you, O Lord—how long?
 ###### 4
@@ -33,7 +32,7 @@ I am weary with my moaning; every night I flood my bed with tears; I drench my c
 ###### 7
 My eye wastes away because of grief; it grows weak because of all my foes.
 ###### 8
-Depart from me, all you workers of evil, for the Lord  has heard the sound of my weeping.
+Depart from me, all you workers of evil, for the Lord has heard the sound of my weeping.
 ###### 9
 The Lord has heard my plea; the Lord accepts my prayer.
 ###### 10

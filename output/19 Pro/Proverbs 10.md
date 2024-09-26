@@ -9,7 +9,6 @@ aliases:
   - Pro_10
 tags:
   - bible/chapter
-  - bible/Proverbs/chapter
   - bible/Proverbs/10
   - bible/old testament
 cssclass:
@@ -19,13 +18,13 @@ cssclass:
 # Proverbs 10
 
 ###### 1
-The proverbs of Solomon.   A wise son makes a glad father,   but a foolish son is a sorrow to his mother.
+The proverbs of Solomon. A wise son makes a glad father, but a foolish son is a sorrow to his mother.
 ###### 2
-Treasures gained by wickedness do not profit,   but righteousness delivers from death.
+Treasures gained by wickedness do not profit, but righteousness delivers from death.
 ###### 3
-The Lord does not let the righteous go hungry,   but he thwarts the craving of the wicked.
+The Lord does not let the righteous go hungry, but he thwarts the craving of the wicked.
 ###### 4
-A slack hand causes poverty,   but the hand of the diligent makes rich.
+A slack hand causes poverty, but the hand of the diligent makes rich.
 ###### 5
 He who gathers in summer is a prudent son, but he who sleeps in harvest is a son who brings shame.
 ###### 6
@@ -55,7 +54,7 @@ Whoever heeds instruction is on the path to life, but he who rejects reproof lea
 ###### 18
 The one who conceals hatred has lying lips, and whoever utters slander is a fool.
 ###### 19
-When words are many, transgression is not lacking,   but whoever restrains his lips is prudent.
+When words are many, transgression is not lacking, but whoever restrains his lips is prudent.
 ###### 20
 The tongue of the righteous is choice silver; the heart of the wicked is of little worth.
 ###### 21
@@ -71,9 +70,9 @@ When the tempest passes, the wicked is no more, but the righteous is established
 ###### 26
 Like vinegar to the teeth and smoke to the eyes, so is the sluggard to those who send him.
 ###### 27
-The fear of the Lord prolongs life,   but the years of the wicked will be short.
+The fear of the Lord prolongs life, but the years of the wicked will be short.
 ###### 28
-The hope of the righteous brings joy,   but the expectation of the wicked will perish.
+The hope of the righteous brings joy, but the expectation of the wicked will perish.
 ###### 29
 The way of the Lord is a stronghold to the blameless, but destruction to evildoers.
 ###### 30

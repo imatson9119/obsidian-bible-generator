@@ -9,7 +9,6 @@ aliases:
   - 2Th_1
 tags:
   - bible/chapter
-  - bible/2 Thessalonians/chapter
   - bible/2 Thessalonians/1
   - bible/new testament
 cssclass:

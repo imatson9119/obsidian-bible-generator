@@ -9,7 +9,6 @@ aliases:
   - Job_26
 tags:
   - bible/chapter
-  - bible/Job/chapter
   - bible/Job/26
   - bible/old testament
 cssclass:

@@ -9,7 +9,6 @@ aliases:
   - Gen_24
 tags:
   - bible/chapter
-  - bible/Genesis/chapter
   - bible/Genesis/24
   - bible/old testament
 cssclass:
@@ -19,7 +18,7 @@ cssclass:
 # Genesis 24
 
 ###### 1
-Now Abraham was old, well advanced in years. And the Lord  had blessed Abraham in all things.
+Now Abraham was old, well advanced in years. And the Lord had blessed Abraham in all things.
 ###### 2
 And Abraham said to his servant, the oldest of his household, who had charge of all that he had, “Put your hand under my thigh,
 ###### 3
@@ -71,7 +70,7 @@ She added, “We have plenty of both straw and fodder, and room to spend the nig
 ###### 26
 The man bowed his head and worshiped the Lord
 ###### 27
-and said, “Blessed be the Lord, the God of my master Abraham, who has not forsaken his steadfast love and his faithfulness toward my master. As for me, the Lord  has led me in the way to the house of my master’s kinsmen.”
+and said, “Blessed be the Lord, the God of my master Abraham, who has not forsaken his steadfast love and his faithfulness toward my master. As for me, the Lord has led me in the way to the house of my master’s kinsmen.”
 ###### 28
 Then the young woman ran and told her mother’s household about these things.
 ###### 29
@@ -87,7 +86,7 @@ Then food was set before him to eat. But he said, “I will not eat until I have
 ###### 34
 So he said, “I am Abraham’s servant.
 ###### 35
-The Lord  has greatly blessed my master, and he has become great. He has given him flocks and herds, silver and gold, male servants and female servants, camels and donkeys.
+The Lord has greatly blessed my master, and he has become great. He has given him flocks and herds, silver and gold, male servants and female servants, camels and donkeys.
 ###### 36
 And Sarah my master’s wife bore a son to my master when she was old, and to him he has given all that he has.
 ###### 37

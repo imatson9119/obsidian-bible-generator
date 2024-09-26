@@ -9,7 +9,6 @@ aliases:
   - Act_26
 tags:
   - bible/chapter
-  - bible/Acts/chapter
   - bible/Acts/26
   - bible/new testament
 cssclass:
@@ -45,7 +44,7 @@ And I punished them often in all the synagogues and tried to make them blaspheme
 ###### 13
 At midday, O king, I saw on the way a light from heaven, brighter than the sun, that shone around me and those who journeyed with me.
 ###### 14
-And when we had all fallen to the ground, I heard a voice saying to me in the Hebrew language,  ‘Saul, Saul, why are you persecuting me? It is hard for you to kick against the goads.’
+And when we had all fallen to the ground, I heard a voice saying to me in the Hebrew language, ‘Saul, Saul, why are you persecuting me? It is hard for you to kick against the goads.’
 ###### 15
 And I said, ‘Who are you, Lord?’ And the Lord said, ‘I am Jesus whom you are persecuting.
 ###### 16

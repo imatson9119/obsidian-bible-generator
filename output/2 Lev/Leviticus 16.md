@@ -9,7 +9,6 @@ aliases:
   - Lev_16
 tags:
   - bible/chapter
-  - bible/Leviticus/chapter
   - bible/Leviticus/16
   - bible/old testament
 cssclass:

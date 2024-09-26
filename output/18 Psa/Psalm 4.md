@@ -9,7 +9,6 @@ aliases:
   - Psa_4
 tags:
   - bible/chapter
-  - bible/Psalm/chapter
   - bible/Psalm/4
   - bible/old testament
 cssclass:
@@ -25,11 +24,11 @@ O men, how long shall my honor be turned into shame? How long will you love vain
 ###### 3
 But know that the Lord has set apart the godly for himself; the Lord hears when I call to him.
 ###### 4
-Be angry, and do not sin;   ponder in your own hearts on your beds, and be silent. Selah
+Be angry, and do not sin; ponder in your own hearts on your beds, and be silent. Selah
 ###### 5
 Offer right sacrifices, and put your trust in the Lord.
 ###### 6
-There are many who say, “Who will show us some good?   Lift up the light of your face upon us, O Lord!”
+There are many who say, “Who will show us some good? Lift up the light of your face upon us, O Lord!”
 ###### 7
 You have put more joy in my heart than they have when their grain and wine abound.
 ###### 8

@@ -9,7 +9,6 @@ aliases:
   - Jn_9
 tags:
   - bible/chapter
-  - bible/John/chapter
   - bible/John/9
   - bible/new testament
 cssclass:
@@ -99,6 +98,6 @@ Jesus said, “For judgment I came into this world, that those who do not see ma
 ###### 40
 Some of the Pharisees near him heard these things, and said to him, “Are we also blind?”
 ###### 41
-Jesus said to them, “If you were blind, you would have no guilt;  but now that you say, ‘We see,’ your guilt remains.
+Jesus said to them, “If you were blind, you would have no guilt; but now that you say, ‘We see,’ your guilt remains.
 
 

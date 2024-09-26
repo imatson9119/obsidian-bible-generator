@@ -9,7 +9,6 @@ aliases:
   - Pro_3
 tags:
   - bible/chapter
-  - bible/Proverbs/chapter
   - bible/Proverbs/3
   - bible/old testament
 cssclass:
@@ -19,11 +18,11 @@ cssclass:
 # Proverbs 3
 
 ###### 1
-My son, do not forget my teaching,   but let your heart keep my commandments,
+My son, do not forget my teaching, but let your heart keep my commandments,
 ###### 2
 for length of days and years of life and peace they will add to you.
 ###### 3
-Let not steadfast love and faithfulness forsake you;   bind them around your neck;   write them on the tablet of your heart.
+Let not steadfast love and faithfulness forsake you; bind them around your neck; write them on the tablet of your heart.
 ###### 4
 So you will find favor and good success in the sight of God and man.
 ###### 5
@@ -31,7 +30,7 @@ Trust in the Lord with all your heart, and do not lean on your own understanding
 ###### 6
 In all your ways acknowledge him, and he will make straight your paths.
 ###### 7
-Be not wise in your own eyes;   fear the Lord, and turn away from evil.
+Be not wise in your own eyes; fear the Lord, and turn away from evil.
 ###### 8
 It will be healing to your flesh and refreshment to your bones.
 ###### 9
@@ -63,7 +62,7 @@ My son, do not lose sight of these— keep sound wisdom and discretion,
 ###### 22
 and they will be life for your soul and adornment for your neck.
 ###### 23
-Then you will walk on your way securely,   and your foot will not stumble.
+Then you will walk on your way securely, and your foot will not stumble.
 ###### 24
 If you lie down, you will not be afraid; when you lie down, your sleep will be sweet.
 ###### 25
@@ -85,7 +84,7 @@ for the devious person is an abomination to the Lord, but the upright are in his
 ###### 33
 The Lord’s curse is on the house of the wicked, but he blesses the dwelling of the righteous.
 ###### 34
-Toward the scorners he is scornful,   but to the humble he gives favor.
+Toward the scorners he is scornful, but to the humble he gives favor.
 ###### 35
 The wise will inherit honor, but fools get disgrace.
 

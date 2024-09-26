@@ -9,7 +9,6 @@ aliases:
   - Neh_13
 tags:
   - bible/chapter
-  - bible/Nehemiah/chapter
   - bible/Nehemiah/13
   - bible/old testament
 cssclass:
@@ -79,6 +78,6 @@ Remember them, O my God, because they have desecrated the priesthood and the cov
 ###### 30
 Thus I cleansed them from everything foreign, and I established the duties of the priests and Levites, each in his work;
 ###### 31
-and I provided for the wood offering at appointed times, and for the firstfruits.   Remember me, O my God, for good.
+and I provided for the wood offering at appointed times, and for the firstfruits. Remember me, O my God, for good.
 
 

@@ -9,7 +9,6 @@ aliases:
   - Psa_74
 tags:
   - bible/chapter
-  - bible/Psalm/chapter
   - bible/Psalm/74
   - bible/old testament
 cssclass:
@@ -25,7 +24,7 @@ Remember your congregation, which you have purchased of old, which you have rede
 ###### 3
 Direct your steps to the perpetual ruins; the enemy has destroyed everything in the sanctuary!
 ###### 4
-Your foes have roared in the midst of your meeting place;   they set up their own signs for signs.
+Your foes have roared in the midst of your meeting place; they set up their own signs for signs.
 ###### 5
 They were like those who swing axes in a forest of trees.
 ###### 6
@@ -35,7 +34,7 @@ They set your sanctuary on fire; they profaned the dwelling place of your name, 
 ###### 8
 They said to themselves, “We will utterly subdue them”; they burned all the meeting places of God in the land.
 ###### 9
-We do not see our signs;   there is no longer any prophet, and there is none among us who knows how long.
+We do not see our signs; there is no longer any prophet, and there is none among us who knows how long.
 ###### 10
 How long, O God, is the foe to scoff? Is the enemy to revile your name forever?
 ###### 11
@@ -55,14 +54,14 @@ You have fixed all the boundaries of the earth; you have made summer and winter.
 ###### 18
 Remember this, O Lord, how the enemy scoffs, and a foolish people reviles your name.
 ###### 19
-Do not deliver the soul of your dove to the wild beasts;   do not forget the life of your poor forever.
+Do not deliver the soul of your dove to the wild beasts; do not forget the life of your poor forever.
 ###### 20
 Have regard for the covenant, for the dark places of the land are full of the habitations of violence.
 ###### 21
 Let not the downtrodden turn back in shame; let the poor and needy praise your name.
 ###### 22
-Arise, O God, defend your cause;   remember how the foolish scoff at you all the day!
+Arise, O God, defend your cause; remember how the foolish scoff at you all the day!
 ###### 23
-Do not forget the clamor of your foes,   the uproar of those who rise against you, which goes up continually!
+Do not forget the clamor of your foes, the uproar of those who rise against you, which goes up continually!
 
 

@@ -9,7 +9,6 @@ aliases:
   - Lev_25
 tags:
   - bible/chapter
-  - bible/Leviticus/chapter
   - bible/Leviticus/25
   - bible/old testament
 cssclass:

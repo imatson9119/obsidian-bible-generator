@@ -9,7 +9,6 @@ aliases:
   - Luk_2
 tags:
   - bible/chapter
-  - bible/Luke/chapter
   - bible/Luke/2
   - bible/new testament
 cssclass:
@@ -45,7 +44,7 @@ And this will be a sign for you: you will find a baby wrapped in swaddling cloth
 ###### 13
 And suddenly there was with the angel a multitude of the heavenly host praising God and saying,
 ###### 14
-“Glory to God in the highest,   and on earth peace among those with whom he is pleased!”
+“Glory to God in the highest, and on earth peace among those with whom he is pleased!”
 ###### 15
 When the angels went away from them into heaven, the shepherds said to one another, “Let us go over to Bethlehem and see this thing that has happened, which the Lord has made known to us.”
 ###### 16
@@ -75,7 +74,7 @@ And he came in the Spirit into the temple, and when the parents brought in the c
 ###### 28
 he took him up in his arms and blessed God and said,
 ###### 29
-“Lord, now you are letting your servant depart in peace,   according to your word;
+“Lord, now you are letting your servant depart in peace, according to your word;
 ###### 30
 for my eyes have seen your salvation
 ###### 31

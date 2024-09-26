@@ -9,7 +9,6 @@ aliases:
   - Psa_59
 tags:
   - bible/chapter
-  - bible/Psalm/chapter
   - bible/Psalm/59
   - bible/old testament
 cssclass:
@@ -19,13 +18,13 @@ cssclass:
 # Psalm 59
 
 ###### 1
-Deliver me from my enemies, O my God;   protect me from those who rise up against me;
+Deliver me from my enemies, O my God; protect me from those who rise up against me;
 ###### 2
 deliver me from those who work evil, and save me from bloodthirsty men.
 ###### 3
-For behold, they lie in wait for my life; fierce men stir up strife against me.   For no transgression or sin of mine, O Lord,
+For behold, they lie in wait for my life; fierce men stir up strife against me. For no transgression or sin of mine, O Lord,
 ###### 4
-for no fault of mine, they run and make ready.   Awake, come to meet me, and see!
+for no fault of mine, they run and make ready. Awake, come to meet me, and see!
 ###### 5
 You, Lord God of hosts, are God of Israel. Rouse yourself to punish all the nations; spare none of those who treacherously plot evil. Selah
 ###### 6
@@ -37,7 +36,7 @@ But you, O Lord, laugh at them; you hold all the nations in derision.
 ###### 9
 O my Strength, I will watch for you, for you, O God, are my fortress.
 ###### 10
-My God in his steadfast love  will meet me; God will let me look in triumph on my enemies.
+My God in his steadfast love will meet me; God will let me look in triumph on my enemies.
 ###### 11
 Kill them not, lest my people forget; make them totter by your power and bring them down, O Lord, our shield!
 ###### 12
@@ -51,6 +50,6 @@ They wander about for food and growl if they do not get their fill.
 ###### 16
 But I will sing of your strength; I will sing aloud of your steadfast love in the morning. For you have been to me a fortress and a refuge in the day of my distress.
 ###### 17
-O my Strength, I will sing praises to you, for you, O God, are my fortress,   the God who shows me steadfast love.
+O my Strength, I will sing praises to you, for you, O God, are my fortress, the God who shows me steadfast love.
 
 

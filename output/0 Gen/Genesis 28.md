@@ -9,7 +9,6 @@ aliases:
   - Gen_28
 tags:
   - bible/chapter
-  - bible/Genesis/chapter
   - bible/Genesis/28
   - bible/old testament
 cssclass:

@@ -9,7 +9,6 @@ aliases:
   - Jer_19
 tags:
   - bible/chapter
-  - bible/Jeremiah/chapter
   - bible/Jeremiah/19
   - bible/old testament
 cssclass:

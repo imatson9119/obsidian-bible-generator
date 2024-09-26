@@ -9,7 +9,6 @@ aliases:
   - Job_28
 tags:
   - bible/chapter
-  - bible/Job/chapter
   - bible/Job/28
   - bible/old testament
 cssclass:
@@ -33,7 +32,7 @@ Its stones are the place of sapphires, and it has dust of gold.
 ###### 7
 “That path no bird of prey knows, and the falcon’s eye has not seen it.
 ###### 8
-The proud beasts have not trodden it;   the lion has not passed over it.
+The proud beasts have not trodden it; the lion has not passed over it.
 ###### 9
 “Man puts his hand to the flinty rock and overturns mountains by the roots.
 ###### 10

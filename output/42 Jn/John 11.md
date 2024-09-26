@@ -9,7 +9,6 @@ aliases:
   - Jn_11
 tags:
   - bible/chapter
-  - bible/John/chapter
   - bible/John/11
   - bible/new testament
 cssclass:
@@ -67,7 +66,7 @@ Jesus said to her, “Your brother will rise again.”
 ###### 24
 Martha said to him, “I know that he will rise again in the resurrection on the last day.”
 ###### 25
-Jesus said to her, “I am the resurrection and the life.  Whoever believes in me, though he die, yet shall he live,
+Jesus said to her, “I am the resurrection and the life. Whoever believes in me, though he die, yet shall he live,
 ###### 26
 and everyone who lives and believes in me shall never die. Do you believe this?”
 ###### 27

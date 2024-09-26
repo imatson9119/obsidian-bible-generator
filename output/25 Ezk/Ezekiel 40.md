@@ -9,7 +9,6 @@ aliases:
   - Ezk_40
 tags:
   - bible/chapter
-  - bible/Ezekiel/chapter
   - bible/Ezekiel/40
   - bible/old testament
 cssclass:
@@ -93,7 +92,7 @@ Its side rooms, its jambs, and its vestibule were of the same size as the others
 ###### 37
 Its vestibule faced the outer court, and it had palm trees on its jambs, on either side, and its stairway had eight steps.
 ###### 38
-There was a chamber with its door in the vestibule of the gate,  where the burnt offering was to be washed.
+There was a chamber with its door in the vestibule of the gate, where the burnt offering was to be washed.
 ###### 39
 And in the vestibule of the gate were two tables on either side, on which the burnt offering and the sin offering and the guilt offering were to be slaughtered.
 ###### 40

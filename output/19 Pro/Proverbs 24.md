@@ -9,7 +9,6 @@ aliases:
   - Pro_24
 tags:
   - bible/chapter
-  - bible/Proverbs/chapter
   - bible/Proverbs/24
   - bible/old testament
 cssclass:
@@ -41,7 +40,7 @@ If you faint in the day of adversity, your strength is small.
 ###### 11
 Rescue those who are being taken away to death; hold back those who are stumbling to the slaughter.
 ###### 12
-If you say, “Behold, we did not know this,”   does not he who weighs the heart perceive it? Does not he who keeps watch over your soul know it, and will he not repay man according to his work?
+If you say, “Behold, we did not know this,” does not he who weighs the heart perceive it? Does not he who keeps watch over your soul know it, and will he not repay man according to his work?
 ###### 13
 My son, eat honey, for it is good, and the drippings of the honeycomb are sweet to your taste.
 ###### 14
@@ -57,15 +56,15 @@ lest the Lord see it and be displeased, and turn away his anger from him.
 ###### 19
 Fret not yourself because of evildoers, and be not envious of the wicked,
 ###### 20
-for the evil man has no future;   the lamp of the wicked will be put out.
+for the evil man has no future; the lamp of the wicked will be put out.
 ###### 21
 My son, fear the Lord and the king, and do not join with those who do otherwise,
 ###### 22
 for disaster will arise suddenly from them, and who knows the ruin that will come from them both?
 ###### 23
-These also are sayings of the wise.   Partiality in judging is not good.
+These also are sayings of the wise. Partiality in judging is not good.
 ###### 24
-Whoever says to the wicked, “You are in the right,”   will be cursed by peoples, abhorred by nations,
+Whoever says to the wicked, “You are in the right,” will be cursed by peoples, abhorred by nations,
 ###### 25
 but those who rebuke the wicked will have delight, and a good blessing will come upon them.
 ###### 26

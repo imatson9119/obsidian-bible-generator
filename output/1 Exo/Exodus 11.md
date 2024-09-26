@@ -9,7 +9,6 @@ aliases:
   - Exo_11
 tags:
   - bible/chapter
-  - bible/Exodus/chapter
   - bible/Exodus/11
   - bible/old testament
 cssclass:
@@ -31,12 +30,12 @@ and every firstborn in the land of Egypt shall die, from the firstborn of Pharao
 ###### 6
 There shall be a great cry throughout all the land of Egypt, such as there has never been, nor ever will be again.
 ###### 7
-But not a dog shall growl against any of the people of Israel, either man or beast, that you may know that the Lord  makes a distinction between Egypt and Israel.’
+But not a dog shall growl against any of the people of Israel, either man or beast, that you may know that the Lord makes a distinction between Egypt and Israel.’
 ###### 8
 And all these your servants shall come down to me and bow down to me, saying, ‘Get out, you and all the people who follow you.’ And after that I will go out.” And he went out from Pharaoh in hot anger.
 ###### 9
 Then the Lord said to Moses, “Pharaoh will not listen to you, that my wonders may be multiplied in the land of Egypt.”
 ###### 10
-Moses and Aaron did all these wonders before Pharaoh, and the Lord  hardened Pharaoh’s heart, and he did not let the people of Israel go out of his land.
+Moses and Aaron did all these wonders before Pharaoh, and the Lord hardened Pharaoh’s heart, and he did not let the people of Israel go out of his land.
 
 

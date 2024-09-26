@@ -9,7 +9,6 @@ aliases:
   - Deu_27
 tags:
   - bible/chapter
-  - bible/Deuteronomy/chapter
   - bible/Deuteronomy/27
   - bible/old testament
 cssclass:

@@ -9,7 +9,6 @@ aliases:
   - Jer_23
 tags:
   - bible/chapter
-  - bible/Jeremiah/chapter
   - bible/Jeremiah/23
   - bible/old testament
 cssclass:
@@ -35,19 +34,19 @@ In his days Judah will be saved, and Israel will dwell securely. And this is the
 ###### 8
 but ‘As the Lord lives who brought up and led the offspring of the house of Israel out of the north country and out of all the countries where he had driven them.’ Then they shall dwell in their own land.”
 ###### 9
-Concerning the prophets:   My heart is broken within me;   all my bones shake; I am like a drunken man, like a man overcome by wine, because of the Lord and because of his holy words.
+Concerning the prophets: My heart is broken within me; all my bones shake; I am like a drunken man, like a man overcome by wine, because of the Lord and because of his holy words.
 ###### 10
-For the land is full of adulterers;   because of the curse the land mourns, and the pastures of the wilderness are dried up.   Their course is evil, and their might is not right.
+For the land is full of adulterers; because of the curse the land mourns, and the pastures of the wilderness are dried up. Their course is evil, and their might is not right.
 ###### 11
 “Both prophet and priest are ungodly; even in my house I have found their evil, declares the Lord.
 ###### 12
-Therefore their way shall be to them like slippery paths in the darkness, into which they shall be driven and fall, for I will bring disaster upon them   in the year of their punishment, declares the Lord.
+Therefore their way shall be to them like slippery paths in the darkness, into which they shall be driven and fall, for I will bring disaster upon them in the year of their punishment, declares the Lord.
 ###### 13
-In the prophets of Samaria   I saw an unsavory thing:   they prophesied by Baal   and led my people Israel astray.
+In the prophets of Samaria I saw an unsavory thing: they prophesied by Baal and led my people Israel astray.
 ###### 14
-But in the prophets of Jerusalem I have seen a horrible thing:   they commit adultery and walk in lies;   they strengthen the hands of evildoers, so that no one turns from his evil;   all of them have become like Sodom to me,   and its inhabitants like Gomorrah.”
+But in the prophets of Jerusalem I have seen a horrible thing: they commit adultery and walk in lies; they strengthen the hands of evildoers, so that no one turns from his evil; all of them have become like Sodom to me, and its inhabitants like Gomorrah.”
 ###### 15
-Therefore thus says the Lord of hosts concerning the prophets:   “Behold, I will feed them with bitter food   and give them poisoned water to drink, for from the prophets of Jerusalem ungodliness has gone out into all the land.”
+Therefore thus says the Lord of hosts concerning the prophets: “Behold, I will feed them with bitter food and give them poisoned water to drink, for from the prophets of Jerusalem ungodliness has gone out into all the land.”
 ###### 16
 Thus says the Lord of hosts: “Do not listen to the words of the prophets who prophesy to you, filling you with vain hopes. They speak visions of their own minds, not from the mouth of the Lord.
 ###### 17
@@ -55,13 +54,13 @@ They say continually to those who despise the word of the Lord, ‘It shall be w
 ###### 18
 For who among them has stood in the council of the Lord to see and to hear his word, or who has paid attention to his word and listened?
 ###### 19
-Behold, the storm of the Lord! Wrath has gone forth,   a whirling tempest; it will burst upon the head of the wicked.
+Behold, the storm of the Lord! Wrath has gone forth, a whirling tempest; it will burst upon the head of the wicked.
 ###### 20
-The anger of the Lord will not turn back until he has executed and accomplished the intents of his heart.   In the latter days you will understand it clearly.
+The anger of the Lord will not turn back until he has executed and accomplished the intents of his heart. In the latter days you will understand it clearly.
 ###### 21
 “I did not send the prophets, yet they ran; I did not speak to them, yet they prophesied.
 ###### 22
-But if they had stood in my council, then they would have proclaimed my words to my people,   and they would have turned them from their evil way, and from the evil of their deeds.
+But if they had stood in my council, then they would have proclaimed my words to my people, and they would have turned them from their evil way, and from the evil of their deeds.
 ###### 23
 “Am I a God at hand, declares the Lord, and not a God far away?
 ###### 24

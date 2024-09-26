@@ -9,7 +9,6 @@ aliases:
   - Jos_10
 tags:
   - bible/chapter
-  - bible/Joshua/chapter
   - bible/Joshua/10
   - bible/old testament
 cssclass:
@@ -19,7 +18,7 @@ cssclass:
 # Joshua 10
 
 ###### 1
-As soon as Adoni-zedek, king of Jerusalem, heard how Joshua had captured Ai and had devoted it to destruction,  doing to Ai and its king as he had done to Jericho and its king, and how the inhabitants of Gibeon had made peace with Israel and were among them,
+As soon as Adoni-zedek, king of Jerusalem, heard how Joshua had captured Ai and had devoted it to destruction, doing to Ai and its king as he had done to Jericho and its king, and how the inhabitants of Gibeon had made peace with Israel and were among them,
 ###### 2
 he feared greatly, because Gibeon was a great city, like one of the royal cities, and because it was greater than Ai, and all its men were warriors.
 ###### 3
@@ -41,7 +40,7 @@ And the Lord threw them into a panic before Israel, who struck them with a great
 ###### 11
 And as they fled before Israel, while they were going down the ascent of Beth-horon, the Lord threw down large stones from heaven on them as far as Azekah, and they died. There were more who died because of the hailstones than the sons of Israel killed with the sword.
 ###### 12
-At that time Joshua spoke to the Lord in the day when the Lord gave the Amorites over to the sons of Israel, and he said in the sight of Israel,   “Sun, stand still at Gibeon, and moon, in the Valley of Aijalon.”
+At that time Joshua spoke to the Lord in the day when the Lord gave the Amorites over to the sons of Israel, and he said in the sight of Israel, “Sun, stand still at Gibeon, and moon, in the Valley of Aijalon.”
 ###### 13
 And the sun stood still, and the moon stopped, until the nation took vengeance on their enemies. Is this not written in the Book of Jashar? The sun stopped in the midst of heaven and did not hurry to set for about a whole day.
 ###### 14

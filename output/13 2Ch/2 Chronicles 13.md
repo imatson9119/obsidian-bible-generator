@@ -9,7 +9,6 @@ aliases:
   - 2Ch_13
 tags:
   - bible/chapter
-  - bible/2 Chronicles/chapter
   - bible/2 Chronicles/13
   - bible/old testament
 cssclass:
@@ -21,7 +20,7 @@ cssclass:
 ###### 1
 In the eighteenth year of King Jeroboam, Abijah began to reign over Judah.
 ###### 2
-He reigned for three years in Jerusalem. His mother’s name was Micaiah the daughter of Uriel of Gibeah.   Now there was war between Abijah and Jeroboam.
+He reigned for three years in Jerusalem. His mother’s name was Micaiah the daughter of Uriel of Gibeah. Now there was war between Abijah and Jeroboam.
 ###### 3
 Abijah went out to battle, having an army of valiant men of war, 400,000 chosen men. And Jeroboam drew up his line of battle against him with 800,000 chosen mighty warriors.
 ###### 4
@@ -39,7 +38,7 @@ Have you not driven out the priests of the Lord, the sons of Aaron, and the Levi
 ###### 10
 But as for us, the Lord is our God, and we have not forsaken him. We have priests ministering to the Lord who are sons of Aaron, and Levites for their service.
 ###### 11
-They offer to the Lord  every morning and every evening burnt offerings and incense of sweet spices, set out the showbread on the table of pure gold, and care for the golden lampstand that its lamps may burn every evening. For we keep the charge of the Lord our God, but you have forsaken him.
+They offer to the Lord every morning and every evening burnt offerings and incense of sweet spices, set out the showbread on the table of pure gold, and care for the golden lampstand that its lamps may burn every evening. For we keep the charge of the Lord our God, but you have forsaken him.
 ###### 12
 Behold, God is with us at our head, and his priests with their battle trumpets to sound the call to battle against you. O sons of Israel, do not fight against the Lord, the God of your fathers, for you cannot succeed.”
 ###### 13

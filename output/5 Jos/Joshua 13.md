@@ -9,7 +9,6 @@ aliases:
   - Jos_13
 tags:
   - bible/chapter
-  - bible/Joshua/chapter
   - bible/Joshua/13
   - bible/old testament
 cssclass:

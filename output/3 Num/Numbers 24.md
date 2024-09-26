@@ -9,7 +9,6 @@ aliases:
   - Num_24
 tags:
   - bible/chapter
-  - bible/Numbers/chapter
   - bible/Numbers/24
   - bible/old testament
 cssclass:
@@ -25,17 +24,17 @@ And Balaam lifted up his eyes and saw Israel camping tribe by tribe. And the Spi
 ###### 3
 and he took up his discourse and said, “The oracle of Balaam the son of Beor, the oracle of the man whose eye is opened,
 ###### 4
-the oracle of him who hears the words of God, who sees the vision of the Almighty,   falling down with his eyes uncovered:
+the oracle of him who hears the words of God, who sees the vision of the Almighty, falling down with his eyes uncovered:
 ###### 5
 How lovely are your tents, O Jacob, your encampments, O Israel!
 ###### 6
-Like palm groves that stretch afar, like gardens beside a river,   like aloes that the Lord has planted, like cedar trees beside the waters.
+Like palm groves that stretch afar, like gardens beside a river, like aloes that the Lord has planted, like cedar trees beside the waters.
 ###### 7
 Water shall flow from his buckets, and his seed shall be in many waters; his king shall be higher than Agag, and his kingdom shall be exalted.
 ###### 8
 God brings him out of Egypt and is for him like the horns of the wild ox; he shall eat up the nations, his adversaries, and shall break their bones in pieces and pierce them through with his arrows.
 ###### 9
-He crouched, he lay down like a lion and like a lioness; who will rouse him up?   Blessed are those who bless you, and cursed are those who curse you.”
+He crouched, he lay down like a lion and like a lioness; who will rouse him up? Blessed are those who bless you, and cursed are those who curse you.”
 ###### 10
 And Balak’s anger was kindled against Balaam, and he struck his hands together. And Balak said to Balaam, “I called you to curse my enemies, and behold, you have blessed them these three times.
 ###### 11
@@ -49,15 +48,15 @@ And now, behold, I am going to my people. Come, I will let you know what this pe
 ###### 15
 And he took up his discourse and said, “The oracle of Balaam the son of Beor, the oracle of the man whose eye is opened,
 ###### 16
-the oracle of him who hears the words of God, and knows the knowledge of the Most High, who sees the vision of the Almighty,   falling down with his eyes uncovered:
+the oracle of him who hears the words of God, and knows the knowledge of the Most High, who sees the vision of the Almighty, falling down with his eyes uncovered:
 ###### 17
-I see him, but not now; I behold him, but not near:   a star shall come out of Jacob, and a scepter shall rise out of Israel; it shall crush the forehead of Moab and break down all the sons of Sheth.
+I see him, but not now; I behold him, but not near: a star shall come out of Jacob, and a scepter shall rise out of Israel; it shall crush the forehead of Moab and break down all the sons of Sheth.
 ###### 18
-Edom shall be dispossessed;   Seir also, his enemies, shall be dispossessed. Israel is doing valiantly.
+Edom shall be dispossessed; Seir also, his enemies, shall be dispossessed. Israel is doing valiantly.
 ###### 19
 And one from Jacob shall exercise dominion and destroy the survivors of cities!”
 ###### 20
-Then he looked on Amalek and took up his discourse and said, “Amalek was the first among the nations,   but its end is utter destruction.”
+Then he looked on Amalek and took up his discourse and said, “Amalek was the first among the nations, but its end is utter destruction.”
 ###### 21
 And he looked on the Kenite, and took up his discourse and said, “Enduring is your dwelling place, and your nest is set in the rock.
 ###### 22

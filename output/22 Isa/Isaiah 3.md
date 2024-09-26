@@ -9,7 +9,6 @@ aliases:
   - Isa_3
 tags:
   - bible/chapter
-  - bible/Isaiah/chapter
   - bible/Isaiah/3
   - bible/old testament
 cssclass:
@@ -33,23 +32,23 @@ For a man will take hold of his brother in the house of his father, saying: “Y
 ###### 7
 in that day he will speak out, saying: “I will not be a healer; in my house there is neither bread nor cloak; you shall not make me leader of the people.”
 ###### 8
-For Jerusalem has stumbled, and Judah has fallen, because their speech and their deeds are against the Lord,   defying his glorious presence.
+For Jerusalem has stumbled, and Judah has fallen, because their speech and their deeds are against the Lord, defying his glorious presence.
 ###### 9
-For the look on their faces bears witness against them; they proclaim their sin like Sodom; they do not hide it. Woe to them!   For they have brought evil on themselves.
+For the look on their faces bears witness against them; they proclaim their sin like Sodom; they do not hide it. Woe to them! For they have brought evil on themselves.
 ###### 10
-Tell the righteous that it shall be well with them,   for they shall eat the fruit of their deeds.
+Tell the righteous that it shall be well with them, for they shall eat the fruit of their deeds.
 ###### 11
 Woe to the wicked! It shall be ill with him, for what his hands have dealt out shall be done to him.
 ###### 12
 My people—infants are their oppressors, and women rule over them. O my people, your guides mislead you and they have swallowed up the course of your paths.
 ###### 13
-The Lord  has taken his place to contend; he stands to judge peoples.
+The Lord has taken his place to contend; he stands to judge peoples.
 ###### 14
-The Lord will enter into judgment with the elders and princes of his people: “It is you who have devoured the vineyard,   the spoil of the poor is in your houses.
+The Lord will enter into judgment with the elders and princes of his people: “It is you who have devoured the vineyard, the spoil of the poor is in your houses.
 ###### 15
 What do you mean by crushing my people, by grinding the face of the poor?” declares the Lord God of hosts.
 ###### 16
-The Lord said:   Because the daughters of Zion are haughty and walk with outstretched necks, glancing wantonly with their eyes, mincing along as they go,   tinkling with their feet,
+The Lord said: Because the daughters of Zion are haughty and walk with outstretched necks, glancing wantonly with their eyes, mincing along as they go, tinkling with their feet,
 ###### 17
 therefore the Lord will strike with a scab the heads of the daughters of Zion, and the Lord will lay bare their secret parts.
 ###### 18

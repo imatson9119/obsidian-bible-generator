@@ -9,7 +9,6 @@ aliases:
   - 2Pe_2
 tags:
   - bible/chapter
-  - bible/2 Peter/chapter
   - bible/2 Peter/2
   - bible/new testament
 cssclass:
@@ -45,7 +44,7 @@ But these, like irrational animals, creatures of instinct, born to be caught and
 ###### 13
 suffering wrong as the wage for their wrongdoing. They count it pleasure to revel in the daytime. They are blots and blemishes, reveling in their deceptions, while they feast with you.
 ###### 14
-They have eyes full of adultery,  insatiable for sin. They entice unsteady souls. They have hearts trained in greed. Accursed children!
+They have eyes full of adultery, insatiable for sin. They entice unsteady souls. They have hearts trained in greed. Accursed children!
 ###### 15
 Forsaking the right way, they have gone astray. They have followed the way of Balaam, the son of Beor, who loved gain from wrongdoing,
 ###### 16

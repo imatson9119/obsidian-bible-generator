@@ -9,7 +9,6 @@ aliases:
   - Exo_23
 tags:
   - bible/chapter
-  - bible/Exodus/chapter
   - bible/Exodus/23
   - bible/old testament
 cssclass:
@@ -55,7 +54,7 @@ Three times in the year shall all your males appear before the Lord God.
 ###### 18
 “You shall not offer the blood of my sacrifice with anything leavened, or let the fat of my feast remain until the morning.
 ###### 19
-“The best of the firstfruits of your ground you shall bring into the house of the Lord your God.   “You shall not boil a young goat in its mother’s milk.
+“The best of the firstfruits of your ground you shall bring into the house of the Lord your God. “You shall not boil a young goat in its mother’s milk.
 ###### 20
 “Behold, I send an angel before you to guard you on the way and to bring you to the place that I have prepared.
 ###### 21

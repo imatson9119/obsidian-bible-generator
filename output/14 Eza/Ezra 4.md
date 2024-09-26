@@ -9,7 +9,6 @@ aliases:
   - Eza_4
 tags:
   - bible/chapter
-  - bible/Ezra/chapter
   - bible/Ezra/4
   - bible/old testament
 cssclass:

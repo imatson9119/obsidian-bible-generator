@@ -9,7 +9,6 @@ aliases:
   - Gen_44
 tags:
   - bible/chapter
-  - bible/Genesis/chapter
   - bible/Genesis/44
   - bible/old testament
 cssclass:

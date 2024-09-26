@@ -9,7 +9,6 @@ aliases:
   - 1Ki_20
 tags:
   - bible/chapter
-  - bible/1 Kings/chapter
   - bible/1 Kings/20
   - bible/old testament
 cssclass:

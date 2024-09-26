@@ -9,7 +9,6 @@ aliases:
   - Psa_58
 tags:
   - bible/chapter
-  - bible/Psalm/chapter
   - bible/Psalm/58
   - bible/old testament
 cssclass:

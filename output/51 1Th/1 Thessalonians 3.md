@@ -9,7 +9,6 @@ aliases:
   - 1Th_3
 tags:
   - bible/chapter
-  - bible/1 Thessalonians/chapter
   - bible/1 Thessalonians/3
   - bible/new testament
 cssclass:

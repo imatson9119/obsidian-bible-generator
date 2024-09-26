@@ -9,7 +9,6 @@ aliases:
   - Psa_80
 tags:
   - bible/chapter
-  - bible/Psalm/chapter
   - bible/Psalm/80
   - bible/old testament
 cssclass:
@@ -21,11 +20,11 @@ cssclass:
 ###### 1
 Give ear, O Shepherd of Israel, you who lead Joseph like a flock. You who are enthroned upon the cherubim, shine forth.
 ###### 2
-Before Ephraim and Benjamin and Manasseh,   stir up your might and come to save us!
+Before Ephraim and Benjamin and Manasseh, stir up your might and come to save us!
 ###### 3
-Restore us, O God;   let your face shine, that we may be saved!
+Restore us, O God; let your face shine, that we may be saved!
 ###### 4
-O Lord God of hosts,   how long will you be angry with your people’s prayers?
+O Lord God of hosts, how long will you be angry with your people’s prayers?
 ###### 5
 You have fed them with the bread of tears and given them tears to drink in full measure.
 ###### 6
@@ -45,7 +44,7 @@ Why then have you broken down its walls, so that all who pass along the way pluc
 ###### 13
 The boar from the forest ravages it, and all that move in the field feed on it.
 ###### 14
-Turn again, O God of hosts!   Look down from heaven, and see; have regard for this vine,
+Turn again, O God of hosts! Look down from heaven, and see; have regard for this vine,
 ###### 15
 the stock that your right hand planted, and for the son whom you made strong for yourself.
 ###### 16
@@ -53,7 +52,7 @@ They have burned it with fire; they have cut it down; may they perish at the reb
 ###### 17
 But let your hand be on the man of your right hand, the son of man whom you have made strong for yourself!
 ###### 18
-Then we shall not turn back from you;   give us life, and we will call upon your name!
+Then we shall not turn back from you; give us life, and we will call upon your name!
 ###### 19
 Restore us, O Lord God of hosts! Let your face shine, that we may be saved!
 

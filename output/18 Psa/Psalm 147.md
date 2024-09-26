@@ -9,7 +9,6 @@ aliases:
   - Psa_147
 tags:
   - bible/chapter
-  - bible/Psalm/chapter
   - bible/Psalm/147
   - bible/old testament
 cssclass:
@@ -21,15 +20,15 @@ cssclass:
 ###### 1
 Praise the Lord! For it is good to sing praises to our God; for it is pleasant, and a song of praise is fitting.
 ###### 2
-The Lord  builds up Jerusalem; he gathers the outcasts of Israel.
+The Lord builds up Jerusalem; he gathers the outcasts of Israel.
 ###### 3
 He heals the brokenhearted and binds up their wounds.
 ###### 4
 He determines the number of the stars; he gives to all of them their names.
 ###### 5
-Great is our Lord, and abundant in power;   his understanding is beyond measure.
+Great is our Lord, and abundant in power; his understanding is beyond measure.
 ###### 6
-The Lord  lifts up the humble; he casts the wicked to the ground.
+The Lord lifts up the humble; he casts the wicked to the ground.
 ###### 7
 Sing to the Lord with thanksgiving; make melody to our God on the lyre!
 ###### 8
@@ -39,7 +38,7 @@ He gives to the beasts their food, and to the young ravens that cry.
 ###### 10
 His delight is not in the strength of the horse, nor his pleasure in the legs of a man,
 ###### 11
-but the Lord  takes pleasure in those who fear him, in those who hope in his steadfast love.
+but the Lord takes pleasure in those who fear him, in those who hope in his steadfast love.
 ###### 12
 Praise the Lord, O Jerusalem! Praise your God, O Zion!
 ###### 13
@@ -57,6 +56,6 @@ He sends out his word, and melts them; he makes his wind blow and the waters flo
 ###### 19
 He declares his word to Jacob, his statutes and rules to Israel.
 ###### 20
-He has not dealt thus with any other nation; they do not know his rules.   Praise the Lord!
+He has not dealt thus with any other nation; they do not know his rules. Praise the Lord!
 
 

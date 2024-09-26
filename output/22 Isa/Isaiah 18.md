@@ -9,7 +9,6 @@ aliases:
   - Isa_18
 tags:
   - bible/chapter
-  - bible/Isaiah/chapter
   - bible/Isaiah/18
   - bible/old testament
 cssclass:

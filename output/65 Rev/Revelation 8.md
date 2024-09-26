@@ -9,7 +9,6 @@ aliases:
   - Rev_8
 tags:
   - bible/chapter
-  - bible/Revelation/chapter
   - bible/Revelation/8
   - bible/new testament
 cssclass:

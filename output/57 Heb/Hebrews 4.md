@@ -9,7 +9,6 @@ aliases:
   - Heb_4
 tags:
   - bible/chapter
-  - bible/Hebrews/chapter
   - bible/Hebrews/4
   - bible/new testament
 cssclass:
@@ -23,15 +22,15 @@ Therefore, while the promise of entering his rest still stands, let us fear lest
 ###### 2
 For good news came to us just as to them, but the message they heard did not benefit them, because they were not united by faith with those who listened.
 ###### 3
-For we who have believed enter that rest, as he has said,   “As I swore in my wrath, ‘They shall not enter my rest,’” although his works were finished from the foundation of the world.
+For we who have believed enter that rest, as he has said, “As I swore in my wrath, ‘They shall not enter my rest,’” although his works were finished from the foundation of the world.
 ###### 4
 For he has somewhere spoken of the seventh day in this way: “And God rested on the seventh day from all his works.”
 ###### 5
-And again in this passage he said,   “They shall not enter my rest.”
+And again in this passage he said, “They shall not enter my rest.”
 ###### 6
 Since therefore it remains for some to enter it, and those who formerly received the good news failed to enter because of disobedience,
 ###### 7
-again he appoints a certain day, “Today,” saying through David so long afterward, in the words already quoted,   “Today, if you hear his voice, do not harden your hearts.”
+again he appoints a certain day, “Today,” saying through David so long afterward, in the words already quoted, “Today, if you hear his voice, do not harden your hearts.”
 ###### 8
 For if Joshua had given them rest, God would not have spoken of another day later on.
 ###### 9

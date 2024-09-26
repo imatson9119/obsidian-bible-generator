@@ -9,7 +9,6 @@ aliases:
   - Luk_7
 tags:
   - bible/chapter
-  - bible/Luke/chapter
   - bible/Luke/7
   - bible/new testament
 cssclass:
@@ -47,7 +46,7 @@ And when the Lord saw her, he had compassion on her and said to her, “Do not w
 ###### 14
 Then he came up and touched the bier, and the bearers stood still. And he said, “Young man, I say to you, arise.”
 ###### 15
-And the dead man sat up and began to speak, and Jesus  gave him to his mother.
+And the dead man sat up and began to speak, and Jesus gave him to his mother.
 ###### 16
 Fear seized them all, and they glorified God, saying, “A great prophet has arisen among us!” and “God has visited his people!”
 ###### 17
@@ -61,7 +60,7 @@ And when the men had come to him, they said, “John the Baptist has sent us to 
 ###### 21
 In that hour he healed many people of diseases and plagues and evil spirits, and on many who were blind he bestowed sight.
 ###### 22
-And he answered them, “Go and tell John what you have seen and heard: the blind receive their sight, the lame walk, lepers  are cleansed, and the deaf hear, the dead are raised up, the poor have good news preached to them.
+And he answered them, “Go and tell John what you have seen and heard: the blind receive their sight, the lame walk, lepers are cleansed, and the deaf hear, the dead are raised up, the poor have good news preached to them.
 ###### 23
 And blessed is the one who is not offended by me.”
 ###### 24
@@ -71,19 +70,19 @@ What then did you go out to see? A man dressed in soft clothing? Behold, those w
 ###### 26
 What then did you go out to see? A prophet? Yes, I tell you, and more than a prophet.
 ###### 27
-This is he of whom it is written,     “‘Behold, I send my messenger before your face,   who will prepare your way before you.’
+This is he of whom it is written, “‘Behold, I send my messenger before your face, who will prepare your way before you.’
 ###### 28
 I tell you, among those born of women none is greater than John. Yet the one who is least in the kingdom of God is greater than he.”
 ###### 29
-(When all the people heard this, and the tax collectors too, they declared God just,  having been baptized with the baptism of John,
+(When all the people heard this, and the tax collectors too, they declared God just, having been baptized with the baptism of John,
 ###### 30
 but the Pharisees and the lawyers rejected the purpose of God for themselves, not having been baptized by him.)
 ###### 31
 “To what then shall I compare the people of this generation, and what are they like?
 ###### 32
-They are like children sitting in the marketplace and calling to one another,   “‘We played the flute for you, and you did not dance;   we sang a dirge, and you did not weep.’
+They are like children sitting in the marketplace and calling to one another, “‘We played the flute for you, and you did not dance; we sang a dirge, and you did not weep.’
 ###### 33
-For John the Baptist has come     eating no bread and     drinking no wine, and you say, ‘He has a demon.’
+For John the Baptist has come eating no bread and drinking no wine, and you say, ‘He has a demon.’
 ###### 34
 The Son of Man has come eating and drinking, and you say, ‘Look at him! A glutton and a drunkard, a friend of tax collectors and sinners!’
 ###### 35
@@ -99,7 +98,7 @@ Now when the Pharisee who had invited him saw this, he said to himself, “If th
 ###### 40
 And Jesus answering said to him, “Simon, I have something to say to you.” And he answered, “Say it, Teacher.”
 ###### 41
-“A certain moneylender had two debtors. One owed five hundred     denarii, and the other fifty.
+“A certain moneylender had two debtors. One owed five hundred denarii, and the other fifty.
 ###### 42
 When they could not pay, he cancelled the debt of both. Now which of them will love him more?”
 ###### 43

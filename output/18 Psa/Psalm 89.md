@@ -9,7 +9,6 @@ aliases:
   - Psa_89
 tags:
   - bible/chapter
-  - bible/Psalm/chapter
   - bible/Psalm/89
   - bible/old testament
 cssclass:
@@ -29,23 +28,23 @@ You have said, “I have made a covenant with my chosen one; I have sworn to Dav
 ###### 5
 Let the heavens praise your wonders, O Lord, your faithfulness in the assembly of the holy ones!
 ###### 6
-For who in the skies can be compared to the Lord?   Who among the heavenly beings is like the Lord,
+For who in the skies can be compared to the Lord? Who among the heavenly beings is like the Lord,
 ###### 7
 a God greatly to be feared in the council of the holy ones, and awesome above all who are around him?
 ###### 8
-O Lord God of hosts,   who is mighty as you are, O Lord, with your faithfulness all around you?
+O Lord God of hosts, who is mighty as you are, O Lord, with your faithfulness all around you?
 ###### 9
 You rule the raging of the sea; when its waves rise, you still them.
 ###### 10
 You crushed Rahab like a carcass; you scattered your enemies with your mighty arm.
 ###### 11
-The heavens are yours; the earth also is yours;   the world and all that is in it, you have founded them.
+The heavens are yours; the earth also is yours; the world and all that is in it, you have founded them.
 ###### 12
-The north and the south, you have created them;   Tabor and Hermon joyously praise your name.
+The north and the south, you have created them; Tabor and Hermon joyously praise your name.
 ###### 13
 You have a mighty arm; strong is your hand, high your right hand.
 ###### 14
-Righteousness and justice are the foundation of your throne;   steadfast love and faithfulness go before you.
+Righteousness and justice are the foundation of your throne; steadfast love and faithfulness go before you.
 ###### 15
 Blessed are the people who know the festal shout, who walk, O Lord, in the light of your face,
 ###### 16
@@ -61,7 +60,7 @@ I have found David, my servant; with my holy oil I have anointed him,
 ###### 21
 so that my hand shall be established with him; my arm also shall strengthen him.
 ###### 22
-The enemy shall not outwit him;   the wicked shall not humble him.
+The enemy shall not outwit him; the wicked shall not humble him.
 ###### 23
 I will crush his foes before him and strike down those who hate him.
 ###### 24
@@ -71,7 +70,7 @@ I will set his hand on the sea and his right hand on the rivers.
 ###### 26
 He shall cry to me, ‘You are my Father, my God, and the Rock of my salvation.’
 ###### 27
-And I will make him the firstborn,   the highest of the kings of the earth.
+And I will make him the firstborn, the highest of the kings of the earth.
 ###### 28
 My steadfast love I will keep for him forever, and my covenant will stand firm for him.
 ###### 29
@@ -89,9 +88,9 @@ I will not violate my covenant or alter the word that went forth from my lips.
 ###### 35
 Once for all I have sworn by my holiness; I will not lie to David.
 ###### 36
-His offspring shall endure forever,   his throne as long as the sun before me.
+His offspring shall endure forever, his throne as long as the sun before me.
 ###### 37
-Like the moon it shall be established forever,   a faithful witness in the skies.” Selah
+Like the moon it shall be established forever, a faithful witness in the skies.” Selah
 ###### 38
 But now you have cast off and rejected; you are full of wrath against your anointed.
 ###### 39

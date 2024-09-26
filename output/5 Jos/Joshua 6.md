@@ -9,7 +9,6 @@ aliases:
   - Jos_6
 tags:
   - bible/chapter
-  - bible/Joshua/chapter
   - bible/Joshua/6
   - bible/old testament
 cssclass:

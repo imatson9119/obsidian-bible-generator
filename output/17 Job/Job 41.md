@@ -9,7 +9,6 @@ aliases:
   - Job_41
 tags:
   - bible/chapter
-  - bible/Job/chapter
   - bible/Job/41
   - bible/old testament
 cssclass:
@@ -39,7 +38,7 @@ Behold, the hope of a man is false; he is laid low even at the sight of him.
 ###### 10
 No one is so fierce that he dares to stir him up. Who then is he who can stand before me?
 ###### 11
-Who has first given to me, that I should repay him?   Whatever is under the whole heaven is mine.
+Who has first given to me, that I should repay him? Whatever is under the whole heaven is mine.
 ###### 12
 “I will not keep silence concerning his limbs, or his mighty strength, or his goodly frame.
 ###### 13

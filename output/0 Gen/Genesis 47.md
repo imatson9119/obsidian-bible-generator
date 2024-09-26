@@ -9,7 +9,6 @@ aliases:
   - Gen_47
 tags:
   - bible/chapter
-  - bible/Genesis/chapter
   - bible/Genesis/47
   - bible/old testament
 cssclass:

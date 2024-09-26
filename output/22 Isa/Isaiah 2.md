@@ -9,7 +9,6 @@ aliases:
   - Isa_2
 tags:
   - bible/chapter
-  - bible/Isaiah/chapter
   - bible/Isaiah/2
   - bible/old testament
 cssclass:
@@ -25,7 +24,7 @@ It shall come to pass in the latter days that the mountain of the house of the L
 ###### 3
 and many peoples shall come, and say: “Come, let us go up to the mountain of the Lord, to the house of the God of Jacob, that he may teach us his ways and that we may walk in his paths.” For out of Zion shall go forth the law, and the word of the Lord from Jerusalem.
 ###### 4
-He shall judge between the nations, and shall decide disputes for many peoples;   and they shall beat their swords into plowshares, and their spears into pruning hooks;   nation shall not lift up sword against nation, neither shall they learn war anymore.
+He shall judge between the nations, and shall decide disputes for many peoples; and they shall beat their swords into plowshares, and their spears into pruning hooks; nation shall not lift up sword against nation, neither shall they learn war anymore.
 ###### 5
 O house of Jacob, come, let us walk in the light of the Lord.
 ###### 6
@@ -37,7 +36,7 @@ Their land is filled with idols; they bow down to the work of their hands, to wh
 ###### 9
 So man is humbled, and each one is brought low— do not forgive them!
 ###### 10
-Enter into the rock and hide in the dust   from before the terror of the Lord, and from the splendor of his majesty.
+Enter into the rock and hide in the dust from before the terror of the Lord, and from the splendor of his majesty.
 ###### 11
 The haughty looks of man shall be brought low, and the lofty pride of men shall be humbled, and the Lord alone will be exalted in that day.
 ###### 12
@@ -55,12 +54,12 @@ And the haughtiness of man shall be humbled, and the lofty pride of men shall be
 ###### 18
 And the idols shall utterly pass away.
 ###### 19
-And people shall enter the caves of the rocks and the holes of the ground, from before the terror of the Lord, and from the splendor of his majesty,   when he rises to terrify the earth.
+And people shall enter the caves of the rocks and the holes of the ground, from before the terror of the Lord, and from the splendor of his majesty, when he rises to terrify the earth.
 ###### 20
 In that day mankind will cast away their idols of silver and their idols of gold, which they made for themselves to worship, to the moles and to the bats,
 ###### 21
-to enter the caverns of the rocks and the clefts of the cliffs, from before the terror of the Lord, and from the splendor of his majesty,   when he rises to terrify the earth.
+to enter the caverns of the rocks and the clefts of the cliffs, from before the terror of the Lord, and from the splendor of his majesty, when he rises to terrify the earth.
 ###### 22
-Stop regarding man   in whose nostrils is breath, for of what account is he?
+Stop regarding man in whose nostrils is breath, for of what account is he?
 
 

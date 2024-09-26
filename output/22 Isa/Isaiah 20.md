@@ -9,7 +9,6 @@ aliases:
   - Isa_20
 tags:
   - bible/chapter
-  - bible/Isaiah/chapter
   - bible/Isaiah/20
   - bible/old testament
 cssclass:

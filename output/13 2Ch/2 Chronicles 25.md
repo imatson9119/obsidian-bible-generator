@@ -9,7 +9,6 @@ aliases:
   - 2Ch_25
 tags:
   - bible/chapter
-  - bible/2 Chronicles/chapter
   - bible/2 Chronicles/25
   - bible/old testament
 cssclass:

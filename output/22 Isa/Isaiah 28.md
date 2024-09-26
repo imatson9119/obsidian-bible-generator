@@ -9,7 +9,6 @@ aliases:
   - Isa_28
 tags:
   - bible/chapter
-  - bible/Isaiah/chapter
   - bible/Isaiah/28
   - bible/old testament
 cssclass:
@@ -41,25 +40,25 @@ For it is precept upon precept, precept upon precept, line upon line, line upon 
 ###### 11
 For by people of strange lips and with a foreign tongue the Lord will speak to this people,
 ###### 12
-to whom he has said,   “This is rest; give rest to the weary; and this is repose”; yet they would not hear.
+to whom he has said, “This is rest; give rest to the weary; and this is repose”; yet they would not hear.
 ###### 13
-And the word of the Lord will be to them precept upon precept, precept upon precept, line upon line, line upon line, here a little, there a little,   that they may go, and fall backward, and be broken, and snared, and taken.
+And the word of the Lord will be to them precept upon precept, precept upon precept, line upon line, line upon line, here a little, there a little, that they may go, and fall backward, and be broken, and snared, and taken.
 ###### 14
 Therefore hear the word of the Lord, you scoffers, who rule this people in Jerusalem!
 ###### 15
 Because you have said, “We have made a covenant with death, and with Sheol we have an agreement, when the overwhelming whip passes through it will not come to us, for we have made lies our refuge, and in falsehood we have taken shelter”;
 ###### 16
-therefore thus says the Lord God,   “Behold, I am the one who has laid as a foundation in Zion, a stone, a tested stone, a precious cornerstone, of a sure foundation: ‘Whoever believes will not be in haste.’
+therefore thus says the Lord God, “Behold, I am the one who has laid as a foundation in Zion, a stone, a tested stone, a precious cornerstone, of a sure foundation: ‘Whoever believes will not be in haste.’
 ###### 17
 And I will make justice the line, and righteousness the plumb line; and hail will sweep away the refuge of lies, and waters will overwhelm the shelter.”
 ###### 18
 Then your covenant with death will be annulled, and your agreement with Sheol will not stand; when the overwhelming scourge passes through, you will be beaten down by it.
 ###### 19
-As often as it passes through it will take you;   for morning by morning it will pass through, by day and by night; and it will be sheer terror to understand the message.
+As often as it passes through it will take you; for morning by morning it will pass through, by day and by night; and it will be sheer terror to understand the message.
 ###### 20
 For the bed is too short to stretch oneself on, and the covering too narrow to wrap oneself in.
 ###### 21
-For the Lord will rise up as on Mount Perazim;   as in the Valley of Gibeon he will be roused; to do his deed—strange is his deed! and to work his work—alien is his work!
+For the Lord will rise up as on Mount Perazim; as in the Valley of Gibeon he will be roused; to do his deed—strange is his deed! and to work his work—alien is his work!
 ###### 22
 Now therefore do not scoff, lest your bonds be made strong; for I have heard a decree of destruction from the Lord God of hosts against the whole land.
 ###### 23

@@ -9,7 +9,6 @@ aliases:
   - Mat_26
 tags:
   - bible/chapter
-  - bible/Matthew/chapter
   - bible/Matthew/26
   - bible/new testament
 cssclass:
@@ -73,7 +72,7 @@ Now as they were eating, Jesus took bread, and after blessing it broke it and ga
 ###### 27
 And he took a cup, and when he had given thanks he gave it to them, saying, “Drink of it, all of you,
 ###### 28
-for this is my blood of the  covenant, which is poured out for many for the forgiveness of sins.
+for this is my blood of the covenant, which is poured out for many for the forgiveness of sins.
 ###### 29
 I tell you I will not drink again of this fruit of the vine until that day when I drink it new with you in my Father’s kingdom.”
 ###### 30
@@ -93,7 +92,7 @@ Then Jesus went with them to a place called Gethsemane, and he said to his disci
 ###### 37
 And taking with him Peter and the two sons of Zebedee, he began to be sorrowful and troubled.
 ###### 38
-Then he said to them, “My soul is very sorrowful, even to death; remain here, and watch  with me.”
+Then he said to them, “My soul is very sorrowful, even to death; remain here, and watch with me.”
 ###### 39
 And going a little farther he fell on his face and prayed, saying, “My Father, if it be possible, let this cup pass from me; nevertheless, not as I will, but as you will.”
 ###### 40
@@ -107,7 +106,7 @@ And again he came and found them sleeping, for their eyes were heavy.
 ###### 44
 So, leaving them again, he went away and prayed for the third time, saying the same words again.
 ###### 45
-Then he came to the disciples and said to them, “Sleep and take your rest later on.  See, the hour is at hand, and the Son of Man is betrayed into the hands of sinners.
+Then he came to the disciples and said to them, “Sleep and take your rest later on. See, the hour is at hand, and the Son of Man is betrayed into the hands of sinners.
 ###### 46
 Rise, let us be going; see, my betrayer is at hand.”
 ###### 47
@@ -129,13 +128,13 @@ But how then should the Scriptures be fulfilled, that it must be so?”
 ###### 55
 At that hour Jesus said to the crowds, “Have you come out as against a robber, with swords and clubs to capture me? Day after day I sat in the temple teaching, and you did not seize me.
 ###### 56
-But all this has taken place that the Scriptures of the prophets might be fulfilled.”  Then all the disciples left him and fled.
+But all this has taken place that the Scriptures of the prophets might be fulfilled.” Then all the disciples left him and fled.
 ###### 57
 Then those who had seized Jesus led him to Caiaphas the high priest, where the scribes and the elders had gathered.
 ###### 58
 And Peter was following him at a distance, as far as the courtyard of the high priest, and going inside he sat with the guards to see the end.
 ###### 59
-Now the chief priests and the whole council  were seeking false testimony against Jesus that they might put him to death,
+Now the chief priests and the whole council were seeking false testimony against Jesus that they might put him to death,
 ###### 60
 but they found none, though many false witnesses came forward. At last two came forward
 ###### 61

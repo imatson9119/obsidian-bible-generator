@@ -9,7 +9,6 @@ aliases:
   - Zch_6
 tags:
   - bible/chapter
-  - bible/Zechariah/chapter
   - bible/Zechariah/6
   - bible/old testament
 cssclass:
@@ -43,9 +42,9 @@ Take from them silver and gold, and make a crown, and set it on the head of Josh
 ###### 12
 And say to him, ‘Thus says the Lord of hosts, “Behold, the man whose name is the Branch: for he shall branch out from his place, and he shall build the temple of the Lord.
 ###### 13
-It is he who shall build the temple of the Lord  and shall bear royal honor, and shall sit and rule on his throne. And there shall be a priest on his throne, and the counsel of peace shall be between them both.”’
+It is he who shall build the temple of the Lord and shall bear royal honor, and shall sit and rule on his throne. And there shall be a priest on his throne, and the counsel of peace shall be between them both.”’
 ###### 14
-And the crown shall be in the temple of the Lord as a reminder to Helem,  Tobijah, Jedaiah, and Hen the son of Zephaniah.
+And the crown shall be in the temple of the Lord as a reminder to Helem, Tobijah, Jedaiah, and Hen the son of Zephaniah.
 ###### 15
 “And those who are far off shall come and help to build the temple of the Lord. And you shall know that the Lord of hosts has sent me to you. And this shall come to pass, if you will diligently obey the voice of the Lord your God.”
 

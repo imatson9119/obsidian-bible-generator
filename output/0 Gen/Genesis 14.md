@@ -9,7 +9,6 @@ aliases:
   - Gen_14
 tags:
   - bible/chapter
-  - bible/Genesis/chapter
   - bible/Genesis/14
   - bible/old testament
 cssclass:
@@ -55,7 +54,7 @@ After his return from the defeat of Chedorlaomer and the kings who were with him
 ###### 18
 And Melchizedek king of Salem brought out bread and wine. (He was priest of God Most High.)
 ###### 19
-And he blessed him and said,   “Blessed be Abram by God Most High,   Possessor of heaven and earth;
+And he blessed him and said, “Blessed be Abram by God Most High, Possessor of heaven and earth;
 ###### 20
 and blessed be God Most High, who has delivered your enemies into your hand!” And Abram gave him a tenth of everything.
 ###### 21

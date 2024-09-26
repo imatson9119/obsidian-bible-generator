@@ -9,7 +9,6 @@ aliases:
   - Heb_9
 tags:
   - bible/chapter
-  - bible/Hebrews/chapter
   - bible/Hebrews/9
   - bible/new testament
 cssclass:

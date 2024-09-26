@@ -9,7 +9,6 @@ aliases:
   - 2Co_10
 tags:
   - bible/chapter
-  - bible/2 Corinthians/chapter
   - bible/2 Corinthians/10
   - bible/new testament
 cssclass:

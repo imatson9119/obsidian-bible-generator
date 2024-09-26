@@ -9,7 +9,6 @@ aliases:
   - Psa_32
 tags:
   - bible/chapter
-  - bible/Psalm/chapter
   - bible/Psalm/32
   - bible/old testament
 cssclass:
@@ -21,7 +20,7 @@ cssclass:
 ###### 1
 Blessed is the one whose transgression is forgiven, whose sin is covered.
 ###### 2
-Blessed is the man against whom the Lord  counts no iniquity, and in whose spirit there is no deceit.
+Blessed is the man against whom the Lord counts no iniquity, and in whose spirit there is no deceit.
 ###### 3
 For when I kept silent, my bones wasted away through my groaning all day long.
 ###### 4

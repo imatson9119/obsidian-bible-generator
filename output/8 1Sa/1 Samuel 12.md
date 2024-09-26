@@ -9,7 +9,6 @@ aliases:
   - 1Sa_12
 tags:
   - bible/chapter
-  - bible/1 Samuel/chapter
   - bible/1 Samuel/12
   - bible/old testament
 cssclass:
@@ -33,13 +32,13 @@ And Samuel said to the people, “The Lord is witness, who appointed Moses and A
 ###### 7
 Now therefore stand still that I may plead with you before the Lord concerning all the righteous deeds of the Lord that he performed for you and for your fathers.
 ###### 8
-When Jacob went into Egypt, and the Egyptians oppressed them,  then your fathers cried out to the Lord and the Lord sent Moses and Aaron, who brought your fathers out of Egypt and made them dwell in this place.
+When Jacob went into Egypt, and the Egyptians oppressed them, then your fathers cried out to the Lord and the Lord sent Moses and Aaron, who brought your fathers out of Egypt and made them dwell in this place.
 ###### 9
-But they forgot the Lord their God. And he sold them into the hand of Sisera, commander of the army of Hazor,  and into the hand of the Philistines, and into the hand of the king of Moab. And they fought against them.
+But they forgot the Lord their God. And he sold them into the hand of Sisera, commander of the army of Hazor, and into the hand of the Philistines, and into the hand of the king of Moab. And they fought against them.
 ###### 10
-And they cried out to the Lord and said, ‘We have sinned, because we have forsaken the Lord  and have served the Baals and the Ashtaroth. But now deliver us out of the hand of our enemies, that we may serve you.’
+And they cried out to the Lord and said, ‘We have sinned, because we have forsaken the Lord and have served the Baals and the Ashtaroth. But now deliver us out of the hand of our enemies, that we may serve you.’
 ###### 11
-And the Lord sent Jerubbaal and Barak  and Jephthah and Samuel and delivered you out of the hand of your enemies on every side, and you lived in safety.
+And the Lord sent Jerubbaal and Barak and Jephthah and Samuel and delivered you out of the hand of your enemies on every side, and you lived in safety.
 ###### 12
 And when you saw that Nahash the king of the Ammonites came against you, you said to me, ‘No, but a king shall reign over us,’ when the Lord your God was your king.
 ###### 13

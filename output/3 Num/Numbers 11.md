@@ -9,7 +9,6 @@ aliases:
   - Num_11
 tags:
   - bible/chapter
-  - bible/Numbers/chapter
   - bible/Numbers/11
   - bible/old testament
 cssclass:

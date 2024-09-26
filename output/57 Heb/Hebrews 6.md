@@ -9,7 +9,6 @@ aliases:
   - Heb_6
 tags:
   - bible/chapter
-  - bible/Hebrews/chapter
   - bible/Hebrews/6
   - bible/new testament
 cssclass:
@@ -21,7 +20,7 @@ cssclass:
 ###### 1
 Therefore let us leave the elementary doctrine of Christ and go on to maturity, not laying again a foundation of repentance from dead works and of faith toward God,
 ###### 2
-and of instruction about washings,  the laying on of hands, the resurrection of the dead, and eternal judgment.
+and of instruction about washings, the laying on of hands, the resurrection of the dead, and eternal judgment.
 ###### 3
 And this we will do if God permits.
 ###### 4
@@ -47,7 +46,7 @@ For when God made a promise to Abraham, since he had no one greater by whom to s
 ###### 14
 saying, “Surely I will bless you and multiply you.”
 ###### 15
-And thus Abraham,  having patiently waited, obtained the promise.
+And thus Abraham, having patiently waited, obtained the promise.
 ###### 16
 For people swear by something greater than themselves, and in all their disputes an oath is final for confirmation.
 ###### 17

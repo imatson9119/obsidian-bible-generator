@@ -9,7 +9,6 @@ aliases:
   - Luk_17
 tags:
   - bible/chapter
-  - bible/Luke/chapter
   - bible/Luke/17
   - bible/new testament
 cssclass:
@@ -19,7 +18,7 @@ cssclass:
 # Luke 17
 
 ###### 1
-And he said to his disciples, “Temptations to sin  are sure to come, but woe to the one through whom they come!
+And he said to his disciples, “Temptations to sin are sure to come, but woe to the one through whom they come!
 ###### 2
 It would be better for him if a millstone were hung around his neck and he were cast into the sea than that he should cause one of these little ones to sin.
 ###### 3
@@ -31,17 +30,17 @@ The apostles said to the Lord, “Increase our faith!”
 ###### 6
 And the Lord said, “If you had faith like a grain of mustard seed, you could say to this mulberry tree, ‘Be uprooted and planted in the sea,’ and it would obey you.
 ###### 7
-“Will any one of you who has a servant    plowing or keeping sheep say to him when he has come in from the field, ‘Come at once and recline at table’?
+“Will any one of you who has a servant plowing or keeping sheep say to him when he has come in from the field, ‘Come at once and recline at table’?
 ###### 8
-Will he not rather say to him, ‘Prepare supper for me, and dress properly,  and serve me while I eat and drink, and afterward you will eat and drink’?
+Will he not rather say to him, ‘Prepare supper for me, and dress properly, and serve me while I eat and drink, and afterward you will eat and drink’?
 ###### 9
 Does he thank the servant because he did what was commanded?
 ###### 10
-So you also, when you have done all that you were commanded, say, ‘We are unworthy servants;  we have only done what was our duty.’”
+So you also, when you have done all that you were commanded, say, ‘We are unworthy servants; we have only done what was our duty.’”
 ###### 11
 On the way to Jerusalem he was passing along between Samaria and Galilee.
 ###### 12
-And as he entered a village, he was met by ten lepers,  who stood at a distance
+And as he entered a village, he was met by ten lepers, who stood at a distance
 ###### 13
 and lifted up their voices, saying, “Jesus, Master, have mercy on us.”
 ###### 14
@@ -89,6 +88,6 @@ I tell you, in that night there will be two in one bed. One will be taken and th
 ###### 35
 There will be two women grinding together. One will be taken and the other left.”
 ###### 37
-And they said to him, “Where, Lord?” He said to them, “Where the corpse  is, there the vultures  will gather.”
+And they said to him, “Where, Lord?” He said to them, “Where the corpse is, there the vultures will gather.”
 
 

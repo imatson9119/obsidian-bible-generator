@@ -9,7 +9,6 @@ aliases:
   - Pro_8
 tags:
   - bible/chapter
-  - bible/Proverbs/chapter
   - bible/Proverbs/8
   - bible/old testament
 cssclass:
@@ -43,7 +42,7 @@ for wisdom is better than jewels, and all that you may desire cannot compare wit
 ###### 12
 “I, wisdom, dwell with prudence, and I find knowledge and discretion.
 ###### 13
-The fear of the Lord is hatred of evil.   Pride and arrogance and the way of evil and perverted speech I hate.
+The fear of the Lord is hatred of evil. Pride and arrogance and the way of evil and perverted speech I hate.
 ###### 14
 I have counsel and sound wisdom; I have insight; I have strength.
 ###### 15
@@ -53,7 +52,7 @@ by me princes rule, and nobles, all who govern justly.
 ###### 17
 I love those who love me, and those who seek me diligently find me.
 ###### 18
-Riches and honor are with me,   enduring wealth and righteousness.
+Riches and honor are with me, enduring wealth and righteousness.
 ###### 19
 My fruit is better than gold, even fine gold, and my yield than choice silver.
 ###### 20
@@ -61,13 +60,13 @@ I walk in the way of righteousness, in the paths of justice,
 ###### 21
 granting an inheritance to those who love me, and filling their treasuries.
 ###### 22
-“The Lord  possessed me at the beginning of his work, the first of his acts of old.
+“The Lord possessed me at the beginning of his work, the first of his acts of old.
 ###### 23
 Ages ago I was set up, at the first, before the beginning of the earth.
 ###### 24
 When there were no depths I was brought forth, when there were no springs abounding with water.
 ###### 25
-Before the mountains had been shaped,   before the hills, I was brought forth,
+Before the mountains had been shaped, before the hills, I was brought forth,
 ###### 26
 before he had made the earth with its fields, or the first of the dust of the world.
 ###### 27
@@ -77,11 +76,11 @@ when he made firm the skies above, when he established the fountains of the deep
 ###### 29
 when he assigned to the sea its limit, so that the waters might not transgress his command, when he marked out the foundations of the earth,
 ###### 30
-then I was beside him, like a master workman, and I was daily his  delight, rejoicing before him always,
+then I was beside him, like a master workman, and I was daily his delight, rejoicing before him always,
 ###### 31
 rejoicing in his inhabited world and delighting in the children of man.
 ###### 32
-“And now, O sons, listen to me:   blessed are those who keep my ways.
+“And now, O sons, listen to me: blessed are those who keep my ways.
 ###### 33
 Hear instruction and be wise, and do not neglect it.
 ###### 34

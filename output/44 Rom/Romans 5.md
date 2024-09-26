@@ -9,7 +9,6 @@ aliases:
   - Rom_5
 tags:
   - bible/chapter
-  - bible/Romans/chapter
   - bible/Romans/5
   - bible/new testament
 cssclass:

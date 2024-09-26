@@ -9,7 +9,6 @@ aliases:
   - 1Ch_21
 tags:
   - bible/chapter
-  - bible/1 Chronicles/chapter
   - bible/1 Chronicles/21
   - bible/old testament
 cssclass:
@@ -69,7 +68,7 @@ But King David said to Ornan, “No, but I will buy them for the full price. I w
 ###### 25
 So David paid Ornan 600 shekels of gold by weight for the site.
 ###### 26
-And David built there an altar to the Lord and presented burnt offerings and peace offerings and called on the Lord, and the Lord  answered him with fire from heaven upon the altar of burnt offering.
+And David built there an altar to the Lord and presented burnt offerings and peace offerings and called on the Lord, and the Lord answered him with fire from heaven upon the altar of burnt offering.
 ###### 27
 Then the Lord commanded the angel, and he put his sword back into its sheath.
 ###### 28

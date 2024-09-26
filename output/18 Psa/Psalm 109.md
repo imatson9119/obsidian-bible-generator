@@ -9,7 +9,6 @@ aliases:
   - Psa_109
 tags:
   - bible/chapter
-  - bible/Psalm/chapter
   - bible/Psalm/109
   - bible/old testament
 cssclass:
@@ -37,7 +36,7 @@ May his days be few; may another take his office!
 ###### 9
 May his children be fatherless and his wife a widow!
 ###### 10
-May his children wander about and beg,   seeking food far from the ruins they inhabit!
+May his children wander about and beg, seeking food far from the ruins they inhabit!
 ###### 11
 May the creditor seize all that he has; may strangers plunder the fruits of his toil!
 ###### 12

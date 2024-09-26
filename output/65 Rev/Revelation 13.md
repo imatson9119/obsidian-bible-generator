@@ -9,7 +9,6 @@ aliases:
   - Rev_13
 tags:
   - bible/chapter
-  - bible/Revelation/chapter
   - bible/Revelation/13
   - bible/new testament
 cssclass:
@@ -37,7 +36,7 @@ and all who dwell on earth will worship it, everyone whose name has not been wri
 ###### 9
 If anyone has an ear, let him hear:
 ###### 10
-If anyone is to be taken captive, to captivity he goes;   if anyone is to be slain with the sword, with the sword must he be slain.   Here is a call for the endurance and faith of the saints.
+If anyone is to be taken captive, to captivity he goes; if anyone is to be slain with the sword, with the sword must he be slain. Here is a call for the endurance and faith of the saints.
 ###### 11
 Then I saw another beast rising out of the earth. It had two horns like a lamb and it spoke like a dragon.
 ###### 12
@@ -49,7 +48,7 @@ and by the signs that it is allowed to work in the presence of the beast it dece
 ###### 15
 And it was allowed to give breath to the image of the beast, so that the image of the beast might even speak and might cause those who would not worship the image of the beast to be slain.
 ###### 16
-Also it causes all, both small and great, both rich and poor, both free and slave,  to be marked on the right hand or the forehead,
+Also it causes all, both small and great, both rich and poor, both free and slave, to be marked on the right hand or the forehead,
 ###### 17
 so that no one can buy or sell unless he has the mark, that is, the name of the beast or the number of its name.
 ###### 18

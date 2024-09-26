@@ -9,7 +9,6 @@ aliases:
   - 2Ki_19
 tags:
   - bible/chapter
-  - bible/2 Kings/chapter
   - bible/2 Kings/19
   - bible/old testament
 cssclass:
@@ -59,7 +58,7 @@ So now, O Lord our God, save us, please, from his hand, that all the kingdoms of
 ###### 20
 Then Isaiah the son of Amoz sent to Hezekiah, saying, “Thus says the Lord, the God of Israel: Your prayer to me about Sennacherib king of Assyria I have heard.
 ###### 21
-This is the word that the Lord has spoken concerning him: “She despises you, she scorns you—   the virgin daughter of Zion; she wags her head behind you— the daughter of Jerusalem.
+This is the word that the Lord has spoken concerning him: “She despises you, she scorns you— the virgin daughter of Zion; she wags her head behind you— the daughter of Jerusalem.
 ###### 22
 “Whom have you mocked and reviled? Against whom have you raised your voice and lifted your eyes to the heights? Against the Holy One of Israel!
 ###### 23
@@ -71,7 +70,7 @@ I dug wells and drank foreign waters, and I dried up with the sole of my foot al
 ###### 26
 while their inhabitants, shorn of strength, are dismayed and confounded, and have become like plants of the field and like tender grass, like grass on the housetops, blighted before it is grown.
 ###### 27
-“But I know your sitting down   and your going out and coming in, and your raging against me.
+“But I know your sitting down and your going out and coming in, and your raging against me.
 ###### 28
 Because you have raged against me and your complacency has come into my ears, I will put my hook in your nose and my bit in your mouth, and I will turn you back on the way by which you came.
 ###### 29

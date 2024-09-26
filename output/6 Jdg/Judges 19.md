@@ -9,7 +9,6 @@ aliases:
   - Jdg_19
 tags:
   - bible/chapter
-  - bible/Judges/chapter
   - bible/Judges/19
   - bible/old testament
 cssclass:
@@ -53,7 +52,7 @@ And behold, an old man was coming from his work in the field at evening. The man
 ###### 17
 And he lifted up his eyes and saw the traveler in the open square of the city. And the old man said, “Where are you going? And where do you come from?”
 ###### 18
-And he said to him, “We are passing from Bethlehem in Judah to the remote parts of the hill country of Ephraim, from which I come. I went to Bethlehem in Judah, and I am going to the house of the Lord,  but no one has taken me into his house.
+And he said to him, “We are passing from Bethlehem in Judah to the remote parts of the hill country of Ephraim, from which I come. I went to Bethlehem in Judah, and I am going to the house of the Lord, but no one has taken me into his house.
 ###### 19
 We have straw and feed for our donkeys, with bread and wine for me and your female servant and the young man with your servants. There is no lack of anything.”
 ###### 20

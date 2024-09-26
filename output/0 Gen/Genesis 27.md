@@ -9,7 +9,6 @@ aliases:
   - Gen_27
 tags:
   - bible/chapter
-  - bible/Genesis/chapter
   - bible/Genesis/27
   - bible/old testament
 cssclass:
@@ -75,7 +74,7 @@ So he came near and kissed him. And Isaac smelled the smell of his garments and 
 ###### 28
 May God give you of the dew of heaven and of the fatness of the earth and plenty of grain and wine.
 ###### 29
-Let peoples serve you, and nations bow down to you.   Be lord over your brothers, and may your mother’s sons bow down to you.   Cursed be everyone who curses you, and blessed be everyone who blesses you!”
+Let peoples serve you, and nations bow down to you. Be lord over your brothers, and may your mother’s sons bow down to you. Cursed be everyone who curses you, and blessed be everyone who blesses you!”
 ###### 30
 As soon as Isaac had finished blessing Jacob, when Jacob had scarcely gone out from the presence of Isaac his father, Esau his brother came in from his hunting.
 ###### 31
@@ -97,7 +96,7 @@ Esau said to his father, “Have you but one blessing, my father? Bless me, even
 ###### 39
 Then Isaac his father answered and said to him: “Behold, away from the fatness of the earth shall your dwelling be, and away from the dew of heaven on high.
 ###### 40
-By your sword you shall live, and you shall serve your brother; but when you grow restless   you shall break his yoke from your neck.”
+By your sword you shall live, and you shall serve your brother; but when you grow restless you shall break his yoke from your neck.”
 ###### 41
 Now Esau hated Jacob because of the blessing with which his father had blessed him, and Esau said to himself, “The days of mourning for my father are approaching; then I will kill my brother Jacob.”
 ###### 42
@@ -109,6 +108,6 @@ and stay with him a while, until your brother’s fury turns away—
 ###### 45
 until your brother’s anger turns away from you, and he forgets what you have done to him. Then I will send and bring you from there. Why should I be bereft of you both in one day?”
 ###### 46
-Then Rebekah said to Isaac, “I loathe my life because of the Hittite women.  If Jacob marries one of the Hittite women like these, one of the women of the land, what good will my life be to me?”
+Then Rebekah said to Isaac, “I loathe my life because of the Hittite women. If Jacob marries one of the Hittite women like these, one of the women of the land, what good will my life be to me?”
 
 

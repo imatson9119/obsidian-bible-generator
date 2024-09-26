@@ -9,7 +9,6 @@ aliases:
   - Deu_34
 tags:
   - bible/chapter
-  - bible/Deuteronomy/chapter
   - bible/Deuteronomy/34
   - bible/old testament
 cssclass:

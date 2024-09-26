@@ -9,7 +9,6 @@ aliases:
   - 1Jo_2
 tags:
   - bible/chapter
-  - bible/1 John/chapter
   - bible/1 John/2
   - bible/new testament
 cssclass:
@@ -33,7 +32,7 @@ whoever says he abides in him ought to walk in the same way in which he walked.
 ###### 7
 Beloved, I am writing you no new commandment, but an old commandment that you had from the beginning. The old commandment is the word that you have heard.
 ###### 8
-At the same time, it is a new commandment that I am writing to you, which is true in him and in you, because  the darkness is passing away and the true light is already shining.
+At the same time, it is a new commandment that I am writing to you, which is true in him and in you, because the darkness is passing away and the true light is already shining.
 ###### 9
 Whoever says he is in the light and hates his brother is still in darkness.
 ###### 10

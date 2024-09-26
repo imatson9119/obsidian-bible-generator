@@ -9,7 +9,6 @@ aliases:
   - 2Ch_24
 tags:
   - bible/chapter
-  - bible/2 Chronicles/chapter
   - bible/2 Chronicles/24
   - bible/old testament
 cssclass:
@@ -35,7 +34,7 @@ For the sons of Athaliah, that wicked woman, had broken into the house of God, a
 ###### 8
 So the king commanded, and they made a chest and set it outside the gate of the house of the Lord.
 ###### 9
-And proclamation was made throughout Judah and Jerusalem to bring in for the Lord  the tax that Moses the servant of God laid on Israel in the wilderness.
+And proclamation was made throughout Judah and Jerusalem to bring in for the Lord the tax that Moses the servant of God laid on Israel in the wilderness.
 ###### 10
 And all the princes and all the people rejoiced and brought their tax and dropped it into the chest until they had finished.
 ###### 11

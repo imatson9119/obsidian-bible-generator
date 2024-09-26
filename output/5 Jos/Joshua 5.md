@@ -9,7 +9,6 @@ aliases:
   - Jos_5
 tags:
   - bible/chapter
-  - bible/Joshua/chapter
   - bible/Joshua/5
   - bible/old testament
 cssclass:
@@ -29,7 +28,7 @@ And this is the reason why Joshua circumcised them: all the males of the people 
 ###### 5
 Though all the people who came out had been circumcised, yet all the people who were born on the way in the wilderness after they had come out of Egypt had not been circumcised.
 ###### 6
-For the people of Israel walked forty years in the wilderness, until all the nation, the men of war who came out of Egypt, perished, because they did not obey the voice of the Lord; the Lord  swore to them that he would not let them see the land that the Lord had sworn to their fathers to give to us, a land flowing with milk and honey.
+For the people of Israel walked forty years in the wilderness, until all the nation, the men of war who came out of Egypt, perished, because they did not obey the voice of the Lord; the Lord swore to them that he would not let them see the land that the Lord had sworn to their fathers to give to us, a land flowing with milk and honey.
 ###### 7
 So it was their children, whom he raised up in their place, that Joshua circumcised. For they were uncircumcised, because they had not been circumcised on the way.
 ###### 8

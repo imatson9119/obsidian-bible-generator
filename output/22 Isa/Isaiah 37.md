@@ -9,7 +9,6 @@ aliases:
   - Isa_37
 tags:
   - bible/chapter
-  - bible/Isaiah/chapter
   - bible/Isaiah/37
   - bible/old testament
 cssclass:
@@ -61,11 +60,11 @@ So now, O Lord our God, save us from his hand, that all the kingdoms of the eart
 ###### 21
 Then Isaiah the son of Amoz sent to Hezekiah, saying, “Thus says the Lord, the God of Israel: Because you have prayed to me concerning Sennacherib king of Assyria,
 ###### 22
-this is the word that the Lord has spoken concerning him: “‘She despises you, she scorns you—   the virgin daughter of Zion; she wags her head behind you— the daughter of Jerusalem.
+this is the word that the Lord has spoken concerning him: “‘She despises you, she scorns you— the virgin daughter of Zion; she wags her head behind you— the daughter of Jerusalem.
 ###### 23
 “‘Whom have you mocked and reviled? Against whom have you raised your voice and lifted your eyes to the heights? Against the Holy One of Israel!
 ###### 24
-By your servants you have mocked the Lord, and you have said, With my many chariots I have gone up the heights of the mountains, to the far recesses of Lebanon,   to cut down its tallest cedars, its choicest cypresses, to come to its remotest height, its most fruitful forest.
+By your servants you have mocked the Lord, and you have said, With my many chariots I have gone up the heights of the mountains, to the far recesses of Lebanon, to cut down its tallest cedars, its choicest cypresses, to come to its remotest height, its most fruitful forest.
 ###### 25
 I dug wells and drank waters, to dry up with the sole of my foot all the streams of Egypt.
 ###### 26

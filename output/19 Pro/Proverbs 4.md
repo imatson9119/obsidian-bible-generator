@@ -9,7 +9,6 @@ aliases:
   - Pro_4
 tags:
   - bible/chapter
-  - bible/Proverbs/chapter
   - bible/Proverbs/4
   - bible/old testament
 cssclass:
@@ -23,13 +22,13 @@ Hear, O sons, a father’s instruction, and be attentive, that you may gain insi
 ###### 2
 for I give you good precepts; do not forsake my teaching.
 ###### 3
-When I was a son with my father,   tender, the only one in the sight of my mother,
+When I was a son with my father, tender, the only one in the sight of my mother,
 ###### 4
-he taught me and said to me,   “Let your heart hold fast my words;   keep my commandments, and live.
+he taught me and said to me, “Let your heart hold fast my words; keep my commandments, and live.
 ###### 5
 Get wisdom; get insight; do not forget, and do not turn away from the words of my mouth.
 ###### 6
-Do not forsake her, and she will keep you;   love her, and she will guard you.
+Do not forsake her, and she will keep you; love her, and she will guard you.
 ###### 7
 The beginning of wisdom is this: Get wisdom, and whatever you get, get insight.
 ###### 8
@@ -51,7 +50,7 @@ Avoid it; do not go on it; turn away from it and pass on.
 ###### 16
 For they cannot sleep unless they have done wrong; they are robbed of sleep unless they have made someone stumble.
 ###### 17
-For they eat the bread of wickedness   and drink the wine of violence.
+For they eat the bread of wickedness and drink the wine of violence.
 ###### 18
 But the path of the righteous is like the light of dawn, which shines brighter and brighter until full day.
 ###### 19
@@ -59,7 +58,7 @@ The way of the wicked is like deep darkness; they do not know over what they stu
 ###### 20
 My son, be attentive to my words; incline your ear to my sayings.
 ###### 21
-Let them not escape from your sight;   keep them within your heart.
+Let them not escape from your sight; keep them within your heart.
 ###### 22
 For they are life to those who find them, and healing to all their flesh.
 ###### 23
@@ -69,7 +68,7 @@ Put away from you crooked speech, and put devious talk far from you.
 ###### 25
 Let your eyes look directly forward, and your gaze be straight before you.
 ###### 26
-Ponder the path of your feet;   then all your ways will be sure.
+Ponder the path of your feet; then all your ways will be sure.
 ###### 27
 Do not swerve to the right or to the left; turn your foot away from evil.
 

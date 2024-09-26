@@ -9,7 +9,6 @@ aliases:
   - Num_5
 tags:
   - bible/chapter
-  - bible/Numbers/chapter
   - bible/Numbers/5
   - bible/old testament
 cssclass:
@@ -31,7 +30,7 @@ And the Lord spoke to Moses, saying,
 ###### 6
 “Speak to the people of Israel, When a man or woman commits any of the sins that people commit by breaking faith with the Lord, and that person realizes his guilt,
 ###### 7
-he shall confess his sin that he has committed.  And he shall make full restitution for his wrong, adding a fifth to it and giving it to him to whom he did the wrong.
+he shall confess his sin that he has committed. And he shall make full restitution for his wrong, adding a fifth to it and giving it to him to whom he did the wrong.
 ###### 8
 But if the man has no next of kin to whom restitution may be made for the wrong, the restitution for wrong shall go to the Lord for the priest, in addition to the ram of atonement with which atonement is made for him.
 ###### 9

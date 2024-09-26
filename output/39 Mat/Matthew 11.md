@@ -9,7 +9,6 @@ aliases:
   - Mat_11
 tags:
   - bible/chapter
-  - bible/Matthew/chapter
   - bible/Matthew/11
   - bible/new testament
 cssclass:
@@ -27,33 +26,33 @@ and said to him, “Are you the one who is to come, or shall we look for another
 ###### 4
 And Jesus answered them, “Go and tell John what you hear and see:
 ###### 5
-the blind receive their sight and the lame walk, lepers  are cleansed and the deaf hear, and the dead are raised up, and the poor have good news preached to them.
+the blind receive their sight and the lame walk, lepers are cleansed and the deaf hear, and the dead are raised up, and the poor have good news preached to them.
 ###### 6
 And blessed is the one who is not offended by me.”
 ###### 7
 As they went away, Jesus began to speak to the crowds concerning John: “What did you go out into the wilderness to see? A reed shaken by the wind?
 ###### 8
-What then did you go out to see? A man  dressed in soft clothing? Behold, those who wear soft clothing are in kings’ houses.
+What then did you go out to see? A man dressed in soft clothing? Behold, those who wear soft clothing are in kings’ houses.
 ###### 9
-What then did you go out to see? A prophet?  Yes, I tell you, and more than a prophet.
+What then did you go out to see? A prophet? Yes, I tell you, and more than a prophet.
 ###### 10
-This is he of whom it is written,     “‘Behold, I send my messenger before your face,   who will prepare your way before you.’
+This is he of whom it is written, “‘Behold, I send my messenger before your face, who will prepare your way before you.’
 ###### 11
 Truly, I say to you, among those born of women there has arisen no one greater than John the Baptist. Yet the one who is least in the kingdom of heaven is greater than he.
 ###### 12
-From the days of John the Baptist until now the kingdom of heaven has suffered violence,  and the violent take it by force.
+From the days of John the Baptist until now the kingdom of heaven has suffered violence, and the violent take it by force.
 ###### 13
 For all the Prophets and the Law prophesied until John,
 ###### 14
 and if you are willing to accept it, he is Elijah who is to come.
 ###### 15
-He who has ears to hear,  let him hear.
+He who has ears to hear, let him hear.
 ###### 16
 “But to what shall I compare this generation? It is like children sitting in the marketplaces and calling to their playmates,
 ###### 17
-“‘We played the flute for you, and you did not dance;   we sang a dirge, and you did not mourn.’
+“‘We played the flute for you, and you did not dance; we sang a dirge, and you did not mourn.’
 ###### 18
-For John came     neither eating     nor drinking, and they say, ‘He has a demon.’
+For John came neither eating nor drinking, and they say, ‘He has a demon.’
 ###### 19
 The Son of Man came eating and drinking, and they say, ‘Look at him! A glutton and a drunkard, a friend of tax collectors and sinners!’ Yet wisdom is justified by her deeds.”
 ###### 20

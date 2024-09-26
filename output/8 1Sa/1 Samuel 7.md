@@ -9,7 +9,6 @@ aliases:
   - 1Sa_7
 tags:
   - bible/chapter
-  - bible/1 Samuel/chapter
   - bible/1 Samuel/7
   - bible/old testament
 cssclass:
@@ -23,13 +22,13 @@ And the men of Kiriath-jearim came and took up the ark of the Lord and brought i
 ###### 2
 From the day that the ark was lodged at Kiriath-jearim, a long time passed, some twenty years, and all the house of Israel lamented after the Lord.
 ###### 3
-And Samuel said to all the house of Israel, “If you are returning to the Lord with all your heart, then put away the foreign gods and the Ashtaroth from among you and direct your heart to the Lord  and serve him only, and he will deliver you out of the hand of the Philistines.”
+And Samuel said to all the house of Israel, “If you are returning to the Lord with all your heart, then put away the foreign gods and the Ashtaroth from among you and direct your heart to the Lord and serve him only, and he will deliver you out of the hand of the Philistines.”
 ###### 4
 So the people of Israel put away the Baals and the Ashtaroth, and they served the Lord only.
 ###### 5
 Then Samuel said, “Gather all Israel at Mizpah, and I will pray to the Lord for you.”
 ###### 6
-So they gathered at Mizpah and drew water and poured it out before the Lord  and fasted on that day and said there, “We have sinned against the Lord.” And Samuel judged the people of Israel at Mizpah.
+So they gathered at Mizpah and drew water and poured it out before the Lord and fasted on that day and said there, “We have sinned against the Lord.” And Samuel judged the people of Israel at Mizpah.
 ###### 7
 Now when the Philistines heard that the people of Israel had gathered at Mizpah, the lords of the Philistines went up against Israel. And when the people of Israel heard of it, they were afraid of the Philistines.
 ###### 8

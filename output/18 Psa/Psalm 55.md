@@ -9,7 +9,6 @@ aliases:
   - Psa_55
 tags:
   - bible/chapter
-  - bible/Psalm/chapter
   - bible/Psalm/55
   - bible/old testament
 cssclass:
@@ -25,7 +24,7 @@ Attend to me, and answer me; I am restless in my complaint and I moan,
 ###### 3
 because of the noise of the enemy, because of the oppression of the wicked. For they drop trouble upon me, and in anger they bear a grudge against me.
 ###### 4
-My heart is in anguish within me;   the terrors of death have fallen upon me.
+My heart is in anguish within me; the terrors of death have fallen upon me.
 ###### 5
 Fear and trembling come upon me, and horror overwhelms me.
 ###### 6
@@ -39,7 +38,7 @@ Destroy, O Lord, divide their tongues; for I see violence and strife in the city
 ###### 10
 Day and night they go around it on its walls, and iniquity and trouble are within it;
 ###### 11
-ruin is in its midst;   oppression and fraud do not depart from its marketplace.
+ruin is in its midst; oppression and fraud do not depart from its marketplace.
 ###### 12
 For it is not an enemy who taunts me— then I could bear it; it is not an adversary who deals insolently with me— then I could hide from him.
 ###### 13
@@ -57,11 +56,11 @@ He redeems my soul in safety from the battle that I wage, for many are arrayed a
 ###### 19
 God will give ear and humble them, he who is enthroned from of old, Selah because they do not change and do not fear God.
 ###### 20
-My companion  stretched out his hand against his friends; he violated his covenant.
+My companion stretched out his hand against his friends; he violated his covenant.
 ###### 21
 His speech was smooth as butter, yet war was in his heart; his words were softer than oil, yet they were drawn swords.
 ###### 22
-Cast your burden on the Lord, and he will sustain you;   he will never permit the righteous to be moved.
+Cast your burden on the Lord, and he will sustain you; he will never permit the righteous to be moved.
 ###### 23
 But you, O God, will cast them down into the pit of destruction; men of blood and treachery shall not live out half their days. But I will trust in you.
 

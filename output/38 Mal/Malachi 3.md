@@ -9,7 +9,6 @@ aliases:
   - Mal_3
 tags:
   - bible/chapter
-  - bible/Malachi/chapter
   - bible/Malachi/3
   - bible/old testament
 cssclass:
@@ -49,7 +48,7 @@ You have said, ‘It is vain to serve God. What is the profit of our keeping his
 ###### 15
 And now we call the arrogant blessed. Evildoers not only prosper but they put God to the test and they escape.’”
 ###### 16
-Then those who feared the Lord  spoke with one another. The Lord paid attention and heard them, and a book of remembrance was written before him of those who feared the Lord and esteemed his name.
+Then those who feared the Lord spoke with one another. The Lord paid attention and heard them, and a book of remembrance was written before him of those who feared the Lord and esteemed his name.
 ###### 17
 “They shall be mine, says the Lord of hosts, in the day when I make up my treasured possession, and I will spare them as a man spares his son who serves him.
 ###### 18

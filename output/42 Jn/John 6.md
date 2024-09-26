@@ -9,7 +9,6 @@ aliases:
   - Jn_6
 tags:
   - bible/chapter
-  - bible/John/chapter
   - bible/John/6
   - bible/new testament
 cssclass:
@@ -37,7 +36,7 @@ One of his disciples, Andrew, Simon Peter’s brother, said to him,
 ###### 9
 “There is a boy here who has five barley loaves and two fish, but what are they for so many?”
 ###### 10
-Jesus said, “Have the people sit down.”  Now there was much grass in the place. So the men sat down, about five thousand in number.
+Jesus said, “Have the people sit down.” Now there was much grass in the place. So the men sat down, about five thousand in number.
 ###### 11
 Jesus then took the loaves, and when he had given thanks, he distributed them to those who were seated. So also the fish, as much as they wanted.
 ###### 12
@@ -133,7 +132,7 @@ Whoever feeds on my flesh and drinks my blood abides in me, and I in him.
 ###### 57
 As the living Father sent me, and I live because of the Father, so whoever feeds on me, he also will live because of me.
 ###### 58
-This is the bread that came down from heaven, not like the bread  the fathers ate, and died. Whoever feeds on this bread will live forever.”
+This is the bread that came down from heaven, not like the bread the fathers ate, and died. Whoever feeds on this bread will live forever.”
 ###### 59
 Jesus said these things in the synagogue, as he taught at Capernaum.
 ###### 60

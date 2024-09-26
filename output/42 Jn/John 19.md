@@ -9,7 +9,6 @@ aliases:
   - Jn_19
 tags:
   - bible/chapter
-  - bible/John/chapter
   - bible/John/19
   - bible/new testament
 cssclass:
@@ -65,7 +64,7 @@ Pilate answered, “What I have written I have written.”
 ###### 23
 When the soldiers had crucified Jesus, they took his garments and divided them into four parts, one part for each soldier; also his tunic. But the tunic was seamless, woven in one piece from top to bottom,
 ###### 24
-so they said to one another, “Let us not tear it, but cast lots for it to see whose it shall be.” This was to fulfill the Scripture which says,   “They divided my garments among them, and for my clothing they cast lots.” So the soldiers did these things,
+so they said to one another, “Let us not tear it, but cast lots for it to see whose it shall be.” This was to fulfill the Scripture which says, “They divided my garments among them, and for my clothing they cast lots.” So the soldiers did these things,
 ###### 25
 but standing by the cross of Jesus were his mother and his mother’s sister, Mary the wife of Clopas, and Mary Magdalene.
 ###### 26

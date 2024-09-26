@@ -9,7 +9,6 @@ aliases:
   - 1Pe_1
 tags:
   - bible/chapter
-  - bible/1 Peter/chapter
   - bible/1 Peter/1
   - bible/new testament
 cssclass:
@@ -39,7 +38,7 @@ obtaining the outcome of your faith, the salvation of your souls.
 ###### 10
 Concerning this salvation, the prophets who prophesied about the grace that was to be yours searched and inquired carefully,
 ###### 11
-inquiring what person or time  the Spirit of Christ in them was indicating when he predicted the sufferings of Christ and the subsequent glories.
+inquiring what person or time the Spirit of Christ in them was indicating when he predicted the sufferings of Christ and the subsequent glories.
 ###### 12
 It was revealed to them that they were serving not themselves but you, in the things that have now been announced to you through those who preached the good news to you by the Holy Spirit sent from heaven, things into which angels long to look.
 ###### 13
@@ -65,7 +64,7 @@ Having purified your souls by your obedience to the truth for a sincere brotherl
 ###### 23
 since you have been born again, not of perishable seed but of imperishable, through the living and abiding word of God;
 ###### 24
-for   “All flesh is like grass and all its glory like the flower of grass. The grass withers, and the flower falls,
+for “All flesh is like grass and all its glory like the flower of grass. The grass withers, and the flower falls,
 ###### 25
 but the word of the Lord remains forever.” And this word is the good news that was preached to you.
 

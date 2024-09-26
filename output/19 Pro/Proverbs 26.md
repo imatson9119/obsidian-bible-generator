@@ -9,7 +9,6 @@ aliases:
   - Pro_26
 tags:
   - bible/chapter
-  - bible/Proverbs/chapter
   - bible/Proverbs/26
   - bible/old testament
 cssclass:
@@ -21,7 +20,7 @@ cssclass:
 ###### 1
 Like snow in summer or rain in harvest, so honor is not fitting for a fool.
 ###### 2
-Like a sparrow in its flitting, like a swallow in its flying,   a curse that is causeless does not alight.
+Like a sparrow in its flitting, like a swallow in its flying, a curse that is causeless does not alight.
 ###### 3
 A whip for the horse, a bridle for the donkey, and a rod for the back of fools.
 ###### 4
@@ -41,7 +40,7 @@ Like an archer who wounds everyone is one who hires a passing fool or drunkard.
 ###### 11
 Like a dog that returns to his vomit is a fool who repeats his folly.
 ###### 12
-Do you see a man who is wise in his own eyes?   There is more hope for a fool than for him.
+Do you see a man who is wise in his own eyes? There is more hope for a fool than for him.
 ###### 13
 The sluggard says, “There is a lion in the road! There is a lion in the streets!”
 ###### 14
@@ -49,7 +48,7 @@ As a door turns on its hinges, so does a sluggard on his bed.
 ###### 15
 The sluggard buries his hand in the dish; it wears him out to bring it back to his mouth.
 ###### 16
-The sluggard is wiser in his own eyes   than seven men who can answer sensibly.
+The sluggard is wiser in his own eyes than seven men who can answer sensibly.
 ###### 17
 Whoever meddles in a quarrel not his own is like one who takes a passing dog by the ears.
 ###### 18

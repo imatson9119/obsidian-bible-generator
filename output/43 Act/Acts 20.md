@@ -9,7 +9,6 @@ aliases:
   - Act_20
 tags:
   - bible/chapter
-  - bible/Acts/chapter
   - bible/Acts/20
   - bible/new testament
 cssclass:
@@ -53,7 +52,7 @@ For Paul had decided to sail past Ephesus, so that he might not have to spend ti
 ###### 17
 Now from Miletus he sent to Ephesus and called the elders of the church to come to him.
 ###### 18
-And when they came to him, he said to them:   “You yourselves know how I lived among you the whole time from the first day that I set foot in Asia,
+And when they came to him, he said to them: “You yourselves know how I lived among you the whole time from the first day that I set foot in Asia,
 ###### 19
 serving the Lord with all humility and with tears and with trials that happened to me through the plots of the Jews;
 ###### 20

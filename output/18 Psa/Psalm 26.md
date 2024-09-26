@@ -9,7 +9,6 @@ aliases:
   - Psa_26
 tags:
   - bible/chapter
-  - bible/Psalm/chapter
   - bible/Psalm/26
   - bible/old testament
 cssclass:

@@ -9,7 +9,6 @@ aliases:
   - Jer_41
 tags:
   - bible/chapter
-  - bible/Jeremiah/chapter
   - bible/Jeremiah/41
   - bible/old testament
 cssclass:

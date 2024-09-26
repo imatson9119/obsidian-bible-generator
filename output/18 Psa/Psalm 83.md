@@ -9,7 +9,6 @@ aliases:
   - Psa_83
 tags:
   - bible/chapter
-  - bible/Psalm/chapter
   - bible/Psalm/83
   - bible/old testament
 cssclass:
@@ -19,7 +18,7 @@ cssclass:
 # Psalm 83
 
 ###### 1
-O God, do not keep silence;   do not hold your peace or be still, O God!
+O God, do not keep silence; do not hold your peace or be still, O God!
 ###### 2
 For behold, your enemies make an uproar; those who hate you have raised their heads.
 ###### 3
@@ -29,9 +28,9 @@ They say, “Come, let us wipe them out as a nation; let the name of Israel be r
 ###### 5
 For they conspire with one accord; against you they make a covenant—
 ###### 6
-the tents of Edom and the Ishmaelites,   Moab and the Hagrites,
+the tents of Edom and the Ishmaelites, Moab and the Hagrites,
 ###### 7
-Gebal and Ammon and Amalek,   Philistia with the inhabitants of Tyre;
+Gebal and Ammon and Amalek, Philistia with the inhabitants of Tyre;
 ###### 8
 Asshur also has joined them; they are the strong arm of the children of Lot. Selah
 ###### 9
@@ -53,6 +52,6 @@ Fill their faces with shame, that they may seek your name, O Lord.
 ###### 17
 Let them be put to shame and dismayed forever; let them perish in disgrace,
 ###### 18
-that they may know that you alone,   whose name is the Lord, are the Most High over all the earth.
+that they may know that you alone, whose name is the Lord, are the Most High over all the earth.
 
 

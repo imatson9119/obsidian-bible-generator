@@ -9,7 +9,6 @@ aliases:
   - Ecc_8
 tags:
   - bible/chapter
-  - bible/Ecclesiastes/chapter
   - bible/Ecclesiastes/8
   - bible/old testament
 cssclass:
@@ -19,7 +18,7 @@ cssclass:
 # Ecclesiastes 8
 
 ###### 1
-Who is like the wise? And who knows the interpretation of a thing?   A man’s wisdom makes his face shine, and the hardness of his face is changed.
+Who is like the wise? And who knows the interpretation of a thing? A man’s wisdom makes his face shine, and the hardness of his face is changed.
 ###### 2
 I say: Keep the king’s command, because of God’s oath to him.
 ###### 3

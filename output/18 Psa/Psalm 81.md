@@ -9,7 +9,6 @@ aliases:
   - Psa_81
 tags:
   - bible/chapter
-  - bible/Psalm/chapter
   - bible/Psalm/81
   - bible/old testament
 cssclass:
@@ -19,15 +18,15 @@ cssclass:
 # Psalm 81
 
 ###### 1
-Sing aloud to God our strength;   shout for joy to the God of Jacob!
+Sing aloud to God our strength; shout for joy to the God of Jacob!
 ###### 2
-Raise a song; sound the tambourine,   the sweet lyre with the harp.
+Raise a song; sound the tambourine, the sweet lyre with the harp.
 ###### 3
 Blow the trumpet at the new moon, at the full moon, on our feast day.
 ###### 4
 For it is a statute for Israel, a rule of the God of Jacob.
 ###### 5
-He made it a decree in Joseph when he went out over the land of Egypt.   I hear a language I had not known:
+He made it a decree in Joseph when he went out over the land of Egypt. I hear a language I had not known:
 ###### 6
 “I relieved your shoulder of the burden; your hands were freed from the basket.
 ###### 7
@@ -37,7 +36,7 @@ Hear, O my people, while I admonish you! O Israel, if you would but listen to me
 ###### 9
 There shall be no strange god among you; you shall not bow down to a foreign god.
 ###### 10
-I am the Lord your God, who brought you up out of the land of Egypt.   Open your mouth wide, and I will fill it.
+I am the Lord your God, who brought you up out of the land of Egypt. Open your mouth wide, and I will fill it.
 ###### 11
 “But my people did not listen to my voice; Israel would not submit to me.
 ###### 12

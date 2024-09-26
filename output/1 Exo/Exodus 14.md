@@ -9,7 +9,6 @@ aliases:
   - Exo_14
 tags:
   - bible/chapter
-  - bible/Exodus/chapter
   - bible/Exodus/14
   - bible/old testament
 cssclass:
@@ -71,13 +70,13 @@ clogging their chariot wheels so that they drove heavily. And the Egyptians said
 ###### 26
 Then the Lord said to Moses, “Stretch out your hand over the sea, that the water may come back upon the Egyptians, upon their chariots, and upon their horsemen.”
 ###### 27
-So Moses stretched out his hand over the sea, and the sea returned to its normal course when the morning appeared. And as the Egyptians fled into it, the Lord  threw the Egyptians into the midst of the sea.
+So Moses stretched out his hand over the sea, and the sea returned to its normal course when the morning appeared. And as the Egyptians fled into it, the Lord threw the Egyptians into the midst of the sea.
 ###### 28
 The waters returned and covered the chariots and the horsemen; of all the host of Pharaoh that had followed them into the sea, not one of them remained.
 ###### 29
 But the people of Israel walked on dry ground through the sea, the waters being a wall to them on their right hand and on their left.
 ###### 30
-Thus the Lord  saved Israel that day from the hand of the Egyptians, and Israel saw the Egyptians dead on the seashore.
+Thus the Lord saved Israel that day from the hand of the Egyptians, and Israel saw the Egyptians dead on the seashore.
 ###### 31
 Israel saw the great power that the Lord used against the Egyptians, so the people feared the Lord, and they believed in the Lord and in his servant Moses.
 

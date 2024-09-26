@@ -9,7 +9,6 @@ aliases:
   - Psa_108
 tags:
   - bible/chapter
-  - bible/Psalm/chapter
   - bible/Psalm/108
   - bible/old testament
 cssclass:
@@ -35,7 +34,7 @@ God has promised in his holiness: “With exultation I will divide up Shechem an
 ###### 8
 Gilead is mine; Manasseh is mine; Ephraim is my helmet, Judah my scepter.
 ###### 9
-Moab is my washbasin; upon Edom I cast my shoe;   over Philistia I shout in triumph.”
+Moab is my washbasin; upon Edom I cast my shoe; over Philistia I shout in triumph.”
 ###### 10
 Who will bring me to the fortified city? Who will lead me to Edom?
 ###### 11

@@ -9,7 +9,6 @@ aliases:
   - Jos_22
 tags:
   - bible/chapter
-  - bible/Joshua/chapter
   - bible/Joshua/22
   - bible/old testament
 cssclass:
@@ -75,7 +74,7 @@ but to be a witness between us and you, and between our generations after us, th
 ###### 28
 And we thought, ‘If this should be said to us or to our descendants in time to come, we should say, “Behold, the copy of the altar of the Lord, which our fathers made, not for burnt offerings, nor for sacrifice, but to be a witness between us and you.”’
 ###### 29
-Far be it from us that we should rebel against the Lord and turn away this day from following the Lord  by building an altar for burnt offering, grain offering, or sacrifice, other than the altar of the Lord our God that stands before his tabernacle!”
+Far be it from us that we should rebel against the Lord and turn away this day from following the Lord by building an altar for burnt offering, grain offering, or sacrifice, other than the altar of the Lord our God that stands before his tabernacle!”
 ###### 30
 When Phinehas the priest and the chiefs of the congregation, the heads of the families of Israel who were with him, heard the words that the people of Reuben and the people of Gad and the people of Manasseh spoke, it was good in their eyes.
 ###### 31

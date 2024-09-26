@@ -9,7 +9,6 @@ aliases:
   - Jer_39
 tags:
   - bible/chapter
-  - bible/Jeremiah/chapter
   - bible/Jeremiah/39
   - bible/old testament
 cssclass:

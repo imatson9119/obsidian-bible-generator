@@ -9,7 +9,6 @@ aliases:
   - Jdg_2
 tags:
   - bible/chapter
-  - bible/Judges/chapter
   - bible/Judges/2
   - bible/old testament
 cssclass:
@@ -43,7 +42,7 @@ And the people of Israel did what was evil in the sight of the Lord and served t
 ###### 12
 And they abandoned the Lord, the God of their fathers, who had brought them out of the land of Egypt. They went after other gods, from among the gods of the peoples who were around them, and bowed down to them. And they provoked the Lord to anger.
 ###### 13
-They abandoned the Lord  and served the Baals and the Ashtaroth.
+They abandoned the Lord and served the Baals and the Ashtaroth.
 ###### 14
 So the anger of the Lord was kindled against Israel, and he gave them over to plunderers, who plundered them. And he sold them into the hand of their surrounding enemies, so that they could no longer withstand their enemies.
 ###### 15

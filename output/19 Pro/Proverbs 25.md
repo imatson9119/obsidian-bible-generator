@@ -9,7 +9,6 @@ aliases:
   - Pro_25
 tags:
   - bible/chapter
-  - bible/Proverbs/chapter
   - bible/Proverbs/25
   - bible/old testament
 cssclass:

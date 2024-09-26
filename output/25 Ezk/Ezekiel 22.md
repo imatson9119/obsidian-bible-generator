@@ -9,7 +9,6 @@ aliases:
   - Ezk_22
 tags:
   - bible/chapter
-  - bible/Ezekiel/chapter
   - bible/Ezekiel/22
   - bible/old testament
 cssclass:

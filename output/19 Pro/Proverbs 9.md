@@ -9,7 +9,6 @@ aliases:
   - Pro_9
 tags:
   - bible/chapter
-  - bible/Proverbs/chapter
   - bible/Proverbs/9
   - bible/old testament
 cssclass:
@@ -25,15 +24,15 @@ She has slaughtered her beasts; she has mixed her wine; she has also set her tab
 ###### 3
 She has sent out her young women to call from the highest places in the town,
 ###### 4
-“Whoever is simple, let him turn in here!”   To him who lacks sense she says,
+“Whoever is simple, let him turn in here!” To him who lacks sense she says,
 ###### 5
 “Come, eat of my bread and drink of the wine I have mixed.
 ###### 6
-Leave your simple ways, and live,   and walk in the way of insight.”
+Leave your simple ways, and live, and walk in the way of insight.”
 ###### 7
 Whoever corrects a scoffer gets himself abuse, and he who reproves a wicked man incurs injury.
 ###### 8
-Do not reprove a scoffer, or he will hate you;   reprove a wise man, and he will love you.
+Do not reprove a scoffer, or he will hate you; reprove a wise man, and he will love you.
 ###### 9
 Give instruction to a wise man, and he will be still wiser; teach a righteous man, and he will increase in learning.
 ###### 10

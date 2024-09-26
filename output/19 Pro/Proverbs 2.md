@@ -9,7 +9,6 @@ aliases:
   - Pro_2
 tags:
   - bible/chapter
-  - bible/Proverbs/chapter
   - bible/Proverbs/2
   - bible/old testament
 cssclass:
@@ -47,7 +46,7 @@ who forsake the paths of uprightness to walk in the ways of darkness,
 ###### 14
 who rejoice in doing evil and delight in the perverseness of evil,
 ###### 15
-men whose paths are crooked,   and who are devious in their ways.
+men whose paths are crooked, and who are devious in their ways.
 ###### 16
 So you will be delivered from the forbidden woman, from the adulteress with her smooth words,
 ###### 17

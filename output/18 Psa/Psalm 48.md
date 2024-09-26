@@ -9,7 +9,6 @@ aliases:
   - Psa_48
 tags:
   - bible/chapter
-  - bible/Psalm/chapter
   - bible/Psalm/48
   - bible/old testament
 cssclass:
@@ -21,7 +20,7 @@ cssclass:
 ###### 1
 Great is the Lord and greatly to be praised in the city of our God! His holy mountain,
 ###### 2
-beautiful in elevation, is the joy of all the earth, Mount Zion, in the far north,   the city of the great King.
+beautiful in elevation, is the joy of all the earth, Mount Zion, in the far north, the city of the great King.
 ###### 3
 Within her citadels God has made himself known as a fortress.
 ###### 4
@@ -43,7 +42,7 @@ Let Mount Zion be glad! Let the daughters of Judah rejoice because of your judgm
 ###### 12
 Walk about Zion, go around her, number her towers,
 ###### 13
-consider well her ramparts, go through her citadels,   that you may tell the next generation
+consider well her ramparts, go through her citadels, that you may tell the next generation
 ###### 14
 that this is God, our God forever and ever. He will guide us forever.
 

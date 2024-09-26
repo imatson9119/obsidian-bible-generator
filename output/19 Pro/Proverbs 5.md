@@ -9,7 +9,6 @@ aliases:
   - Pro_5
 tags:
   - bible/chapter
-  - bible/Proverbs/chapter
   - bible/Proverbs/5
   - bible/old testament
 cssclass:
@@ -19,13 +18,13 @@ cssclass:
 # Proverbs 5
 
 ###### 1
-My son, be attentive to my wisdom;   incline your ear to my understanding,
+My son, be attentive to my wisdom; incline your ear to my understanding,
 ###### 2
 that you may keep discretion, and your lips may guard knowledge.
 ###### 3
 For the lips of a forbidden woman drip honey, and her speech is smoother than oil,
 ###### 4
-but in the end she is bitter as wormwood,   sharp as a two-edged sword.
+but in the end she is bitter as wormwood, sharp as a two-edged sword.
 ###### 5
 Her feet go down to death; her steps follow the path to Sheol;
 ###### 6

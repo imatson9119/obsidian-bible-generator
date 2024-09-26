@@ -9,7 +9,6 @@ aliases:
   - Jer_34
 tags:
   - bible/chapter
-  - bible/Jeremiah/chapter
   - bible/Jeremiah/34
   - bible/old testament
 cssclass:
@@ -53,7 +52,7 @@ but then you turned around and profaned my name when each of you took back his m
 ###### 17
 “Therefore, thus says the Lord: You have not obeyed me by proclaiming liberty, every one to his brother and to his neighbor; behold, I proclaim to you liberty to the sword, to pestilence, and to famine, declares the Lord. I will make you a horror to all the kingdoms of the earth.
 ###### 18
-And the men who transgressed my covenant and did not keep the terms of the covenant that they made before me, I will make them like  the calf that they cut in two and passed between its parts—
+And the men who transgressed my covenant and did not keep the terms of the covenant that they made before me, I will make them like the calf that they cut in two and passed between its parts—
 ###### 19
 the officials of Judah, the officials of Jerusalem, the eunuchs, the priests, and all the people of the land who passed between the parts of the calf.
 ###### 20

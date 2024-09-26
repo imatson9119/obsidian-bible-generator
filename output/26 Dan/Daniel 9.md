@@ -9,7 +9,6 @@ aliases:
   - Dan_9
 tags:
   - bible/chapter
-  - bible/Daniel/chapter
   - bible/Daniel/9
   - bible/old testament
 cssclass:
@@ -51,7 +50,7 @@ And now, O Lord our God, who brought your people out of the land of Egypt with a
 ###### 16
 “O Lord, according to all your righteous acts, let your anger and your wrath turn away from your city Jerusalem, your holy hill, because for our sins, and for the iniquities of our fathers, Jerusalem and your people have become a byword among all who are around us.
 ###### 17
-Now therefore, O our God, listen to the prayer of your servant and to his pleas for mercy, and for your own sake, O Lord,  make your face to shine upon your sanctuary, which is desolate.
+Now therefore, O our God, listen to the prayer of your servant and to his pleas for mercy, and for your own sake, O Lord, make your face to shine upon your sanctuary, which is desolate.
 ###### 18
 O my God, incline your ear and hear. Open your eyes and see our desolations, and the city that is called by your name. For we do not present our pleas before you because of our righteousness, but because of your great mercy.
 ###### 19

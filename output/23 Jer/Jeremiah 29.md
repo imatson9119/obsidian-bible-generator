@@ -9,7 +9,6 @@ aliases:
   - Jer_29
 tags:
   - bible/chapter
-  - bible/Jeremiah/chapter
   - bible/Jeremiah/29
   - bible/old testament
 cssclass:
@@ -69,7 +68,7 @@ To Shemaiah of Nehelam you shall say:
 ###### 25
 “Thus says the Lord of hosts, the God of Israel: You have sent letters in your name to all the people who are in Jerusalem, and to Zephaniah the son of Maaseiah the priest, and to all the priests, saying,
 ###### 26
-‘The Lord has made you priest instead of Jehoiada the priest, to have charge in the house of the Lord  over every madman who prophesies, to put him in the stocks and neck irons.
+‘The Lord has made you priest instead of Jehoiada the priest, to have charge in the house of the Lord over every madman who prophesies, to put him in the stocks and neck irons.
 ###### 27
 Now why have you not rebuked Jeremiah of Anathoth who is prophesying to you?
 ###### 28

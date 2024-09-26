@@ -9,7 +9,6 @@ aliases:
   - Jud_1
 tags:
   - bible/chapter
-  - bible/Jude/chapter
   - bible/Jude/1
   - bible/new testament
 cssclass:
@@ -19,7 +18,7 @@ cssclass:
 # Jude 1
 
 ###### 1
-Jude, a servant of Jesus Christ and brother of James,   To those who are called, beloved in God the Father and kept for Jesus Christ:
+Jude, a servant of Jesus Christ and brother of James, To those who are called, beloved in God the Father and kept for Jesus Christ:
 ###### 2
 May mercy, peace, and love be multiplied to you.
 ###### 3
@@ -41,7 +40,7 @@ But these people blaspheme all that they do not understand, and they are destroy
 ###### 11
 Woe to them! For they walked in the way of Cain and abandoned themselves for the sake of gain to Balaam’s error and perished in Korah’s rebellion.
 ###### 12
-These are hidden reefs  at your love feasts, as they feast with you without fear, shepherds feeding themselves; waterless clouds, swept along by winds; fruitless trees in late autumn, twice dead, uprooted;
+These are hidden reefs at your love feasts, as they feast with you without fear, shepherds feeding themselves; waterless clouds, swept along by winds; fruitless trees in late autumn, twice dead, uprooted;
 ###### 13
 wild waves of the sea, casting up the foam of their own shame; wandering stars, for whom the gloom of utter darkness has been reserved forever.
 ###### 14

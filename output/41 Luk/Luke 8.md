@@ -9,7 +9,6 @@ aliases:
   - Luk_8
 tags:
   - bible/chapter
-  - bible/Luke/chapter
   - bible/Luke/8
   - bible/new testament
 cssclass:

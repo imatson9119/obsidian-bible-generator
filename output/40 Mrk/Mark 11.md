@@ -9,7 +9,6 @@ aliases:
   - Mrk_11
 tags:
   - bible/chapter
-  - bible/Mark/chapter
   - bible/Mark/11
   - bible/new testament
 cssclass:
@@ -65,7 +64,7 @@ And Jesus answered them, “Have faith in God.
 ###### 23
 Truly, I say to you, whoever says to this mountain, ‘Be taken up and thrown into the sea,’ and does not doubt in his heart, but believes that what he says will come to pass, it will be done for him.
 ###### 24
-Therefore I tell you, whatever you ask in prayer, believe that you have received  it, and it will be yours.
+Therefore I tell you, whatever you ask in prayer, believe that you have received it, and it will be yours.
 ###### 25
 And whenever you stand praying, forgive, if you have anything against anyone, so that your Father also who is in heaven may forgive you your trespasses.”
 ###### 27

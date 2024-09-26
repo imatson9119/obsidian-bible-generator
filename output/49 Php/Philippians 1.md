@@ -9,7 +9,6 @@ aliases:
   - Php_1
 tags:
   - bible/chapter
-  - bible/Philippians/chapter
   - bible/Philippians/1
   - bible/new testament
 cssclass:

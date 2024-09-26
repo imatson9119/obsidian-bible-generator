@@ -9,7 +9,6 @@ aliases:
   - 2Ch_3
 tags:
   - bible/chapter
-  - bible/2 Chronicles/chapter
   - bible/2 Chronicles/3
   - bible/old testament
 cssclass:

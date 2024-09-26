@@ -9,7 +9,6 @@ aliases:
   - Psa_123
 tags:
   - bible/chapter
-  - bible/Psalm/chapter
   - bible/Psalm/123
   - bible/old testament
 cssclass:

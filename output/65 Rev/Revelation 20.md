@@ -9,7 +9,6 @@ aliases:
   - Rev_20
 tags:
   - bible/chapter
-  - bible/Revelation/chapter
   - bible/Revelation/20
   - bible/new testament
 cssclass:

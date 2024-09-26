@@ -9,7 +9,6 @@ aliases:
   - Psa_116
 tags:
   - bible/chapter
-  - bible/Psalm/chapter
   - bible/Psalm/116
   - bible/old testament
 cssclass:
@@ -35,11 +34,11 @@ Return, O my soul, to your rest; for the Lord has dealt bountifully with you.
 ###### 8
 For you have delivered my soul from death, my eyes from tears, my feet from stumbling;
 ###### 9
-I will walk before the Lord   in the land of the living.
+I will walk before the Lord in the land of the living.
 ###### 10
 I believed, even when I spoke: “I am greatly afflicted”;
 ###### 11
-I said in my alarm,   “All mankind are liars.”
+I said in my alarm, “All mankind are liars.”
 ###### 12
 What shall I render to the Lord for all his benefits to me?
 ###### 13
@@ -55,6 +54,6 @@ I will offer to you the sacrifice of thanksgiving and call on the name of the Lo
 ###### 18
 I will pay my vows to the Lord in the presence of all his people,
 ###### 19
-in the courts of the house of the Lord, in your midst, O Jerusalem.   Praise the Lord!
+in the courts of the house of the Lord, in your midst, O Jerusalem. Praise the Lord!
 
 

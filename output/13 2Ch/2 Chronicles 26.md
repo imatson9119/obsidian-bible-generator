@@ -9,7 +9,6 @@ aliases:
   - 2Ch_26
 tags:
   - bible/chapter
-  - bible/2 Chronicles/chapter
   - bible/2 Chronicles/26
   - bible/old testament
 cssclass:

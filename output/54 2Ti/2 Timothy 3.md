@@ -9,7 +9,6 @@ aliases:
   - 2Ti_3
 tags:
   - bible/chapter
-  - bible/2 Timothy/chapter
   - bible/2 Timothy/3
   - bible/new testament
 cssclass:

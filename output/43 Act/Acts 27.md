@@ -9,7 +9,6 @@ aliases:
   - Act_27
 tags:
   - bible/chapter
-  - bible/Acts/chapter
   - bible/Acts/27
   - bible/new testament
 cssclass:
@@ -91,7 +90,7 @@ And when he had said these things, he took bread, and giving thanks to God in th
 ###### 36
 Then they all were encouraged and ate some food themselves.
 ###### 37
-(We were in all 276  persons in the ship.)
+(We were in all 276 persons in the ship.)
 ###### 38
 And when they had eaten enough, they lightened the ship, throwing out the wheat into the sea.
 ###### 39
@@ -99,7 +98,7 @@ Now when it was day, they did not recognize the land, but they noticed a bay wit
 ###### 40
 So they cast off the anchors and left them in the sea, at the same time loosening the ropes that tied the rudders. Then hoisting the foresail to the wind they made for the beach.
 ###### 41
-But striking a reef,  they ran the vessel aground. The bow stuck and remained immovable, and the stern was being broken up by the surf.
+But striking a reef, they ran the vessel aground. The bow stuck and remained immovable, and the stern was being broken up by the surf.
 ###### 42
 The soldiers’ plan was to kill the prisoners, lest any should swim away and escape.
 ###### 43

@@ -9,7 +9,6 @@ aliases:
   - Lev_17
 tags:
   - bible/chapter
-  - bible/Leviticus/chapter
   - bible/Leviticus/17
   - bible/old testament
 cssclass:

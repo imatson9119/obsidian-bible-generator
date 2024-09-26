@@ -9,7 +9,6 @@ aliases:
   - Gen_21
 tags:
   - bible/chapter
-  - bible/Genesis/chapter
   - bible/Genesis/21
   - bible/old testament
 cssclass:
@@ -19,7 +18,7 @@ cssclass:
 # Genesis 21
 
 ###### 1
-The Lord  visited Sarah as he had said, and the Lord did to Sarah as he had promised.
+The Lord visited Sarah as he had said, and the Lord did to Sarah as he had promised.
 ###### 2
 And Sarah conceived and bore Abraham a son in his old age at the time of which God had spoken to him.
 ###### 3

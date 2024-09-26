@@ -9,7 +9,6 @@ aliases:
   - 1Co_14
 tags:
   - bible/chapter
-  - bible/1 Corinthians/chapter
   - bible/1 Corinthians/14
   - bible/new testament
 cssclass:

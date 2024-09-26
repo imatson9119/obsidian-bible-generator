@@ -9,7 +9,6 @@ aliases:
   - Ecc_10
 tags:
   - bible/chapter
-  - bible/Ecclesiastes/chapter
   - bible/Ecclesiastes/10
   - bible/old testament
 cssclass:
@@ -25,7 +24,7 @@ A wise man’s heart inclines him to the right, but a fool’s heart to the left
 ###### 3
 Even when the fool walks on the road, he lacks sense, and he says to everyone that he is a fool.
 ###### 4
-If the anger of the ruler rises against you, do not leave your place,   for calmness will lay great offenses to rest.
+If the anger of the ruler rises against you, do not leave your place, for calmness will lay great offenses to rest.
 ###### 5
 There is an evil that I have seen under the sun, as it were an error proceeding from the ruler:
 ###### 6

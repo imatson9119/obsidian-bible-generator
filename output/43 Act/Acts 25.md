@@ -9,7 +9,6 @@ aliases:
   - Act_25
 tags:
   - bible/chapter
-  - bible/Acts/chapter
   - bible/Acts/25
   - bible/new testament
 cssclass:

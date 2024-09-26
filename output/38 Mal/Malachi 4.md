@@ -9,7 +9,6 @@ aliases:
   - Mal_4
 tags:
   - bible/chapter
-  - bible/Malachi/chapter
   - bible/Malachi/4
   - bible/old testament
 cssclass:

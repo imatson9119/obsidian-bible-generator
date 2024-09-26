@@ -9,7 +9,6 @@ aliases:
   - Psa_49
 tags:
   - bible/chapter
-  - bible/Psalm/chapter
   - bible/Psalm/49
   - bible/old testament
 cssclass:
@@ -37,15 +36,15 @@ for the ransom of their life is costly and can never suffice,
 ###### 9
 that he should live on forever and never see the pit.
 ###### 10
-For he sees that even the wise die;   the fool and the stupid alike must perish and leave their wealth to others.
+For he sees that even the wise die; the fool and the stupid alike must perish and leave their wealth to others.
 ###### 11
 Their graves are their homes forever, their dwelling places to all generations, though they called lands by their own names.
 ###### 12
-Man in his pomp will not remain;   he is like the beasts that perish.
+Man in his pomp will not remain; he is like the beasts that perish.
 ###### 13
-This is the path of those who have foolish confidence; yet after them people approve of their boasts.  Selah
+This is the path of those who have foolish confidence; yet after them people approve of their boasts. Selah
 ###### 14
-Like sheep they are appointed for Sheol; death shall be their shepherd, and the upright shall rule over them in the morning.   Their form shall be consumed in Sheol, with no place to dwell.
+Like sheep they are appointed for Sheol; death shall be their shepherd, and the upright shall rule over them in the morning. Their form shall be consumed in Sheol, with no place to dwell.
 ###### 15
 But God will ransom my soul from the power of Sheol, for he will receive me. Selah
 ###### 16

@@ -9,7 +9,6 @@ aliases:
   - Gen_43
 tags:
   - bible/chapter
-  - bible/Genesis/chapter
   - bible/Genesis/43
   - bible/old testament
 cssclass:
@@ -45,7 +44,7 @@ Take double the money with you. Carry back with you the money that was returned 
 ###### 13
 Take also your brother, and arise, go again to the man.
 ###### 14
-May God Almighty  grant you mercy before the man, and may he send back your other brother and Benjamin. And as for me, if I am bereaved of my children, I am bereaved.”
+May God Almighty grant you mercy before the man, and may he send back your other brother and Benjamin. And as for me, if I am bereaved of my children, I am bereaved.”
 ###### 15
 So the men took this present, and they took double the money with them, and Benjamin. They arose and went down to Egypt and stood before Joseph.
 ###### 16

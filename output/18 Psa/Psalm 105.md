@@ -9,7 +9,6 @@ aliases:
   - Psa_105
 tags:
   - bible/chapter
-  - bible/Psalm/chapter
   - bible/Psalm/105
   - bible/old testament
 cssclass:
@@ -19,13 +18,13 @@ cssclass:
 # Psalm 105
 
 ###### 1
-Oh give thanks to the Lord; call upon his name;   make known his deeds among the peoples!
+Oh give thanks to the Lord; call upon his name; make known his deeds among the peoples!
 ###### 2
-Sing to him, sing praises to him;   tell of all his wondrous works!
+Sing to him, sing praises to him; tell of all his wondrous works!
 ###### 3
 Glory in his holy name; let the hearts of those who seek the Lord rejoice!
 ###### 4
-Seek the Lord and his strength;   seek his presence continually!
+Seek the Lord and his strength; seek his presence continually!
 ###### 5
 Remember the wondrous works that he has done, his miracles, and the judgments he uttered,
 ###### 6
@@ -55,7 +54,7 @@ he had sent a man ahead of them, Joseph, who was sold as a slave.
 ###### 18
 His feet were hurt with fetters; his neck was put in a collar of iron;
 ###### 19
-until what he had said came to pass, the word of the Lord  tested him.
+until what he had said came to pass, the word of the Lord tested him.
 ###### 20
 The king sent and released him; the ruler of the peoples set him free;
 ###### 21
@@ -65,7 +64,7 @@ to bind his princes at his pleasure and to teach his elders wisdom.
 ###### 23
 Then Israel came to Egypt; Jacob sojourned in the land of Ham.
 ###### 24
-And the Lord  made his people very fruitful and made them stronger than their foes.
+And the Lord made his people very fruitful and made them stronger than their foes.
 ###### 25
 He turned their hearts to hate his people, to deal craftily with his servants.
 ###### 26
@@ -79,7 +78,7 @@ He turned their waters into blood and caused their fish to die.
 ###### 30
 Their land swarmed with frogs, even in the chambers of their kings.
 ###### 31
-He spoke, and there came swarms of flies,   and gnats throughout their country.
+He spoke, and there came swarms of flies, and gnats throughout their country.
 ###### 32
 He gave them hail for rain, and fiery lightning bolts through their land.
 ###### 33
@@ -89,7 +88,7 @@ He spoke, and the locusts came, young locusts without number,
 ###### 35
 which devoured all the vegetation in their land and ate up the fruit of their ground.
 ###### 36
-He struck down all the firstborn in their land,   the firstfruits of all their strength.
+He struck down all the firstborn in their land, the firstfruits of all their strength.
 ###### 37
 Then he brought out Israel with silver and gold, and there was none among his tribes who stumbled.
 ###### 38
@@ -107,6 +106,6 @@ So he brought his people out with joy, his chosen ones with singing.
 ###### 44
 And he gave them the lands of the nations, and they took possession of the fruit of the peoples’ toil,
 ###### 45
-that they might keep his statutes and observe his laws.   Praise the Lord!
+that they might keep his statutes and observe his laws. Praise the Lord!
 
 

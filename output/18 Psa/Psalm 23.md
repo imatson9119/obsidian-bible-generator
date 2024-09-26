@@ -9,7 +9,6 @@ aliases:
   - Psa_23
 tags:
   - bible/chapter
-  - bible/Psalm/chapter
   - bible/Psalm/23
   - bible/old testament
 cssclass:
@@ -29,6 +28,6 @@ Even though I walk through the valley of the shadow of death, I will fear no evi
 ###### 5
 You prepare a table before me in the presence of my enemies; you anoint my head with oil; my cup overflows.
 ###### 6
-Surely goodness and mercy shall follow me all the days of my life, and I shall dwell in the house of the Lord   forever.
+Surely goodness and mercy shall follow me all the days of my life, and I shall dwell in the house of the Lord forever.
 
 

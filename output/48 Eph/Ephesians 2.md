@@ -9,7 +9,6 @@ aliases:
   - Eph_2
 tags:
   - bible/chapter
-  - bible/Ephesians/chapter
   - bible/Ephesians/2
   - bible/new testament
 cssclass:

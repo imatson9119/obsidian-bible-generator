@@ -9,7 +9,6 @@ aliases:
   - Deu_19
 tags:
   - bible/chapter
-  - bible/Deuteronomy/chapter
   - bible/Deuteronomy/19
   - bible/old testament
 cssclass:

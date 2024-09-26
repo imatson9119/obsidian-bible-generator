@@ -9,7 +9,6 @@ aliases:
   - Ecc_9
 tags:
   - bible/chapter
-  - bible/Ecclesiastes/chapter
   - bible/Ecclesiastes/9
   - bible/old testament
 cssclass:
@@ -37,7 +36,7 @@ Let your garments be always white. Let not oil be lacking on your head.
 ###### 9
 Enjoy life with the wife whom you love, all the days of your vain life that he has given you under the sun, because that is your portion in life and in your toil at which you toil under the sun.
 ###### 10
-Whatever your hand finds to do, do it with your might,  for there is no work or thought or knowledge or wisdom in Sheol, to which you are going.
+Whatever your hand finds to do, do it with your might, for there is no work or thought or knowledge or wisdom in Sheol, to which you are going.
 ###### 11
 Again I saw that under the sun the race is not to the swift, nor the battle to the strong, nor bread to the wise, nor riches to the intelligent, nor favor to those with knowledge, but time and chance happen to them all.
 ###### 12

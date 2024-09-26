@@ -9,7 +9,6 @@ aliases:
   - Mrk_4
 tags:
   - bible/chapter
-  - bible/Mark/chapter
   - bible/Mark/4
   - bible/new testament
 cssclass:
@@ -41,7 +40,7 @@ And when he was alone, those around him with the twelve asked him about the para
 ###### 11
 And he said to them, “To you has been given the secret of the kingdom of God, but for those outside everything is in parables,
 ###### 12
-so that   “‘they     may indeed see but not perceive, and may indeed hear but not understand,   lest they     should turn and be forgiven.’”
+so that “‘they may indeed see but not perceive, and may indeed hear but not understand, lest they should turn and be forgiven.’”
 ###### 13
 And he said to them, “Do you not understand this parable? How then will you understand all the parables?
 ###### 14

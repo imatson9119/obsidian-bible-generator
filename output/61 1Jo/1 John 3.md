@@ -9,7 +9,6 @@ aliases:
   - 1Jo_3
 tags:
   - bible/chapter
-  - bible/1 John/chapter
   - bible/1 John/3
   - bible/new testament
 cssclass:
@@ -21,7 +20,7 @@ cssclass:
 ###### 1
 See what kind of love the Father has given to us, that we should be called children of God; and so we are. The reason why the world does not know us is that it did not know him.
 ###### 2
-Beloved, we are God’s children now, and what we will be has not yet appeared; but we know that when he appears  we shall be like him, because we shall see him as he is.
+Beloved, we are God’s children now, and what we will be has not yet appeared; but we know that when he appears we shall be like him, because we shall see him as he is.
 ###### 3
 And everyone who thus hopes in him purifies himself as he is pure.
 ###### 4
@@ -43,7 +42,7 @@ For this is the message that you have heard from the beginning, that we should l
 ###### 12
 We should not be like Cain, who was of the evil one and murdered his brother. And why did he murder him? Because his own deeds were evil and his brother’s righteous.
 ###### 13
-Do not be surprised, brothers,  that the world hates you.
+Do not be surprised, brothers, that the world hates you.
 ###### 14
 We know that we have passed out of death into life, because we love the brothers. Whoever does not love abides in death.
 ###### 15

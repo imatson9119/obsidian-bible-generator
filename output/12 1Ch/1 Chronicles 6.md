@@ -9,7 +9,6 @@ aliases:
   - 1Ch_6
 tags:
   - bible/chapter
-  - bible/1 Chronicles/chapter
   - bible/1 Chronicles/6
   - bible/old testament
 cssclass:
@@ -79,7 +78,7 @@ The sons of Merari: Mahli, Libni his son, Shimei his son, Uzzah his son,
 ###### 30
 Shimea his son, Haggiah his son, and Asaiah his son.
 ###### 31
-These are the men whom David put in charge of the service of song in the house of the Lord  after the ark rested there.
+These are the men whom David put in charge of the service of song in the house of the Lord after the ark rested there.
 ###### 32
 They ministered with song before the tabernacle of the tent of meeting until Solomon built the house of the Lord in Jerusalem, and they performed their service according to their order.
 ###### 33

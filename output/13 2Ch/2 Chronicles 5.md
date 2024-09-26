@@ -9,7 +9,6 @@ aliases:
   - 2Ch_5
 tags:
   - bible/chapter
-  - bible/2 Chronicles/chapter
   - bible/2 Chronicles/5
   - bible/old testament
 cssclass:
@@ -43,7 +42,7 @@ And when the priests came out of the Holy Place (for all the priests who were pr
 ###### 12
 and all the Levitical singers, Asaph, Heman, and Jeduthun, their sons and kinsmen, arrayed in fine linen, with cymbals, harps, and lyres, stood east of the altar with 120 priests who were trumpeters;
 ###### 13
-and it was the duty of the trumpeters and singers to make themselves heard in unison in praise and thanksgiving to the Lord), and when the song was raised, with trumpets and cymbals and other musical instruments, in praise to the Lord,   “For he is good, for his steadfast love endures forever,” the house, the house of the Lord, was filled with a cloud,
+and it was the duty of the trumpeters and singers to make themselves heard in unison in praise and thanksgiving to the Lord), and when the song was raised, with trumpets and cymbals and other musical instruments, in praise to the Lord, “For he is good, for his steadfast love endures forever,” the house, the house of the Lord, was filled with a cloud,
 ###### 14
 so that the priests could not stand to minister because of the cloud, for the glory of the Lord filled the house of God.
 

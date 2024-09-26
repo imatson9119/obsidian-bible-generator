@@ -9,7 +9,6 @@ aliases:
   - Isa_24
 tags:
   - bible/chapter
-  - bible/Isaiah/chapter
   - bible/Isaiah/24
   - bible/old testament
 cssclass:
@@ -21,9 +20,9 @@ cssclass:
 ###### 1
 Behold, the Lord will empty the earth and make it desolate, and he will twist its surface and scatter its inhabitants.
 ###### 2
-And it shall be, as with the people, so with the priest; as with the slave, so with his master; as with the maid, so with her mistress;   as with the buyer, so with the seller; as with the lender, so with the borrower;   as with the creditor, so with the debtor.
+And it shall be, as with the people, so with the priest; as with the slave, so with his master; as with the maid, so with her mistress; as with the buyer, so with the seller; as with the lender, so with the borrower; as with the creditor, so with the debtor.
 ###### 3
-The earth shall be utterly empty and utterly plundered;   for the Lord has spoken this word.
+The earth shall be utterly empty and utterly plundered; for the Lord has spoken this word.
 ###### 4
 The earth mourns and withers; the world languishes and withers; the highest people of the earth languish.
 ###### 5
@@ -37,13 +36,13 @@ The mirth of the tambourines is stilled, the noise of the jubilant has ceased, t
 ###### 9
 No more do they drink wine with singing; strong drink is bitter to those who drink it.
 ###### 10
-The wasted city is broken down;   every house is shut up so that none can enter.
+The wasted city is broken down; every house is shut up so that none can enter.
 ###### 11
-There is an outcry in the streets for lack of wine;   all joy has grown dark; the gladness of the earth is banished.
+There is an outcry in the streets for lack of wine; all joy has grown dark; the gladness of the earth is banished.
 ###### 12
 Desolation is left in the city; the gates are battered into ruins.
 ###### 13
-For thus it shall be in the midst of the earth among the nations,   as when an olive tree is beaten, as at the gleaning when the grape harvest is done.
+For thus it shall be in the midst of the earth among the nations, as when an olive tree is beaten, as at the gleaning when the grape harvest is done.
 ###### 14
 They lift up their voices, they sing for joy; over the majesty of the Lord they shout from the west.
 ###### 15
@@ -57,7 +56,7 @@ He who flees at the sound of the terror shall fall into the pit, and he who clim
 ###### 19
 The earth is utterly broken, the earth is split apart, the earth is violently shaken.
 ###### 20
-The earth staggers like a drunken man; it sways like a hut;   its transgression lies heavy upon it, and it falls, and will not rise again.
+The earth staggers like a drunken man; it sways like a hut; its transgression lies heavy upon it, and it falls, and will not rise again.
 ###### 21
 On that day the Lord will punish the host of heaven, in heaven, and the kings of the earth, on the earth.
 ###### 22

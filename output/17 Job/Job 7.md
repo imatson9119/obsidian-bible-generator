@@ -9,7 +9,6 @@ aliases:
   - Job_7
 tags:
   - bible/chapter
-  - bible/Job/chapter
   - bible/Job/7
   - bible/old testament
 cssclass:
@@ -23,7 +22,7 @@ cssclass:
 ###### 2
 Like a slave who longs for the shadow, and like a hired hand who looks for his wages,
 ###### 3
-so I am allotted months of emptiness,   and nights of misery are apportioned to me.
+so I am allotted months of emptiness, and nights of misery are apportioned to me.
 ###### 4
 When I lie down I say, ‘When shall I arise?’ But the night is long, and I am full of tossing till the dawn.
 ###### 5
@@ -49,7 +48,7 @@ then you scare me with dreams and terrify me with visions,
 ###### 15
 so that I would choose strangling and death rather than my bones.
 ###### 16
-I loathe my life; I would not live forever.   Leave me alone, for my days are a breath.
+I loathe my life; I would not live forever. Leave me alone, for my days are a breath.
 ###### 17
 What is man, that you make so much of him, and that you set your heart on him,
 ###### 18

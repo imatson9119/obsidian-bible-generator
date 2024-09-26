@@ -9,7 +9,6 @@ aliases:
   - Eph_3
 tags:
   - bible/chapter
-  - bible/Ephesians/chapter
   - bible/Ephesians/3
   - bible/new testament
 cssclass:

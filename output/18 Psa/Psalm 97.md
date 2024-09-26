@@ -9,7 +9,6 @@ aliases:
   - Psa_97
 tags:
   - bible/chapter
-  - bible/Psalm/chapter
   - bible/Psalm/97
   - bible/old testament
 cssclass:
@@ -21,7 +20,7 @@ cssclass:
 ###### 1
 The Lord reigns, let the earth rejoice; let the many coastlands be glad!
 ###### 2
-Clouds and thick darkness are all around him;   righteousness and justice are the foundation of his throne.
+Clouds and thick darkness are all around him; righteousness and justice are the foundation of his throne.
 ###### 3
 Fire goes before him and burns up his adversaries all around.
 ###### 4
@@ -31,7 +30,7 @@ The mountains melt like wax before the Lord, before the Lord of all the earth.
 ###### 6
 The heavens proclaim his righteousness, and all the peoples see his glory.
 ###### 7
-All worshipers of images are put to shame, who make their boast in worthless idols;   worship him, all you gods!
+All worshipers of images are put to shame, who make their boast in worthless idols; worship him, all you gods!
 ###### 8
 Zion hears and is glad, and the daughters of Judah rejoice, because of your judgments, O Lord.
 ###### 9

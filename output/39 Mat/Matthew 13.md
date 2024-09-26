@@ -9,7 +9,6 @@ aliases:
   - Mat_13
 tags:
   - bible/chapter
-  - bible/Matthew/chapter
   - bible/Matthew/13
   - bible/new testament
 cssclass:
@@ -35,7 +34,7 @@ Other seeds fell among thorns, and the thorns grew up and choked them.
 ###### 8
 Other seeds fell on good soil and produced grain, some a hundredfold, some sixty, some thirty.
 ###### 9
-He who has ears,  let him hear.”
+He who has ears, let him hear.”
 ###### 10
 Then the disciples came and said to him, “Why do you speak to them in parables?”
 ###### 11
@@ -45,11 +44,11 @@ For to the one who has, more will be given, and he will have an abundance, but f
 ###### 13
 This is why I speak to them in parables, because seeing they do not see, and hearing they do not hear, nor do they understand.
 ###### 14
-Indeed, in their case the prophecy of Isaiah is fulfilled that says:     “‘“You will indeed hear but never understand,   and you will indeed see but never perceive.”
+Indeed, in their case the prophecy of Isaiah is fulfilled that says: “‘“You will indeed hear but never understand, and you will indeed see but never perceive.”
 ###### 15
-For this people’s heart has grown dull, and with their ears they can barely hear, and their eyes they have closed, lest they should see with their eyes and hear with their ears and understand with their heart   and     turn, and I would heal them.’
+For this people’s heart has grown dull, and with their ears they can barely hear, and their eyes they have closed, lest they should see with their eyes and hear with their ears and understand with their heart and turn, and I would heal them.’
 ###### 16
-But     blessed are your eyes, for they see, and your ears, for they hear.
+But blessed are your eyes, for they see, and your ears, for they hear.
 ###### 17
 For truly, I say to you, many prophets and righteous people longed to see what you see, and did not see it, and to hear what you hear, and did not hear it.
 ###### 18
@@ -67,11 +66,11 @@ As for what was sown on good soil, this is the one who hears the word and unders
 ###### 24
 He put another parable before them, saying, “The kingdom of heaven may be compared to a man who sowed good seed in his field,
 ###### 25
-but while his men were sleeping, his enemy came and sowed weeds  among the wheat and went away.
+but while his men were sleeping, his enemy came and sowed weeds among the wheat and went away.
 ###### 26
 So when the plants came up and bore grain, then the weeds appeared also.
 ###### 27
-And the servants  of the master of the house came and said to him, ‘Master, did you not sow good seed in your field? How then does it have weeds?’
+And the servants of the master of the house came and said to him, ‘Master, did you not sow good seed in your field? How then does it have weeds?’
 ###### 28
 He said to them, ‘An enemy has done this.’ So the servants said to him, ‘Then do you want us to go and gather them?’
 ###### 29
@@ -87,7 +86,7 @@ He told them another parable. “The kingdom of heaven is like leaven that a wom
 ###### 34
 All these things Jesus said to the crowds in parables; indeed, he said nothing to them without a parable.
 ###### 35
-This was to fulfill what was spoken by the prophet:   “I will open my mouth in parables;   I will utter what has been hidden since the foundation of the world.”
+This was to fulfill what was spoken by the prophet: “I will open my mouth in parables; I will utter what has been hidden since the foundation of the world.”
 ###### 36
 Then he left the crowds and went into the house. And his disciples came to him, saying, “Explain to us the parable of the weeds of the field.”
 ###### 37
@@ -105,13 +104,13 @@ and throw them into the fiery furnace. In that place there will be weeping and g
 ###### 43
 Then the righteous will shine like the sun in the kingdom of their Father. He who has ears, let him hear.
 ###### 44
-“The kingdom of heaven     is like treasure hidden in a field, which a man found and covered up. Then in his joy     he goes and sells all that he has and     buys that field.
+“The kingdom of heaven is like treasure hidden in a field, which a man found and covered up. Then in his joy he goes and sells all that he has and buys that field.
 ###### 45
 “Again, the kingdom of heaven is like a merchant in search of fine pearls,
 ###### 46
 who, on finding one pearl of great value, went and sold all that he had and bought it.
 ###### 47
-“Again, the kingdom of heaven is     like a net that was thrown into the sea and     gathered fish of every kind.
+“Again, the kingdom of heaven is like a net that was thrown into the sea and gathered fish of every kind.
 ###### 48
 When it was full, men drew it ashore and sat down and sorted the good into containers but threw away the bad.
 ###### 49

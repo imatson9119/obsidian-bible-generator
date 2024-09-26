@@ -9,7 +9,6 @@ aliases:
   - Rev_16
 tags:
   - bible/chapter
-  - bible/Revelation/chapter
   - bible/Revelation/16
   - bible/new testament
 cssclass:
@@ -27,11 +26,11 @@ The second angel poured out his bowl into the sea, and it became like the blood 
 ###### 4
 The third angel poured out his bowl into the rivers and the springs of water, and they became blood.
 ###### 5
-And I heard the angel in charge of the waters say,   “Just are you, O Holy One, who is and who was, for you brought these judgments.
+And I heard the angel in charge of the waters say, “Just are you, O Holy One, who is and who was, for you brought these judgments.
 ###### 6
 For they have shed the blood of saints and prophets, and you have given them blood to drink. It is what they deserve!”
 ###### 7
-And I heard the altar saying, “Yes, Lord God the Almighty,   true and just are your judgments!”
+And I heard the altar saying, “Yes, Lord God the Almighty, true and just are your judgments!”
 ###### 8
 The fourth angel poured out his bowl on the sun, and it was allowed to scorch people with fire.
 ###### 9

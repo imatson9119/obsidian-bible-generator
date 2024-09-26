@@ -9,7 +9,6 @@ aliases:
   - 1Sa_18
 tags:
   - bible/chapter
-  - bible/1 Samuel/chapter
   - bible/1 Samuel/18
   - bible/old testament
 cssclass:
@@ -31,7 +30,7 @@ And David went out and was successful wherever Saul sent him, so that Saul set h
 ###### 6
 As they were coming home, when David returned from striking down the Philistine, the women came out of all the cities of Israel, singing and dancing, to meet King Saul, with tambourines, with songs of joy, and with musical instruments.
 ###### 7
-And the women sang to one another as they celebrated,   “Saul has struck down his thousands, and David his ten thousands.”
+And the women sang to one another as they celebrated, “Saul has struck down his thousands, and David his ten thousands.”
 ###### 8
 And Saul was very angry, and this saying displeased him. He said, “They have ascribed to David ten thousands, and to me they have ascribed thousands, and what more can he have but the kingdom?”
 ###### 9
@@ -59,7 +58,7 @@ But at the time when Merab, Saul’s daughter, should have been given to David, 
 ###### 20
 Now Saul’s daughter Michal loved David. And they told Saul, and the thing pleased him.
 ###### 21
-Saul thought, “Let me give her to him, that she may be a snare for him and that the hand of the Philistines may be against him.” Therefore Saul said to David a second time,  “You shall now be my son-in-law.”
+Saul thought, “Let me give her to him, that she may be a snare for him and that the hand of the Philistines may be against him.” Therefore Saul said to David a second time, “You shall now be my son-in-law.”
 ###### 22
 And Saul commanded his servants, “Speak to David in private and say, ‘Behold, the king has delight in you, and all his servants love you. Now then become the king’s son-in-law.’”
 ###### 23

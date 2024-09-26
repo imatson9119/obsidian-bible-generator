@@ -9,7 +9,6 @@ aliases:
   - Psa_65
 tags:
   - bible/chapter
-  - bible/Psalm/chapter
   - bible/Psalm/65
   - bible/old testament
 cssclass:
@@ -31,11 +30,11 @@ By awesome deeds you answer us with righteousness, O God of our salvation, the h
 ###### 6
 the one who by his strength established the mountains, being girded with might;
 ###### 7
-who stills the roaring of the seas, the roaring of their waves,   the tumult of the peoples,
+who stills the roaring of the seas, the roaring of their waves, the tumult of the peoples,
 ###### 8
 so that those who dwell at the ends of the earth are in awe at your signs. You make the going out of the morning and the evening to shout for joy.
 ###### 9
-You visit the earth and water it; you greatly enrich it;   the river of God is full of water;   you provide their grain, for so you have prepared it.
+You visit the earth and water it; you greatly enrich it; the river of God is full of water; you provide their grain, for so you have prepared it.
 ###### 10
 You water its furrows abundantly, settling its ridges, softening it with showers, and blessing its growth.
 ###### 11

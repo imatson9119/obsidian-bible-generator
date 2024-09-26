@@ -9,7 +9,6 @@ aliases:
   - 1Co_16
 tags:
   - bible/chapter
-  - bible/1 Corinthians/chapter
   - bible/1 Corinthians/16
   - bible/new testament
 cssclass:
@@ -19,7 +18,7 @@ cssclass:
 # 1 Corinthians 16
 
 ###### 1
-Now concerning  the collection for the saints: as I directed the churches of Galatia, so you also are to do.
+Now concerning the collection for the saints: as I directed the churches of Galatia, so you also are to do.
 ###### 2
 On the first day of every week, each of you is to put something aside and store it up, as he may prosper, so that there will be no collecting when I come.
 ###### 3

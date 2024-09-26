@@ -9,7 +9,6 @@ aliases:
   - Pro_1
 tags:
   - bible/chapter
-  - bible/Proverbs/chapter
   - bible/Proverbs/1
   - bible/old testament
 cssclass:
@@ -29,7 +28,7 @@ to give prudence to the simple, knowledge and discretion to the youth—
 ###### 5
 Let the wise hear and increase in learning, and the one who understands obtain guidance,
 ###### 6
-to understand a proverb and a saying,   the words of the wise and their riddles.
+to understand a proverb and a saying, the words of the wise and their riddles.
 ###### 7
 The fear of the Lord is the beginning of knowledge; fools despise wisdom and instruction.
 ###### 8
@@ -39,7 +38,7 @@ for they are a graceful garland for your head and pendants for your neck.
 ###### 10
 My son, if sinners entice you, do not consent.
 ###### 11
-If they say, “Come with us, let us lie in wait for blood;   let us ambush the innocent without reason;
+If they say, “Come with us, let us lie in wait for blood; let us ambush the innocent without reason;
 ###### 12
 like Sheol let us swallow them alive, and whole, like those who go down to the pit;
 ###### 13
@@ -47,7 +46,7 @@ we shall find all precious goods, we shall fill our houses with plunder;
 ###### 14
 throw in your lot among us; we will all have one purse”—
 ###### 15
-my son, do not walk in the way with them;   hold back your foot from their paths,
+my son, do not walk in the way with them; hold back your foot from their paths,
 ###### 16
 for their feet run to evil, and they make haste to shed blood.
 ###### 17
@@ -55,7 +54,7 @@ For in vain is a net spread in the sight of any bird,
 ###### 18
 but these men lie in wait for their own blood; they set an ambush for their own lives.
 ###### 19
-Such are the ways of everyone who is greedy for unjust gain;   it takes away the life of its possessors.
+Such are the ways of everyone who is greedy for unjust gain; it takes away the life of its possessors.
 ###### 20
 Wisdom cries aloud in the street, in the markets she raises her voice;
 ###### 21

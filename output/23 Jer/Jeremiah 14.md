@@ -9,7 +9,6 @@ aliases:
   - Jer_14
 tags:
   - bible/chapter
-  - bible/Jeremiah/chapter
   - bible/Jeremiah/14
   - bible/old testament
 cssclass:
@@ -31,13 +30,13 @@ Even the doe in the field forsakes her newborn fawn because there is no grass.
 ###### 6
 The wild donkeys stand on the bare heights; they pant for air like jackals; their eyes fail because there is no vegetation.
 ###### 7
-“Though our iniquities testify against us, act, O Lord, for your name’s sake;   for our backslidings are many;   we have sinned against you.
+“Though our iniquities testify against us, act, O Lord, for your name’s sake; for our backslidings are many; we have sinned against you.
 ###### 8
 O you hope of Israel, its savior in time of trouble, why should you be like a stranger in the land, like a traveler who turns aside to tarry for a night?
 ###### 9
-Why should you be like a man confused,   like a mighty warrior who cannot save? Yet you, O Lord, are in the midst of us, and we are called by your name;   do not leave us.”
+Why should you be like a man confused, like a mighty warrior who cannot save? Yet you, O Lord, are in the midst of us, and we are called by your name; do not leave us.”
 ###### 10
-Thus says the Lord concerning this people: “They have loved to wander thus; they have not restrained their feet;   therefore the Lord does not accept them;   now he will remember their iniquity and punish their sins.”
+Thus says the Lord concerning this people: “They have loved to wander thus; they have not restrained their feet; therefore the Lord does not accept them; now he will remember their iniquity and punish their sins.”
 ###### 11
 The Lord said to me: “Do not pray for the welfare of this people.
 ###### 12
@@ -51,16 +50,16 @@ Therefore thus says the Lord concerning the prophets who prophesy in my name alt
 ###### 16
 And the people to whom they prophesy shall be cast out in the streets of Jerusalem, victims of famine and sword, with none to bury them—them, their wives, their sons, and their daughters. For I will pour out their evil upon them.
 ###### 17
-“You shall say to them this word:   ‘Let my eyes run down with tears night and day, and let them not cease, for the virgin daughter of my people is shattered with a great wound,   with a very grievous blow.
+“You shall say to them this word: ‘Let my eyes run down with tears night and day, and let them not cease, for the virgin daughter of my people is shattered with a great wound, with a very grievous blow.
 ###### 18
-If I go out into the field, behold, those pierced by the sword!   And if I enter the city, behold, the diseases of famine!   For both prophet and priest ply their trade through the land and have no knowledge.’”
+If I go out into the field, behold, those pierced by the sword! And if I enter the city, behold, the diseases of famine! For both prophet and priest ply their trade through the land and have no knowledge.’”
 ###### 19
-Have you utterly rejected Judah? Does your soul loathe Zion? Why have you struck us down   so that there is no healing for us?   We looked for peace, but no good came;   for a time of healing, but behold, terror.
+Have you utterly rejected Judah? Does your soul loathe Zion? Why have you struck us down so that there is no healing for us? We looked for peace, but no good came; for a time of healing, but behold, terror.
 ###### 20
-We acknowledge our wickedness, O Lord, and the iniquity of our fathers,   for we have sinned against you.
+We acknowledge our wickedness, O Lord, and the iniquity of our fathers, for we have sinned against you.
 ###### 21
-Do not spurn us, for your name’s sake; do not dishonor your glorious throne;   remember and do not break your covenant with us.
+Do not spurn us, for your name’s sake; do not dishonor your glorious throne; remember and do not break your covenant with us.
 ###### 22
-Are there any among the false gods of the nations that can bring rain? Or can the heavens give showers? Are you not he, O Lord our God? We set our hope on you,   for you do all these things.
+Are there any among the false gods of the nations that can bring rain? Or can the heavens give showers? Are you not he, O Lord our God? We set our hope on you, for you do all these things.
 
 

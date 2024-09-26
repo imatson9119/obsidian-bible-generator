@@ -9,7 +9,6 @@ aliases:
   - Psa_120
 tags:
   - bible/chapter
-  - bible/Psalm/chapter
   - bible/Psalm/120
   - bible/old testament
 cssclass:
@@ -23,7 +22,7 @@ In my distress I called to the Lord, and he answered me.
 ###### 2
 Deliver me, O Lord, from lying lips, from a deceitful tongue.
 ###### 3
-What shall be given to you,   and what more shall be done to you, you deceitful tongue?
+What shall be given to you, and what more shall be done to you, you deceitful tongue?
 ###### 4
 A warrior’s sharp arrows, with glowing coals of the broom tree!
 ###### 5

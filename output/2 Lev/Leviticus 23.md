@@ -9,7 +9,6 @@ aliases:
   - Lev_23
 tags:
   - bible/chapter
-  - bible/Leviticus/chapter
   - bible/Leviticus/23
   - bible/old testament
 cssclass:

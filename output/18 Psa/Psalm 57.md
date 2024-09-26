@@ -9,7 +9,6 @@ aliases:
   - Psa_57
 tags:
   - bible/chapter
-  - bible/Psalm/chapter
   - bible/Psalm/57
   - bible/old testament
 cssclass:
@@ -19,11 +18,11 @@ cssclass:
 # Psalm 57
 
 ###### 1
-Be merciful to me, O God, be merciful to me, for in you my soul takes refuge; in the shadow of your wings I will take refuge,   till the storms of destruction pass by.
+Be merciful to me, O God, be merciful to me, for in you my soul takes refuge; in the shadow of your wings I will take refuge, till the storms of destruction pass by.
 ###### 2
 I cry out to God Most High, to God who fulfills his purpose for me.
 ###### 3
-He will send from heaven and save me; he will put to shame him who tramples on me. Selah   God will send out his steadfast love and his faithfulness!
+He will send from heaven and save me; he will put to shame him who tramples on me. Selah God will send out his steadfast love and his faithfulness!
 ###### 4
 My soul is in the midst of lions; I lie down amid fiery beasts— the children of man, whose teeth are spears and arrows, whose tongues are sharp swords.
 ###### 5

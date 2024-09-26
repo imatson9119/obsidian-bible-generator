@@ -9,7 +9,6 @@ aliases:
   - Mal_2
 tags:
   - bible/chapter
-  - bible/Malachi/chapter
   - bible/Malachi/2
   - bible/old testament
 cssclass:
@@ -45,9 +44,9 @@ May the Lord cut off from the tents of Jacob any descendant of the man who does 
 ###### 13
 And this second thing you do. You cover the Lord’s altar with tears, with weeping and groaning because he no longer regards the offering or accepts it with favor from your hand.
 ###### 14
-But you say, “Why does he not?” Because the Lord  was witness between you and the wife of your youth, to whom you have been faithless, though she is your companion and your wife by covenant.
+But you say, “Why does he not?” Because the Lord was witness between you and the wife of your youth, to whom you have been faithless, though she is your companion and your wife by covenant.
 ###### 15
-Did he not make them one, with a portion of the Spirit in their union? And what was the one God seeking?  Godly offspring. So guard yourselves in your spirit, and let none of you be faithless to the wife of your youth.
+Did he not make them one, with a portion of the Spirit in their union? And what was the one God seeking? Godly offspring. So guard yourselves in your spirit, and let none of you be faithless to the wife of your youth.
 ###### 16
 “For the man who does not love his wife but divorces her, says the Lord, the God of Israel, covers his garment with violence, says the Lord of hosts. So guard yourselves in your spirit, and do not be faithless.”
 ###### 17

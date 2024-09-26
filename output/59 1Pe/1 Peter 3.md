@@ -9,7 +9,6 @@ aliases:
   - 1Pe_3
 tags:
   - bible/chapter
-  - bible/1 Peter/chapter
   - bible/1 Peter/3
   - bible/new testament
 cssclass:
@@ -37,7 +36,7 @@ Finally, all of you, have unity of mind, sympathy, brotherly love, a tender hear
 ###### 9
 Do not repay evil for evil or reviling for reviling, but on the contrary, bless, for to this you were called, that you may obtain a blessing.
 ###### 10
-For   “Whoever desires to love life and see good days, let him keep his tongue from evil and his lips from speaking deceit;
+For “Whoever desires to love life and see good days, let him keep his tongue from evil and his lips from speaking deceit;
 ###### 11
 let him turn away from evil and do good; let him seek peace and pursue it.
 ###### 12
@@ -53,7 +52,7 @@ having a good conscience, so that, when you are slandered, those who revile your
 ###### 17
 For it is better to suffer for doing good, if that should be God’s will, than for doing evil.
 ###### 18
-For Christ also suffered  once for sins, the righteous for the unrighteous, that he might bring us to God, being put to death in the flesh but made alive in the spirit,
+For Christ also suffered once for sins, the righteous for the unrighteous, that he might bring us to God, being put to death in the flesh but made alive in the spirit,
 ###### 19
 in which he went and proclaimed to the spirits in prison,
 ###### 20

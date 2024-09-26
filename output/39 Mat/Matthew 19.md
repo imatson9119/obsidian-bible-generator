@@ -9,7 +9,6 @@ aliases:
   - Mat_19
 tags:
   - bible/chapter
-  - bible/Matthew/chapter
   - bible/Matthew/19
   - bible/new testament
 cssclass:
@@ -75,7 +74,7 @@ Then Peter said in reply, “See, we have left everything and followed you. What
 ###### 28
 Jesus said to them, “Truly, I say to you, in the new world,when the Son of Man will sit on his glorious throne, you who have followed me will also sit on twelve thrones, judging the twelve tribes of Israel.
 ###### 29
-And everyone who has left houses or brothers or sisters or father or mother or children or lands, for my name’s sake, will receive a hundredfold  and will inherit eternal life.
+And everyone who has left houses or brothers or sisters or father or mother or children or lands, for my name’s sake, will receive a hundredfold and will inherit eternal life.
 ###### 30
 But many who are first will be last, and the last first.
 

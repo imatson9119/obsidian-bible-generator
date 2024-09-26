@@ -9,7 +9,6 @@ aliases:
   - Ezk_7
 tags:
   - bible/chapter
-  - bible/Ezekiel/chapter
   - bible/Ezekiel/7
   - bible/old testament
 cssclass:
@@ -63,7 +62,7 @@ And I will give it into the hands of foreigners for prey, and to the wicked of t
 ###### 22
 I will turn my face from them, and they shall profane my treasured place. Robbers shall enter and profane it.
 ###### 23
-“Forge a chain!  For the land is full of bloody crimes and the city is full of violence.
+“Forge a chain! For the land is full of bloody crimes and the city is full of violence.
 ###### 24
 I will bring the worst of the nations to take possession of their houses. I will put an end to the pride of the strong, and their holy places shall be profaned.
 ###### 25

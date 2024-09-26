@@ -9,7 +9,6 @@ aliases:
   - Mrk_7
 tags:
   - bible/chapter
-  - bible/Mark/chapter
   - bible/Mark/7
   - bible/new testament
 cssclass:
@@ -29,9 +28,9 @@ and when they come from the marketplace, they do not eat unless they wash. And t
 ###### 5
 And the Pharisees and the scribes asked him, “Why do your disciples not walk according to the tradition of the elders, but eat with defiled hands?”
 ###### 6
-And he said to them, “Well did Isaiah prophesy of you hypocrites, as it is written,     “‘This people honors me with their lips,   but their heart is far from me;
+And he said to them, “Well did Isaiah prophesy of you hypocrites, as it is written, “‘This people honors me with their lips, but their heart is far from me;
 ###### 7
-in vain do they worship me,   teaching as     doctrines the commandments of men.’
+in vain do they worship me, teaching as doctrines the commandments of men.’
 ###### 8
 You leave the commandment of God and hold to the tradition of men.”
 ###### 9

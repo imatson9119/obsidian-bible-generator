@@ -9,7 +9,6 @@ aliases:
   - Ecc_1
 tags:
   - bible/chapter
-  - bible/Ecclesiastes/chapter
   - bible/Ecclesiastes/1
   - bible/old testament
 cssclass:
@@ -21,7 +20,7 @@ cssclass:
 ###### 1
 The words of the Preacher, the son of David, king in Jerusalem.
 ###### 2
-Vanity of vanities, says the Preacher,   vanity of vanities! All is vanity.
+Vanity of vanities, says the Preacher, vanity of vanities! All is vanity.
 ###### 3
 What does man gain by all the toil at which he toils under the sun?
 ###### 4
@@ -33,7 +32,7 @@ The wind blows to the south and goes around to the north; around and around goes
 ###### 7
 All streams run to the sea, but the sea is not full; to the place where the streams flow, there they flow again.
 ###### 8
-All things are full of weariness; a man cannot utter it;   the eye is not satisfied with seeing, nor the ear filled with hearing.
+All things are full of weariness; a man cannot utter it; the eye is not satisfied with seeing, nor the ear filled with hearing.
 ###### 9
 What has been is what will be, and what has been done is what will be done, and there is nothing new under the sun.
 ###### 10

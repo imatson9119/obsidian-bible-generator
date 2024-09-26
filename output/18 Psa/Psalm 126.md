@@ -9,7 +9,6 @@ aliases:
   - Psa_126
 tags:
   - bible/chapter
-  - bible/Psalm/chapter
   - bible/Psalm/126
   - bible/old testament
 cssclass:
@@ -19,9 +18,9 @@ cssclass:
 # Psalm 126
 
 ###### 1
-When the Lord  restored the fortunes of Zion, we were like those who dream.
+When the Lord restored the fortunes of Zion, we were like those who dream.
 ###### 2
-Then our mouth was filled with laughter, and our tongue with shouts of joy; then they said among the nations,   “The Lord has done great things for them.”
+Then our mouth was filled with laughter, and our tongue with shouts of joy; then they said among the nations, “The Lord has done great things for them.”
 ###### 3
 The Lord has done great things for us; we are glad.
 ###### 4

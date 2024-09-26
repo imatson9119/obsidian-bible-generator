@@ -9,7 +9,6 @@ aliases:
   - 1Ch_16
 tags:
   - bible/chapter
-  - bible/1 Chronicles/chapter
   - bible/1 Chronicles/16
   - bible/old testament
 cssclass:
@@ -33,7 +32,7 @@ and Benaiah and Jahaziel the priests were to blow trumpets regularly before the 
 ###### 7
 Then on that day David first appointed that thanksgiving be sung to the Lord by Asaph and his brothers.
 ###### 8
-Oh give thanks to the Lord; call upon his name;   make known his deeds among the peoples!
+Oh give thanks to the Lord; call upon his name; make known his deeds among the peoples!
 ###### 9
 Sing to him, sing praises to him; tell of all his wondrous works!
 ###### 10
@@ -41,11 +40,11 @@ Glory in his holy name; let the hearts of those who seek the Lord rejoice!
 ###### 11
 Seek the Lord and his strength; seek his presence continually!
 ###### 12
-Remember the wondrous works that he has done,   his miracles and the judgments he uttered,
+Remember the wondrous works that he has done, his miracles and the judgments he uttered,
 ###### 13
 O offspring of Israel his servant, children of Jacob, his chosen ones!
 ###### 14
-He is the Lord our God;   his judgments are in all the earth.
+He is the Lord our God; his judgments are in all the earth.
 ###### 15
 Remember his covenant forever, the word that he commanded, for a thousand generations,
 ###### 16
@@ -69,13 +68,13 @@ Declare his glory among the nations, his marvelous works among all the peoples!
 ###### 25
 For great is the Lord, and greatly to be praised, and he is to be feared above all gods.
 ###### 26
-For all the gods of the peoples are worthless idols,   but the Lord made the heavens.
+For all the gods of the peoples are worthless idols, but the Lord made the heavens.
 ###### 27
 Splendor and majesty are before him; strength and joy are in his place.
 ###### 28
-Ascribe to the Lord, O families of the peoples,   ascribe to the Lord glory and strength!
+Ascribe to the Lord, O families of the peoples, ascribe to the Lord glory and strength!
 ###### 29
-Ascribe to the Lord the glory due his name; bring an offering and come before him!   Worship the Lord in the splendor of holiness;
+Ascribe to the Lord the glory due his name; bring an offering and come before him! Worship the Lord in the splendor of holiness;
 ###### 30
 tremble before him, all the earth; yes, the world is established; it shall never be moved.
 ###### 31
@@ -89,15 +88,15 @@ Oh give thanks to the Lord, for he is good; for his steadfast love endures forev
 ###### 35
 Say also: “Save us, O God of our salvation, and gather and deliver us from among the nations, that we may give thanks to your holy name and glory in your praise.
 ###### 36
-Blessed be the Lord, the God of Israel, from everlasting to everlasting!”   Then all the people said, “Amen!” and praised the Lord.
+Blessed be the Lord, the God of Israel, from everlasting to everlasting!” Then all the people said, “Amen!” and praised the Lord.
 ###### 37
 So David left Asaph and his brothers there before the ark of the covenant of the Lord to minister regularly before the ark as each day required,
 ###### 38
 and also Obed-edom and his sixty-eight brothers, while Obed-edom, the son of Jeduthun, and Hosah were to be gatekeepers.
 ###### 39
-And he left Zadok the priest and his brothers the priests before the tabernacle of the Lord  in the high place that was at Gibeon
+And he left Zadok the priest and his brothers the priests before the tabernacle of the Lord in the high place that was at Gibeon
 ###### 40
-to offer burnt offerings to the Lord  on the altar of burnt offering regularly morning and evening, to do all that is written in the Law of the Lord that he commanded Israel.
+to offer burnt offerings to the Lord on the altar of burnt offering regularly morning and evening, to do all that is written in the Law of the Lord that he commanded Israel.
 ###### 41
 With them were Heman and Jeduthun and the rest of those chosen and expressly named to give thanks to the Lord, for his steadfast love endures forever.
 ###### 42

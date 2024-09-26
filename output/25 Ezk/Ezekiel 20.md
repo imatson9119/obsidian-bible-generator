@@ -9,7 +9,6 @@ aliases:
   - Ezk_20
 tags:
   - bible/chapter
-  - bible/Ezekiel/chapter
   - bible/Ezekiel/20
   - bible/old testament
 cssclass:
@@ -43,7 +42,7 @@ I gave them my statutes and made known to them my rules, by which, if a person d
 ###### 12
 Moreover, I gave them my Sabbaths, as a sign between me and them, that they might know that I am the Lord who sanctifies them.
 ###### 13
-But the house of Israel rebelled against me in the wilderness. They did not walk in my statutes but rejected my rules, by which, if a person does them, he shall live; and my Sabbaths they greatly profaned.   “Then I said I would pour out my wrath upon them in the wilderness, to make a full end of them.
+But the house of Israel rebelled against me in the wilderness. They did not walk in my statutes but rejected my rules, by which, if a person does them, he shall live; and my Sabbaths they greatly profaned. “Then I said I would pour out my wrath upon them in the wilderness, to make a full end of them.
 ###### 14
 But I acted for the sake of my name, that it should not be profaned in the sight of the nations, in whose sight I had brought them out.
 ###### 15
@@ -59,7 +58,7 @@ I am the Lord your God; walk in my statutes, and be careful to obey my rules,
 ###### 20
 and keep my Sabbaths holy that they may be a sign between me and you, that you may know that I am the Lord your God.’
 ###### 21
-But the children rebelled against me. They did not walk in my statutes and were not careful to obey my rules, by which, if a person does them, he shall live; they profaned my Sabbaths.   “Then I said I would pour out my wrath upon them and spend my anger against them in the wilderness.
+But the children rebelled against me. They did not walk in my statutes and were not careful to obey my rules, by which, if a person does them, he shall live; they profaned my Sabbaths. “Then I said I would pour out my wrath upon them and spend my anger against them in the wilderness.
 ###### 22
 But I withheld my hand and acted for the sake of my name, that it should not be profaned in the sight of the nations, in whose sight I had brought them out.
 ###### 23
@@ -109,7 +108,7 @@ And you shall know that I am the Lord, when I deal with you for my name’s sake
 ###### 45
 And the word of the Lord came to me:
 ###### 46
-“Son of man, set your face toward the southland;  preach against the south, and prophesy against the forest land in the Negeb.
+“Son of man, set your face toward the southland; preach against the south, and prophesy against the forest land in the Negeb.
 ###### 47
 Say to the forest of the Negeb, Hear the word of the Lord: Thus says the Lord God, Behold, I will kindle a fire in you, and it shall devour every green tree in you and every dry tree. The blazing flame shall not be quenched, and all faces from south to north shall be scorched by it.
 ###### 48

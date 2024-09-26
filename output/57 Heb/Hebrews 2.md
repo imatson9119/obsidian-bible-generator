@@ -9,7 +9,6 @@ aliases:
   - Heb_2
 tags:
   - bible/chapter
-  - bible/Hebrews/chapter
   - bible/Hebrews/2
   - bible/new testament
 cssclass:
@@ -29,7 +28,7 @@ while God also bore witness by signs and wonders and various miracles and by gif
 ###### 5
 For it was not to angels that God subjected the world to come, of which we are speaking.
 ###### 6
-It has been testified somewhere,   “What is man, that you are mindful of him, or the son of man, that you care for him?
+It has been testified somewhere, “What is man, that you are mindful of him, or the son of man, that you care for him?
 ###### 7
 You made him for a little while lower than the angels; you have crowned him with glory and honor,
 ###### 8
@@ -41,9 +40,9 @@ For it was fitting that he, for whom and by whom all things exist, in bringing m
 ###### 11
 For he who sanctifies and those who are sanctified all have one source. That is why he is not ashamed to call them brothers,
 ###### 12
-saying,   “I will tell of your name to my brothers; in the midst of the congregation I will sing your praise.”
+saying, “I will tell of your name to my brothers; in the midst of the congregation I will sing your praise.”
 ###### 13
-And again,   “I will put my trust in him.” And again,   “Behold, I and the children God has given me.”
+And again, “I will put my trust in him.” And again, “Behold, I and the children God has given me.”
 ###### 14
 Since therefore the children share in flesh and blood, he himself likewise partook of the same things, that through death he might destroy the one who has the power of death, that is, the devil,
 ###### 15

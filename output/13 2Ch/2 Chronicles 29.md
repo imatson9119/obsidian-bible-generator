@@ -9,7 +9,6 @@ aliases:
   - 2Ch_29
 tags:
   - bible/chapter
-  - bible/2 Chronicles/chapter
   - bible/2 Chronicles/29
   - bible/old testament
 cssclass:

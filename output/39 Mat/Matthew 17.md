@@ -9,7 +9,6 @@ aliases:
   - Mat_17
 tags:
   - bible/chapter
-  - bible/Matthew/chapter
   - bible/Matthew/17
   - bible/new testament
 cssclass:
@@ -69,6 +68,6 @@ He said, “Yes.” And when he came into the house, Jesus spoke to him first, s
 ###### 26
 And when he said, “From others,” Jesus said to him, “Then the sons are free.
 ###### 27
-However, not to give offense to them, go to the sea and cast a hook and take the first fish that comes up, and when you open its mouth you will find a shekel.  Take that and give it to them for me and for yourself.”
+However, not to give offense to them, go to the sea and cast a hook and take the first fish that comes up, and when you open its mouth you will find a shekel. Take that and give it to them for me and for yourself.”
 
 

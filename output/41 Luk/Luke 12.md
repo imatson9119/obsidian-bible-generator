@@ -9,7 +9,6 @@ aliases:
   - Luk_12
 tags:
   - bible/chapter
-  - bible/Luke/chapter
   - bible/Luke/12
   - bible/new testament
 cssclass:
@@ -25,15 +24,15 @@ Nothing is covered up that will not be revealed, or hidden that will not be know
 ###### 3
 Therefore whatever you have said in the dark shall be heard in the light, and what you have whispered in private rooms shall be proclaimed on the housetops.
 ###### 4
-“I tell you, my friends,     do not fear those who kill the body, and after that have nothing more that they can do.
+“I tell you, my friends, do not fear those who kill the body, and after that have nothing more that they can do.
 ###### 5
-But I will warn you whom to fear: fear him who, after he has killed, has authority to cast into hell.  Yes, I tell you, fear him!
+But I will warn you whom to fear: fear him who, after he has killed, has authority to cast into hell. Yes, I tell you, fear him!
 ###### 6
-Are not five sparrows sold for two pennies?  And not one of them is forgotten before God.
+Are not five sparrows sold for two pennies? And not one of them is forgotten before God.
 ###### 7
 Why, even the hairs of your head are all numbered. Fear not; you are of more value than many sparrows.
 ###### 8
-“And I tell you,     everyone who acknowledges me before men, the Son of Man also will acknowledge     before the angels of God,
+“And I tell you, everyone who acknowledges me before men, the Son of Man also will acknowledge before the angels of God,
 ###### 9
 but the one who denies me before men will be denied before the angels of God.
 ###### 10
@@ -71,7 +70,7 @@ And which of you by being anxious can add a single hour to his span of life?
 ###### 26
 If then you are not able to do as small a thing as that, why are you anxious about the rest?
 ###### 27
-Consider the lilies, how they grow: they neither toil nor spin,  yet I tell you, even Solomon in all his glory was not arrayed like one of these.
+Consider the lilies, how they grow: they neither toil nor spin, yet I tell you, even Solomon in all his glory was not arrayed like one of these.
 ###### 28
 But if God so clothes the grass, which is alive in the field today, and tomorrow is thrown into the oven, how much more will he clothe you, O you of little faith!
 ###### 29
@@ -79,23 +78,23 @@ And do not seek what you are to eat and what you are to drink, nor be worried.
 ###### 30
 For all the nations of the world seek after these things, and your Father knows that you need them.
 ###### 31
-Instead, seek his  kingdom, and these things will be added to you.
+Instead, seek his kingdom, and these things will be added to you.
 ###### 32
-“Fear not, little     flock, for     it is your Father’s good pleasure to give you     the kingdom.
+“Fear not, little flock, for it is your Father’s good pleasure to give you the kingdom.
 ###### 33
 Sell your possessions, and give to the needy. Provide yourselves with moneybags that do not grow old, with a treasure in the heavens that does not fail, where no thief approaches and no moth destroys.
 ###### 34
 For where your treasure is, there will your heart be also.
 ###### 35
-“Stay dressed for action    and keep your lamps burning,
+“Stay dressed for action and keep your lamps burning,
 ###### 36
 and be like men who are waiting for their master to come home from the wedding feast, so that they may open the door to him at once when he comes and knocks.
 ###### 37
-Blessed are those servants  whom the master finds awake when he comes. Truly, I say to you, he will dress himself for service and have them recline at table, and he will come and serve them.
+Blessed are those servants whom the master finds awake when he comes. Truly, I say to you, he will dress himself for service and have them recline at table, and he will come and serve them.
 ###### 38
 If he comes in the second watch, or in the third, and finds them awake, blessed are those servants!
 ###### 39
-But know this, that if the master of the house had known at what hour the thief was coming, he  would not have left his house to be broken into.
+But know this, that if the master of the house had known at what hour the thief was coming, he would not have left his house to be broken into.
 ###### 40
 You also must be ready, for the Son of Man is coming at an hour you do not expect.”
 ###### 41
@@ -103,7 +102,7 @@ Peter said, “Lord, are you telling this parable for us or for all?”
 ###### 42
 And the Lord said, “Who then is the faithful and wise manager, whom his master will set over his household, to give them their portion of food at the proper time?
 ###### 43
-Blessed is that servant  whom his master will find so doing when he comes.
+Blessed is that servant whom his master will find so doing when he comes.
 ###### 44
 Truly, I say to you, he will set him over all his possessions.
 ###### 45
@@ -131,7 +130,7 @@ And when you see the south wind blowing, you say, ‘There will be scorching hea
 ###### 56
 You hypocrites! You know how to interpret the appearance of earth and sky, but why do you not know how to interpret the present time?
 ###### 57
-“And why     do you not judge     for yourselves what is right?
+“And why do you not judge for yourselves what is right?
 ###### 58
 As you go with your accuser before the magistrate, make an effort to settle with him on the way, lest he drag you to the judge, and the judge hand you over to the officer, and the officer put you in prison.
 ###### 59

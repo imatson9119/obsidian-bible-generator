@@ -9,7 +9,6 @@ aliases:
   - Psa_46
 tags:
   - bible/chapter
-  - bible/Psalm/chapter
   - bible/Psalm/46
   - bible/old testament
 cssclass:
@@ -35,9 +34,9 @@ The Lord of hosts is with us; the God of Jacob is our fortress. Selah
 ###### 8
 Come, behold the works of the Lord, how he has brought desolations on the earth.
 ###### 9
-He makes wars cease to the end of the earth; he breaks the bow and shatters the spear;   he burns the chariots with fire.
+He makes wars cease to the end of the earth; he breaks the bow and shatters the spear; he burns the chariots with fire.
 ###### 10
-“Be still, and know that I am God.   I will be exalted among the nations, I will be exalted in the earth!”
+“Be still, and know that I am God. I will be exalted among the nations, I will be exalted in the earth!”
 ###### 11
 The Lord of hosts is with us; the God of Jacob is our fortress. Selah
 

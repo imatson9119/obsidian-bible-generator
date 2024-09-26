@@ -9,7 +9,6 @@ aliases:
   - 1Co_6
 tags:
   - bible/chapter
-  - bible/1 Corinthians/chapter
   - bible/1 Corinthians/6
   - bible/new testament
 cssclass:

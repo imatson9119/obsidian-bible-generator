@@ -9,7 +9,6 @@ aliases:
   - 1Ki_11
 tags:
   - bible/chapter
-  - bible/1 Kings/chapter
   - bible/1 Kings/11
   - bible/old testament
 cssclass:

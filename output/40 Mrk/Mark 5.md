@@ -9,7 +9,6 @@ aliases:
   - Mrk_5
 tags:
   - bible/chapter
-  - bible/Mark/chapter
   - bible/Mark/5
   - bible/new testament
 cssclass:

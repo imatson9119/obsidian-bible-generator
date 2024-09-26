@@ -9,7 +9,6 @@ aliases:
   - Job_36
 tags:
   - bible/chapter
-  - bible/Job/chapter
   - bible/Job/36
   - bible/old testament
 cssclass:

@@ -9,7 +9,6 @@ aliases:
   - Isa_15
 tags:
   - bible/chapter
-  - bible/Isaiah/chapter
   - bible/Isaiah/15
   - bible/old testament
 cssclass:
@@ -35,6 +34,6 @@ Therefore the abundance they have gained and what they have laid up they carry a
 ###### 8
 For a cry has gone around the land of Moab; her wailing reaches to Eglaim; her wailing reaches to Beer-elim.
 ###### 9
-For the waters of Dibon are full of blood; for I will bring upon Dibon even more,   a lion for those of Moab who escape, for the remnant of the land.
+For the waters of Dibon are full of blood; for I will bring upon Dibon even more, a lion for those of Moab who escape, for the remnant of the land.
 
 

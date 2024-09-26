@@ -9,7 +9,6 @@ aliases:
   - Luk_1
 tags:
   - bible/chapter
-  - bible/Luke/chapter
   - bible/Luke/1
   - bible/new testament
 cssclass:
@@ -27,7 +26,7 @@ it seemed good to me also, having followed all things closely for some time past
 ###### 4
 that you may have certainty concerning the things you have been taught.
 ###### 5
-In the days of Herod, king of Judea, there was a priest named Zechariah,  of the division of Abijah. And he had a wife from the daughters of Aaron, and her name was Elizabeth.
+In the days of Herod, king of Judea, there was a priest named Zechariah, of the division of Abijah. And he had a wife from the daughters of Aaron, and her name was Elizabeth.
 ###### 6
 And they were both righteous before God, walking blamelessly in all the commandments and statutes of the Lord.
 ###### 7
@@ -109,7 +108,7 @@ For behold, when the sound of your greeting came to my ears, the baby in my womb
 ###### 45
 And blessed is she who believed that there would be a fulfillment of what was spoken to her from the Lord.”
 ###### 46
-And Mary said,   “My soul magnifies the Lord,
+And Mary said, “My soul magnifies the Lord,
 ###### 47
 and my spirit rejoices in God my Savior,
 ###### 48
@@ -119,15 +118,15 @@ for he who is mighty has done great things for me, and holy is his name.
 ###### 50
 And his mercy is for those who fear him from generation to generation.
 ###### 51
-He has shown strength with his arm;   he has scattered the proud in the thoughts of their hearts;
+He has shown strength with his arm; he has scattered the proud in the thoughts of their hearts;
 ###### 52
-he has brought down the mighty from their thrones   and exalted those of humble estate;
+he has brought down the mighty from their thrones and exalted those of humble estate;
 ###### 53
 he has filled the hungry with good things, and the rich he has sent away empty.
 ###### 54
-He has helped his servant Israel,   in remembrance of his mercy,
+He has helped his servant Israel, in remembrance of his mercy,
 ###### 55
-as he spoke to our fathers,   to Abraham and to his offspring forever.”
+as he spoke to our fathers, to Abraham and to his offspring forever.”
 ###### 56
 And Mary remained with her about three months and returned to her home.
 ###### 57
@@ -155,7 +154,7 @@ And his father Zechariah was filled with the Holy Spirit and prophesied, saying,
 ###### 68
 “Blessed be the Lord God of Israel, for he has visited and redeemed his people
 ###### 69
-and has raised up a horn of salvation for us   in the house of his servant David,
+and has raised up a horn of salvation for us in the house of his servant David,
 ###### 70
 as he spoke by the mouth of his holy prophets from of old,
 ###### 71
@@ -171,9 +170,9 @@ in holiness and righteousness before him all our days.
 ###### 76
 And you, child, will be called the prophet of the Most High; for you will go before the Lord to prepare his ways,
 ###### 77
-to give knowledge of salvation to his people   in the forgiveness of their sins,
+to give knowledge of salvation to his people in the forgiveness of their sins,
 ###### 78
-because of the tender mercy of our God, whereby the sunrise shall visit us  from on high
+because of the tender mercy of our God, whereby the sunrise shall visit us from on high
 ###### 79
 to give light to those who sit in darkness and in the shadow of death, to guide our feet into the way of peace.”
 ###### 80

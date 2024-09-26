@@ -9,7 +9,6 @@ aliases:
   - Jn_1
 tags:
   - bible/chapter
-  - bible/John/chapter
   - bible/John/1
   - bible/new testament
 cssclass:
@@ -39,7 +38,7 @@ The true light, which gives light to everyone, was coming into the world.
 ###### 10
 He was in the world, and the world was made through him, yet the world did not know him.
 ###### 11
-He came to his own, and his own people  did not receive him.
+He came to his own, and his own people did not receive him.
 ###### 12
 But to all who did receive him, who believed in his name, he gave the right to become children of God,
 ###### 13
@@ -53,7 +52,7 @@ For from his fullness we have all received, grace upon grace.
 ###### 17
 For the law was given through Moses; grace and truth came through Jesus Christ.
 ###### 18
-No one has ever seen God; the only God, who is at the Father’s side,  he has made him known.
+No one has ever seen God; the only God, who is at the Father’s side, he has made him known.
 ###### 19
 And this is the testimony of John, when the Jews sent priests and Levites from Jerusalem to ask him, “Who are you?”
 ###### 20
@@ -119,6 +118,6 @@ Nathanael answered him, “Rabbi, you are the Son of God! You are the King of Is
 ###### 50
 Jesus answered him, “Because I said to you, ‘I saw you under the fig tree,’ do you believe? You will see greater things than these.”
 ###### 51
-And he said to him, “Truly, truly, I say to you,  you will see heaven opened, and the angels of God ascending and descending on the Son of Man.”
+And he said to him, “Truly, truly, I say to you, you will see heaven opened, and the angels of God ascending and descending on the Son of Man.”
 
 

@@ -9,7 +9,6 @@ aliases:
   - Psa_71
 tags:
   - bible/chapter
-  - bible/Psalm/chapter
   - bible/Psalm/71
   - bible/old testament
 cssclass:
@@ -43,7 +42,7 @@ and say, “God has forsaken him; pursue and seize him, for there is none to del
 ###### 12
 O God, be not far from me; O my God, make haste to help me!
 ###### 13
-May my accusers be put to shame and consumed;   with scorn and disgrace may they be covered who seek my hurt.
+May my accusers be put to shame and consumed; with scorn and disgrace may they be covered who seek my hurt.
 ###### 14
 But I will hope continually and will praise you yet more and more.
 ###### 15

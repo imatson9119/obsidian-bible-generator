@@ -9,7 +9,6 @@ aliases:
   - Heb_13
 tags:
   - bible/chapter
-  - bible/Hebrews/chapter
   - bible/Hebrews/13
   - bible/new testament
 cssclass:
@@ -29,7 +28,7 @@ Let marriage be held in honor among all, and let the marriage bed be undefiled, 
 ###### 5
 Keep your life free from love of money, and be content with what you have, for he has said, “I will never leave you nor forsake you.”
 ###### 6
-So we can confidently say,   “The Lord is my helper;   I will not fear; what can man do to me?”
+So we can confidently say, “The Lord is my helper; I will not fear; what can man do to me?”
 ###### 7
 Remember your leaders, those who spoke to you the word of God. Consider the outcome of their way of life, and imitate their faith.
 ###### 8

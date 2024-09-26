@@ -9,7 +9,6 @@ aliases:
   - Jer_3
 tags:
   - bible/chapter
-  - bible/Jeremiah/chapter
   - bible/Jeremiah/3
   - bible/old testament
 cssclass:
@@ -19,9 +18,9 @@ cssclass:
 # Jeremiah 3
 
 ###### 1
-“If a man divorces his wife and she goes from him and becomes another man’s wife, will he return to her?   Would not that land be greatly polluted?   You have played the whore with many lovers; and would you return to me? declares the Lord.
+“If a man divorces his wife and she goes from him and becomes another man’s wife, will he return to her? Would not that land be greatly polluted? You have played the whore with many lovers; and would you return to me? declares the Lord.
 ###### 2
-Lift up your eyes to the bare heights, and see! Where have you not been ravished?   By the waysides you have sat awaiting lovers like an Arab in the wilderness.   You have polluted the land with your vile whoredom.
+Lift up your eyes to the bare heights, and see! Where have you not been ravished? By the waysides you have sat awaiting lovers like an Arab in the wilderness. You have polluted the land with your vile whoredom.
 ###### 3
 Therefore the showers have been withheld, and the spring rain has not come; yet you have the forehead of a whore; you refuse to be ashamed.
 ###### 4
@@ -41,11 +40,11 @@ Yet for all this her treacherous sister Judah did not return to me with her whol
 ###### 11
 And the Lord said to me, “Faithless Israel has shown herself more righteous than treacherous Judah.
 ###### 12
-Go, and proclaim these words toward the north, and say,   “‘Return, faithless Israel, declares the Lord. I will not look on you in anger, for I am merciful, declares the Lord;   I will not be angry forever.
+Go, and proclaim these words toward the north, and say, “‘Return, faithless Israel, declares the Lord. I will not look on you in anger, for I am merciful, declares the Lord; I will not be angry forever.
 ###### 13
 Only acknowledge your guilt, that you rebelled against the Lord your God and scattered your favors among foreigners under every green tree, and that you have not obeyed my voice, declares the Lord.
 ###### 14
-Return, O faithless children, declares the Lord;   for I am your master; I will take you, one from a city and two from a family, and I will bring you to Zion.
+Return, O faithless children, declares the Lord; for I am your master; I will take you, one from a city and two from a family, and I will bring you to Zion.
 ###### 15
 “‘And I will give you shepherds after my own heart, who will feed you with knowledge and understanding.
 ###### 16
@@ -59,11 +58,11 @@ In those days the house of Judah shall join the house of Israel, and together th
 ###### 20
 Surely, as a treacherous wife leaves her husband, so have you been treacherous to me, O house of Israel, declares the Lord.’”
 ###### 21
-A voice on the bare heights is heard,   the weeping and pleading of Israel’s sons because they have perverted their way; they have forgotten the Lord their God.
+A voice on the bare heights is heard, the weeping and pleading of Israel’s sons because they have perverted their way; they have forgotten the Lord their God.
 ###### 22
-“Return, O faithless sons;   I will heal your faithlessness.” “Behold, we come to you, for you are the Lord our God.
+“Return, O faithless sons; I will heal your faithlessness.” “Behold, we come to you, for you are the Lord our God.
 ###### 23
-Truly the hills are a delusion, the orgies on the mountains.   Truly in the Lord our God is the salvation of Israel.
+Truly the hills are a delusion, the orgies on the mountains. Truly in the Lord our God is the salvation of Israel.
 ###### 24
 “But from our youth the shameful thing has devoured all for which our fathers labored, their flocks and their herds, their sons and their daughters.
 ###### 25

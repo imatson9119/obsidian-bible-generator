@@ -9,7 +9,6 @@ aliases:
   - Act_7
 tags:
   - bible/chapter
-  - bible/Acts/chapter
   - bible/Acts/7
   - bible/new testament
 cssclass:
@@ -21,7 +20,7 @@ cssclass:
 ###### 1
 And the high priest said, “Are these things so?”
 ###### 2
-And Stephen said:   “Brothers and fathers, hear me. The God of glory appeared to our father Abraham when he was in Mesopotamia, before he lived in Haran,
+And Stephen said: “Brothers and fathers, hear me. The God of glory appeared to our father Abraham when he was in Mesopotamia, before he lived in Haran,
 ###### 3
 and said to him, ‘Go out from your land and from your kindred and go into the land that I will show you.’
 ###### 4
@@ -101,7 +100,7 @@ saying to Aaron, ‘Make for us gods who will go before us. As for this Moses wh
 ###### 41
 And they made a calf in those days, and offered a sacrifice to the idol and were rejoicing in the works of their hands.
 ###### 42
-But God turned away and gave them over to worship the host of heaven, as it is written in the book of the prophets:   “‘Did you bring to me slain beasts and sacrifices,   during the forty years in the wilderness, O house of Israel?
+But God turned away and gave them over to worship the host of heaven, as it is written in the book of the prophets: “‘Did you bring to me slain beasts and sacrifices, during the forty years in the wilderness, O house of Israel?
 ###### 43
 You took up the tent of Moloch and the star of your god Rephan, the images that you made to worship; and I will send you into exile beyond Babylon.’
 ###### 44
@@ -115,7 +114,7 @@ But it was Solomon who built a house for him.
 ###### 48
 Yet the Most High does not dwell in houses made by hands, as the prophet says,
 ###### 49
-“‘Heaven is my throne,   and the earth is my footstool. What kind of house will you build for me, says the Lord, or what is the place of my rest?
+“‘Heaven is my throne, and the earth is my footstool. What kind of house will you build for me, says the Lord, or what is the place of my rest?
 ###### 50
 Did not my hand make all these things?’
 ###### 51

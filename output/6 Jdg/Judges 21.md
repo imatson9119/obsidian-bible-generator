@@ -9,7 +9,6 @@ aliases:
   - Jdg_21
 tags:
   - bible/chapter
-  - bible/Judges/chapter
   - bible/Judges/21
   - bible/old testament
 cssclass:

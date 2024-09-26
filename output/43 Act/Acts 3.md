@@ -9,7 +9,6 @@ aliases:
   - Act_3
 tags:
   - bible/chapter
-  - bible/Acts/chapter
   - bible/Acts/3
   - bible/new testament
 cssclass:

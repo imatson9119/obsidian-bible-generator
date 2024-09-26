@@ -9,7 +9,6 @@ aliases:
   - 2Ki_22
 tags:
   - bible/chapter
-  - bible/2 Kings/chapter
   - bible/2 Kings/22
   - bible/old testament
 cssclass:

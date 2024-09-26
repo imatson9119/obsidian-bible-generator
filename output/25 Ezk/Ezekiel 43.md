@@ -9,7 +9,6 @@ aliases:
   - Ezk_43
 tags:
   - bible/chapter
-  - bible/Ezekiel/chapter
   - bible/Ezekiel/43
   - bible/old testament
 cssclass:
@@ -25,7 +24,7 @@ And behold, the glory of the God of Israel was coming from the east. And the sou
 ###### 3
 And the vision I saw was just like the vision that I had seen when he came to destroy the city, and just like the vision that I had seen by the Chebar canal. And I fell on my face.
 ###### 4
-As the glory of the Lord  entered the temple by the gate facing east,
+As the glory of the Lord entered the temple by the gate facing east,
 ###### 5
 the Spirit lifted me up and brought me into the inner court; and behold, the glory of the Lord filled the temple.
 ###### 6

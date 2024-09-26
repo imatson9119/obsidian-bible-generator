@@ -9,7 +9,6 @@ aliases:
   - Num_26
 tags:
   - bible/chapter
-  - bible/Numbers/chapter
   - bible/Numbers/26
   - bible/old testament
 cssclass:
@@ -25,7 +24,7 @@ After the plague, the Lord said to Moses and to Eleazar the son of Aaron, the pr
 ###### 3
 And Moses and Eleazar the priest spoke with them in the plains of Moab by the Jordan at Jericho, saying,
 ###### 4
-“Take a census of the people, from twenty years old and upward,” as the Lord  commanded Moses. The people of Israel who came out of the land of Egypt were:
+“Take a census of the people, from twenty years old and upward,” as the Lord commanded Moses. The people of Israel who came out of the land of Egypt were:
 ###### 5
 Reuben, the firstborn of Israel; the sons of Reuben: of Hanoch, the clan of the Hanochites; of Pallu, the clan of the Palluites;
 ###### 6

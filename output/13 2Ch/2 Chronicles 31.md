@@ -9,7 +9,6 @@ aliases:
   - 2Ch_31
 tags:
   - bible/chapter
-  - bible/2 Chronicles/chapter
   - bible/2 Chronicles/31
   - bible/old testament
 cssclass:
@@ -49,7 +48,7 @@ And Kore the son of Imnah the Levite, keeper of the east gate, was over the free
 ###### 15
 Eden, Miniamin, Jeshua, Shemaiah, Amariah, and Shecaniah were faithfully assisting him in the cities of the priests, to distribute the portions to their brothers, old and young alike, by divisions,
 ###### 16
-except those enrolled by genealogy, males from three years old and upward—all who entered the house of the Lord  as the duty of each day required—for their service according to their offices, by their divisions.
+except those enrolled by genealogy, males from three years old and upward—all who entered the house of the Lord as the duty of each day required—for their service according to their offices, by their divisions.
 ###### 17
 The enrollment of the priests was according to their fathers’ houses; that of the Levites from twenty years old and upward was according to their offices, by their divisions.
 ###### 18

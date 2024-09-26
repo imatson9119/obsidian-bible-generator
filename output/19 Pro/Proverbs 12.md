@@ -9,7 +9,6 @@ aliases:
   - Pro_12
 tags:
   - bible/chapter
-  - bible/Proverbs/chapter
   - bible/Proverbs/12
   - bible/old testament
 cssclass:
@@ -31,7 +30,7 @@ The thoughts of the righteous are just; the counsels of the wicked are deceitful
 ###### 6
 The words of the wicked lie in wait for blood, but the mouth of the upright delivers them.
 ###### 7
-The wicked are overthrown and are no more,   but the house of the righteous will stand.
+The wicked are overthrown and are no more, but the house of the righteous will stand.
 ###### 8
 A man is commended according to his good sense, but one of twisted mind is despised.
 ###### 9
@@ -39,13 +38,13 @@ Better to be lowly and have a servant than to play the great man and lack bread.
 ###### 10
 Whoever is righteous has regard for the life of his beast, but the mercy of the wicked is cruel.
 ###### 11
-Whoever works his land will have plenty of bread,   but he who follows worthless pursuits lacks sense.
+Whoever works his land will have plenty of bread, but he who follows worthless pursuits lacks sense.
 ###### 12
 Whoever is wicked covets the spoil of evildoers, but the root of the righteous bears fruit.
 ###### 13
-An evil man is ensnared by the transgression of his lips,   but the righteous escapes from trouble.
+An evil man is ensnared by the transgression of his lips, but the righteous escapes from trouble.
 ###### 14
-From the fruit of his mouth a man is satisfied with good,   and the work of a man’s hand comes back to him.
+From the fruit of his mouth a man is satisfied with good, and the work of a man’s hand comes back to him.
 ###### 15
 The way of a fool is right in his own eyes, but a wise man listens to advice.
 ###### 16
@@ -61,9 +60,9 @@ Deceit is in the heart of those who devise evil, but those who plan peace have j
 ###### 21
 No ill befalls the righteous, but the wicked are filled with trouble.
 ###### 22
-Lying lips are an abomination to the Lord,   but those who act faithfully are his delight.
+Lying lips are an abomination to the Lord, but those who act faithfully are his delight.
 ###### 23
-A prudent man conceals knowledge,   but the heart of fools proclaims folly.
+A prudent man conceals knowledge, but the heart of fools proclaims folly.
 ###### 24
 The hand of the diligent will rule, while the slothful will be put to forced labor.
 ###### 25

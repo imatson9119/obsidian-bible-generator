@@ -9,7 +9,6 @@ aliases:
   - Psa_40
 tags:
   - bible/chapter
-  - bible/Psalm/chapter
   - bible/Psalm/40
   - bible/old testament
 cssclass:
@@ -21,7 +20,7 @@ cssclass:
 ###### 1
 I waited patiently for the Lord; he inclined to me and heard my cry.
 ###### 2
-He drew me up from the pit of destruction, out of the miry bog, and set my feet upon a rock,   making my steps secure.
+He drew me up from the pit of destruction, out of the miry bog, and set my feet upon a rock, making my steps secure.
 ###### 3
 He put a new song in my mouth, a song of praise to our God. Many will see and fear, and put their trust in the Lord.
 ###### 4
@@ -35,7 +34,7 @@ Then I said, “Behold, I have come; in the scroll of the book it is written of 
 ###### 8
 I delight to do your will, O my God; your law is within my heart.”
 ###### 9
-I have told the glad news of deliverance in the great congregation; behold, I have not restrained my lips,   as you know, O Lord.
+I have told the glad news of deliverance in the great congregation; behold, I have not restrained my lips, as you know, O Lord.
 ###### 10
 I have not hidden your deliverance within my heart; I have spoken of your faithfulness and your salvation; I have not concealed your steadfast love and your faithfulness from the great congregation.
 ###### 11
@@ -49,7 +48,7 @@ Let those be put to shame and disappointed altogether who seek to snatch away my
 ###### 15
 Let those be appalled because of their shame who say to me, “Aha, Aha!”
 ###### 16
-But may all who seek you rejoice and be glad in you; may those who love your salvation   say continually, “Great is the Lord!”
+But may all who seek you rejoice and be glad in you; may those who love your salvation say continually, “Great is the Lord!”
 ###### 17
 As for me, I am poor and needy, but the Lord takes thought for me. You are my help and my deliverer; do not delay, O my God!
 

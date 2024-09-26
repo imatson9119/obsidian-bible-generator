@@ -9,7 +9,6 @@ aliases:
   - Deu_30
 tags:
   - bible/chapter
-  - bible/Deuteronomy/chapter
   - bible/Deuteronomy/30
   - bible/old testament
 cssclass:

@@ -9,7 +9,6 @@ aliases:
   - 2Ki_10
 tags:
   - bible/chapter
-  - bible/2 Kings/chapter
   - bible/2 Kings/10
   - bible/old testament
 cssclass:
@@ -51,7 +50,7 @@ And when he departed from there, he met Jehonadab the son of Rechab coming to me
 ###### 16
 And he said, “Come with me, and see my zeal for the Lord.” So he had him ride in his chariot.
 ###### 17
-And when he came to Samaria, he struck down all who remained to Ahab in Samaria, till he had wiped them out, according to the word of the Lord  that he spoke to Elijah.
+And when he came to Samaria, he struck down all who remained to Ahab in Samaria, till he had wiped them out, according to the word of the Lord that he spoke to Elijah.
 ###### 18
 Then Jehu assembled all the people and said to them, “Ahab served Baal a little, but Jehu will serve him much.
 ###### 19
@@ -81,7 +80,7 @@ And the Lord said to Jehu, “Because you have done well in carrying out what is
 ###### 31
 But Jehu was not careful to walk in the law of the Lord, the God of Israel, with all his heart. He did not turn from the sins of Jeroboam, which he made Israel to sin.
 ###### 32
-In those days the Lord  began to cut off parts of Israel. Hazael defeated them throughout the territory of Israel:
+In those days the Lord began to cut off parts of Israel. Hazael defeated them throughout the territory of Israel:
 ###### 33
 from the Jordan eastward, all the land of Gilead, the Gadites, and the Reubenites, and the Manassites, from Aroer, which is by the Valley of the Arnon, that is, Gilead and Bashan.
 ###### 34

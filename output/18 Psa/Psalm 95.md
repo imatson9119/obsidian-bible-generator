@@ -9,7 +9,6 @@ aliases:
   - Psa_95
 tags:
   - bible/chapter
-  - bible/Psalm/chapter
   - bible/Psalm/95
   - bible/old testament
 cssclass:
@@ -31,7 +30,7 @@ The sea is his, for he made it, and his hands formed the dry land.
 ###### 6
 Oh come, let us worship and bow down; let us kneel before the Lord, our Maker!
 ###### 7
-For he is our God, and we are the people of his pasture, and the sheep of his hand.   Today, if you hear his voice,
+For he is our God, and we are the people of his pasture, and the sheep of his hand. Today, if you hear his voice,
 ###### 8
 do not harden your hearts, as at Meribah, as on the day at Massah in the wilderness,
 ###### 9

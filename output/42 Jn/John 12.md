@@ -9,7 +9,6 @@ aliases:
   - Jn_12
 tags:
   - bible/chapter
-  - bible/John/chapter
   - bible/John/12
   - bible/new testament
 cssclass:
@@ -31,7 +30,7 @@ But Judas Iscariot, one of his disciples (he who was about to betray him), said,
 ###### 6
 He said this, not because he cared about the poor, but because he was a thief, and having charge of the moneybag he used to help himself to what was put into it.
 ###### 7
-Jesus said, “Leave her alone, so that she may keep it  for the day of my burial.
+Jesus said, “Leave her alone, so that she may keep it for the day of my burial.
 ###### 8
 For the poor you always have with you, but you do not always have me.”
 ###### 9
@@ -71,7 +70,7 @@ Whoever loves his life loses it, and whoever hates his life in this world will k
 ###### 26
 If anyone serves me, he must follow me; and where I am, there will my servant be also. If anyone serves me, the Father will honor him.
 ###### 27
-“Now is my soul troubled. And what shall I say? ‘Father,     save me from     this hour’? But     for this purpose I have come to     this hour.
+“Now is my soul troubled. And what shall I say? ‘Father, save me from this hour’? But for this purpose I have come to this hour.
 ###### 28
 Father, glorify your name.” Then a voice came from heaven: “I have glorified it, and I will glorify it again.”
 ###### 29
@@ -93,7 +92,7 @@ While you have the light, believe in the light, that you may become sons of ligh
 ###### 37
 Though he had done so many signs before them, they still did not believe in him,
 ###### 38
-so that the word spoken by the prophet Isaiah might be fulfilled:   “Lord, who has believed what he heard from us, and to whom has the arm of the Lord been revealed?”
+so that the word spoken by the prophet Isaiah might be fulfilled: “Lord, who has believed what he heard from us, and to whom has the arm of the Lord been revealed?”
 ###### 39
 Therefore they could not believe. For again Isaiah said,
 ###### 40

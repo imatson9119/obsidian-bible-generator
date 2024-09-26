@@ -9,7 +9,6 @@ aliases:
   - Jn_13
 tags:
   - bible/chapter
-  - bible/John/chapter
   - bible/John/13
   - bible/new testament
 cssclass:
@@ -37,7 +36,7 @@ Peter said to him, “You shall never wash my feet.” Jesus answered him, “If
 ###### 9
 Simon Peter said to him, “Lord, not my feet only but also my hands and my head!”
 ###### 10
-Jesus said to him, “The one who has bathed does not need to wash, except for his feet,  but is completely clean. And you  are clean, but not every one of you.”
+Jesus said to him, “The one who has bathed does not need to wash, except for his feet, but is completely clean. And you are clean, but not every one of you.”
 ###### 11
 For he knew who was to betray him; that was why he said, “Not all of you are clean.”
 ###### 12
@@ -49,7 +48,7 @@ If I then, your Lord and Teacher, have washed your feet, you also ought to wash 
 ###### 15
 For I have given you an example, that you also should do just as I have done to you.
 ###### 16
-Truly, truly, I say to you, a servant  is not greater than his master, nor is a messenger greater than the one who sent him.
+Truly, truly, I say to you, a servant is not greater than his master, nor is a messenger greater than the one who sent him.
 ###### 17
 If you know these things, blessed are you if you do them.
 ###### 18

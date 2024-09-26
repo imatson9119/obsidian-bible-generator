@@ -9,7 +9,6 @@ aliases:
   - Num_30
 tags:
   - bible/chapter
-  - bible/Numbers/chapter
   - bible/Numbers/30
   - bible/old testament
 cssclass:

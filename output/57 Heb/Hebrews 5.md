@@ -9,7 +9,6 @@ aliases:
   - Heb_5
 tags:
   - bible/chapter
-  - bible/Hebrews/chapter
   - bible/Hebrews/5
   - bible/new testament
 cssclass:
@@ -27,9 +26,9 @@ Because of this he is obligated to offer sacrifice for his own sins just as he d
 ###### 4
 And no one takes this honor for himself, but only when called by God, just as Aaron was.
 ###### 5
-So also Christ did not exalt himself to be made a high priest, but was appointed by him who said to him,   “You are my Son, today I have begotten you”;
+So also Christ did not exalt himself to be made a high priest, but was appointed by him who said to him, “You are my Son, today I have begotten you”;
 ###### 6
-as he says also in another place,   “You are a priest forever, after the order of Melchizedek.”
+as he says also in another place, “You are a priest forever, after the order of Melchizedek.”
 ###### 7
 In the days of his flesh, Jesus offered up prayers and supplications, with loud cries and tears, to him who was able to save him from death, and he was heard because of his reverence.
 ###### 8

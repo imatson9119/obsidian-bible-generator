@@ -9,7 +9,6 @@ aliases:
   - Psa_12
 tags:
   - bible/chapter
-  - bible/Psalm/chapter
   - bible/Psalm/12
   - bible/old testament
 cssclass:
@@ -27,7 +26,7 @@ May the Lord cut off all flattering lips, the tongue that makes great boasts,
 ###### 4
 those who say, “With our tongue we will prevail, our lips are with us; who is master over us?”
 ###### 5
-“Because the poor are plundered, because the needy groan,   I will now arise,” says the Lord; “I will place him in the safety for which he longs.”
+“Because the poor are plundered, because the needy groan, I will now arise,” says the Lord; “I will place him in the safety for which he longs.”
 ###### 6
 The words of the Lord are pure words, like silver refined in a furnace on the ground, purified seven times.
 ###### 7

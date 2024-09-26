@@ -9,7 +9,6 @@ aliases:
   - Mat_12
 tags:
   - bible/chapter
-  - bible/Matthew/chapter
   - bible/Matthew/12
   - bible/new testament
 cssclass:
@@ -53,7 +52,7 @@ and ordered them not to make him known.
 ###### 17
 This was to fulfill what was spoken by the prophet Isaiah:
 ###### 18
-“Behold, my servant whom I have chosen, my beloved with whom my soul is well pleased.   I will put my Spirit upon him, and he will proclaim justice to the Gentiles.
+“Behold, my servant whom I have chosen, my beloved with whom my soul is well pleased. I will put my Spirit upon him, and he will proclaim justice to the Gentiles.
 ###### 19
 He will not quarrel or cry aloud, nor will anyone hear his voice in the streets;
 ###### 20
@@ -83,7 +82,7 @@ Therefore I tell you, every sin and blasphemy will be forgiven people, but the b
 ###### 32
 And whoever speaks a word against the Son of Man will be forgiven, but whoever speaks against the Holy Spirit will not be forgiven, either in this age or in the age to come.
 ###### 33
-“Either make the tree good and its fruit good, or make the tree bad and its fruit bad,     for the tree is known by its fruit.
+“Either make the tree good and its fruit good, or make the tree bad and its fruit bad, for the tree is known by its fruit.
 ###### 34
 You brood of vipers! How can you speak good, when you are evil? For out of the abundance of the heart the mouth speaks.
 ###### 35
@@ -103,7 +102,7 @@ The men of Nineveh will rise up at the judgment with this generation and condemn
 ###### 42
 The queen of the South will rise up at the judgment with this generation and condemn it, for she came from the ends of the earth to hear the wisdom of Solomon, and behold, something greater than Solomon is here.
 ###### 43
-“When     the unclean spirit has gone out of a person, it passes through     waterless places seeking rest, but finds none.
+“When the unclean spirit has gone out of a person, it passes through waterless places seeking rest, but finds none.
 ###### 44
 Then it says, ‘I will return to my house from which I came.’ And when it comes, it finds the house empty, swept, and put in order.
 ###### 45

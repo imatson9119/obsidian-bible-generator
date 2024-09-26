@@ -9,7 +9,6 @@ aliases:
   - Jer_36
 tags:
   - bible/chapter
-  - bible/Jeremiah/chapter
   - bible/Jeremiah/36
   - bible/old testament
 cssclass:

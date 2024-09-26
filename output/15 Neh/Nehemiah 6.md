@@ -9,7 +9,6 @@ aliases:
   - Neh_6
 tags:
   - bible/chapter
-  - bible/Nehemiah/chapter
   - bible/Nehemiah/6
   - bible/old testament
 cssclass:

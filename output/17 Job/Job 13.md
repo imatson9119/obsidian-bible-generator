@@ -9,7 +9,6 @@ aliases:
   - Job_13
 tags:
   - bible/chapter
-  - bible/Job/chapter
   - bible/Job/13
   - bible/old testament
 cssclass:
@@ -25,7 +24,7 @@ What you know, I also know; I am not inferior to you.
 ###### 3
 But I would speak to the Almighty, and I desire to argue my case with God.
 ###### 4
-As for you, you whitewash with lies;   worthless physicians are you all.
+As for you, you whitewash with lies; worthless physicians are you all.
 ###### 5
 Oh that you would keep silent, and it would be your wisdom!
 ###### 6
@@ -63,7 +62,7 @@ withdraw your hand far from me, and let not dread of you terrify me.
 ###### 22
 Then call, and I will answer; or let me speak, and you reply to me.
 ###### 23
-How many are my iniquities and my sins?   Make me know my transgression and my sin.
+How many are my iniquities and my sins? Make me know my transgression and my sin.
 ###### 24
 Why do you hide your face and count me as your enemy?
 ###### 25

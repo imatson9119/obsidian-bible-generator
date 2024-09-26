@@ -9,7 +9,6 @@ aliases:
   - 1Sa_14
 tags:
   - bible/chapter
-  - bible/1 Samuel/chapter
   - bible/1 Samuel/14
   - bible/old testament
 cssclass:
@@ -23,7 +22,7 @@ One day Jonathan the son of Saul said to the young man who carried his armor, �
 ###### 2
 Saul was staying in the outskirts of Gibeah in the pomegranate cave at Migron. The people who were with him were about six hundred men,
 ###### 3
-including Ahijah the son of Ahitub, Ichabod’s brother, son of Phinehas, son of Eli, the priest of the Lord  in Shiloh, wearing an ephod. And the people did not know that Jonathan had gone.
+including Ahijah the son of Ahitub, Ichabod’s brother, son of Phinehas, son of Eli, the priest of the Lord in Shiloh, wearing an ephod. And the people did not know that Jonathan had gone.
 ###### 4
 Within the passes, by which Jonathan sought to go over to the Philistine garrison, there was a rocky crag on the one side and a rocky crag on the other side. The name of the one was Bozez, and the name of the other Seneh.
 ###### 5
@@ -99,7 +98,7 @@ For as the Lord lives who saves Israel, though it be in Jonathan my son, he shal
 ###### 40
 Then he said to all Israel, “You shall be on one side, and I and Jonathan my son will be on the other side.” And the people said to Saul, “Do what seems good to you.”
 ###### 41
-Therefore Saul said, “O Lord God of Israel, why have you not answered your servant this day? If this guilt is in me or in Jonathan my son, O Lord, God of Israel, give Urim. But if this guilt is in your people Israel, give Thummim.”  And Jonathan and Saul were taken, but the people escaped.
+Therefore Saul said, “O Lord God of Israel, why have you not answered your servant this day? If this guilt is in me or in Jonathan my son, O Lord, God of Israel, give Urim. But if this guilt is in your people Israel, give Thummim.” And Jonathan and Saul were taken, but the people escaped.
 ###### 42
 Then Saul said, “Cast the lot between me and my son Jonathan.” And Jonathan was taken.
 ###### 43

@@ -9,7 +9,6 @@ aliases:
   - 2Sa_16
 tags:
   - bible/chapter
-  - bible/2 Samuel/chapter
   - bible/2 Samuel/16
   - bible/old testament
 cssclass:
@@ -33,7 +32,7 @@ And he threw stones at David and at all the servants of King David, and all the 
 ###### 7
 And Shimei said as he cursed, “Get out, get out, you man of blood, you worthless man!
 ###### 8
-The Lord  has avenged on you all the blood of the house of Saul, in whose place you have reigned, and the Lord has given the kingdom into the hand of your son Absalom. See, your evil is on you, for you are a man of blood.”
+The Lord has avenged on you all the blood of the house of Saul, in whose place you have reigned, and the Lord has given the kingdom into the hand of your son Absalom. See, your evil is on you, for you are a man of blood.”
 ###### 9
 Then Abishai the son of Zeruiah said to the king, “Why should this dead dog curse my lord the king? Let me go over and take off his head.”
 ###### 10

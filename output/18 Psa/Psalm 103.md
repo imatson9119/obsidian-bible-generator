@@ -9,7 +9,6 @@ aliases:
   - Psa_103
 tags:
   - bible/chapter
-  - bible/Psalm/chapter
   - bible/Psalm/103
   - bible/old testament
 cssclass:
@@ -61,6 +60,6 @@ Bless the Lord, O you his angels, you mighty ones who do his word, obeying the v
 ###### 21
 Bless the Lord, all his hosts, his ministers, who do his will!
 ###### 22
-Bless the Lord, all his works, in all places of his dominion.   Bless the Lord, O my soul!
+Bless the Lord, all his works, in all places of his dominion. Bless the Lord, O my soul!
 
 

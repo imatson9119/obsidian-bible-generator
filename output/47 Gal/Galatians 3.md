@@ -9,7 +9,6 @@ aliases:
   - Gal_3
 tags:
   - bible/chapter
-  - bible/Galatians/chapter
   - bible/Galatians/3
   - bible/new testament
 cssclass:
@@ -47,7 +46,7 @@ Christ redeemed us from the curse of the law by becoming a curse for us—for it
 ###### 14
 so that in Christ Jesus the blessing of Abraham might come to the Gentiles, so that we might receive the promised Spirit through faith.
 ###### 15
-To give a human example, brothers:  even with a man-made covenant, no one annuls it or adds to it once it has been ratified.
+To give a human example, brothers: even with a man-made covenant, no one annuls it or adds to it once it has been ratified.
 ###### 16
 Now the promises were made to Abraham and to his offspring. It does not say, “And to offsprings,” referring to many, but referring to one, “And to your offspring,” who is Christ.
 ###### 17

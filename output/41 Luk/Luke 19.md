@@ -9,7 +9,6 @@ aliases:
   - Luk_19
 tags:
   - bible/chapter
-  - bible/Luke/chapter
   - bible/Luke/19
   - bible/new testament
 cssclass:
@@ -43,7 +42,7 @@ As they heard these things, he proceeded to tell a parable, because he was near 
 ###### 12
 He said therefore, “A nobleman went into a far country to receive for himself a kingdom and then return.
 ###### 13
-Calling ten of his servants,  he gave them ten minas,  and said to them, ‘Engage in business until I come.’
+Calling ten of his servants, he gave them ten minas, and said to them, ‘Engage in business until I come.’
 ###### 14
 But his citizens hated him and sent a delegation after him, saying, ‘We do not want this man to reign over us.’
 ###### 15
@@ -51,7 +50,7 @@ When he returned, having received the kingdom, he ordered these servants to whom
 ###### 16
 The first came before him, saying, ‘Lord, your mina has made ten minas more.’
 ###### 17
-And he said to him, ‘Well done, good servant!  Because you have been faithful in a very little, you shall have authority over ten cities.’
+And he said to him, ‘Well done, good servant! Because you have been faithful in a very little, you shall have authority over ten cities.’
 ###### 18
 And the second came, saying, ‘Lord, your mina has made five minas.’
 ###### 19

@@ -9,7 +9,6 @@ aliases:
   - Mat_8
 tags:
   - bible/chapter
-  - bible/Matthew/chapter
   - bible/Matthew/8
   - bible/new testament
 cssclass:
@@ -37,13 +36,13 @@ But the centurion replied, “Lord, I am not worthy to have you come under my ro
 ###### 9
 For I too am a man under authority, with soldiers under me. And I say to one, ‘Go,’ and he goes, and to another, ‘Come,’ and he comes, and to my servant, ‘Do this,’ and he does it.”
 ###### 10
-When Jesus heard this, he marveled and said to those who followed him, “Truly, I tell you, with no one in Israel  have I found such faith.
+When Jesus heard this, he marveled and said to those who followed him, “Truly, I tell you, with no one in Israel have I found such faith.
 ###### 11
 I tell you, many will come from east and west and recline at table with Abraham, Isaac, and Jacob in the kingdom of heaven,
 ###### 12
 while the sons of the kingdom will be thrown into the outer darkness. In that place there will be weeping and gnashing of teeth.”
 ###### 13
-And to the centurion Jesus said, “Go; let it be done for you as you have believed.”  And the servant was healed at that very moment.
+And to the centurion Jesus said, “Go; let it be done for you as you have believed.” And the servant was healed at that very moment.
 ###### 14
 And when Jesus entered Peter’s house, he saw his mother-in-law lying sick with a fever.
 ###### 15

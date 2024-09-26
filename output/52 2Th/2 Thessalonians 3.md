@@ -9,7 +9,6 @@ aliases:
   - 2Th_3
 tags:
   - bible/chapter
-  - bible/2 Thessalonians/chapter
   - bible/2 Thessalonians/3
   - bible/new testament
 cssclass:
@@ -19,7 +18,7 @@ cssclass:
 # 2 Thessalonians 3
 
 ###### 1
-Finally, brothers,  pray for us, that the word of the Lord may speed ahead and be honored, as happened among you,
+Finally, brothers, pray for us, that the word of the Lord may speed ahead and be honored, as happened among you,
 ###### 2
 and that we may be delivered from wicked and evil men. For not all have faith.
 ###### 3

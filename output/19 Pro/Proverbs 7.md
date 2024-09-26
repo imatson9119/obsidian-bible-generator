@@ -9,7 +9,6 @@ aliases:
   - Pro_7
 tags:
   - bible/chapter
-  - bible/Proverbs/chapter
   - bible/Proverbs/7
   - bible/old testament
 cssclass:
@@ -23,7 +22,7 @@ My son, keep my words and treasure up my commandments with you;
 ###### 2
 keep my commandments and live; keep my teaching as the apple of your eye;
 ###### 3
-bind them on your fingers;   write them on the tablet of your heart.
+bind them on your fingers; write them on the tablet of your heart.
 ###### 4
 Say to wisdom, “You are my sister,” and call insight your intimate friend,
 ###### 5
@@ -37,9 +36,9 @@ passing along the street near her corner, taking the road to her house
 ###### 9
 in the twilight, in the evening, at the time of night and darkness.
 ###### 10
-And behold, the woman meets him,   dressed as a prostitute, wily of heart.
+And behold, the woman meets him, dressed as a prostitute, wily of heart.
 ###### 11
-She is loud and wayward;   her feet do not stay at home;
+She is loud and wayward; her feet do not stay at home;
 ###### 12
 now in the street, now in the market, and at every corner she lies in wait.
 ###### 13

@@ -14,5 +14,5 @@ cssclass:
 
 ## Chapters
 
-[[Haggai 1|1]]
-[[Haggai 2|2]]
+#####[[Haggai 1|1]]
+#####[[Haggai 2|2]]

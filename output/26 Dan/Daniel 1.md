@@ -9,7 +9,6 @@ aliases:
   - Dan_1
 tags:
   - bible/chapter
-  - bible/Daniel/chapter
   - bible/Daniel/1
   - bible/old testament
 cssclass:

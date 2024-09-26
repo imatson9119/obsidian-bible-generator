@@ -9,7 +9,6 @@ aliases:
   - Job_10
 tags:
   - bible/chapter
-  - bible/Job/chapter
   - bible/Job/10
   - bible/old testament
 cssclass:
@@ -23,9 +22,9 @@ cssclass:
 ###### 2
 I will say to God, Do not condemn me; let me know why you contend against me.
 ###### 3
-Does it seem good to you to oppress, to despise the work of your hands   and favor the designs of the wicked?
+Does it seem good to you to oppress, to despise the work of your hands and favor the designs of the wicked?
 ###### 4
-Have you eyes of flesh?   Do you see as man sees?
+Have you eyes of flesh? Do you see as man sees?
 ###### 5
 Are your days as the days of man, or your years as a man’s years,
 ###### 6
@@ -57,7 +56,7 @@ You renew your witnesses against me and increase your vexation toward me; you br
 ###### 19
 and were as though I had not been, carried from the womb to the grave.
 ###### 20
-Are not my days few?   Then cease, and leave me alone, that I may find a little cheer
+Are not my days few? Then cease, and leave me alone, that I may find a little cheer
 ###### 21
 before I go—and I shall not return— to the land of darkness and deep shadow,
 ###### 22

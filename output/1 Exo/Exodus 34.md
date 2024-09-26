@@ -9,7 +9,6 @@ aliases:
   - Exo_34
 tags:
   - bible/chapter
-  - bible/Exodus/chapter
   - bible/Exodus/34
   - bible/old testament
 cssclass:
@@ -27,11 +26,11 @@ No one shall come up with you, and let no one be seen throughout all the mountai
 ###### 4
 So Moses cut two tablets of stone like the first. And he rose early in the morning and went up on Mount Sinai, as the Lord had commanded him, and took in his hand two tablets of stone.
 ###### 5
-The Lord  descended in the cloud and stood with him there, and proclaimed the name of the Lord.
+The Lord descended in the cloud and stood with him there, and proclaimed the name of the Lord.
 ###### 6
 The Lord passed before him and proclaimed, “The Lord, the Lord, a God merciful and gracious, slow to anger, and abounding in steadfast love and faithfulness,
 ###### 7
-keeping steadfast love for thousands,  forgiving iniquity and transgression and sin, but who will by no means clear the guilty, visiting the iniquity of the fathers on the children and the children’s children, to the third and the fourth generation.”
+keeping steadfast love for thousands, forgiving iniquity and transgression and sin, but who will by no means clear the guilty, visiting the iniquity of the fathers on the children and the children’s children, to the third and the fourth generation.”
 ###### 8
 And Moses quickly bowed his head toward the earth and worshiped.
 ###### 9

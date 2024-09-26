@@ -9,7 +9,6 @@ aliases:
   - Num_23
 tags:
   - bible/chapter
-  - bible/Numbers/chapter
   - bible/Numbers/23
   - bible/old testament
 cssclass:
@@ -27,7 +26,7 @@ And Balaam said to Balak, “Stand beside your burnt offering, and I will go. Pe
 ###### 4
 and God met Balaam. And Balaam said to him, “I have arranged the seven altars and I have offered on each altar a bull and a ram.”
 ###### 5
-And the Lord  put a word in Balaam’s mouth and said, “Return to Balak, and thus you shall speak.”
+And the Lord put a word in Balaam’s mouth and said, “Return to Balak, and thus you shall speak.”
 ###### 6
 And he returned to him, and behold, he and all the princes of Moab were standing beside his burnt offering.
 ###### 7
@@ -57,15 +56,15 @@ And Balaam took up his discourse and said, “Rise, Balak, and hear; give ear to
 ###### 19
 God is not man, that he should lie, or a son of man, that he should change his mind. Has he said, and will he not do it? Or has he spoken, and will he not fulfill it?
 ###### 20
-Behold, I received a command to bless:   he has blessed, and I cannot revoke it.
+Behold, I received a command to bless: he has blessed, and I cannot revoke it.
 ###### 21
 He has not beheld misfortune in Jacob, nor has he seen trouble in Israel. The Lord their God is with them, and the shout of a king is among them.
 ###### 22
 God brings them out of Egypt and is for them like the horns of the wild ox.
 ###### 23
-For there is no enchantment against Jacob, no divination against Israel; now it shall be said of Jacob and Israel,   ‘What has God wrought!’
+For there is no enchantment against Jacob, no divination against Israel; now it shall be said of Jacob and Israel, ‘What has God wrought!’
 ###### 24
-Behold, a people! As a lioness it rises up and as a lion it lifts itself;   it does not lie down until it has devoured the prey and drunk the blood of the slain.”
+Behold, a people! As a lioness it rises up and as a lion it lifts itself; it does not lie down until it has devoured the prey and drunk the blood of the slain.”
 ###### 25
 And Balak said to Balaam, “Do not curse them at all, and do not bless them at all.”
 ###### 26

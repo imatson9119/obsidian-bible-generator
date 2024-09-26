@@ -9,7 +9,6 @@ aliases:
   - Job_15
 tags:
   - bible/chapter
-  - bible/Job/chapter
   - bible/Job/15
   - bible/old testament
 cssclass:
@@ -29,7 +28,7 @@ But you are doing away with the fear of God and hindering meditation before God.
 ###### 5
 For your iniquity teaches your mouth, and you choose the tongue of the crafty.
 ###### 6
-Your own mouth condemns you, and not I;   your own lips testify against you.
+Your own mouth condemns you, and not I; your own lips testify against you.
 ###### 7
 “Are you the first man who was born? Or were you brought forth before the hills?
 ###### 8
@@ -47,7 +46,7 @@ that you turn your spirit against God and bring such words out of your mouth?
 ###### 14
 What is man, that he can be pure? Or he who is born of a woman, that he can be righteous?
 ###### 15
-Behold, God  puts no trust in his holy ones, and the heavens are not pure in his sight;
+Behold, God puts no trust in his holy ones, and the heavens are not pure in his sight;
 ###### 16
 how much less one who is abominable and corrupt, a man who drinks injustice like water!
 ###### 17

@@ -9,7 +9,6 @@ aliases:
   - 1Pe_2
 tags:
   - bible/chapter
-  - bible/1 Peter/chapter
   - bible/1 Peter/2
   - bible/new testament
 cssclass:
@@ -29,11 +28,11 @@ As you come to him, a living stone rejected by men but in the sight of God chose
 ###### 5
 you yourselves like living stones are being built up as a spiritual house, to be a holy priesthood, to offer spiritual sacrifices acceptable to God through Jesus Christ.
 ###### 6
-For it stands in Scripture:   “Behold, I am laying in Zion a stone, a cornerstone chosen and precious,   and whoever believes in him will not be put to shame.”
+For it stands in Scripture: “Behold, I am laying in Zion a stone, a cornerstone chosen and precious, and whoever believes in him will not be put to shame.”
 ###### 7
-So the honor is for you who believe, but for those who do not believe,   “The stone that the builders rejected has become the cornerstone,”
+So the honor is for you who believe, but for those who do not believe, “The stone that the builders rejected has become the cornerstone,”
 ###### 8
-and   “A stone of stumbling, and a rock of offense.” They stumble because they disobey the word, as they were destined to do.
+and “A stone of stumbling, and a rock of offense.” They stumble because they disobey the word, as they were destined to do.
 ###### 9
 But you are a chosen race, a royal priesthood, a holy nation, a people for his own possession, that you may proclaim the excellencies of him who called you out of darkness into his marvelous light.
 ###### 10

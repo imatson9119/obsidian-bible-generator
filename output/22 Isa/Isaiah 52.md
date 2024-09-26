@@ -9,7 +9,6 @@ aliases:
   - Isa_52
 tags:
   - bible/chapter
-  - bible/Isaiah/chapter
   - bible/Isaiah/52
   - bible/old testament
 cssclass:
@@ -19,9 +18,9 @@ cssclass:
 # Isaiah 52
 
 ###### 1
-Awake, awake, put on your strength, O Zion;   put on your beautiful garments, O Jerusalem, the holy city;   for there shall no more come into you the uncircumcised and the unclean.
+Awake, awake, put on your strength, O Zion; put on your beautiful garments, O Jerusalem, the holy city; for there shall no more come into you the uncircumcised and the unclean.
 ###### 2
-Shake yourself from the dust and arise; be seated, O Jerusalem;   loose the bonds from your neck, O captive daughter of Zion.
+Shake yourself from the dust and arise; be seated, O Jerusalem; loose the bonds from your neck, O captive daughter of Zion.
 ###### 3
 For thus says the Lord: “You were sold for nothing, and you shall be redeemed without money.”
 ###### 4
@@ -33,20 +32,20 @@ Therefore my people shall know my name. Therefore in that day they shall know th
 ###### 7
 How beautiful upon the mountains are the feet of him who brings good news, who publishes peace, who brings good news of happiness, who publishes salvation, who says to Zion, “Your God reigns.”
 ###### 8
-The voice of your watchmen—they lift up their voice; together they sing for joy;   for eye to eye they see the return of the Lord to Zion.
+The voice of your watchmen—they lift up their voice; together they sing for joy; for eye to eye they see the return of the Lord to Zion.
 ###### 9
-Break forth together into singing,   you waste places of Jerusalem, for the Lord has comforted his people; he has redeemed Jerusalem.
+Break forth together into singing, you waste places of Jerusalem, for the Lord has comforted his people; he has redeemed Jerusalem.
 ###### 10
-The Lord has bared his holy arm before the eyes of all the nations,   and all the ends of the earth shall see the salvation of our God.
+The Lord has bared his holy arm before the eyes of all the nations, and all the ends of the earth shall see the salvation of our God.
 ###### 11
-Depart, depart, go out from there; touch no unclean thing; go out from the midst of her; purify yourselves,   you who bear the vessels of the Lord.
+Depart, depart, go out from there; touch no unclean thing; go out from the midst of her; purify yourselves, you who bear the vessels of the Lord.
 ###### 12
-For you shall not go out in haste, and you shall not go in flight,   for the Lord will go before you,   and the God of Israel will be your rear guard.
+For you shall not go out in haste, and you shall not go in flight, for the Lord will go before you, and the God of Israel will be your rear guard.
 ###### 13
 Behold, my servant shall act wisely; he shall be high and lifted up, and shall be exalted.
 ###### 14
-As many were astonished at you—   his appearance was so marred, beyond human semblance, and his form beyond that of the children of mankind—
+As many were astonished at you— his appearance was so marred, beyond human semblance, and his form beyond that of the children of mankind—
 ###### 15
-so shall he sprinkle many nations.   Kings shall shut their mouths because of him,   for that which has not been told them they see, and that which they have not heard they understand.
+so shall he sprinkle many nations. Kings shall shut their mouths because of him, for that which has not been told them they see, and that which they have not heard they understand.
 
 

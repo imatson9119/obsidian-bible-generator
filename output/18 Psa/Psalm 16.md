@@ -9,7 +9,6 @@ aliases:
   - Psa_16
 tags:
   - bible/chapter
-  - bible/Psalm/chapter
   - bible/Psalm/16
   - bible/old testament
 cssclass:
@@ -21,7 +20,7 @@ cssclass:
 ###### 1
 Preserve me, O God, for in you I take refuge.
 ###### 2
-I say to the Lord, “You are my Lord;   I have no good apart from you.”
+I say to the Lord, “You are my Lord; I have no good apart from you.”
 ###### 3
 As for the saints in the land, they are the excellent ones, in whom is all my delight.
 ###### 4
@@ -37,7 +36,7 @@ I have set the Lord always before me; because he is at my right hand, I shall no
 ###### 9
 Therefore my heart is glad, and my whole being rejoices; my flesh also dwells secure.
 ###### 10
-For you will not abandon my soul to Sheol,   or let your holy one see corruption.
+For you will not abandon my soul to Sheol, or let your holy one see corruption.
 ###### 11
 You make known to me the path of life; in your presence there is fullness of joy; at your right hand are pleasures forevermore.
 

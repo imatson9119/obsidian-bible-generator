@@ -9,7 +9,6 @@ aliases:
   - Nah_2
 tags:
   - bible/chapter
-  - bible/Nahum/chapter
   - bible/Nahum/2
   - bible/old testament
 cssclass:
@@ -19,15 +18,15 @@ cssclass:
 # Nahum 2
 
 ###### 1
-The scatterer has come up against you.   Man the ramparts; watch the road; dress for battle; collect all your strength.
+The scatterer has come up against you. Man the ramparts; watch the road; dress for battle; collect all your strength.
 ###### 2
 For the Lord is restoring the majesty of Jacob as the majesty of Israel, for plunderers have plundered them and ruined their branches.
 ###### 3
-The shield of his mighty men is red;   his soldiers are clothed in scarlet. The chariots come with flashing metal on the day he musters them; the cypress spears are brandished.
+The shield of his mighty men is red; his soldiers are clothed in scarlet. The chariots come with flashing metal on the day he musters them; the cypress spears are brandished.
 ###### 4
 The chariots race madly through the streets; they rush to and fro through the squares; they gleam like torches; they dart like lightning.
 ###### 5
-He remembers his officers;   they stumble as they go, they hasten to the wall; the siege tower is set up.
+He remembers his officers; they stumble as they go, they hasten to the wall; the siege tower is set up.
 ###### 6
 The river gates are opened; the palace melts away;
 ###### 7
@@ -37,7 +36,7 @@ Nineveh is like a pool whose waters run away. “Halt! Halt!” they cry, but no
 ###### 9
 Plunder the silver, plunder the gold! There is no end of the treasure or of the wealth of all precious things.
 ###### 10
-Desolate! Desolation and ruin!   Hearts melt and knees tremble;   anguish is in all loins;   all faces grow pale!
+Desolate! Desolation and ruin! Hearts melt and knees tremble; anguish is in all loins; all faces grow pale!
 ###### 11
 Where is the lions’ den, the feeding place of the young lions, where the lion and lioness went, where his cubs were, with none to disturb?
 ###### 12

@@ -9,7 +9,6 @@ aliases:
   - 2Sa_11
 tags:
   - bible/chapter
-  - bible/2 Samuel/chapter
   - bible/2 Samuel/11
   - bible/old testament
 cssclass:

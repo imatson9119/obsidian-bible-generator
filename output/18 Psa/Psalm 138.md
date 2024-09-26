@@ -9,7 +9,6 @@ aliases:
   - Psa_138
 tags:
   - bible/chapter
-  - bible/Psalm/chapter
   - bible/Psalm/138
   - bible/old testament
 cssclass:
@@ -33,6 +32,6 @@ For though the Lord is high, he regards the lowly, but the haughty he knows from
 ###### 7
 Though I walk in the midst of trouble, you preserve my life; you stretch out your hand against the wrath of my enemies, and your right hand delivers me.
 ###### 8
-The Lord will fulfill his purpose for me;   your steadfast love, O Lord, endures forever. Do not forsake the work of your hands.
+The Lord will fulfill his purpose for me; your steadfast love, O Lord, endures forever. Do not forsake the work of your hands.
 
 

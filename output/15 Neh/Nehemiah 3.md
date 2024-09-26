@@ -9,7 +9,6 @@ aliases:
   - Neh_3
 tags:
   - bible/chapter
-  - bible/Nehemiah/chapter
   - bible/Nehemiah/3
   - bible/old testament
 cssclass:
@@ -29,7 +28,7 @@ And next to them Meremoth the son of Uriah, son of Hakkoz repaired. And next to 
 ###### 5
 And next to them the Tekoites repaired, but their nobles would not stoop to serve their Lord.
 ###### 6
-Joiada the son of Paseah and Meshullam the son of Besodeiah repaired the Gate of Yeshanah.  They laid its beams and set its doors, its bolts, and its bars.
+Joiada the son of Paseah and Meshullam the son of Besodeiah repaired the Gate of Yeshanah. They laid its beams and set its doors, its bolts, and its bars.
 ###### 7
 And next to them repaired Melatiah the Gibeonite and Jadon the Meronothite, the men of Gibeon and of Mizpah, the seat of the governor of the province Beyond the River.
 ###### 8

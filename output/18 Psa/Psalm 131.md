@@ -9,7 +9,6 @@ aliases:
   - Psa_131
 tags:
   - bible/chapter
-  - bible/Psalm/chapter
   - bible/Psalm/131
   - bible/old testament
 cssclass:

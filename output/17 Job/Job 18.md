@@ -9,7 +9,6 @@ aliases:
   - Job_18
 tags:
   - bible/chapter
-  - bible/Job/chapter
   - bible/Job/18
   - bible/old testament
 cssclass:
@@ -43,11 +42,11 @@ Terrors frighten him on every side, and chase him at his heels.
 ###### 12
 His strength is famished, and calamity is ready for his stumbling.
 ###### 13
-It consumes the parts of his skin;   the firstborn of death consumes his limbs.
+It consumes the parts of his skin; the firstborn of death consumes his limbs.
 ###### 14
 He is torn from the tent in which he trusted and is brought to the king of terrors.
 ###### 15
-In his tent dwells that which is none of his;   sulfur is scattered over his habitation.
+In his tent dwells that which is none of his; sulfur is scattered over his habitation.
 ###### 16
 His roots dry up beneath, and his branches wither above.
 ###### 17

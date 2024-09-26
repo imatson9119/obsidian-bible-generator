@@ -9,7 +9,6 @@ aliases:
   - Jos_16
 tags:
   - bible/chapter
-  - bible/Joshua/chapter
   - bible/Joshua/16
   - bible/old testament
 cssclass:

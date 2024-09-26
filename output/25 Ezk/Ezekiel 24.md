@@ -9,7 +9,6 @@ aliases:
   - Ezk_24
 tags:
   - bible/chapter
-  - bible/Ezekiel/chapter
   - bible/Ezekiel/24
   - bible/old testament
 cssclass:

@@ -9,7 +9,6 @@ aliases:
   - Jdg_20
 tags:
   - bible/chapter
-  - bible/Judges/chapter
   - bible/Judges/20
   - bible/old testament
 cssclass:
@@ -71,7 +70,7 @@ And Benjamin went against them out of Gibeah the second day, and destroyed 18,00
 ###### 26
 Then all the people of Israel, the whole army, went up and came to Bethel and wept. They sat there before the Lord and fasted that day until evening, and offered burnt offerings and peace offerings before the Lord.
 ###### 27
-And the people of Israel inquired of the Lord  (for the ark of the covenant of God was there in those days,
+And the people of Israel inquired of the Lord (for the ark of the covenant of God was there in those days,
 ###### 28
 and Phinehas the son of Eleazar, son of Aaron, ministered before it in those days), saying, “Shall we go out once more to battle against our brothers, the people of Benjamin, or shall we cease?” And the Lord said, “Go up, for tomorrow I will give them into your hand.”
 ###### 29

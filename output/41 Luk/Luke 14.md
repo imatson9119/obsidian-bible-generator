@@ -9,7 +9,6 @@ aliases:
   - Luk_14
 tags:
   - bible/chapter
-  - bible/Luke/chapter
   - bible/Luke/14
   - bible/new testament
 cssclass:
@@ -27,7 +26,7 @@ And Jesus responded to the lawyers and Pharisees, saying, “Is it lawful to hea
 ###### 4
 But they remained silent. Then he took him and healed him and sent him away.
 ###### 5
-And he said to them, “Which of you, having a son  or an ox that has fallen into a well on a Sabbath day, will not immediately pull him out?”
+And he said to them, “Which of you, having a son or an ox that has fallen into a well on a Sabbath day, will not immediately pull him out?”
 ###### 6
 And they could not reply to these things.
 ###### 7
@@ -41,7 +40,7 @@ But when you are invited, go and sit in the lowest place, so that when your host
 ###### 11
 For everyone who exalts himself will be humbled, and he who humbles himself will be exalted.”
 ###### 12
-He said also to the man who had invited him, “When you give a dinner or a banquet, do not invite your friends or your brothers  or your relatives or rich neighbors, lest they also invite you in return and you be repaid.
+He said also to the man who had invited him, “When you give a dinner or a banquet, do not invite your friends or your brothers or your relatives or rich neighbors, lest they also invite you in return and you be repaid.
 ###### 13
 But when you give a feast, invite the poor, the crippled, the lame, the blind,
 ###### 14
@@ -51,7 +50,7 @@ When one of those who reclined at table with him heard these things, he said to 
 ###### 16
 But he said to him, “A man once gave a great banquet and invited many.
 ###### 17
-And at the time for the banquet he sent his servant  to say to those who had been invited, ‘Come, for everything is now ready.’
+And at the time for the banquet he sent his servant to say to those who had been invited, ‘Come, for everything is now ready.’
 ###### 18
 But they all alike began to make excuses. The first said to him, ‘I have bought a field, and I must go out and see it. Please have me excused.’
 ###### 19
@@ -85,7 +84,7 @@ And if not, while the other is yet a great way off, he sends a delegation and as
 ###### 33
 So therefore, any one of you who does not renounce all that he has cannot be my disciple.
 ###### 34
-“Salt is good,     but if salt has lost its taste, how shall its saltiness be restored?
+“Salt is good, but if salt has lost its taste, how shall its saltiness be restored?
 ###### 35
 It is of no use either for the soil or for the manure pile. It is thrown away. He who has ears to hear, let him hear.”
 

@@ -9,7 +9,6 @@ aliases:
   - SS_3
 tags:
   - bible/chapter
-  - bible/Song of Solomon/chapter
   - bible/Song of Solomon/3
   - bible/old testament
 cssclass:
@@ -19,7 +18,7 @@ cssclass:
 # Song of Solomon 3
 
 ###### 1
-On my bed by night I sought him whom my soul loves;   I sought him, but found him not.
+On my bed by night I sought him whom my soul loves; I sought him, but found him not.
 ###### 2
 I will rise now and go about the city, in the streets and in the squares; I will seek him whom my soul loves. I sought him, but found him not.
 ###### 3
@@ -27,7 +26,7 @@ The watchmen found me as they went about in the city. “Have you seen him whom 
 ###### 4
 Scarcely had I passed them when I found him whom my soul loves. I held him, and would not let him go until I had brought him into my mother’s house, and into the chamber of her who conceived me.
 ###### 5
-I adjure you, O daughters of Jerusalem,   by the gazelles or the does of the field, that you not stir up or awaken love until it pleases.
+I adjure you, O daughters of Jerusalem, by the gazelles or the does of the field, that you not stir up or awaken love until it pleases.
 ###### 6
 What is that coming up from the wilderness like columns of smoke, perfumed with myrrh and frankincense, with all the fragrant powders of a merchant?
 ###### 7

@@ -9,7 +9,6 @@ aliases:
   - Mat_15
 tags:
   - bible/chapter
-  - bible/Matthew/chapter
   - bible/Matthew/15
   - bible/new testament
 cssclass:
@@ -29,13 +28,13 @@ For God commanded, ‘Honor your father and your mother,’ and, ‘Whoever revi
 ###### 5
 But you say, ‘If anyone tells his father or his mother, “What you would have gained from me is given to God,”
 ###### 6
-he need not honor his father.’ So for the sake of your tradition you have made void the word  of God.
+he need not honor his father.’ So for the sake of your tradition you have made void the word of God.
 ###### 7
 You hypocrites! Well did Isaiah prophesy of you, when he said:
 ###### 8
-“‘This people honors me with their lips,   but their heart is far from me;
+“‘This people honors me with their lips, but their heart is far from me;
 ###### 9
-in vain do they worship me,   teaching as     doctrines the commandments of men.’”
+in vain do they worship me, teaching as doctrines the commandments of men.’”
 ###### 10
 And he called the people to him and said to them, “Hear and understand:
 ###### 11
@@ -45,7 +44,7 @@ Then the disciples came and said to him, “Do you know that the Pharisees were 
 ###### 13
 He answered, “Every plant that my heavenly Father has not planted will be rooted up.
 ###### 14
-Let them alone; they are blind guides.  And if the blind lead the blind, both will fall into a pit.”
+Let them alone; they are blind guides. And if the blind lead the blind, both will fall into a pit.”
 ###### 15
 But Peter said to him, “Explain the parable to us.”
 ###### 16
@@ -73,7 +72,7 @@ And he answered, “It is not right to take the children’s bread and throw it 
 ###### 27
 She said, “Yes, Lord, yet even the dogs eat the crumbs that fall from their masters’ table.”
 ###### 28
-Then Jesus answered her, “O woman, great is your faith! Be it done for you as you desire.”  And her daughter was healed instantly.
+Then Jesus answered her, “O woman, great is your faith! Be it done for you as you desire.” And her daughter was healed instantly.
 ###### 29
 Jesus went on from there and walked beside the Sea of Galilee. And he went up on the mountain and sat down there.
 ###### 30

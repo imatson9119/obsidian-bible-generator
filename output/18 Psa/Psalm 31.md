@@ -9,7 +9,6 @@ aliases:
   - Psa_31
 tags:
   - bible/chapter
-  - bible/Psalm/chapter
   - bible/Psalm/31
   - bible/old testament
 cssclass:
@@ -19,7 +18,7 @@ cssclass:
 # Psalm 31
 
 ###### 1
-In you, O Lord, do I take refuge;   let me never be put to shame; in your righteousness deliver me!
+In you, O Lord, do I take refuge; let me never be put to shame; in your righteousness deliver me!
 ###### 2
 Incline your ear to me; rescue me speedily! Be a rock of refuge for me, a strong fortress to save me!
 ###### 3
@@ -35,7 +34,7 @@ I will rejoice and be glad in your steadfast love, because you have seen my affl
 ###### 8
 and you have not delivered me into the hand of the enemy; you have set my feet in a broad place.
 ###### 9
-Be gracious to me, O Lord, for I am in distress;   my eye is wasted from grief; my soul and my body also.
+Be gracious to me, O Lord, for I am in distress; my eye is wasted from grief; my soul and my body also.
 ###### 10
 For my life is spent with sorrow, and my years with sighing; my strength fails because of my iniquity, and my bones waste away.
 ###### 11
@@ -43,11 +42,11 @@ Because of all my adversaries I have become a reproach, especially to my neighbo
 ###### 12
 I have been forgotten like one who is dead; I have become like a broken vessel.
 ###### 13
-For I hear the whispering of many— terror on every side!—   as they scheme together against me, as they plot to take my life.
+For I hear the whispering of many— terror on every side!— as they scheme together against me, as they plot to take my life.
 ###### 14
 But I trust in you, O Lord; I say, “You are my God.”
 ###### 15
-My times are in your hand;   rescue me from the hand of my enemies and from my persecutors!
+My times are in your hand; rescue me from the hand of my enemies and from my persecutors!
 ###### 16
 Make your face shine on your servant; save me in your steadfast love!
 ###### 17
@@ -55,7 +54,7 @@ O Lord, let me not be put to shame, for I call upon you; let the wicked be put t
 ###### 18
 Let the lying lips be mute, which speak insolently against the righteous in pride and contempt.
 ###### 19
-Oh, how abundant is your goodness, which you have stored up for those who fear you and worked for those who take refuge in you,   in the sight of the children of mankind!
+Oh, how abundant is your goodness, which you have stored up for those who fear you and worked for those who take refuge in you, in the sight of the children of mankind!
 ###### 20
 In the cover of your presence you hide them from the plots of men; you store them in your shelter from the strife of tongues.
 ###### 21

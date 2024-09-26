@@ -9,7 +9,6 @@ aliases:
   - Deu_1
 tags:
   - bible/chapter
-  - bible/Deuteronomy/chapter
   - bible/Deuteronomy/1
   - bible/old testament
 cssclass:
@@ -71,7 +70,7 @@ And they took in their hands some of the fruit of the land and brought it down t
 ###### 26
 “Yet you would not go up, but rebelled against the command of the Lord your God.
 ###### 27
-And you murmured in your tents and said, ‘Because the Lord  hated us he has brought us out of the land of Egypt, to give us into the hand of the Amorites, to destroy us.
+And you murmured in your tents and said, ‘Because the Lord hated us he has brought us out of the land of Egypt, to give us into the hand of the Amorites, to destroy us.
 ###### 28
 Where are we going up? Our brothers have made our hearts melt, saying, “The people are greater and taller than we. The cities are great and fortified up to heaven. And besides, we have seen the sons of the Anakim there.”’
 ###### 29

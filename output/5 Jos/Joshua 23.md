@@ -9,7 +9,6 @@ aliases:
   - Jos_23
 tags:
   - bible/chapter
-  - bible/Joshua/chapter
   - bible/Joshua/23
   - bible/old testament
 cssclass:

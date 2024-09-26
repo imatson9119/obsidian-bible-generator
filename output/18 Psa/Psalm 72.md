@@ -9,7 +9,6 @@ aliases:
   - Psa_72
 tags:
   - bible/chapter
-  - bible/Psalm/chapter
   - bible/Psalm/72
   - bible/old testament
 cssclass:
@@ -51,11 +50,11 @@ Long may he live; may gold of Sheba be given to him! May prayer be made for him 
 ###### 16
 May there be abundance of grain in the land; on the tops of the mountains may it wave; may its fruit be like Lebanon; and may people blossom in the cities like the grass of the field!
 ###### 17
-May his name endure forever, his fame continue as long as the sun!   May people be blessed in him,   all nations call him blessed!
+May his name endure forever, his fame continue as long as the sun! May people be blessed in him, all nations call him blessed!
 ###### 18
 Blessed be the Lord, the God of Israel, who alone does wondrous things.
 ###### 19
-Blessed be his glorious name forever; may the whole earth be filled with his glory!   Amen and Amen!
+Blessed be his glorious name forever; may the whole earth be filled with his glory! Amen and Amen!
 ###### 20
 The prayers of David, the son of Jesse, are ended.
 

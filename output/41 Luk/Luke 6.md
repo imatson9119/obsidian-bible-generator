@@ -9,7 +9,6 @@ aliases:
   - Luk_6
 tags:
   - bible/chapter
-  - bible/Luke/chapter
   - bible/Luke/6
   - bible/new testament
 cssclass:
@@ -57,25 +56,25 @@ who came to hear him and to be healed of their diseases. And those who were trou
 ###### 19
 And all the crowd sought to touch him, for power came out from him and healed them all.
 ###### 20
-And he lifted up his eyes on his disciples, and said:   “Blessed are you who are poor, for     yours is the kingdom of God.
+And he lifted up his eyes on his disciples, and said: “Blessed are you who are poor, for yours is the kingdom of God.
 ###### 21
-“Blessed are you who are hungry now, for you shall be satisfied.     “Blessed are you who weep now, for you shall laugh.
+“Blessed are you who are hungry now, for you shall be satisfied. “Blessed are you who weep now, for you shall laugh.
 ###### 22
-“Blessed are you when     people hate you and when they     exclude you and revile you and     spurn your name as evil,     on account of the Son of Man!
+“Blessed are you when people hate you and when they exclude you and revile you and spurn your name as evil, on account of the Son of Man!
 ###### 23
 Rejoice in that day, and leap for joy, for behold, your reward is great in heaven; for so their fathers did to the prophets.
 ###### 24
-“But woe to you who are rich,     for you     have received your consolation.
+“But woe to you who are rich, for you have received your consolation.
 ###### 25
-“Woe to you who are full now, for     you shall be hungry.   “Woe to     you who laugh now,     for you shall mourn and weep.
+“Woe to you who are full now, for you shall be hungry. “Woe to you who laugh now, for you shall mourn and weep.
 ###### 26
-“Woe to you,     when all people speak well of you, for     so their fathers did to     the false prophets.
+“Woe to you, when all people speak well of you, for so their fathers did to the false prophets.
 ###### 27
-“But I say to you who hear,     Love your enemies,     do good to those who hate you,
+“But I say to you who hear, Love your enemies, do good to those who hate you,
 ###### 28
 bless those who curse you, pray for those who abuse you.
 ###### 29
-To one who strikes you on the cheek, offer the other also, and from one who takes away your cloak do not withhold your tunic  either.
+To one who strikes you on the cheek, offer the other also, and from one who takes away your cloak do not withhold your tunic either.
 ###### 30
 Give to everyone who begs from you, and from one who takes away your goods do not demand them back.
 ###### 31
@@ -91,7 +90,7 @@ But love your enemies, and do good, and lend, expecting nothing in return, and y
 ###### 36
 Be merciful, even as your Father is merciful.
 ###### 37
-“Judge not, and you will not be judged; condemn not, and you will not be condemned;     forgive, and you will be forgiven;
+“Judge not, and you will not be judged; condemn not, and you will not be condemned; forgive, and you will be forgiven;
 ###### 38
 give, and it will be given to you. Good measure, pressed down, shaken together, running over, will be put into your lap. For with the measure you use it will be measured back to you.”
 ###### 39
@@ -103,13 +102,13 @@ Why do you see the speck that is in your brother’s eye, but do not notice the 
 ###### 42
 How can you say to your brother, ‘Brother, let me take out the speck that is in your eye,’ when you yourself do not see the log that is in your own eye? You hypocrite, first take the log out of your own eye, and then you will see clearly to take out the speck that is in your brother’s eye.
 ###### 43
-“For     no good tree bears bad fruit, nor again does a bad tree bear good fruit,
+“For no good tree bears bad fruit, nor again does a bad tree bear good fruit,
 ###### 44
 for each tree is known by its own fruit. For figs are not gathered from thornbushes, nor are grapes picked from a bramble bush.
 ###### 45
 The good person out of the good treasure of his heart produces good, and the evil person out of his evil treasure produces evil, for out of the abundance of the heart his mouth speaks.
 ###### 46
-“Why     do you call me ‘Lord, Lord,’ and not do what I tell you?
+“Why do you call me ‘Lord, Lord,’ and not do what I tell you?
 ###### 47
 Everyone who comes to me and hears my words and does them, I will show you what he is like:
 ###### 48

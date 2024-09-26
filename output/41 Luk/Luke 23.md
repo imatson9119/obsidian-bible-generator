@@ -9,7 +9,6 @@ aliases:
   - Luk_23
 tags:
   - bible/chapter
-  - bible/Luke/chapter
   - bible/Luke/23
   - bible/new testament
 cssclass:

@@ -9,7 +9,6 @@ aliases:
   - Mat_9
 tags:
   - bible/chapter
-  - bible/Matthew/chapter
   - bible/Matthew/9
   - bible/new testament
 cssclass:
@@ -61,7 +60,7 @@ And behold, a woman who had suffered from a discharge of blood for twelve years 
 ###### 21
 for she said to herself, “If I only touch his garment, I will be made well.”
 ###### 22
-Jesus turned, and seeing her he said, “Take heart, daughter; your faith has made you well.”  And instantly the woman was made well.
+Jesus turned, and seeing her he said, “Take heart, daughter; your faith has made you well.” And instantly the woman was made well.
 ###### 23
 And when Jesus came to the ruler’s house and saw the flute players and the crowd making a commotion,
 ###### 24

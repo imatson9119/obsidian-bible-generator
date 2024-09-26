@@ -9,7 +9,6 @@ aliases:
   - Jer_33
 tags:
   - bible/chapter
-  - bible/Jeremiah/chapter
   - bible/Jeremiah/33
   - bible/old testament
 cssclass:
@@ -39,7 +38,7 @@ And this city shall be to me a name of joy, a praise and a glory before all the 
 ###### 10
 “Thus says the Lord: In this place of which you say, ‘It is a waste without man or beast,’ in the cities of Judah and the streets of Jerusalem that are desolate, without man or inhabitant or beast, there shall be heard again
 ###### 11
-the voice of mirth and the voice of gladness, the voice of the bridegroom and the voice of the bride, the voices of those who sing, as they bring thank offerings to the house of the Lord:   “‘Give thanks to the Lord of hosts, for the Lord is good, for his steadfast love endures forever!’   For I will restore the fortunes of the land as at first, says the Lord.
+the voice of mirth and the voice of gladness, the voice of the bridegroom and the voice of the bride, the voices of those who sing, as they bring thank offerings to the house of the Lord: “‘Give thanks to the Lord of hosts, for the Lord is good, for his steadfast love endures forever!’ For I will restore the fortunes of the land as at first, says the Lord.
 ###### 12
 “Thus says the Lord of hosts: In this place that is waste, without man or beast, and in all of its cities, there shall again be habitations of shepherds resting their flocks.
 ###### 13

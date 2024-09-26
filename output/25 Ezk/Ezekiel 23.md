@@ -9,7 +9,6 @@ aliases:
   - Ezk_23
 tags:
   - bible/chapter
-  - bible/Ezekiel/chapter
   - bible/Ezekiel/23
   - bible/old testament
 cssclass:
@@ -83,7 +82,7 @@ You have gone the way of your sister; therefore I will give her cup into your ha
 ###### 32
 Thus says the Lord God: “You shall drink your sister’s cup that is deep and large; you shall be laughed at and held in derision, for it contains much;
 ###### 33
-you will be filled with drunkenness and sorrow.   A cup of horror and desolation, the cup of your sister Samaria;
+you will be filled with drunkenness and sorrow. A cup of horror and desolation, the cup of your sister Samaria;
 ###### 34
 you shall drink it and drain it out, and gnaw its shards, and tear your breasts; for I have spoken, declares the Lord God.
 ###### 35

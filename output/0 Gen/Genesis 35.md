@@ -9,7 +9,6 @@ aliases:
   - Gen_35
 tags:
   - bible/chapter
-  - bible/Genesis/chapter
   - bible/Genesis/35
   - bible/old testament
 cssclass:
@@ -53,7 +52,7 @@ Then they journeyed from Bethel. When they were still some distance from Ephrath
 ###### 17
 And when her labor was at its hardest, the midwife said to her, “Do not fear, for you have another son.”
 ###### 18
-And as her soul was departing (for she was dying), she called his name Ben-oni;  but his father called him Benjamin.
+And as her soul was departing (for she was dying), she called his name Ben-oni; but his father called him Benjamin.
 ###### 19
 So Rachel died, and she was buried on the way to Ephrath (that is, Bethlehem),
 ###### 20

@@ -9,7 +9,6 @@ aliases:
   - Job_12
 tags:
   - bible/chapter
-  - bible/Job/chapter
   - bible/Job/12
   - bible/old testament
 cssclass:
@@ -57,7 +56,7 @@ He looses the bonds of kings and binds a waistcloth on their hips.
 ###### 19
 He leads priests away stripped and overthrows the mighty.
 ###### 20
-He deprives of speech those who are trusted   and takes away the discernment of the elders.
+He deprives of speech those who are trusted and takes away the discernment of the elders.
 ###### 21
 He pours contempt on princes and loosens the belt of the strong.
 ###### 22

@@ -9,7 +9,6 @@ aliases:
   - Rev_15
 tags:
   - bible/chapter
-  - bible/Revelation/chapter
   - bible/Revelation/15
   - bible/new testament
 cssclass:
@@ -23,9 +22,9 @@ Then I saw another sign in heaven, great and amazing, seven angels with seven pl
 ###### 2
 And I saw what appeared to be a sea of glass mingled with fire—and also those who had conquered the beast and its image and the number of its name, standing beside the sea of glass with harps of God in their hands.
 ###### 3
-And they sing the song of Moses, the servant of God, and the song of the Lamb, saying,   “Great and amazing are your deeds, O Lord God the Almighty!   Just and true are your ways, O King of the nations!
+And they sing the song of Moses, the servant of God, and the song of the Lamb, saying, “Great and amazing are your deeds, O Lord God the Almighty! Just and true are your ways, O King of the nations!
 ###### 4
-Who will not fear, O Lord, and glorify your name? For you alone are holy.   All nations will come and worship you, for your righteous acts have been revealed.”
+Who will not fear, O Lord, and glorify your name? For you alone are holy. All nations will come and worship you, for your righteous acts have been revealed.”
 ###### 5
 After this I looked, and the sanctuary of the tent of witness in heaven was opened,
 ###### 6

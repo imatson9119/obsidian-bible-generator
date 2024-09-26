@@ -9,7 +9,6 @@ aliases:
   - 2Ki_12
 tags:
   - bible/chapter
-  - bible/2 Kings/chapter
   - bible/2 Kings/12
   - bible/old testament
 cssclass:
@@ -43,7 +42,7 @@ Then they would give the money that was weighed out into the hands of the workme
 ###### 12
 and to the masons and the stonecutters, as well as to buy timber and quarried stone for making repairs on the house of the Lord, and for any outlay for the repairs of the house.
 ###### 13
-But there were not made for the house of the Lord  basins of silver, snuffers, bowls, trumpets, or any vessels of gold, or of silver, from the money that was brought into the house of the Lord,
+But there were not made for the house of the Lord basins of silver, snuffers, bowls, trumpets, or any vessels of gold, or of silver, from the money that was brought into the house of the Lord,
 ###### 14
 for that was given to the workmen who were repairing the house of the Lord with it.
 ###### 15

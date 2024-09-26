@@ -9,7 +9,6 @@ aliases:
   - Jer_52
 tags:
   - bible/chapter
-  - bible/Jeremiah/chapter
   - bible/Jeremiah/52
   - bible/old testament
 cssclass:
@@ -59,7 +58,7 @@ also the small bowls and the fire pans and the basins and the pots and the lamps
 ###### 20
 As for the two pillars, the one sea, the twelve bronze bulls that were under the sea, and the stands, which Solomon the king had made for the house of the Lord, the bronze of all these things was beyond weight.
 ###### 21
-As for the pillars, the height of the one pillar was eighteen cubits,  its circumference was twelve cubits, and its thickness was four fingers, and it was hollow.
+As for the pillars, the height of the one pillar was eighteen cubits, its circumference was twelve cubits, and its thickness was four fingers, and it was hollow.
 ###### 22
 On it was a capital of bronze. The height of the one capital was five cubits. A network and pomegranates, all of bronze, were around the capital. And the second pillar had the same, with pomegranates.
 ###### 23
@@ -79,7 +78,7 @@ in the eighteenth year of Nebuchadnezzar he carried away captive from Jerusalem 
 ###### 30
 in the twenty-third year of Nebuchadnezzar, Nebuzaradan the captain of the guard carried away captive of the Judeans 745 persons; all the persons were 4,600.
 ###### 31
-And in the thirty-seventh year of the exile of Jehoiachin king of Judah, in the twelfth month, on the twenty-fifth day of the month, Evil-merodach king of Babylon, in the year that he began to reign, graciously freed  Jehoiachin king of Judah and brought him out of prison.
+And in the thirty-seventh year of the exile of Jehoiachin king of Judah, in the twelfth month, on the twenty-fifth day of the month, Evil-merodach king of Babylon, in the year that he began to reign, graciously freed Jehoiachin king of Judah and brought him out of prison.
 ###### 32
 And he spoke kindly to him and gave him a seat above the seats of the kings who were with him in Babylon.
 ###### 33

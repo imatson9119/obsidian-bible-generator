@@ -9,7 +9,6 @@ aliases:
   - Act_23
 tags:
   - bible/chapter
-  - bible/Acts/chapter
   - bible/Acts/23
   - bible/new testament
 cssclass:

@@ -9,7 +9,6 @@ aliases:
   - Jdg_15
 tags:
   - bible/chapter
-  - bible/Judges/chapter
   - bible/Judges/15
   - bible/old testament
 cssclass:

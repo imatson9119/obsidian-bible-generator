@@ -9,7 +9,6 @@ aliases:
   - 2Pe_1
 tags:
   - bible/chapter
-  - bible/2 Peter/chapter
   - bible/2 Peter/1
   - bible/new testament
 cssclass:
@@ -43,7 +42,7 @@ For in this way there will be richly provided for you an entrance into the etern
 ###### 12
 Therefore I intend always to remind you of these qualities, though you know them and are established in the truth that you have.
 ###### 13
-I think it right, as long as I am in this body,  to stir you up by way of reminder,
+I think it right, as long as I am in this body, to stir you up by way of reminder,
 ###### 14
 since I know that the putting off of my body will be soon, as our Lord Jesus Christ made clear to me.
 ###### 15

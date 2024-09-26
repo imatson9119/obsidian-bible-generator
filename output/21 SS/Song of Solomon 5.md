@@ -9,7 +9,6 @@ aliases:
   - SS_5
 tags:
   - bible/chapter
-  - bible/Song of Solomon/chapter
   - bible/Song of Solomon/5
   - bible/old testament
 cssclass:
@@ -29,17 +28,17 @@ My beloved put his hand to the latch, and my heart was thrilled within me.
 ###### 5
 I arose to open to my beloved, and my hands dripped with myrrh, my fingers with liquid myrrh, on the handles of the bolt.
 ###### 6
-I opened to my beloved, but my beloved had turned and gone. My soul failed me when he spoke.   I sought him, but found him not;   I called him, but he gave no answer.
+I opened to my beloved, but my beloved had turned and gone. My soul failed me when he spoke. I sought him, but found him not; I called him, but he gave no answer.
 ###### 7
 The watchmen found me as they went about in the city; they beat me, they bruised me, they took away my veil, those watchmen of the walls.
 ###### 8
-I adjure you, O daughters of Jerusalem, if you find my beloved, that you tell him   I am sick with love.
+I adjure you, O daughters of Jerusalem, if you find my beloved, that you tell him I am sick with love.
 ###### 9
 What is your beloved more than another beloved, O most beautiful among women? What is your beloved more than another beloved, that you thus adjure us?
 ###### 10
-My beloved is radiant and ruddy,   distinguished among ten thousand.
+My beloved is radiant and ruddy, distinguished among ten thousand.
 ###### 11
-His head is the finest gold;   his locks are wavy, black as a raven.
+His head is the finest gold; his locks are wavy, black as a raven.
 ###### 12
 His eyes are like doves beside streams of water, bathed in milk, sitting beside a full pool.
 ###### 13

@@ -9,7 +9,6 @@ aliases:
   - Luk_22
 tags:
   - bible/chapter
-  - bible/Luke/chapter
   - bible/Luke/22
   - bible/new testament
 cssclass:
@@ -73,13 +72,13 @@ But not so with you. Rather, let the greatest among you become as the youngest, 
 ###### 27
 For who is the greater, one who reclines at table or one who serves? Is it not the one who reclines at table? But I am among you as the one who serves.
 ###### 28
-“You are those who have stayed with me     in my trials,
+“You are those who have stayed with me in my trials,
 ###### 29
 and I assign to you, as my Father assigned to me, a kingdom,
 ###### 30
 that you may eat and drink at my table in my kingdom and sit on thrones judging the twelve tribes of Israel.
 ###### 31
-“Simon, Simon, behold,     Satan demanded to have you,      that he might sift you like wheat,
+“Simon, Simon, behold, Satan demanded to have you, that he might sift you like wheat,
 ###### 32
 but I have prayed for you that your faith may not fail. And when you have turned again, strengthen your brothers.”
 ###### 33

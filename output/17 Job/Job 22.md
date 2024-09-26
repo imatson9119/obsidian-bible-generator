@@ -9,7 +9,6 @@ aliases:
   - Job_22
 tags:
   - bible/chapter
-  - bible/Job/chapter
   - bible/Job/22
   - bible/old testament
 cssclass:
@@ -29,7 +28,7 @@ Is it for your fear of him that he reproves you and enters into judgment with yo
 ###### 5
 Is not your evil abundant? There is no end to your iniquities.
 ###### 6
-For you have exacted pledges of your brothers for nothing   and stripped the naked of their clothing.
+For you have exacted pledges of your brothers for nothing and stripped the naked of their clothing.
 ###### 7
 You have given no water to the weary to drink, and you have withheld bread from the hungry.
 ###### 8

@@ -9,7 +9,6 @@ aliases:
   - Col_3
 tags:
   - bible/chapter
-  - bible/Colossians/chapter
   - bible/Colossians/3
   - bible/new testament
 cssclass:
@@ -27,7 +26,7 @@ For you have died, and your life is hidden with Christ in God.
 ###### 4
 When Christ who is your life appears, then you also will appear with him in glory.
 ###### 5
-Put to death therefore what is earthly in you:  sexual immorality, impurity, passion, evil desire, and covetousness, which is idolatry.
+Put to death therefore what is earthly in you: sexual immorality, impurity, passion, evil desire, and covetousness, which is idolatry.
 ###### 6
 On account of these the wrath of God is coming.
 ###### 7

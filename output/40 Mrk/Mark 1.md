@@ -9,7 +9,6 @@ aliases:
   - Mrk_1
 tags:
   - bible/chapter
-  - bible/Mark/chapter
   - bible/Mark/1
   - bible/new testament
 cssclass:
@@ -21,9 +20,9 @@ cssclass:
 ###### 1
 The beginning of the gospel of Jesus Christ, the Son of God.
 ###### 2
-As it is written in Isaiah the prophet,   “Behold, I send my messenger before your face, who will prepare your way,
+As it is written in Isaiah the prophet, “Behold, I send my messenger before your face, who will prepare your way,
 ###### 3
-the voice of one crying in the wilderness:   ‘Prepare the way of the Lord, make his paths straight,’”
+the voice of one crying in the wilderness: ‘Prepare the way of the Lord, make his paths straight,’”
 ###### 4
 John appeared, baptizing in the wilderness and proclaiming a baptism of repentance for the forgiveness of sins.
 ###### 5
@@ -75,7 +74,7 @@ And they were all amazed, so that they questioned among themselves, saying, “W
 ###### 28
 And at once his fame spread everywhere throughout all the surrounding region of Galilee.
 ###### 29
-And immediately he  left the synagogue and entered the house of Simon and Andrew, with James and John.
+And immediately he left the synagogue and entered the house of Simon and Andrew, with James and John.
 ###### 30
 Now Simon’s mother-in-law lay ill with a fever, and immediately they told him about her.
 ###### 31

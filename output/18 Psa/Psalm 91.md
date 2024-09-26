@@ -9,7 +9,6 @@ aliases:
   - Psa_91
 tags:
   - bible/chapter
-  - bible/Psalm/chapter
   - bible/Psalm/91
   - bible/old testament
 cssclass:
@@ -37,7 +36,7 @@ You will only look with your eyes and see the recompense of the wicked.
 ###### 9
 Because you have made the Lord your dwelling place— the Most High, who is my refuge—
 ###### 10
-no evil shall be allowed to befall you,   no plague come near your tent.
+no evil shall be allowed to befall you, no plague come near your tent.
 ###### 11
 For he will command his angels concerning you to guard you in all your ways.
 ###### 12

@@ -9,7 +9,6 @@ aliases:
   - Psa_53
 tags:
   - bible/chapter
-  - bible/Psalm/chapter
   - bible/Psalm/53
   - bible/old testament
 cssclass:
@@ -27,7 +26,7 @@ They have all fallen away; together they have become corrupt; there is none who 
 ###### 4
 Have those who work evil no knowledge, who eat up my people as they eat bread, and do not call upon God?
 ###### 5
-There they are, in great terror,   where there is no terror! For God scatters the bones of him who encamps against you; you put them to shame, for God has rejected them.
+There they are, in great terror, where there is no terror! For God scatters the bones of him who encamps against you; you put them to shame, for God has rejected them.
 ###### 6
 Oh, that salvation for Israel would come out of Zion! When God restores the fortunes of his people, let Jacob rejoice, let Israel be glad.
 

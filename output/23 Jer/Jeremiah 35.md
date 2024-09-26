@@ -9,7 +9,6 @@ aliases:
   - Jer_35
 tags:
   - bible/chapter
-  - bible/Jeremiah/chapter
   - bible/Jeremiah/35
   - bible/old testament
 cssclass:

@@ -9,7 +9,6 @@ aliases:
   - Psa_121
 tags:
   - bible/chapter
-  - bible/Psalm/chapter
   - bible/Psalm/121
   - bible/old testament
 cssclass:

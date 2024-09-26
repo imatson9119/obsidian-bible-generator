@@ -9,7 +9,6 @@ aliases:
   - Gen_49
 tags:
   - bible/chapter
-  - bible/Genesis/chapter
   - bible/Genesis/49
   - bible/old testament
 cssclass:
@@ -29,13 +28,13 @@ Unstable as water, you shall not have preeminence, because you went up to your f
 ###### 5
 “Simeon and Levi are brothers; weapons of violence are their swords.
 ###### 6
-Let my soul come not into their council;   O my glory, be not joined to their company. For in their anger they killed men, and in their willfulness they hamstrung oxen.
+Let my soul come not into their council; O my glory, be not joined to their company. For in their anger they killed men, and in their willfulness they hamstrung oxen.
 ###### 7
 Cursed be their anger, for it is fierce, and their wrath, for it is cruel! I will divide them in Jacob and scatter them in Israel.
 ###### 8
-“Judah, your brothers shall praise you;   your hand shall be on the neck of your enemies;   your father’s sons shall bow down before you.
+“Judah, your brothers shall praise you; your hand shall be on the neck of your enemies; your father’s sons shall bow down before you.
 ###### 9
-Judah is a lion’s cub; from the prey, my son, you have gone up.   He stooped down; he crouched as a lion and as a lioness; who dares rouse him?
+Judah is a lion’s cub; from the prey, my son, you have gone up. He stooped down; he crouched as a lion and as a lioness; who dares rouse him?
 ###### 10
 The scepter shall not depart from Judah, nor the ruler’s staff from between his feet, until tribute comes to him; and to him shall be the obedience of the peoples.
 ###### 11
@@ -65,9 +64,9 @@ I wait for your salvation, O Lord.
 ###### 23
 The archers bitterly attacked him, shot at him, and harassed him severely,
 ###### 24
-yet his bow remained unmoved; his arms were made agile by the hands of the Mighty One of Jacob (from there is the Shepherd,  the Stone of Israel),
+yet his bow remained unmoved; his arms were made agile by the hands of the Mighty One of Jacob (from there is the Shepherd, the Stone of Israel),
 ###### 25
-by the God of your father who will help you, by the Almighty  who will bless you with blessings of heaven above, blessings of the deep that crouches beneath, blessings of the breasts and of the womb.
+by the God of your father who will help you, by the Almighty who will bless you with blessings of heaven above, blessings of the deep that crouches beneath, blessings of the breasts and of the womb.
 ###### 26
 The blessings of your father are mighty beyond the blessings of my parents, up to the bounties of the everlasting hills. May they be on the head of Joseph, and on the brow of him who was set apart from his brothers.
 ###### 27

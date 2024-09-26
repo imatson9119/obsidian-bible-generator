@@ -9,7 +9,6 @@ aliases:
   - Mat_4
 tags:
   - bible/chapter
-  - bible/Matthew/chapter
   - bible/Matthew/4
   - bible/new testament
 cssclass:
@@ -25,11 +24,11 @@ And after fasting forty days and forty nights, he was hungry.
 ###### 3
 And the tempter came and said to him, “If you are the Son of God, command these stones to become loaves of bread.”
 ###### 4
-But he answered, “It is written,     “‘Man shall not live by bread alone,   but by every word that comes from the mouth of God.’”
+But he answered, “It is written, “‘Man shall not live by bread alone, but by every word that comes from the mouth of God.’”
 ###### 5
 Then the devil took him to the holy city and set him on the pinnacle of the temple
 ###### 6
-and said to him, “If you are the Son of God, throw yourself down, for it is written,   “‘He will command his angels concerning you,’ and “‘On their hands they will bear you up, lest you strike your foot against a stone.’”
+and said to him, “If you are the Son of God, throw yourself down, for it is written, “‘He will command his angels concerning you,’ and “‘On their hands they will bear you up, lest you strike your foot against a stone.’”
 ###### 7
 Jesus said to him, “Again it is written, ‘You shall not put the Lord your God to the test.’”
 ###### 8
@@ -37,7 +36,7 @@ Again, the devil took him to a very high mountain and showed him all the kingdom
 ###### 9
 And he said to him, “All these I will give you, if you will fall down and worship me.”
 ###### 10
-Then Jesus said to him, “Be gone, Satan! For it is written,     “‘You shall worship the Lord your God   and     him only shall you serve.’”
+Then Jesus said to him, “Be gone, Satan! For it is written, “‘You shall worship the Lord your God and him only shall you serve.’”
 ###### 11
 Then the devil left him, and behold, angels came and were ministering to him.
 ###### 12

@@ -9,7 +9,6 @@ aliases:
   - Psa_45
 tags:
   - bible/chapter
-  - bible/Psalm/chapter
   - bible/Psalm/45
   - bible/old testament
 cssclass:
@@ -21,7 +20,7 @@ cssclass:
 ###### 1
 My heart overflows with a pleasing theme; I address my verses to the king; my tongue is like the pen of a ready scribe.
 ###### 2
-You are the most handsome of the sons of men;   grace is poured upon your lips; therefore God has blessed you forever.
+You are the most handsome of the sons of men; grace is poured upon your lips; therefore God has blessed you forever.
 ###### 3
 Gird your sword on your thigh, O mighty one, in your splendor and majesty!
 ###### 4
@@ -35,13 +34,13 @@ you have loved righteousness and hated wickedness. Therefore God, your God, has 
 ###### 8
 your robes are all fragrant with myrrh and aloes and cassia. From ivory palaces stringed instruments make you glad;
 ###### 9
-daughters of kings are among your ladies of honor;   at your right hand stands the queen in gold of Ophir.
+daughters of kings are among your ladies of honor; at your right hand stands the queen in gold of Ophir.
 ###### 10
 Hear, O daughter, and consider, and incline your ear: forget your people and your father’s house,
 ###### 11
 and the king will desire your beauty. Since he is your lord, bow to him.
 ###### 12
-The people of Tyre will seek your favor with gifts,   the richest of the people.
+The people of Tyre will seek your favor with gifts, the richest of the people.
 ###### 13
 All glorious is the princess in her chamber, with robes interwoven with gold.
 ###### 14

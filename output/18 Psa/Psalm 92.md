@@ -9,7 +9,6 @@ aliases:
   - Psa_92
 tags:
   - bible/chapter
-  - bible/Psalm/chapter
   - bible/Psalm/92
   - bible/old testament
 cssclass:

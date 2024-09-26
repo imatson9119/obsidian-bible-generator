@@ -9,7 +9,6 @@ aliases:
   - 1Th_5
 tags:
   - bible/chapter
-  - bible/1 Thessalonians/chapter
   - bible/1 Thessalonians/5
   - bible/new testament
 cssclass:
@@ -19,7 +18,7 @@ cssclass:
 # 1 Thessalonians 5
 
 ###### 1
-Now concerning the times and the seasons, brothers,  you have no need to have anything written to you.
+Now concerning the times and the seasons, brothers, you have no need to have anything written to you.
 ###### 2
 For you yourselves are fully aware that the day of the Lord will come like a thief in the night.
 ###### 3
@@ -45,7 +44,7 @@ We ask you, brothers, to respect those who labor among you and are over you in t
 ###### 13
 and to esteem them very highly in love because of their work. Be at peace among yourselves.
 ###### 14
-And we urge you, brothers, admonish the idle,  encourage the fainthearted, help the weak, be patient with them all.
+And we urge you, brothers, admonish the idle, encourage the fainthearted, help the weak, be patient with them all.
 ###### 15
 See that no one repays anyone evil for evil, but always seek to do good to one another and to everyone.
 ###### 16

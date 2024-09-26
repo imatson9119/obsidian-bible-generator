@@ -9,7 +9,6 @@ aliases:
   - Psa_38
 tags:
   - bible/chapter
-  - bible/Psalm/chapter
   - bible/Psalm/38
   - bible/old testament
 cssclass:
@@ -57,7 +56,7 @@ I confess my iniquity; I am sorry for my sin.
 ###### 19
 But my foes are vigorous, they are mighty, and many are those who hate me wrongfully.
 ###### 20
-Those who render me evil for good   accuse me because I follow after good.
+Those who render me evil for good accuse me because I follow after good.
 ###### 21
 Do not forsake me, O Lord! O my God, be not far from me!
 ###### 22

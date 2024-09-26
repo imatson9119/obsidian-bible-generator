@@ -9,7 +9,6 @@ aliases:
   - 2Sa_3
 tags:
   - bible/chapter
-  - bible/2 Samuel/chapter
   - bible/2 Samuel/3
   - bible/old testament
 cssclass:
@@ -83,7 +82,7 @@ Then David said to Joab and to all the people who were with him, “Tear your cl
 ###### 32
 They buried Abner at Hebron. And the king lifted up his voice and wept at the grave of Abner, and all the people wept.
 ###### 33
-And the king lamented for Abner, saying,   “Should Abner die as a fool dies?
+And the king lamented for Abner, saying, “Should Abner die as a fool dies?
 ###### 34
 Your hands were not bound; your feet were not fettered; as one falls before the wicked you have fallen.” And all the people wept again over him.
 ###### 35

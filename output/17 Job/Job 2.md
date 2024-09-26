@@ -9,7 +9,6 @@ aliases:
   - Job_2
 tags:
   - bible/chapter
-  - bible/Job/chapter
   - bible/Job/2
   - bible/old testament
 cssclass:
@@ -37,7 +36,7 @@ And he took a piece of broken pottery with which to scrape himself while he sat 
 ###### 9
 Then his wife said to him, “Do you still hold fast your integrity? Curse God and die.”
 ###### 10
-But he said to her, “You speak as one of the foolish women would speak. Shall we receive good from God, and shall we not receive evil?”  In all this Job did not sin with his lips.
+But he said to her, “You speak as one of the foolish women would speak. Shall we receive good from God, and shall we not receive evil?” In all this Job did not sin with his lips.
 ###### 11
 Now when Job’s three friends heard of all this evil that had come upon him, they came each from his own place, Eliphaz the Temanite, Bildad the Shuhite, and Zophar the Naamathite. They made an appointment together to come to show him sympathy and comfort him.
 ###### 12

@@ -9,7 +9,6 @@ aliases:
   - Gen_9
 tags:
   - bible/chapter
-  - bible/Genesis/chapter
   - bible/Genesis/9
   - bible/old testament
 cssclass:
@@ -29,7 +28,7 @@ But you shall not eat flesh with its life, that is, its blood.
 ###### 5
 And for your lifeblood I will require a reckoning: from every beast I will require it and from man. From his fellow man I will require a reckoning for the life of man.
 ###### 6
-“Whoever sheds the blood of man, by man shall his blood be shed,   for God made man in his own image.
+“Whoever sheds the blood of man, by man shall his blood be shed, for God made man in his own image.
 ###### 7
 And you, be fruitful and multiply, increase greatly on the earth and multiply in it.”
 ###### 8
@@ -67,7 +66,7 @@ Then Shem and Japheth took a garment, laid it on both their shoulders, and walke
 ###### 24
 When Noah awoke from his wine and knew what his youngest son had done to him,
 ###### 25
-he said,   “Cursed be Canaan;   a servant of servants shall he be to his brothers.”
+he said, “Cursed be Canaan; a servant of servants shall he be to his brothers.”
 ###### 26
 He also said, “Blessed be the Lord, the God of Shem; and let Canaan be his servant.
 ###### 27

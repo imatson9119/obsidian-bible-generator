@@ -9,7 +9,6 @@ aliases:
   - Gen_6
 tags:
   - bible/chapter
-  - bible/Genesis/chapter
   - bible/Genesis/6
   - bible/old testament
 cssclass:

@@ -9,7 +9,6 @@ aliases:
   - Num_15
 tags:
   - bible/chapter
-  - bible/Numbers/chapter
   - bible/Numbers/15
   - bible/old testament
 cssclass:
@@ -25,7 +24,7 @@ The Lord spoke to Moses, saying,
 ###### 3
 and you offer to the Lord from the herd or from the flock a food offering or a burnt offering or a sacrifice, to fulfill a vow or as a freewill offering or at your appointed feasts, to make a pleasing aroma to the Lord,
 ###### 4
-then he who brings his offering shall offer to the Lord  a grain offering of a tenth of an ephah of fine flour, mixed with a quarter of a hin of oil;
+then he who brings his offering shall offer to the Lord a grain offering of a tenth of an ephah of fine flour, mixed with a quarter of a hin of oil;
 ###### 5
 and you shall offer with the burnt offering, or for the sacrifice, a quarter of a hin of wine for the drink offering for each lamb.
 ###### 6

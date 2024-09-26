@@ -9,7 +9,6 @@ aliases:
   - Psa_3
 tags:
   - bible/chapter
-  - bible/Psalm/chapter
   - bible/Psalm/3
   - bible/old testament
 cssclass:
@@ -21,7 +20,7 @@ cssclass:
 ###### 1
 O Lord, how many are my foes! Many are rising against me;
 ###### 2
-many are saying of my soul,   “There is no salvation for him in God.” Selah
+many are saying of my soul, “There is no salvation for him in God.” Selah
 ###### 3
 But you, O Lord, are a shield about me, my glory, and the lifter of my head.
 ###### 4

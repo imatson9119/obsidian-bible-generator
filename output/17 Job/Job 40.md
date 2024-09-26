@@ -9,7 +9,6 @@ aliases:
   - Job_40
 tags:
   - bible/chapter
-  - bible/Job/chapter
   - bible/Job/40
   - bible/old testament
 cssclass:
@@ -19,25 +18,25 @@ cssclass:
 # Job 40
 
 ###### 1
-And the Lord  said to Job:
+And the Lord said to Job:
 ###### 2
 “Shall a faultfinder contend with the Almighty? He who argues with God, let him answer it.”
 ###### 3
 Then Job answered the Lord and said:
 ###### 4
-“Behold, I am of small account; what shall I answer you?   I lay my hand on my mouth.
+“Behold, I am of small account; what shall I answer you? I lay my hand on my mouth.
 ###### 5
-I have spoken once, and I will not answer;   twice, but I will proceed no further.”
+I have spoken once, and I will not answer; twice, but I will proceed no further.”
 ###### 6
-Then the Lord  answered Job out of the whirlwind and said:
+Then the Lord answered Job out of the whirlwind and said:
 ###### 7
-“Dress for action like a man;   I will question you, and you make it known to me.
+“Dress for action like a man; I will question you, and you make it known to me.
 ###### 8
 Will you even put me in the wrong? Will you condemn me that you may be in the right?
 ###### 9
 Have you an arm like God, and can you thunder with a voice like his?
 ###### 10
-“Adorn yourself with majesty and dignity;   clothe yourself with glory and splendor.
+“Adorn yourself with majesty and dignity; clothe yourself with glory and splendor.
 ###### 11
 Pour out the overflowings of your anger, and look on everyone who is proud and abase him.
 ###### 12

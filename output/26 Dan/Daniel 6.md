@@ -9,7 +9,6 @@ aliases:
   - Dan_6
 tags:
   - bible/chapter
-  - bible/Daniel/chapter
   - bible/Daniel/6
   - bible/old testament
 cssclass:
@@ -69,7 +68,7 @@ And the king commanded, and those men who had maliciously accused Daniel were br
 ###### 25
 Then King Darius wrote to all the peoples, nations, and languages that dwell in all the earth: “Peace be multiplied to you.
 ###### 26
-I make a decree, that in all my royal dominion people are to tremble and fear before the God of Daniel, for he is the living God, enduring forever; his kingdom shall never be destroyed,   and his dominion shall be to the end.
+I make a decree, that in all my royal dominion people are to tremble and fear before the God of Daniel, for he is the living God, enduring forever; his kingdom shall never be destroyed, and his dominion shall be to the end.
 ###### 27
 He delivers and rescues; he works signs and wonders in heaven and on earth, he who has saved Daniel from the power of the lions.”
 ###### 28

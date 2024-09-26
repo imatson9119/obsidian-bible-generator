@@ -9,7 +9,6 @@ aliases:
   - Ezk_31
 tags:
   - bible/chapter
-  - bible/Ezekiel/chapter
   - bible/Ezekiel/31
   - bible/old testament
 cssclass:
@@ -21,9 +20,9 @@ cssclass:
 ###### 1
 In the eleventh year, in the third month, on the first day of the month, the word of the Lord came to me:
 ###### 2
-“Son of man, say to Pharaoh king of Egypt and to his multitude:   “Whom are you like in your greatness?
+“Son of man, say to Pharaoh king of Egypt and to his multitude: “Whom are you like in your greatness?
 ###### 3
-Behold, Assyria was a cedar in Lebanon, with beautiful branches and forest shade,   and of towering height, its top among the clouds.
+Behold, Assyria was a cedar in Lebanon, with beautiful branches and forest shade, and of towering height, its top among the clouds.
 ###### 4
 The waters nourished it; the deep made it grow tall, making its rivers flow around the place of its planting, sending forth its streams to all the trees of the field.
 ###### 5
@@ -31,7 +30,7 @@ So it towered high above all the trees of the field; its boughs grew large and i
 ###### 6
 All the birds of the heavens made their nests in its boughs; under its branches all the beasts of the field gave birth to their young, and under its shadow lived all great nations.
 ###### 7
-It was beautiful in its greatness, in the length of its branches;   for its roots went down to abundant waters.
+It was beautiful in its greatness, in the length of its branches; for its roots went down to abundant waters.
 ###### 8
 The cedars in the garden of God could not rival it, nor the fir trees equal its boughs; neither were the plane trees like its branches; no tree in the garden of God was its equal in beauty.
 ###### 9
@@ -53,6 +52,6 @@ I made the nations quake at the sound of its fall, when I cast it down to Sheol 
 ###### 17
 They also went down to Sheol with it, to those who are slain by the sword; yes, those who were its arm, who lived under its shadow among the nations.
 ###### 18
-“Whom are you thus like in glory and in greatness among the trees of Eden? You shall be brought down with the trees of Eden to the world below. You shall lie among the uncircumcised, with those who are slain by the sword.   “This is Pharaoh and all his multitude, declares the Lord God.”
+“Whom are you thus like in glory and in greatness among the trees of Eden? You shall be brought down with the trees of Eden to the world below. You shall lie among the uncircumcised, with those who are slain by the sword. “This is Pharaoh and all his multitude, declares the Lord God.”
 
 

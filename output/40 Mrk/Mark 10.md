@@ -9,7 +9,6 @@ aliases:
   - Mrk_10
 tags:
   - bible/chapter
-  - bible/Mark/chapter
   - bible/Mark/10
   - bible/new testament
 cssclass:
@@ -65,7 +64,7 @@ Disheartened by the saying, he went away sorrowful, for he had great possessions
 ###### 23
 And Jesus looked around and said to his disciples, “How difficult it will be for those who have wealth to enter the kingdom of God!”
 ###### 24
-And the disciples were amazed at his words. But Jesus said to them again, “Children, how difficult it is  to enter the kingdom of God!
+And the disciples were amazed at his words. But Jesus said to them again, “Children, how difficult it is to enter the kingdom of God!
 ###### 25
 It is easier for a camel to go through the eye of a needle than for a rich person to enter the kingdom of God.”
 ###### 26
@@ -105,7 +104,7 @@ And Jesus called them to him and said to them, “You know that those who are co
 ###### 43
 But it shall not be so among you. But whoever would be great among you must be your servant,
 ###### 44
-and whoever would be first among you must be slave  of all.
+and whoever would be first among you must be slave of all.
 ###### 45
 For even the Son of Man came not to be served but to serve, and to give his life as a ransom for many.”
 ###### 46

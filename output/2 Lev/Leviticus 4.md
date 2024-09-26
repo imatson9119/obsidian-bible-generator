@@ -9,7 +9,6 @@ aliases:
   - Lev_4
 tags:
   - bible/chapter
-  - bible/Leviticus/chapter
   - bible/Leviticus/4
   - bible/old testament
 cssclass:

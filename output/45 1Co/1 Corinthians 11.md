@@ -9,7 +9,6 @@ aliases:
   - 1Co_11
 tags:
   - bible/chapter
-  - bible/1 Corinthians/chapter
   - bible/1 Corinthians/11
   - bible/new testament
 cssclass:
@@ -65,7 +64,7 @@ What! Do you not have houses to eat and drink in? Or do you despise the church o
 ###### 23
 For I received from the Lord what I also delivered to you, that the Lord Jesus on the night when he was betrayed took bread,
 ###### 24
-and when he had given thanks, he broke it, and said, “This is my body, which is for  you. Do this in remembrance of me.”
+and when he had given thanks, he broke it, and said, “This is my body, which is for you. Do this in remembrance of me.”
 ###### 25
 In the same way also he took the cup, after supper, saying, “This cup is the new covenant in my blood. Do this, as often as you drink it, in remembrance of me.”
 ###### 26

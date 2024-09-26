@@ -9,7 +9,6 @@ aliases:
   - Psa_111
 tags:
   - bible/chapter
-  - bible/Psalm/chapter
   - bible/Psalm/111
   - bible/old testament
 cssclass:
@@ -21,7 +20,7 @@ cssclass:
 ###### 1
 Praise the Lord! I will give thanks to the Lord with my whole heart, in the company of the upright, in the congregation.
 ###### 2
-Great are the works of the Lord,   studied by all who delight in them.
+Great are the works of the Lord, studied by all who delight in them.
 ###### 3
 Full of splendor and majesty is his work, and his righteousness endures forever.
 ###### 4
@@ -35,7 +34,7 @@ The works of his hands are faithful and just; all his precepts are trustworthy;
 ###### 8
 they are established forever and ever, to be performed with faithfulness and uprightness.
 ###### 9
-He sent redemption to his people; he has commanded his covenant forever.   Holy and awesome is his name!
+He sent redemption to his people; he has commanded his covenant forever. Holy and awesome is his name!
 ###### 10
 The fear of the Lord is the beginning of wisdom; all those who practice it have a good understanding. His praise endures forever!
 

@@ -9,7 +9,6 @@ aliases:
   - 1Th_1
 tags:
   - bible/chapter
-  - bible/1 Thessalonians/chapter
   - bible/1 Thessalonians/1
   - bible/new testament
 cssclass:
@@ -19,9 +18,9 @@ cssclass:
 # 1 Thessalonians 1
 
 ###### 1
-Paul, Silvanus, and Timothy, To the church of the Thessalonians in God the Father and the Lord Jesus Christ:   Grace to you and peace.
+Paul, Silvanus, and Timothy, To the church of the Thessalonians in God the Father and the Lord Jesus Christ: Grace to you and peace.
 ###### 2
-We give thanks to God always for all of you, constantly  mentioning you in our prayers,
+We give thanks to God always for all of you, constantly mentioning you in our prayers,
 ###### 3
 remembering before our God and Father your work of faith and labor of love and steadfastness of hope in our Lord Jesus Christ.
 ###### 4

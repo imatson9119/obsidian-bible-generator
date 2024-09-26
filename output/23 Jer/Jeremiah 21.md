@@ -9,7 +9,6 @@ aliases:
   - Jer_21
 tags:
   - bible/chapter
-  - bible/Jeremiah/chapter
   - bible/Jeremiah/21
   - bible/old testament
 cssclass:
@@ -41,10 +40,10 @@ For I have set my face against this city for harm and not for good, declares the
 ###### 11
 “And to the house of the king of Judah say, ‘Hear the word of the Lord,
 ###### 12
-O house of David! Thus says the Lord:   “‘Execute justice in the morning, and deliver from the hand of the oppressor him who has been robbed,   lest my wrath go forth like fire, and burn with none to quench it, because of your evil deeds.’”
+O house of David! Thus says the Lord: “‘Execute justice in the morning, and deliver from the hand of the oppressor him who has been robbed, lest my wrath go forth like fire, and burn with none to quench it, because of your evil deeds.’”
 ###### 13
 “Behold, I am against you, O inhabitant of the valley, O rock of the plain, declares the Lord; you who say, ‘Who shall come down against us, or who shall enter our habitations?’
 ###### 14
-I will punish you according to the fruit of your deeds, declares the Lord;   I will kindle a fire in her forest,   and it shall devour all that is around her.”
+I will punish you according to the fruit of your deeds, declares the Lord; I will kindle a fire in her forest, and it shall devour all that is around her.”
 
 

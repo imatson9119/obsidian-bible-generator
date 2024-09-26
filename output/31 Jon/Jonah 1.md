@@ -9,7 +9,6 @@ aliases:
   - Jon_1
 tags:
   - bible/chapter
-  - bible/Jonah/chapter
   - bible/Jonah/1
   - bible/old testament
 cssclass:
@@ -49,7 +48,7 @@ Therefore they called out to the Lord, “O Lord, let us not perish for this man
 ###### 15
 So they picked up Jonah and hurled him into the sea, and the sea ceased from its raging.
 ###### 16
-Then the men feared the Lord exceedingly, and they offered a sacrifice to the Lord  and made vows.
+Then the men feared the Lord exceedingly, and they offered a sacrifice to the Lord and made vows.
 ###### 17
 And the Lord appointed a great fish to swallow up Jonah. And Jonah was in the belly of the fish three days and three nights.
 

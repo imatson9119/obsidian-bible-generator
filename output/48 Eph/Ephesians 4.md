@@ -9,7 +9,6 @@ aliases:
   - Eph_4
 tags:
   - bible/chapter
-  - bible/Ephesians/chapter
   - bible/Ephesians/4
   - bible/new testament
 cssclass:
@@ -33,7 +32,7 @@ one God and Father of all, who is over all and through all and in all.
 ###### 7
 But grace was given to each one of us according to the measure of Christ’s gift.
 ###### 8
-Therefore it says,   “When he ascended on high he led a host of captives, and he gave gifts to men.”
+Therefore it says, “When he ascended on high he led a host of captives, and he gave gifts to men.”
 ###### 9
 (In saying, “He ascended,” what does it mean but that he had also descended into the lower regions, the earth?
 ###### 10

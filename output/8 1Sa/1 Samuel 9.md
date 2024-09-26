@@ -9,7 +9,6 @@ aliases:
   - 1Sa_9
 tags:
   - bible/chapter
-  - bible/1 Samuel/chapter
   - bible/1 Samuel/9
   - bible/old testament
 cssclass:

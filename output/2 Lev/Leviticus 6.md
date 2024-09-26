@@ -9,7 +9,6 @@ aliases:
   - Lev_6
 tags:
   - bible/chapter
-  - bible/Leviticus/chapter
   - bible/Leviticus/6
   - bible/old testament
 cssclass:
@@ -29,7 +28,7 @@ if he has sinned and has realized his guilt and will restore what he took by rob
 ###### 5
 or anything about which he has sworn falsely, he shall restore it in full and shall add a fifth to it, and give it to him to whom it belongs on the day he realizes his guilt.
 ###### 6
-And he shall bring to the priest as his compensation to the Lord  a ram without blemish out of the flock, or its equivalent, for a guilt offering.
+And he shall bring to the priest as his compensation to the Lord a ram without blemish out of the flock, or its equivalent, for a guilt offering.
 ###### 7
 And the priest shall make atonement for him before the Lord, and he shall be forgiven for any of the things that one may do and thereby become guilty.”
 ###### 8

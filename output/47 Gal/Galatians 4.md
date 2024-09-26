@@ -9,7 +9,6 @@ aliases:
   - Gal_4
 tags:
   - bible/chapter
-  - bible/Galatians/chapter
   - bible/Galatians/4
   - bible/new testament
 cssclass:
@@ -41,7 +40,7 @@ You observe days and months and seasons and years!
 ###### 11
 I am afraid I may have labored over you in vain.
 ###### 12
-Brothers,  I entreat you, become as I am, for I also have become as you are. You did me no wrong.
+Brothers, I entreat you, become as I am, for I also have become as you are. You did me no wrong.
 ###### 13
 You know it was because of a bodily ailment that I preached the gospel to you at first,
 ###### 14
@@ -71,7 +70,7 @@ Now Hagar is Mount Sinai in Arabia; she corresponds to the present Jerusalem, fo
 ###### 26
 But the Jerusalem above is free, and she is our mother.
 ###### 27
-For it is written,   “Rejoice, O barren one who does not bear; break forth and cry aloud, you who are not in labor! For the children of the desolate one will be more than those of the one who has a husband.”
+For it is written, “Rejoice, O barren one who does not bear; break forth and cry aloud, you who are not in labor! For the children of the desolate one will be more than those of the one who has a husband.”
 ###### 28
 Now you, brothers, like Isaac, are children of promise.
 ###### 29

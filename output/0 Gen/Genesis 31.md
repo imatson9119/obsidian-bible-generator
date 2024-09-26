@@ -9,7 +9,6 @@ aliases:
   - Gen_31
 tags:
   - bible/chapter
-  - bible/Genesis/chapter
   - bible/Genesis/31
   - bible/old testament
 cssclass:

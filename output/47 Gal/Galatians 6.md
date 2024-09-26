@@ -9,7 +9,6 @@ aliases:
   - Gal_6
 tags:
   - bible/chapter
-  - bible/Galatians/chapter
   - bible/Galatians/6
   - bible/new testament
 cssclass:
@@ -19,7 +18,7 @@ cssclass:
 # Galatians 6
 
 ###### 1
-Brothers,  if anyone is caught in any transgression, you who are spiritual should restore him in a spirit of gentleness. Keep watch on yourself, lest you too be tempted.
+Brothers, if anyone is caught in any transgression, you who are spiritual should restore him in a spirit of gentleness. Keep watch on yourself, lest you too be tempted.
 ###### 2
 Bear one another’s burdens, and so fulfill the law of Christ.
 ###### 3

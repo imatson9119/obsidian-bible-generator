@@ -9,7 +9,6 @@ aliases:
   - Php_2
 tags:
   - bible/chapter
-  - bible/Philippians/chapter
   - bible/Philippians/2
   - bible/new testament
 cssclass:
@@ -31,7 +30,7 @@ Have this mind among yourselves, which is yours in Christ Jesus,
 ###### 6
 who, though he was in the form of God, did not count equality with God a thing to be grasped,
 ###### 7
-but emptied himself, by taking the form of a servant,  being born in the likeness of men.
+but emptied himself, by taking the form of a servant, being born in the likeness of men.
 ###### 8
 And being found in human form, he humbled himself by becoming obedient to the point of death, even death on a cross.
 ###### 9
@@ -61,7 +60,7 @@ For I have no one like him, who will be genuinely concerned for your welfare.
 ###### 21
 For they all seek their own interests, not those of Jesus Christ.
 ###### 22
-But you know Timothy’s  proven worth, how as a son with a father he has served with me in the gospel.
+But you know Timothy’s proven worth, how as a son with a father he has served with me in the gospel.
 ###### 23
 I hope therefore to send him just as soon as I see how it will go with me,
 ###### 24
@@ -77,6 +76,6 @@ I am the more eager to send him, therefore, that you may rejoice at seeing him a
 ###### 29
 So receive him in the Lord with all joy, and honor such men,
 ###### 30
-for he nearly died  for the work of Christ, risking his life to complete what was lacking in your service to me.
+for he nearly died for the work of Christ, risking his life to complete what was lacking in your service to me.
 
 

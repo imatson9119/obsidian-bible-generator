@@ -9,7 +9,6 @@ aliases:
   - 2Ti_4
 tags:
   - bible/chapter
-  - bible/2 Timothy/chapter
   - bible/2 Timothy/4
   - bible/new testament
 cssclass:
@@ -37,7 +36,7 @@ Henceforth there is laid up for me the crown of righteousness, which the Lord, t
 ###### 9
 Do your best to come to me soon.
 ###### 10
-For Demas, in love with this present world, has deserted me and gone to Thessalonica. Crescens has gone to Galatia,  Titus to Dalmatia.
+For Demas, in love with this present world, has deserted me and gone to Thessalonica. Crescens has gone to Galatia, Titus to Dalmatia.
 ###### 11
 Luke alone is with me. Get Mark and bring him with you, for he is very useful to me for ministry.
 ###### 12

@@ -9,7 +9,6 @@ aliases:
   - Ezk_1
 tags:
   - bible/chapter
-  - bible/Ezekiel/chapter
   - bible/Ezekiel/1
   - bible/old testament
 cssclass:
@@ -51,7 +50,7 @@ Now as I looked at the living creatures, I saw a wheel on the earth beside the l
 ###### 16
 As for the appearance of the wheels and their construction: their appearance was like the gleaming of beryl. And the four had the same likeness, their appearance and construction being as it were a wheel within a wheel.
 ###### 17
-When they went, they went in any of their four directions  without turning as they went.
+When they went, they went in any of their four directions without turning as they went.
 ###### 18
 And their rims were tall and awesome, and the rims of all four were full of eyes all around.
 ###### 19

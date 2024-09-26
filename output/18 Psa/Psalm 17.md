@@ -9,7 +9,6 @@ aliases:
   - Psa_17
 tags:
   - bible/chapter
-  - bible/Psalm/chapter
   - bible/Psalm/17
   - bible/old testament
 cssclass:
@@ -29,7 +28,7 @@ With regard to the works of man, by the word of your lips I have avoided the way
 ###### 5
 My steps have held fast to your paths; my feet have not slipped.
 ###### 6
-I call upon you, for you will answer me, O God;   incline your ear to me; hear my words.
+I call upon you, for you will answer me, O God; incline your ear to me; hear my words.
 ###### 7
 Wondrously show your steadfast love, O Savior of those who seek refuge from their adversaries at your right hand.
 ###### 8

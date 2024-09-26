@@ -9,7 +9,6 @@ aliases:
   - Mrk_16
 tags:
   - bible/chapter
-  - bible/Mark/chapter
   - bible/Mark/16
   - bible/new testament
 cssclass:
@@ -33,7 +32,7 @@ And he said to them, “Do not be alarmed. You seek Jesus of Nazareth, who was c
 ###### 7
 But go, tell his disciples and Peter that he is going before you to Galilee. There you will see him, just as he told you.”
 ###### 8
-And they went out and fled from the tomb, for trembling and astonishment had seized them, and they said nothing to anyone, for they were afraid.   [Some of the earliest manuscripts do not include 16:9–20.]
+And they went out and fled from the tomb, for trembling and astonishment had seized them, and they said nothing to anyone, for they were afraid. [Some of the earliest manuscripts do not include 16:9–20.]
 ###### 9
 [[Now when he rose early on the first day of the week, he appeared first to Mary Magdalene, from whom he had cast out seven demons.
 ###### 10

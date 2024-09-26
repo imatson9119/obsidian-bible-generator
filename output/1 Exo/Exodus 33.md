@@ -9,7 +9,6 @@ aliases:
   - Exo_33
 tags:
   - bible/chapter
-  - bible/Exodus/chapter
   - bible/Exodus/33
   - bible/old testament
 cssclass:

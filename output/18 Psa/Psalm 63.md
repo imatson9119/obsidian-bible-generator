@@ -9,7 +9,6 @@ aliases:
   - Psa_63
 tags:
   - bible/chapter
-  - bible/Psalm/chapter
   - bible/Psalm/63
   - bible/old testament
 cssclass:
@@ -19,7 +18,7 @@ cssclass:
 # Psalm 63
 
 ###### 1
-O God, you are my God; earnestly I seek you;   my soul thirsts for you; my flesh faints for you, as in a dry and weary land where there is no water.
+O God, you are my God; earnestly I seek you; my soul thirsts for you; my flesh faints for you, as in a dry and weary land where there is no water.
 ###### 2
 So I have looked upon you in the sanctuary, beholding your power and glory.
 ###### 3
@@ -35,10 +34,10 @@ for you have been my help, and in the shadow of your wings I will sing for joy.
 ###### 8
 My soul clings to you; your right hand upholds me.
 ###### 9
-But those who seek to destroy my life   shall go down into the depths of the earth;
+But those who seek to destroy my life shall go down into the depths of the earth;
 ###### 10
 they shall be given over to the power of the sword; they shall be a portion for jackals.
 ###### 11
-But the king shall rejoice in God; all who swear by him shall exult,   for the mouths of liars will be stopped.
+But the king shall rejoice in God; all who swear by him shall exult, for the mouths of liars will be stopped.
 
 

@@ -9,7 +9,6 @@ aliases:
   - Gen_23
 tags:
   - bible/chapter
-  - bible/Genesis/chapter
   - bible/Genesis/23
   - bible/old testament
 cssclass:

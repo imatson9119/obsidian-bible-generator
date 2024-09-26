@@ -9,7 +9,6 @@ aliases:
   - Luk_20
 tags:
   - bible/chapter
-  - bible/Luke/chapter
   - bible/Luke/20
   - bible/new testament
 cssclass:
@@ -37,7 +36,7 @@ And Jesus said to them, “Neither will I tell you by what authority I do these 
 ###### 9
 And he began to tell the people this parable: “A man planted a vineyard and let it out to tenants and went into another country for a long while.
 ###### 10
-When the time came, he sent a servant  to the tenants, so that they would give him some of the fruit of the vineyard. But the tenants beat him and sent him away empty-handed.
+When the time came, he sent a servant to the tenants, so that they would give him some of the fruit of the vineyard. But the tenants beat him and sent him away empty-handed.
 ###### 11
 And he sent another servant. But they also beat and treated him shamefully, and sent him away empty-handed.
 ###### 12
@@ -51,9 +50,9 @@ And they threw him out of the vineyard and killed him. What then will the owner 
 ###### 16
 He will come and destroy those tenants and give the vineyard to others.” When they heard this, they said, “Surely not!”
 ###### 17
-But he looked directly at them and said, “What then is this that is written:     “‘The stone that the builders rejected   has become the cornerstone’?
+But he looked directly at them and said, “What then is this that is written: “‘The stone that the builders rejected has become the cornerstone’?
 ###### 18
-Everyone who falls on that stone will be broken to pieces, and when it falls     on anyone, it will crush him.”
+Everyone who falls on that stone will be broken to pieces, and when it falls on anyone, it will crush him.”
 ###### 19
 The scribes and the chief priests sought to lay hands on him at that very hour, for they perceived that he had told this parable against them, but they feared the people.
 ###### 20
@@ -65,7 +64,7 @@ Is it lawful for us to give tribute to Caesar, or not?”
 ###### 23
 But he perceived their craftiness, and said to them,
 ###### 24
-“Show me a denarius.  Whose likeness and inscription does it have?” They said, “Caesar’s.”
+“Show me a denarius. Whose likeness and inscription does it have?” They said, “Caesar’s.”
 ###### 25
 He said to them, “Then render to Caesar the things that are Caesar’s, and to God the things that are God’s.”
 ###### 26
@@ -89,7 +88,7 @@ And Jesus said to them, “The sons of this age marry and are given in marriage,
 ###### 35
 but those who are considered worthy to attain to that age and to the resurrection from the dead neither marry nor are given in marriage,
 ###### 36
-for they cannot die anymore, because they are equal to angels and are sons of God, being sons  of the resurrection.
+for they cannot die anymore, because they are equal to angels and are sons of God, being sons of the resurrection.
 ###### 37
 But that the dead are raised, even Moses showed, in the passage about the bush, where he calls the Lord the God of Abraham and the God of Isaac and the God of Jacob.
 ###### 38
@@ -101,11 +100,11 @@ For they no longer dared to ask him any question.
 ###### 41
 But he said to them, “How can they say that the Christ is David’s son?
 ###### 42
-For David himself says in the Book of Psalms,     “‘The Lord said to my Lord,   “Sit at my right hand,
+For David himself says in the Book of Psalms, “‘The Lord said to my Lord, “Sit at my right hand,
 ###### 43
-until I make your enemies     your footstool.”’
+until I make your enemies your footstool.”’
 ###### 44
-David thus calls him Lord, so     how is he his son?”
+David thus calls him Lord, so how is he his son?”
 ###### 45
 And in the hearing of all the people he said to his disciples,
 ###### 46

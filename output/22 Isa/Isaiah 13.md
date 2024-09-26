@@ -9,7 +9,6 @@ aliases:
   - Isa_13
 tags:
   - bible/chapter
-  - bible/Isaiah/chapter
   - bible/Isaiah/13
   - bible/old testament
 cssclass:
@@ -25,7 +24,7 @@ On a bare hill raise a signal; cry aloud to them; wave the hand for them to ente
 ###### 3
 I myself have commanded my consecrated ones, and have summoned my mighty men to execute my anger, my proudly exulting ones.
 ###### 4
-The sound of a tumult is on the mountains as of a great multitude! The sound of an uproar of kingdoms, of nations gathering together!   The Lord of hosts is mustering a host for battle.
+The sound of a tumult is on the mountains as of a great multitude! The sound of an uproar of kingdoms, of nations gathering together! The Lord of hosts is mustering a host for battle.
 ###### 5
 They come from a distant land, from the end of the heavens, the Lord and the weapons of his indignation, to destroy the whole land.
 ###### 6
@@ -33,19 +32,19 @@ Wail, for the day of the Lord is near; as destruction from the Almighty it will 
 ###### 7
 Therefore all hands will be feeble, and every human heart will melt.
 ###### 8
-They will be dismayed:   pangs and agony will seize them;   they will be in anguish like a woman in labor. They will look aghast at one another; their faces will be aflame.
+They will be dismayed: pangs and agony will seize them; they will be in anguish like a woman in labor. They will look aghast at one another; their faces will be aflame.
 ###### 9
 Behold, the day of the Lord comes, cruel, with wrath and fierce anger, to make the land a desolation and to destroy its sinners from it.
 ###### 10
-For the stars of the heavens and their constellations will not give their light;   the sun will be dark at its rising, and the moon will not shed its light.
+For the stars of the heavens and their constellations will not give their light; the sun will be dark at its rising, and the moon will not shed its light.
 ###### 11
-I will punish the world for its evil, and the wicked for their iniquity; I will put an end to the pomp of the arrogant,   and lay low the pompous pride of the ruthless.
+I will punish the world for its evil, and the wicked for their iniquity; I will put an end to the pomp of the arrogant, and lay low the pompous pride of the ruthless.
 ###### 12
 I will make people more rare than fine gold, and mankind than the gold of Ophir.
 ###### 13
 Therefore I will make the heavens tremble, and the earth will be shaken out of its place, at the wrath of the Lord of hosts in the day of his fierce anger.
 ###### 14
-And like a hunted gazelle, or like sheep with none to gather them,   each will turn to his own people, and each will flee to his own land.
+And like a hunted gazelle, or like sheep with none to gather them, each will turn to his own people, and each will flee to his own land.
 ###### 15
 Whoever is found will be thrust through, and whoever is caught will fall by the sword.
 ###### 16

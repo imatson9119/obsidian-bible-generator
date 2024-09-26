@@ -9,7 +9,6 @@ aliases:
   - Jon_3
 tags:
   - bible/chapter
-  - bible/Jonah/chapter
   - bible/Jonah/3
   - bible/old testament
 cssclass:

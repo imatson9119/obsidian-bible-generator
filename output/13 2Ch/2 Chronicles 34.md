@@ -9,7 +9,6 @@ aliases:
   - 2Ch_34
 tags:
   - bible/chapter
-  - bible/2 Chronicles/chapter
   - bible/2 Chronicles/34
   - bible/old testament
 cssclass:

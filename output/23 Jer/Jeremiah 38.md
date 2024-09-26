@@ -9,7 +9,6 @@ aliases:
   - Jer_38
 tags:
   - bible/chapter
-  - bible/Jeremiah/chapter
   - bible/Jeremiah/38
   - bible/old testament
 cssclass:
@@ -61,7 +60,7 @@ Jeremiah said, “You shall not be given to them. Obey now the voice of the Lord
 ###### 21
 But if you refuse to surrender, this is the vision which the Lord has shown to me:
 ###### 22
-Behold, all the women left in the house of the king of Judah were being led out to the officials of the king of Babylon and were saying,   “‘Your trusted friends have deceived you and prevailed against you; now that your feet are sunk in the mud, they turn away from you.’
+Behold, all the women left in the house of the king of Judah were being led out to the officials of the king of Babylon and were saying, “‘Your trusted friends have deceived you and prevailed against you; now that your feet are sunk in the mud, they turn away from you.’
 ###### 23
 All your wives and your sons shall be led out to the Chaldeans, and you yourself shall not escape from their hand, but shall be seized by the king of Babylon, and this city shall be burned with fire.”
 ###### 24

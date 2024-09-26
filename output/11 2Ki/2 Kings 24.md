@@ -9,7 +9,6 @@ aliases:
   - 2Ki_24
 tags:
   - bible/chapter
-  - bible/2 Kings/chapter
   - bible/2 Kings/24
   - bible/old testament
 cssclass:
@@ -43,7 +42,7 @@ And Nebuchadnezzar king of Babylon came to the city while his servants were besi
 ###### 12
 and Jehoiachin the king of Judah gave himself up to the king of Babylon, himself and his mother and his servants and his officials and his palace officials. The king of Babylon took him prisoner in the eighth year of his reign
 ###### 13
-and carried off all the treasures of the house of the Lord  and the treasures of the king’s house, and cut in pieces all the vessels of gold in the temple of the Lord, which Solomon king of Israel had made, as the Lord had foretold.
+and carried off all the treasures of the house of the Lord and the treasures of the king’s house, and cut in pieces all the vessels of gold in the temple of the Lord, which Solomon king of Israel had made, as the Lord had foretold.
 ###### 14
 He carried away all Jerusalem and all the officials and all the mighty men of valor, 10,000 captives, and all the craftsmen and the smiths. None remained, except the poorest people of the land.
 ###### 15
@@ -57,6 +56,6 @@ Zedekiah was twenty-one years old when he became king, and he reigned eleven yea
 ###### 19
 And he did what was evil in the sight of the Lord, according to all that Jehoiakim had done.
 ###### 20
-For because of the anger of the Lord it came to the point in Jerusalem and Judah that he cast them out from his presence.   And Zedekiah rebelled against the king of Babylon.
+For because of the anger of the Lord it came to the point in Jerusalem and Judah that he cast them out from his presence. And Zedekiah rebelled against the king of Babylon.
 
 

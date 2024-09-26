@@ -9,7 +9,6 @@ aliases:
   - Psa_100
 tags:
   - bible/chapter
-  - bible/Psalm/chapter
   - bible/Psalm/100
   - bible/old testament
 cssclass:
@@ -21,7 +20,7 @@ cssclass:
 ###### 1
 Make a joyful noise to the Lord, all the earth!
 ###### 2
-Serve the Lord with gladness!   Come into his presence with singing!
+Serve the Lord with gladness! Come into his presence with singing!
 ###### 3
 Know that the Lord, he is God! It is he who made us, and we are his; we are his people, and the sheep of his pasture.
 ###### 4

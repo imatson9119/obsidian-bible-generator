@@ -9,7 +9,6 @@ aliases:
   - Ezk_32
 tags:
   - bible/chapter
-  - bible/Ezekiel/chapter
   - bible/Ezekiel/32
   - bible/old testament
 cssclass:
@@ -21,9 +20,9 @@ cssclass:
 ###### 1
 In the twelfth year, in the twelfth month, on the first day of the month, the word of the Lord came to me:
 ###### 2
-“Son of man, raise a lamentation over Pharaoh king of Egypt and say to him: “You consider yourself a lion of the nations, but you are like a dragon in the seas;   you burst forth in your rivers, trouble the waters with your feet, and foul their rivers.
+“Son of man, raise a lamentation over Pharaoh king of Egypt and say to him: “You consider yourself a lion of the nations, but you are like a dragon in the seas; you burst forth in your rivers, trouble the waters with your feet, and foul their rivers.
 ###### 3
-Thus says the Lord God:   I will throw my net over you with a host of many peoples, and they will haul you up in my dragnet.
+Thus says the Lord God: I will throw my net over you with a host of many peoples, and they will haul you up in my dragnet.
 ###### 4
 And I will cast you on the ground; on the open field I will fling you, and will cause all the birds of the heavens to settle on you, and I will gorge the beasts of the whole earth with you.
 ###### 5
@@ -41,9 +40,9 @@ I will make many peoples appalled at you, and the hair of their kings shall bris
 ###### 11
 “For thus says the Lord God: The sword of the king of Babylon shall come upon you.
 ###### 12
-I will cause your multitude to fall by the swords of mighty ones, all of them most ruthless of nations.   “They shall bring to ruin the pride of Egypt, and all its multitude shall perish.
+I will cause your multitude to fall by the swords of mighty ones, all of them most ruthless of nations. “They shall bring to ruin the pride of Egypt, and all its multitude shall perish.
 ###### 13
-I will destroy all its beasts from beside many waters;   and no foot of man shall trouble them anymore, nor shall the hoofs of beasts trouble them.
+I will destroy all its beasts from beside many waters; and no foot of man shall trouble them anymore, nor shall the hoofs of beasts trouble them.
 ###### 14
 Then I will make their waters clear, and cause their rivers to run like oil, declares the Lord God.
 ###### 15

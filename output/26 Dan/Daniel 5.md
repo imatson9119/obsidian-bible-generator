@@ -9,7 +9,6 @@ aliases:
   - Dan_5
 tags:
   - bible/chapter
-  - bible/Daniel/chapter
   - bible/Daniel/5
   - bible/old testament
 cssclass:
@@ -61,7 +60,7 @@ But when his heart was lifted up and his spirit was hardened so that he dealt pr
 ###### 21
 He was driven from among the children of mankind, and his mind was made like that of a beast, and his dwelling was with the wild donkeys. He was fed grass like an ox, and his body was wet with the dew of heaven, until he knew that the Most High God rules the kingdom of mankind and sets over it whom he will.
 ###### 22
-And you his son,  Belshazzar, have not humbled your heart, though you knew all this,
+And you his son, Belshazzar, have not humbled your heart, though you knew all this,
 ###### 23
 but you have lifted up yourself against the Lord of heaven. And the vessels of his house have been brought in before you, and you and your lords, your wives, and your concubines have drunk wine from them. And you have praised the gods of silver and gold, of bronze, iron, wood, and stone, which do not see or hear or know, but the God in whose hand is your breath, and whose are all your ways, you have not honored.
 ###### 24

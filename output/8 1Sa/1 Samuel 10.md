@@ -9,7 +9,6 @@ aliases:
   - 1Sa_10
 tags:
   - bible/chapter
-  - bible/1 Samuel/chapter
   - bible/1 Samuel/10
   - bible/old testament
 cssclass:
@@ -27,7 +26,7 @@ Then you shall go on from there farther and come to the oak of Tabor. Three men 
 ###### 4
 And they will greet you and give you two loaves of bread, which you shall accept from their hand.
 ###### 5
-After that you shall come to Gibeath-elohim,  where there is a garrison of the Philistines. And there, as soon as you come to the city, you will meet a group of prophets coming down from the high place with harp, tambourine, flute, and lyre before them, prophesying.
+After that you shall come to Gibeath-elohim, where there is a garrison of the Philistines. And there, as soon as you come to the city, you will meet a group of prophets coming down from the high place with harp, tambourine, flute, and lyre before them, prophesying.
 ###### 6
 Then the Spirit of the Lord will rush upon you, and you will prophesy with them and be turned into another man.
 ###### 7
@@ -51,7 +50,7 @@ And Saul’s uncle said, “Please tell me what Samuel said to you.”
 ###### 16
 And Saul said to his uncle, “He told us plainly that the donkeys had been found.” But about the matter of the kingdom, of which Samuel had spoken, he did not tell him anything.
 ###### 17
-Now Samuel called the people together to the Lord  at Mizpah.
+Now Samuel called the people together to the Lord at Mizpah.
 ###### 18
 And he said to the people of Israel, “Thus says the Lord, the God of Israel, ‘I brought up Israel out of Egypt, and I delivered you from the hand of the Egyptians and from the hand of all the kingdoms that were oppressing you.’
 ###### 19

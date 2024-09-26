@@ -9,7 +9,6 @@ aliases:
   - Exo_10
 tags:
   - bible/chapter
-  - bible/Exodus/chapter
   - bible/Exodus/10
   - bible/old testament
 cssclass:
@@ -57,7 +56,7 @@ So he went out from Pharaoh and pleaded with the Lord.
 ###### 19
 And the Lord turned the wind into a very strong west wind, which lifted the locusts and drove them into the Red Sea. Not a single locust was left in all the country of Egypt.
 ###### 20
-But the Lord  hardened Pharaoh’s heart, and he did not let the people of Israel go.
+But the Lord hardened Pharaoh’s heart, and he did not let the people of Israel go.
 ###### 21
 Then the Lord said to Moses, “Stretch out your hand toward heaven, that there may be darkness over the land of Egypt, a darkness to be felt.”
 ###### 22
@@ -71,7 +70,7 @@ But Moses said, “You must also let us have sacrifices and burnt offerings, tha
 ###### 26
 Our livestock also must go with us; not a hoof shall be left behind, for we must take of them to serve the Lord our God, and we do not know with what we must serve the Lord until we arrive there.”
 ###### 27
-But the Lord  hardened Pharaoh’s heart, and he would not let them go.
+But the Lord hardened Pharaoh’s heart, and he would not let them go.
 ###### 28
 Then Pharaoh said to him, “Get away from me; take care never to see my face again, for on the day you see my face you shall die.”
 ###### 29

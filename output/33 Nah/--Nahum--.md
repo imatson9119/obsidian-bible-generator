@@ -14,6 +14,6 @@ cssclass:
 
 ## Chapters
 
-[[Nahum 1|1]]
-[[Nahum 2|2]]
-[[Nahum 3|3]]
+#####[[Nahum 1|1]]
+#####[[Nahum 2|2]]
+#####[[Nahum 3|3]]

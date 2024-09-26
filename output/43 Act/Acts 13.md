@@ -9,7 +9,6 @@ aliases:
   - Act_13
 tags:
   - bible/chapter
-  - bible/Acts/chapter
   - bible/Acts/13
   - bible/new testament
 cssclass:
@@ -83,11 +82,11 @@ and for many days he appeared to those who had come up with him from Galilee to 
 ###### 32
 And we bring you the good news that what God promised to the fathers,
 ###### 33
-this he has fulfilled to us their children by raising Jesus, as also it is written in the second Psalm,   “‘You are my Son, today I have begotten you.’
+this he has fulfilled to us their children by raising Jesus, as also it is written in the second Psalm, “‘You are my Son, today I have begotten you.’
 ###### 34
 And as for the fact that he raised him from the dead, no more to return to corruption, he has spoken in this way, “‘I will give you the holy and sure blessings of David.’
 ###### 35
-Therefore he says also in another psalm,   “‘You will not let your Holy One see corruption.’
+Therefore he says also in another psalm, “‘You will not let your Holy One see corruption.’
 ###### 36
 For David, after he had served the purpose of God in his own generation, fell asleep and was laid with his fathers and saw corruption,
 ###### 37
@@ -111,7 +110,7 @@ But when the Jews saw the crowds, they were filled with jealousy and began to co
 ###### 46
 And Paul and Barnabas spoke out boldly, saying, “It was necessary that the word of God be spoken first to you. Since you thrust it aside and judge yourselves unworthy of eternal life, behold, we are turning to the Gentiles.
 ###### 47
-For so the Lord has commanded us, saying,   “‘I have made you a light for the Gentiles, that you may bring salvation to the ends of the earth.’”
+For so the Lord has commanded us, saying, “‘I have made you a light for the Gentiles, that you may bring salvation to the ends of the earth.’”
 ###### 48
 And when the Gentiles heard this, they began rejoicing and glorifying the word of the Lord, and as many as were appointed to eternal life believed.
 ###### 49

@@ -9,7 +9,6 @@ aliases:
   - Luk_15
 tags:
   - bible/chapter
-  - bible/Luke/chapter
   - bible/Luke/15
   - bible/new testament
 cssclass:
@@ -33,7 +32,7 @@ And when he comes home, he calls together his friends and his neighbors, saying 
 ###### 7
 Just so, I tell you, there will be more joy in heaven over one sinner who repents than over ninety-nine righteous persons who need no repentance.
 ###### 8
-“Or what woman, having ten silver coins,    if she loses one coin, does not light a lamp and sweep the house and seek diligently until she finds it?
+“Or what woman, having ten silver coins, if she loses one coin, does not light a lamp and sweep the house and seek diligently until she finds it?
 ###### 9
 And when she has found it, she calls together her friends and neighbors, saying, ‘Rejoice with me, for I have found the coin that I had lost.’
 ###### 10
@@ -47,11 +46,11 @@ Not many days later, the younger son gathered all he had and took a journey into
 ###### 14
 And when he had spent everything, a severe famine arose in that country, and he began to be in need.
 ###### 15
-So he went and hired himself out to  one of the citizens of that country, who sent him into his fields to feed pigs.
+So he went and hired himself out to one of the citizens of that country, who sent him into his fields to feed pigs.
 ###### 16
 And he was longing to be fed with the pods that the pigs ate, and no one gave him anything.
 ###### 17
-“But     when he     came to himself, he said, ‘How many of my father’s hired servants have more than enough bread, but I perish here with hunger!
+“But when he came to himself, he said, ‘How many of my father’s hired servants have more than enough bread, but I perish here with hunger!
 ###### 18
 I will arise and go to my father, and I will say to him, “Father, I have sinned against heaven and before you.
 ###### 19
@@ -61,7 +60,7 @@ And he arose and came to his father. But while he was still a long way off, his 
 ###### 21
 And the son said to him, ‘Father, I have sinned against heaven and before you. I am no longer worthy to be called your son.’
 ###### 22
-But the father said to his servants,  ‘Bring quickly the best robe, and put it on him, and put a ring on his hand, and shoes on his feet.
+But the father said to his servants, ‘Bring quickly the best robe, and put it on him, and put a ring on his hand, and shoes on his feet.
 ###### 23
 And bring the fattened calf and kill it, and let us eat and celebrate.
 ###### 24

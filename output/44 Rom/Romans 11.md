@@ -9,7 +9,6 @@ aliases:
   - Rom_11
 tags:
   - bible/chapter
-  - bible/Romans/chapter
   - bible/Romans/11
   - bible/new testament
 cssclass:
@@ -33,9 +32,9 @@ But if it is by grace, it is no longer on the basis of works; otherwise grace wo
 ###### 7
 What then? Israel failed to obtain what it was seeking. The elect obtained it, but the rest were hardened,
 ###### 8
-as it is written,   “God gave them a spirit of stupor,   eyes that would not see and ears that would not hear, down to this very day.”
+as it is written, “God gave them a spirit of stupor, eyes that would not see and ears that would not hear, down to this very day.”
 ###### 9
-And David says,   “Let their table become a snare and a trap, a stumbling block and a retribution for them;
+And David says, “Let their table become a snare and a trap, a stumbling block and a retribution for them;
 ###### 10
 let their eyes be darkened so that they cannot see, and bend their backs forever.”
 ###### 11
@@ -67,11 +66,11 @@ And even they, if they do not continue in their unbelief, will be grafted in, fo
 ###### 24
 For if you were cut from what is by nature a wild olive tree, and grafted, contrary to nature, into a cultivated olive tree, how much more will these, the natural branches, be grafted back into their own olive tree.
 ###### 25
-Lest you be wise in your own sight, I do not want you to be unaware of this mystery, brothers:  a partial hardening has come upon Israel, until the fullness of the Gentiles has come in.
+Lest you be wise in your own sight, I do not want you to be unaware of this mystery, brothers: a partial hardening has come upon Israel, until the fullness of the Gentiles has come in.
 ###### 26
-And in this way all Israel will be saved, as it is written,   “The Deliverer will come from Zion, he will banish ungodliness from Jacob”;
+And in this way all Israel will be saved, as it is written, “The Deliverer will come from Zion, he will banish ungodliness from Jacob”;
 ###### 27
-“and this will be my covenant with them   when I take away their sins.”
+“and this will be my covenant with them when I take away their sins.”
 ###### 28
 As regards the gospel, they are enemies for your sake. But as regards election, they are beloved for the sake of their forefathers.
 ###### 29

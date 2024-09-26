@@ -9,7 +9,6 @@ aliases:
   - Job_17
 tags:
   - bible/chapter
-  - bible/Job/chapter
   - bible/Job/17
   - bible/old testament
 cssclass:
@@ -19,7 +18,7 @@ cssclass:
 # Job 17
 
 ###### 1
-“My spirit is broken; my days are extinct;   the graveyard is ready for me.
+“My spirit is broken; my days are extinct; the graveyard is ready for me.
 ###### 2
 Surely there are mockers about me, and my eye dwells on their provocation.
 ###### 3

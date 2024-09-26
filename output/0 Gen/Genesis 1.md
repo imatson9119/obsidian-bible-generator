@@ -9,7 +9,6 @@ aliases:
   - Gen_1
 tags:
   - bible/chapter
-  - bible/Genesis/chapter
   - bible/Genesis/1
   - bible/old testament
 cssclass:
@@ -71,7 +70,7 @@ And God made the beasts of the earth according to their kinds and the livestock 
 ###### 26
 Then God said, “Let us make man in our image, after our likeness. And let them have dominion over the fish of the sea and over the birds of the heavens and over the livestock and over all the earth and over every creeping thing that creeps on the earth.”
 ###### 27
-So God created man in his own image, in the image of God he created him;   male and female he created them.
+So God created man in his own image, in the image of God he created him; male and female he created them.
 ###### 28
 And God blessed them. And God said to them, “Be fruitful and multiply and fill the earth and subdue it, and have dominion over the fish of the sea and over the birds of the heavens and over every living thing that moves on the earth.”
 ###### 29

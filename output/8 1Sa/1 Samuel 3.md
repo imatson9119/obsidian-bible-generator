@@ -9,7 +9,6 @@ aliases:
   - 1Sa_3
 tags:
   - bible/chapter
-  - bible/1 Samuel/chapter
   - bible/1 Samuel/3
   - bible/old testament
 cssclass:
@@ -43,7 +42,7 @@ Then the Lord said to Samuel, “Behold, I am about to do a thing in Israel at w
 ###### 12
 On that day I will fulfill against Eli all that I have spoken concerning his house, from beginning to end.
 ###### 13
-And I declare to him that I am about to punish his house forever, for the iniquity that he knew, because his sons were blaspheming God,  and he did not restrain them.
+And I declare to him that I am about to punish his house forever, for the iniquity that he knew, because his sons were blaspheming God, and he did not restrain them.
 ###### 14
 Therefore I swear to the house of Eli that the iniquity of Eli’s house shall not be atoned for by sacrifice or offering forever.”
 ###### 15

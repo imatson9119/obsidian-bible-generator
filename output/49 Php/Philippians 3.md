@@ -9,7 +9,6 @@ aliases:
   - Php_3
 tags:
   - bible/chapter
-  - bible/Philippians/chapter
   - bible/Philippians/3
   - bible/new testament
 cssclass:
@@ -19,7 +18,7 @@ cssclass:
 # Philippians 3
 
 ###### 1
-Finally, my brothers,  rejoice in the Lord. To write the same things to you is no trouble to me and is safe for you.
+Finally, my brothers, rejoice in the Lord. To write the same things to you is no trouble to me and is safe for you.
 ###### 2
 Look out for the dogs, look out for the evildoers, look out for those who mutilate the flesh.
 ###### 3

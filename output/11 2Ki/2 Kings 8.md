@@ -9,7 +9,6 @@ aliases:
   - 2Ki_8
 tags:
   - bible/chapter
-  - bible/2 Kings/chapter
   - bible/2 Kings/8
   - bible/old testament
 cssclass:
@@ -19,7 +18,7 @@ cssclass:
 # 2 Kings 8
 
 ###### 1
-Now Elisha had said to the woman whose son he had restored to life, “Arise, and depart with your household, and sojourn wherever you can, for the Lord  has called for a famine, and it will come upon the land for seven years.”
+Now Elisha had said to the woman whose son he had restored to life, “Arise, and depart with your household, and sojourn wherever you can, for the Lord has called for a famine, and it will come upon the land for seven years.”
 ###### 2
 So the woman arose and did according to the word of the man of God. She went with her household and sojourned in the land of the Philistines seven years.
 ###### 3

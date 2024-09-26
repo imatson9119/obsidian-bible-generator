@@ -9,7 +9,6 @@ aliases:
   - Hos_1
 tags:
   - bible/chapter
-  - bible/Hosea/chapter
   - bible/Hosea/1
   - bible/old testament
 cssclass:

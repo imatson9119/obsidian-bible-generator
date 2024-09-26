@@ -9,7 +9,6 @@ aliases:
   - Mrk_3
 tags:
   - bible/chapter
-  - bible/Mark/chapter
   - bible/Mark/3
   - bible/new testament
 cssclass:
@@ -27,7 +26,7 @@ And he said to the man with the withered hand, “Come here.”
 ###### 4
 And he said to them, “Is it lawful on the Sabbath to do good or to do harm, to save life or to kill?” But they were silent.
 ###### 5
-And he looked around at them with anger, grieved at their hardness of heart, and said to the man, “Stretch out your hand.”  He stretched it out, and his hand was restored.
+And he looked around at them with anger, grieved at their hardness of heart, and said to the man, “Stretch out your hand.” He stretched it out, and his hand was restored.
 ###### 6
 The Pharisees went out and immediately held counsel with the Herodians against him, how to destroy him.
 ###### 7

@@ -9,7 +9,6 @@ aliases:
   - Zch_4
 tags:
   - bible/chapter
-  - bible/Zechariah/chapter
   - bible/Zechariah/4
   - bible/old testament
 cssclass:
@@ -37,7 +36,7 @@ Then the word of the Lord came to me, saying,
 ###### 9
 “The hands of Zerubbabel have laid the foundation of this house; his hands shall also complete it. Then you will know that the Lord of hosts has sent me to you.
 ###### 10
-For whoever has despised the day of small things shall rejoice, and shall see the plumb line in the hand of Zerubbabel.   “These seven are the eyes of the Lord, which range through the whole earth.”
+For whoever has despised the day of small things shall rejoice, and shall see the plumb line in the hand of Zerubbabel. “These seven are the eyes of the Lord, which range through the whole earth.”
 ###### 11
 Then I said to him, “What are these two olive trees on the right and the left of the lampstand?”
 ###### 12

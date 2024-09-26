@@ -9,7 +9,6 @@ aliases:
   - Psa_76
 tags:
   - bible/chapter
-  - bible/Psalm/chapter
   - bible/Psalm/76
   - bible/old testament
 cssclass:
@@ -25,15 +24,15 @@ His abode has been established in Salem, his dwelling place in Zion.
 ###### 3
 There he broke the flashing arrows, the shield, the sword, and the weapons of war. Selah
 ###### 4
-Glorious are you, more majestic   than the mountains full of prey.
+Glorious are you, more majestic than the mountains full of prey.
 ###### 5
-The stouthearted were stripped of their spoil;   they sank into sleep; all the men of war were unable to use their hands.
+The stouthearted were stripped of their spoil; they sank into sleep; all the men of war were unable to use their hands.
 ###### 6
 At your rebuke, O God of Jacob, both rider and horse lay stunned.
 ###### 7
 But you, you are to be feared! Who can stand before you when once your anger is roused?
 ###### 8
-From the heavens you uttered judgment;   the earth feared and was still,
+From the heavens you uttered judgment; the earth feared and was still,
 ###### 9
 when God arose to establish judgment, to save all the humble of the earth. Selah
 ###### 10

@@ -9,7 +9,6 @@ aliases:
   - SS_7
 tags:
   - bible/chapter
-  - bible/Song of Solomon/chapter
   - bible/Song of Solomon/7
   - bible/old testament
 cssclass:
@@ -37,12 +36,12 @@ I say I will climb the palm tree and lay hold of its fruit. Oh may your breasts 
 ###### 9
 and your mouth like the best wine. It goes down smoothly for my beloved, gliding over lips and teeth.
 ###### 10
-I am my beloved’s,   and his desire is for me.
+I am my beloved’s, and his desire is for me.
 ###### 11
 Come, my beloved, let us go out into the fields and lodge in the villages;
 ###### 12
-let us go out early to the vineyards   and see whether the vines have budded, whether the grape blossoms have opened and the pomegranates are in bloom. There I will give you my love.
+let us go out early to the vineyards and see whether the vines have budded, whether the grape blossoms have opened and the pomegranates are in bloom. There I will give you my love.
 ###### 13
-The mandrakes give forth fragrance, and beside our doors are all choice fruits,   new as well as old, which I have laid up for you, O my beloved.
+The mandrakes give forth fragrance, and beside our doors are all choice fruits, new as well as old, which I have laid up for you, O my beloved.
 
 

@@ -9,7 +9,6 @@ aliases:
   - Psa_9
 tags:
   - bible/chapter
-  - bible/Psalm/chapter
   - bible/Psalm/9
   - bible/old testament
 cssclass:
@@ -49,7 +48,7 @@ that I may recount all your praises, that in the gates of the daughter of Zion I
 ###### 15
 The nations have sunk in the pit that they made; in the net that they hid, their own foot has been caught.
 ###### 16
-The Lord has made himself known; he has executed judgment; the wicked are snared in the work of their own hands. Higgaion.  Selah
+The Lord has made himself known; he has executed judgment; the wicked are snared in the work of their own hands. Higgaion. Selah
 ###### 17
 The wicked shall return to Sheol, all the nations that forget God.
 ###### 18

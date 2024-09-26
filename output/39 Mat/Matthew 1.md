@@ -9,7 +9,6 @@ aliases:
   - Mat_1
 tags:
   - bible/chapter
-  - bible/Matthew/chapter
   - bible/Matthew/1
   - bible/new testament
 cssclass:

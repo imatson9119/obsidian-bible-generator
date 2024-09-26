@@ -9,7 +9,6 @@ aliases:
   - Gen_25
 tags:
   - bible/chapter
-  - bible/Genesis/chapter
   - bible/Genesis/25
   - bible/old testament
 cssclass:
@@ -63,7 +62,7 @@ And Isaac prayed to the Lord for his wife, because she was barren. And the Lord 
 ###### 22
 The children struggled together within her, and she said, “If it is thus, why is this happening to me?” So she went to inquire of the Lord.
 ###### 23
-And the Lord said to her,   “Two nations are in your womb, and two peoples from within you shall be divided;   the one shall be stronger than the other,   the older shall serve the younger.”
+And the Lord said to her, “Two nations are in your womb, and two peoples from within you shall be divided; the one shall be stronger than the other, the older shall serve the younger.”
 ###### 24
 When her days to give birth were completed, behold, there were twins in her womb.
 ###### 25

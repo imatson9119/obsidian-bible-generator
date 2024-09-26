@@ -9,7 +9,6 @@ aliases:
   - 2Sa_23
 tags:
   - bible/chapter
-  - bible/2 Samuel/chapter
   - bible/2 Samuel/23
   - bible/old testament
 cssclass:
@@ -19,15 +18,15 @@ cssclass:
 # 2 Samuel 23
 
 ###### 1
-Now these are the last words of David: The oracle of David, the son of Jesse, the oracle of the man who was raised on high,   the anointed of the God of Jacob, the sweet psalmist of Israel:
+Now these are the last words of David: The oracle of David, the son of Jesse, the oracle of the man who was raised on high, the anointed of the God of Jacob, the sweet psalmist of Israel:
 ###### 2
 “The Spirit of the Lord speaks by me; his word is on my tongue.
 ###### 3
-The God of Israel has spoken;   the Rock of Israel has said to me: When one rules justly over men, ruling in the fear of God,
+The God of Israel has spoken; the Rock of Israel has said to me: When one rules justly over men, ruling in the fear of God,
 ###### 4
 he dawns on them like the morning light, like the sun shining forth on a cloudless morning, like rain that makes grass to sprout from the earth.
 ###### 5
-“For does not my house stand so with God?   For he has made with me an everlasting covenant, ordered in all things and secure. For will he not cause to prosper all my help and my desire?
+“For does not my house stand so with God? For he has made with me an everlasting covenant, ordered in all things and secure. For will he not cause to prosper all my help and my desire?
 ###### 6
 But worthless men are all like thorns that are thrown away, for they cannot be taken with the hand;
 ###### 7
@@ -87,7 +86,7 @@ Shammah the Hararite, Ahiam the son of Sharar the Hararite,
 ###### 34
 Eliphelet the son of Ahasbai of Maacah, Eliam the son of Ahithophel the Gilonite,
 ###### 35
-Hezro  of Carmel, Paarai the Arbite,
+Hezro of Carmel, Paarai the Arbite,
 ###### 36
 Igal the son of Nathan of Zobah, Bani the Gadite,
 ###### 37

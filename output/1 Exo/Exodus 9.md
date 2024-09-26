@@ -9,7 +9,6 @@ aliases:
   - Exo_9
 tags:
   - bible/chapter
-  - bible/Exodus/chapter
   - bible/Exodus/9
   - bible/old testament
 cssclass:

@@ -9,7 +9,6 @@ aliases:
   - Pro_14
 tags:
   - bible/chapter
-  - bible/Proverbs/chapter
   - bible/Proverbs/14
   - bible/old testament
 cssclass:
@@ -23,7 +22,7 @@ The wisest of women builds her house, but folly with her own hands tears it down
 ###### 2
 Whoever walks in uprightness fears the Lord, but he who is devious in his ways despises him.
 ###### 3
-By the mouth of a fool comes a rod for his back,   but the lips of the wise will preserve them.
+By the mouth of a fool comes a rod for his back, but the lips of the wise will preserve them.
 ###### 4
 Where there are no oxen, the manger is clean, but abundant crops come by the strength of the ox.
 ###### 5
@@ -57,11 +56,11 @@ The simple inherit folly, but the prudent are crowned with knowledge.
 ###### 19
 The evil bow down before the good, the wicked at the gates of the righteous.
 ###### 20
-The poor is disliked even by his neighbor,   but the rich has many friends.
+The poor is disliked even by his neighbor, but the rich has many friends.
 ###### 21
 Whoever despises his neighbor is a sinner, but blessed is he who is generous to the poor.
 ###### 22
-Do they not go astray who devise evil? Those who devise good meet  steadfast love and faithfulness.
+Do they not go astray who devise evil? Those who devise good meet steadfast love and faithfulness.
 ###### 23
 In all toil there is profit, but mere talk tends only to poverty.
 ###### 24
@@ -79,7 +78,7 @@ Whoever is slow to anger has great understanding, but he who has a hasty temper 
 ###### 30
 A tranquil heart gives life to the flesh, but envy makes the bones rot.
 ###### 31
-Whoever oppresses a poor man insults his Maker,   but he who is generous to the needy honors him.
+Whoever oppresses a poor man insults his Maker, but he who is generous to the needy honors him.
 ###### 32
 The wicked is overthrown through his evildoing, but the righteous finds refuge in his death.
 ###### 33

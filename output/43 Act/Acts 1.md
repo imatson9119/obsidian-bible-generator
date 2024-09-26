@@ -9,7 +9,6 @@ aliases:
   - Act_1
 tags:
   - bible/chapter
-  - bible/Acts/chapter
   - bible/Acts/1
   - bible/new testament
 cssclass:
@@ -27,7 +26,7 @@ He presented himself alive to them after his suffering by many proofs, appearing
 ###### 4
 And while staying with them he ordered them not to depart from Jerusalem, but to wait for the promise of the Father, which, he said, “you heard from me;
 ###### 5
-for John baptized with water, but you will be baptized with  the Holy Spirit not many days from now.”
+for John baptized with water, but you will be baptized with the Holy Spirit not many days from now.”
 ###### 6
 So when they had come together, they asked him, “Lord, will you at this time restore the kingdom to Israel?”
 ###### 7
@@ -57,7 +56,7 @@ For he was numbered among us and was allotted his share in this ministry.”
 ###### 19
 And it became known to all the inhabitants of Jerusalem, so that the field was called in their own language Akeldama, that is, Field of Blood.)
 ###### 20
-“For it is written in the Book of Psalms,   “‘May his camp become desolate, and let there be no one to dwell in it’; and   “‘Let another take his office.’
+“For it is written in the Book of Psalms, “‘May his camp become desolate, and let there be no one to dwell in it’; and “‘Let another take his office.’
 ###### 21
 So one of the men who have accompanied us during all the time that the Lord Jesus went in and out among us,
 ###### 22

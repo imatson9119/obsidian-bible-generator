@@ -9,7 +9,6 @@ aliases:
   - 2Ch_7
 tags:
   - bible/chapter
-  - bible/2 Chronicles/chapter
   - bible/2 Chronicles/7
   - bible/old testament
 cssclass:
@@ -29,7 +28,7 @@ Then the king and all the people offered sacrifice before the Lord.
 ###### 5
 King Solomon offered as a sacrifice 22,000 oxen and 120,000 sheep. So the king and all the people dedicated the house of God.
 ###### 6
-The priests stood at their posts; the Levites also, with the instruments for music to the Lord that King David had made for giving thanks to the Lord—for his steadfast love endures forever—whenever David offered praises by their ministry;  opposite them the priests sounded trumpets, and all Israel stood.
+The priests stood at their posts; the Levites also, with the instruments for music to the Lord that King David had made for giving thanks to the Lord—for his steadfast love endures forever—whenever David offered praises by their ministry; opposite them the priests sounded trumpets, and all Israel stood.
 ###### 7
 And Solomon consecrated the middle of the court that was before the house of the Lord, for there he offered the burnt offering and the fat of the peace offerings, because the bronze altar Solomon had made could not hold the burnt offering and the grain offering and the fat.
 ###### 8

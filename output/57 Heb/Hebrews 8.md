@@ -9,7 +9,6 @@ aliases:
   - Heb_8
 tags:
   - bible/chapter
-  - bible/Hebrews/chapter
   - bible/Hebrews/8
   - bible/new testament
 cssclass:
@@ -33,7 +32,7 @@ But as it is, Christ has obtained a ministry that is as much more excellent than
 ###### 7
 For if that first covenant had been faultless, there would have been no occasion to look for a second.
 ###### 8
-For he finds fault with them when he says:   “Behold, the days are coming, declares the Lord, when I will establish a new covenant with the house of Israel and with the house of Judah,
+For he finds fault with them when he says: “Behold, the days are coming, declares the Lord, when I will establish a new covenant with the house of Israel and with the house of Judah,
 ###### 9
 not like the covenant that I made with their fathers on the day when I took them by the hand to bring them out of the land of Egypt. For they did not continue in my covenant, and so I showed no concern for them, declares the Lord.
 ###### 10
@@ -41,7 +40,7 @@ For this is the covenant that I will make with the house of Israel after those d
 ###### 11
 And they shall not teach, each one his neighbor and each one his brother, saying, ‘Know the Lord,’ for they shall all know me, from the least of them to the greatest.
 ###### 12
-For I will be merciful toward their iniquities,   and I will remember their sins no more.”
+For I will be merciful toward their iniquities, and I will remember their sins no more.”
 ###### 13
 In speaking of a new covenant, he makes the first one obsolete. And what is becoming obsolete and growing old is ready to vanish away.
 

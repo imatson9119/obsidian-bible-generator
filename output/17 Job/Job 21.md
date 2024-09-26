@@ -9,7 +9,6 @@ aliases:
   - Job_21
 tags:
   - bible/chapter
-  - bible/Job/chapter
   - bible/Job/21
   - bible/old testament
 cssclass:
@@ -49,7 +48,7 @@ They say to God, ‘Depart from us! We do not desire the knowledge of your ways.
 ###### 15
 What is the Almighty, that we should serve him? And what profit do we get if we pray to him?’
 ###### 16
-Behold, is not their prosperity in their hand?   The counsel of the wicked is far from me.
+Behold, is not their prosperity in their hand? The counsel of the wicked is far from me.
 ###### 17
 “How often is it that the lamp of the wicked is put out? That their calamity comes upon them? That God distributes pains in his anger?
 ###### 18
@@ -83,7 +82,7 @@ Who declares his way to his face, and who repays him for what he has done?
 ###### 32
 When he is carried to the grave, watch is kept over his tomb.
 ###### 33
-The clods of the valley are sweet to him;   all mankind follows after him, and those who go before him are innumerable.
+The clods of the valley are sweet to him; all mankind follows after him, and those who go before him are innumerable.
 ###### 34
 How then will you comfort me with empty nothings? There is nothing left of your answers but falsehood.”
 

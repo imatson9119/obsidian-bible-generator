@@ -9,7 +9,6 @@ aliases:
   - 1Ch_15
 tags:
   - bible/chapter
-  - bible/1 Chronicles/chapter
   - bible/1 Chronicles/15
   - bible/old testament
 cssclass:
@@ -23,7 +22,7 @@ David built houses for himself in the city of David. And he prepared a place for
 ###### 2
 Then David said that no one but the Levites may carry the ark of God, for the Lord had chosen them to carry the ark of the Lord and to minister to him forever.
 ###### 3
-And David assembled all Israel at Jerusalem to bring up the ark of the Lord  to its place, which he had prepared for it.
+And David assembled all Israel at Jerusalem to bring up the ark of the Lord to its place, which he had prepared for it.
 ###### 4
 And David gathered together the sons of Aaron and the Levites:
 ###### 5

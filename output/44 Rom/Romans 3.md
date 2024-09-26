@@ -9,7 +9,6 @@ aliases:
   - Rom_3
 tags:
   - bible/chapter
-  - bible/Romans/chapter
   - bible/Romans/3
   - bible/new testament
 cssclass:
@@ -25,7 +24,7 @@ Much in every way. To begin with, the Jews were entrusted with the oracles of Go
 ###### 3
 What if some were unfaithful? Does their faithlessness nullify the faithfulness of God?
 ###### 4
-By no means! Let God be true though every one were a liar, as it is written,   “That you may be justified in your words, and prevail when you are judged.”
+By no means! Let God be true though every one were a liar, as it is written, “That you may be justified in your words, and prevail when you are judged.”
 ###### 5
 But if our unrighteousness serves to show the righteousness of God, what shall we say? That God is unrighteous to inflict wrath on us? (I speak in a human way.)
 ###### 6
@@ -37,13 +36,13 @@ And why not do evil that good may come?—as some people slanderously charge us 
 ###### 9
 What then? Are we Jews any better off? No, not at all. For we have already charged that all, both Jews and Greeks, are under sin,
 ###### 10
-as it is written:   “None is righteous, no, not one;
+as it is written: “None is righteous, no, not one;
 ###### 11
 no one understands; no one seeks for God.
 ###### 12
 All have turned aside; together they have become worthless; no one does good, not even one.”
 ###### 13
-“Their throat is an open grave; they use their tongues to deceive.”   “The venom of asps is under their lips.”
+“Their throat is an open grave; they use their tongues to deceive.” “The venom of asps is under their lips.”
 ###### 14
 “Their mouth is full of curses and bitterness.”
 ###### 15

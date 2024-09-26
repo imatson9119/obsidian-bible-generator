@@ -9,7 +9,6 @@ aliases:
   - 1Sa_2
 tags:
   - bible/chapter
-  - bible/1 Samuel/chapter
   - bible/1 Samuel/2
   - bible/old testament
 cssclass:
@@ -19,7 +18,7 @@ cssclass:
 # 1 Samuel 2
 
 ###### 1
-And Hannah prayed and said,   “My heart exults in the Lord;   my horn is exalted in the Lord. My mouth derides my enemies, because I rejoice in your salvation.
+And Hannah prayed and said, “My heart exults in the Lord; my horn is exalted in the Lord. My mouth derides my enemies, because I rejoice in your salvation.
 ###### 2
 “There is none holy like the Lord: for there is none besides you; there is no rock like our God.
 ###### 3
@@ -27,17 +26,17 @@ Talk no more so very proudly, let not arrogance come from your mouth; for the Lo
 ###### 4
 The bows of the mighty are broken, but the feeble bind on strength.
 ###### 5
-Those who were full have hired themselves out for bread, but those who were hungry have ceased to hunger.   The barren has borne seven,   but she who has many children is forlorn.
+Those who were full have hired themselves out for bread, but those who were hungry have ceased to hunger. The barren has borne seven, but she who has many children is forlorn.
 ###### 6
 The Lord kills and brings to life; he brings down to Sheol and raises up.
 ###### 7
-The Lord makes poor and makes rich;   he brings low and he exalts.
+The Lord makes poor and makes rich; he brings low and he exalts.
 ###### 8
-He raises up the poor from the dust; he lifts the needy from the ash heap   to make them sit with princes and inherit a seat of honor.   For the pillars of the earth are the Lord’s, and on them he has set the world.
+He raises up the poor from the dust; he lifts the needy from the ash heap to make them sit with princes and inherit a seat of honor. For the pillars of the earth are the Lord’s, and on them he has set the world.
 ###### 9
 “He will guard the feet of his faithful ones, but the wicked shall be cut off in darkness, for not by might shall a man prevail.
 ###### 10
-The adversaries of the Lord shall be broken to pieces;   against them he will thunder in heaven.   The Lord will judge the ends of the earth; he will give strength to his king   and exalt the horn of his anointed.”
+The adversaries of the Lord shall be broken to pieces; against them he will thunder in heaven. The Lord will judge the ends of the earth; he will give strength to his king and exalt the horn of his anointed.”
 ###### 11
 Then Elkanah went home to Ramah. And the boy was ministering to the Lord in the presence of Eli the priest.
 ###### 12

@@ -9,7 +9,6 @@ aliases:
   - Rth_4
 tags:
   - bible/chapter
-  - bible/Ruth/chapter
   - bible/Ruth/4
   - bible/old testament
 cssclass:

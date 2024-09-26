@@ -9,7 +9,6 @@ aliases:
   - Jer_11
 tags:
   - bible/chapter
-  - bible/Jeremiah/chapter
   - bible/Jeremiah/11
   - bible/old testament
 cssclass:
@@ -55,9 +54,9 @@ The Lord of hosts, who planted you, has decreed disaster against you, because of
 ###### 18
 The Lord made it known to me and I knew; then you showed me their deeds.
 ###### 19
-But I was like a gentle lamb led to the slaughter. I did not know it was against me they devised schemes, saying, “Let us destroy the tree with its fruit,   let us cut him off from the land of the living, that his name be remembered no more.”
+But I was like a gentle lamb led to the slaughter. I did not know it was against me they devised schemes, saying, “Let us destroy the tree with its fruit, let us cut him off from the land of the living, that his name be remembered no more.”
 ###### 20
-But, O Lord of hosts, who judges righteously, who tests the heart and the mind,   let me see your vengeance upon them, for to you have I committed my cause.
+But, O Lord of hosts, who judges righteously, who tests the heart and the mind, let me see your vengeance upon them, for to you have I committed my cause.
 ###### 21
 Therefore thus says the Lord concerning the men of Anathoth, who seek your life, and say, “Do not prophesy in the name of the Lord, or you will die by our hand”—
 ###### 22

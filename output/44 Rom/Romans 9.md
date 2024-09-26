@@ -9,7 +9,6 @@ aliases:
   - Rom_9
 tags:
   - bible/chapter
-  - bible/Romans/chapter
   - bible/Romans/9
   - bible/new testament
 cssclass:
@@ -67,7 +66,7 @@ in order to make known the riches of his glory for vessels of mercy, which he ha
 ###### 24
 even us whom he has called, not from the Jews only but also from the Gentiles?
 ###### 25
-As indeed he says in Hosea,   “Those who were not my people I will call ‘my people,’ and her who was not beloved I will call ‘beloved.’”
+As indeed he says in Hosea, “Those who were not my people I will call ‘my people,’ and her who was not beloved I will call ‘beloved.’”
 ###### 26
 “And in the very place where it was said to them, ‘You are not my people,’ there they will be called ‘sons of the living God.’”
 ###### 27
@@ -75,14 +74,14 @@ And Isaiah cries out concerning Israel: “Though the number of the sons of Isra
 ###### 28
 for the Lord will carry out his sentence upon the earth fully and without delay.”
 ###### 29
-And as Isaiah predicted,     “If the Lord of hosts had not left us offspring,   we would have been like Sodom and become like Gomorrah.”
+And as Isaiah predicted, “If the Lord of hosts had not left us offspring, we would have been like Sodom and become like Gomorrah.”
 ###### 30
 What shall we say, then? That Gentiles who did not pursue righteousness have attained it, that is, a righteousness that is by faith;
 ###### 31
-but that Israel who pursued a law that would lead to righteousness  did not succeed in reaching that law.
+but that Israel who pursued a law that would lead to righteousness did not succeed in reaching that law.
 ###### 32
 Why? Because they did not pursue it by faith, but as if it were based on works. They have stumbled over the stumbling stone,
 ###### 33
-as it is written,   “Behold, I am laying in Zion a stone of stumbling, and a rock of offense;   and whoever believes in him will not be put to shame.”
+as it is written, “Behold, I am laying in Zion a stone of stumbling, and a rock of offense; and whoever believes in him will not be put to shame.”
 
 

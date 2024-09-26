@@ -9,7 +9,6 @@ aliases:
   - Job_30
 tags:
   - bible/chapter
-  - bible/Job/chapter
   - bible/Job/30
   - bible/old testament
 cssclass:
@@ -21,7 +20,7 @@ cssclass:
 ###### 1
 “But now they laugh at me, men who are younger than I, whose fathers I would have disdained to set with the dogs of my flock.
 ###### 2
-What could I gain from the strength of their hands,   men whose vigor is gone?
+What could I gain from the strength of their hands, men whose vigor is gone?
 ###### 3
 Through want and hard hunger they gnaw the dry ground by night in waste and desolation;
 ###### 4

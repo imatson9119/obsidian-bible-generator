@@ -9,7 +9,6 @@ aliases:
   - Ezk_4
 tags:
   - bible/chapter
-  - bible/Ezekiel/chapter
   - bible/Ezekiel/4
   - bible/old testament
 cssclass:
@@ -45,7 +44,7 @@ And you shall eat it as a barley cake, baking it in their sight on human dung.�
 ###### 13
 And the Lord said, “Thus shall the people of Israel eat their bread unclean, among the nations where I will drive them.”
 ###### 14
-Then I said, “Ah, Lord God! Behold, I have never defiled myself.  From my youth up till now I have never eaten what died of itself or was torn by beasts, nor has tainted meat come into my mouth.”
+Then I said, “Ah, Lord God! Behold, I have never defiled myself. From my youth up till now I have never eaten what died of itself or was torn by beasts, nor has tainted meat come into my mouth.”
 ###### 15
 Then he said to me, “See, I assign to you cow’s dung instead of human dung, on which you may prepare your bread.”
 ###### 16

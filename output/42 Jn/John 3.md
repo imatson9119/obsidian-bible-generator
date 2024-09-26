@@ -9,7 +9,6 @@ aliases:
   - Jn_3
 tags:
   - bible/chapter
-  - bible/John/chapter
   - bible/John/3
   - bible/new testament
 cssclass:
@@ -21,9 +20,9 @@ cssclass:
 ###### 1
 Now there was a man of the Pharisees named Nicodemus, a ruler of the Jews.
 ###### 2
-This man came to Jesus  by night and said to him, “Rabbi, we know that you are a teacher come from God, for no one can do these signs that you do unless God is with him.”
+This man came to Jesus by night and said to him, “Rabbi, we know that you are a teacher come from God, for no one can do these signs that you do unless God is with him.”
 ###### 3
-Jesus answered him, “Truly, truly, I say to you, unless one is born again  he cannot see the kingdom of God.”
+Jesus answered him, “Truly, truly, I say to you, unless one is born again he cannot see the kingdom of God.”
 ###### 4
 Nicodemus said to him, “How can a man be born when he is old? Can he enter a second time into his mother’s womb and be born?”
 ###### 5
@@ -31,15 +30,15 @@ Jesus answered, “Truly, truly, I say to you, unless one is born of water and t
 ###### 6
 That which is born of the flesh is flesh, and that which is born of the Spirit is spirit.
 ###### 7
-Do not marvel that I said to you, ‘You  must be born again.’
+Do not marvel that I said to you, ‘You must be born again.’
 ###### 8
-The wind  blows where it wishes, and you hear its sound, but you do not know where it comes from or where it goes. So it is with everyone who is born of the Spirit.”
+The wind blows where it wishes, and you hear its sound, but you do not know where it comes from or where it goes. So it is with everyone who is born of the Spirit.”
 ###### 9
 Nicodemus said to him, “How can these things be?”
 ###### 10
 Jesus answered him, “Are you the teacher of Israel and yet you do not understand these things?
 ###### 11
-Truly, truly, I say to you, we speak of what we know, and bear witness to what we have seen, but you  do not receive our testimony.
+Truly, truly, I say to you, we speak of what we know, and bear witness to what we have seen, but you do not receive our testimony.
 ###### 12
 If I have told you earthly things and you do not believe, how can you believe if I tell you heavenly things?
 ###### 13
@@ -49,7 +48,7 @@ And as Moses lifted up the serpent in the wilderness, so must the Son of Man be 
 ###### 15
 that whoever believes in him may have eternal life.
 ###### 16
-“For     God so loved     the world,      that he gave his only Son, that whoever believes in him should not     perish but have eternal life.
+“For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life.
 ###### 17
 For God did not send his Son into the world to condemn the world, but in order that the world might be saved through him.
 ###### 18

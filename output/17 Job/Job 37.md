@@ -9,7 +9,6 @@ aliases:
   - Job_37
 tags:
   - bible/chapter
-  - bible/Job/chapter
   - bible/Job/37
   - bible/old testament
 cssclass:
@@ -25,7 +24,7 @@ Keep listening to the thunder of his voice and the rumbling that comes from his 
 ###### 3
 Under the whole heaven he lets it go, and his lightning to the corners of the earth.
 ###### 4
-After it his voice roars;   he thunders with his majestic voice, and he does not restrain the lightnings when his voice is heard.
+After it his voice roars; he thunders with his majestic voice, and he does not restrain the lightnings when his voice is heard.
 ###### 5
 God thunders wondrously with his voice; he does great things that we cannot comprehend.
 ###### 6
@@ -41,7 +40,7 @@ By the breath of God ice is given, and the broad waters are frozen fast.
 ###### 11
 He loads the thick cloud with moisture; the clouds scatter his lightning.
 ###### 12
-They turn around and around by his guidance,   to accomplish all that he commands them on the face of the habitable world.
+They turn around and around by his guidance, to accomplish all that he commands them on the face of the habitable world.
 ###### 13
 Whether for correction or for his land or for love, he causes it to happen.
 ###### 14
@@ -63,7 +62,7 @@ Shall it be told him that I would speak? Did a man ever wish that he would be sw
 ###### 22
 Out of the north comes golden splendor; God is clothed with awesome majesty.
 ###### 23
-The Almighty—we cannot find him; he is great in power;   justice and abundant righteousness he will not violate.
+The Almighty—we cannot find him; he is great in power; justice and abundant righteousness he will not violate.
 ###### 24
 Therefore men fear him; he does not regard any who are wise in their own conceit.”
 

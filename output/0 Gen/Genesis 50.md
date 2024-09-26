@@ -9,7 +9,6 @@ aliases:
   - Gen_50
 tags:
   - bible/chapter
-  - bible/Genesis/chapter
   - bible/Genesis/50
   - bible/old testament
 cssclass:

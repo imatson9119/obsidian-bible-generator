@@ -9,7 +9,6 @@ aliases:
   - Jam_3
 tags:
   - bible/chapter
-  - bible/James/chapter
   - bible/James/3
   - bible/new testament
 cssclass:

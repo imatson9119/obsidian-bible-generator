@@ -9,7 +9,6 @@ aliases:
   - Psa_78
 tags:
   - bible/chapter
-  - bible/Psalm/chapter
   - bible/Psalm/78
   - bible/old testament
 cssclass:
@@ -33,9 +32,9 @@ that the next generation might know them, the children yet unborn, and arise and
 ###### 7
 so that they should set their hope in God and not forget the works of God, but keep his commandments;
 ###### 8
-and that they should not be like their fathers,   a stubborn and rebellious generation, a generation whose heart was not steadfast, whose spirit was not faithful to God.
+and that they should not be like their fathers, a stubborn and rebellious generation, a generation whose heart was not steadfast, whose spirit was not faithful to God.
 ###### 9
-The Ephraimites, armed with the bow,   turned back on the day of battle.
+The Ephraimites, armed with the bow, turned back on the day of battle.
 ###### 10
 They did not keep God’s covenant, but refused to walk according to his law.
 ###### 11
@@ -51,15 +50,15 @@ He split rocks in the wilderness and gave them drink abundantly as from the deep
 ###### 16
 He made streams come out of the rock and caused waters to flow down like rivers.
 ###### 17
-Yet they sinned still more against him,   rebelling against the Most High in the desert.
+Yet they sinned still more against him, rebelling against the Most High in the desert.
 ###### 18
 They tested God in their heart by demanding the food they craved.
 ###### 19
-They spoke against God, saying,   “Can God spread a table in the wilderness?
+They spoke against God, saying, “Can God spread a table in the wilderness?
 ###### 20
 He struck the rock so that water gushed out and streams overflowed. Can he also give bread or provide meat for his people?”
 ###### 21
-Therefore, when the Lord heard, he was full of wrath;   a fire was kindled against Jacob; his anger rose against Israel,
+Therefore, when the Lord heard, he was full of wrath; a fire was kindled against Jacob; his anger rose against Israel,
 ###### 22
 because they did not believe in God and did not trust his saving power.
 ###### 23
@@ -77,11 +76,11 @@ he let them fall in the midst of their camp, all around their dwellings.
 ###### 29
 And they ate and were well filled, for he gave them what they craved.
 ###### 30
-But before they had satisfied their craving,   while the food was still in their mouths,
+But before they had satisfied their craving, while the food was still in their mouths,
 ###### 31
 the anger of God rose against them, and he killed the strongest of them and laid low the young men of Israel.
 ###### 32
-In spite of all this, they still sinned;   despite his wonders, they did not believe.
+In spite of all this, they still sinned; despite his wonders, they did not believe.
 ###### 33
 So he made their days vanish like a breath, and their years in terror.
 ###### 34
@@ -93,9 +92,9 @@ But they flattered him with their mouths; they lied to him with their tongues.
 ###### 37
 Their heart was not steadfast toward him; they were not faithful to his covenant.
 ###### 38
-Yet he, being compassionate,   atoned for their iniquity and did not destroy them; he restrained his anger often and did not stir up all his wrath.
+Yet he, being compassionate, atoned for their iniquity and did not destroy them; he restrained his anger often and did not stir up all his wrath.
 ###### 39
-He remembered that they were but flesh,   a wind that passes and comes not again.
+He remembered that they were but flesh, a wind that passes and comes not again.
 ###### 40
 How often they rebelled against him in the wilderness and grieved him in the desert!
 ###### 41
@@ -125,7 +124,7 @@ Then he led out his people like sheep and guided them in the wilderness like a f
 ###### 53
 He led them in safety, so that they were not afraid, but the sea overwhelmed their enemies.
 ###### 54
-And he brought them to his holy land,   to the mountain which his right hand had won.
+And he brought them to his holy land, to the mountain which his right hand had won.
 ###### 55
 He drove out nations before them; he apportioned them for a possession and settled the tribes of Israel in their tents.
 ###### 56

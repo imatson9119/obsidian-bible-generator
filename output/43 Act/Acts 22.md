@@ -9,7 +9,6 @@ aliases:
   - Act_22
 tags:
   - bible/chapter
-  - bible/Acts/chapter
   - bible/Acts/22
   - bible/new testament
 cssclass:
@@ -23,7 +22,7 @@ cssclass:
 ###### 2
 And when they heard that he was addressing them in the Hebrew language, they became even more quiet. And he said:
 ###### 3
-“I am a Jew, born in Tarsus in Cilicia, but brought up in this city, educated at the feet of Gamaliel  according to the strict manner of the law of our fathers, being zealous for God as all of you are this day.
+“I am a Jew, born in Tarsus in Cilicia, but brought up in this city, educated at the feet of Gamaliel according to the strict manner of the law of our fathers, being zealous for God as all of you are this day.
 ###### 4
 I persecuted this Way to the death, binding and delivering to prison both men and women,
 ###### 5

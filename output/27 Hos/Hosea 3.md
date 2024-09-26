@@ -9,7 +9,6 @@ aliases:
   - Hos_3
 tags:
   - bible/chapter
-  - bible/Hosea/chapter
   - bible/Hosea/3
   - bible/old testament
 cssclass:

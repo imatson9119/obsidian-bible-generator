@@ -9,7 +9,6 @@ aliases:
   - Jos_19
 tags:
   - bible/chapter
-  - bible/Joshua/chapter
   - bible/Joshua/19
   - bible/old testament
 cssclass:

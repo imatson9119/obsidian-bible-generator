@@ -9,7 +9,6 @@ aliases:
   - 1Sa_20
 tags:
   - bible/chapter
-  - bible/1 Samuel/chapter
   - bible/1 Samuel/20
   - bible/old testament
 cssclass:

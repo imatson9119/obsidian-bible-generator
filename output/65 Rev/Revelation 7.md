@@ -9,7 +9,6 @@ aliases:
   - Rev_7
 tags:
   - bible/chapter
-  - bible/Revelation/chapter
   - bible/Revelation/7
   - bible/new testament
 cssclass:
@@ -49,7 +48,7 @@ I said to him, “Sir, you know.” And he said to me, “These are the ones com
 ###### 15
 “Therefore they are before the throne of God, and serve him day and night in his temple; and he who sits on the throne will shelter them with his presence.
 ###### 16
-They shall hunger no more, neither thirst anymore;   the sun shall not strike them, nor any scorching heat.
+They shall hunger no more, neither thirst anymore; the sun shall not strike them, nor any scorching heat.
 ###### 17
 For the Lamb in the midst of the throne will be their shepherd, and he will guide them to springs of living water, and God will wipe away every tear from their eyes.”
 

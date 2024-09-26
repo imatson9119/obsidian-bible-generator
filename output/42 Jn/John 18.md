@@ -9,7 +9,6 @@ aliases:
   - Jn_18
 tags:
   - bible/chapter
-  - bible/John/chapter
   - bible/John/18
   - bible/new testament
 cssclass:

@@ -9,7 +9,6 @@ aliases:
   - Jos_12
 tags:
   - bible/chapter
-  - bible/Joshua/chapter
   - bible/Joshua/12
   - bible/old testament
 cssclass:
@@ -29,7 +28,7 @@ and Og king of Bashan, one of the remnant of the Rephaim, who lived at Ashtaroth
 ###### 5
 and ruled over Mount Hermon and Salecah and all Bashan to the boundary of the Geshurites and the Maacathites, and over half of Gilead to the boundary of Sihon king of Heshbon.
 ###### 6
-Moses, the servant of the Lord, and the people of Israel defeated them. And Moses the servant of the Lord  gave their land for a possession to the Reubenites and the Gadites and the half-tribe of Manasseh.
+Moses, the servant of the Lord, and the people of Israel defeated them. And Moses the servant of the Lord gave their land for a possession to the Reubenites and the Gadites and the half-tribe of Manasseh.
 ###### 7
 And these are the kings of the land whom Joshua and the people of Israel defeated on the west side of the Jordan, from Baal-gad in the Valley of Lebanon to Mount Halak, that rises toward Seir (and Joshua gave their land to the tribes of Israel as a possession according to their allotments,
 ###### 8

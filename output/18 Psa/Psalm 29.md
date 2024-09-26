@@ -9,7 +9,6 @@ aliases:
   - Psa_29
 tags:
   - bible/chapter
-  - bible/Psalm/chapter
   - bible/Psalm/29
   - bible/old testament
 cssclass:
@@ -19,7 +18,7 @@ cssclass:
 # Psalm 29
 
 ###### 1
-Ascribe to the Lord, O heavenly beings,   ascribe to the Lord glory and strength.
+Ascribe to the Lord, O heavenly beings, ascribe to the Lord glory and strength.
 ###### 2
 Ascribe to the Lord the glory due his name; worship the Lord in the splendor of holiness.
 ###### 3

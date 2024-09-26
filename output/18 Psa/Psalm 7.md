@@ -9,7 +9,6 @@ aliases:
   - Psa_7
 tags:
   - bible/chapter
-  - bible/Psalm/chapter
   - bible/Psalm/7
   - bible/old testament
 cssclass:
@@ -19,7 +18,7 @@ cssclass:
 # Psalm 7
 
 ###### 1
-O Lord my God, in you do I take refuge;   save me from all my pursuers and deliver me,
+O Lord my God, in you do I take refuge; save me from all my pursuers and deliver me,
 ###### 2
 lest like a lion they tear my soul apart, rending it in pieces, with none to deliver.
 ###### 3
@@ -29,11 +28,11 @@ if I have repaid my friend with evil or plundered my enemy without cause,
 ###### 5
 let the enemy pursue my soul and overtake it, and let him trample my life to the ground and lay my glory in the dust. Selah
 ###### 6
-Arise, O Lord, in your anger;   lift yourself up against the fury of my enemies;   awake for me; you have appointed a judgment.
+Arise, O Lord, in your anger; lift yourself up against the fury of my enemies; awake for me; you have appointed a judgment.
 ###### 7
 Let the assembly of the peoples be gathered about you; over it return on high.
 ###### 8
-The Lord  judges the peoples;   judge me, O Lord, according to my righteousness and according to the integrity that is in me.
+The Lord judges the peoples; judge me, O Lord, according to my righteousness and according to the integrity that is in me.
 ###### 9
 Oh, let the evil of the wicked come to an end, and may you establish the righteous— you who test the minds and hearts, O righteous God!
 ###### 10

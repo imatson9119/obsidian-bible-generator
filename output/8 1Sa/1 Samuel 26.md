@@ -9,7 +9,6 @@ aliases:
   - 1Sa_26
 tags:
   - bible/chapter
-  - bible/1 Samuel/chapter
   - bible/1 Samuel/26
   - bible/old testament
 cssclass:

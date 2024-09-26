@@ -9,7 +9,6 @@ aliases:
   - Hos_7
 tags:
   - bible/chapter
-  - bible/Hosea/chapter
   - bible/Hosea/7
   - bible/old testament
 cssclass:
@@ -21,7 +20,7 @@ cssclass:
 ###### 1
 when I would heal Israel, the iniquity of Ephraim is revealed, and the evil deeds of Samaria, for they deal falsely; the thief breaks in, and the bandits raid outside.
 ###### 2
-But they do not consider that I remember all their evil. Now their deeds surround them;   they are before my face.
+But they do not consider that I remember all their evil. Now their deeds surround them; they are before my face.
 ###### 3
 By their evil they make the king glad, and the princes by their treachery.
 ###### 4
@@ -37,13 +36,13 @@ Ephraim mixes himself with the peoples; Ephraim is a cake not turned.
 ###### 9
 Strangers devour his strength, and he knows it not; gray hairs are sprinkled upon him, and he knows it not.
 ###### 10
-The pride of Israel testifies to his face;   yet they do not return to the Lord their God, nor seek him, for all this.
+The pride of Israel testifies to his face; yet they do not return to the Lord their God, nor seek him, for all this.
 ###### 11
-Ephraim is like a dove,   silly and without sense, calling to Egypt, going to Assyria.
+Ephraim is like a dove, silly and without sense, calling to Egypt, going to Assyria.
 ###### 12
-As they go, I will spread over them my net; I will bring them down like birds of the heavens;   I will discipline them according to the report made to their congregation.
+As they go, I will spread over them my net; I will bring them down like birds of the heavens; I will discipline them according to the report made to their congregation.
 ###### 13
-Woe to them, for they have strayed from me! Destruction to them, for they have rebelled against me!   I would redeem them, but they speak lies against me.
+Woe to them, for they have strayed from me! Destruction to them, for they have rebelled against me! I would redeem them, but they speak lies against me.
 ###### 14
 They do not cry to me from the heart, but they wail upon their beds; for grain and wine they gash themselves; they rebel against me.
 ###### 15

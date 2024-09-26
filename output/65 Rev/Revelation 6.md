@@ -9,7 +9,6 @@ aliases:
   - Rev_6
 tags:
   - bible/chapter
-  - bible/Revelation/chapter
   - bible/Revelation/6
   - bible/new testament
 cssclass:
@@ -39,7 +38,7 @@ When he opened the fifth seal, I saw under the altar the souls of those who had 
 ###### 10
 They cried out with a loud voice, “O Sovereign Lord, holy and true, how long before you will judge and avenge our blood on those who dwell on the earth?”
 ###### 11
-Then they were each given a white robe and told to rest a little longer, until the number of their fellow servants and their brothers  should be complete, who were to be killed as they themselves had been.
+Then they were each given a white robe and told to rest a little longer, until the number of their fellow servants and their brothers should be complete, who were to be killed as they themselves had been.
 ###### 12
 When he opened the sixth seal, I looked, and behold, there was a great earthquake, and the sun became black as sackcloth, the full moon became like blood,
 ###### 13

@@ -9,7 +9,6 @@ aliases:
   - Ezk_27
 tags:
   - bible/chapter
-  - bible/Ezekiel/chapter
   - bible/Ezekiel/27
   - bible/old testament
 cssclass:
@@ -35,7 +34,7 @@ Of fine embroidered linen from Egypt was your sail, serving as your banner; blue
 ###### 8
 The inhabitants of Sidon and Arvad were your rowers; your skilled men, O Tyre, were in you; they were your pilots.
 ###### 9
-The elders of Gebal and her skilled men were in you,   caulking your seams; all the ships of the sea with their mariners were in you to barter for your wares.
+The elders of Gebal and her skilled men were in you, caulking your seams; all the ships of the sea with their mariners were in you to barter for your wares.
 ###### 10
 “Persia and Lud and Put were in your army as your men of war. They hung the shield and helmet in you; they gave you splendor.
 ###### 11
@@ -69,26 +68,26 @@ In your market these traded with you in choice garments, in clothes of blue and 
 ###### 25
 The ships of Tarshish traveled for you with your merchandise. So you were filled and heavily laden in the heart of the seas.
 ###### 26
-“Your rowers have brought you out into the high seas.   The east wind has wrecked you in the heart of the seas.
+“Your rowers have brought you out into the high seas. The east wind has wrecked you in the heart of the seas.
 ###### 27
-Your riches, your wares, your merchandise, your mariners and your pilots,   your caulkers, your dealers in merchandise, and all your men of war who are in you, with all your crew that is in your midst, sink into the heart of the seas   on the day of your fall.
+Your riches, your wares, your merchandise, your mariners and your pilots, your caulkers, your dealers in merchandise, and all your men of war who are in you, with all your crew that is in your midst, sink into the heart of the seas on the day of your fall.
 ###### 28
-At the sound of the cry of your pilots   the countryside shakes,
+At the sound of the cry of your pilots the countryside shakes,
 ###### 29
-and down from their ships   come all who handle the oar. The mariners and all the pilots of the sea stand on the land
+and down from their ships come all who handle the oar. The mariners and all the pilots of the sea stand on the land
 ###### 30
-and shout aloud over you and cry out bitterly.   They cast dust on their heads   and wallow in ashes;
+and shout aloud over you and cry out bitterly. They cast dust on their heads and wallow in ashes;
 ###### 31
 they make themselves bald for you and put sackcloth on their waist, and they weep over you in bitterness of soul, with bitter mourning.
 ###### 32
-In their wailing they raise a lamentation for you and lament over you:   ‘Who is like Tyre, like one destroyed in the midst of the sea?
+In their wailing they raise a lamentation for you and lament over you: ‘Who is like Tyre, like one destroyed in the midst of the sea?
 ###### 33
-When your wares came from the seas,   you satisfied many peoples; with your abundant wealth and merchandise   you enriched the kings of the earth.
+When your wares came from the seas, you satisfied many peoples; with your abundant wealth and merchandise you enriched the kings of the earth.
 ###### 34
 Now you are wrecked by the seas, in the depths of the waters; your merchandise and all your crew in your midst have sunk with you.
 ###### 35
 All the inhabitants of the coastlands are appalled at you, and the hair of their kings bristles with horror; their faces are convulsed.
 ###### 36
-The merchants among the peoples hiss at you;   you have come to a dreadful end and shall be no more forever.’”
+The merchants among the peoples hiss at you; you have come to a dreadful end and shall be no more forever.’”
 
 

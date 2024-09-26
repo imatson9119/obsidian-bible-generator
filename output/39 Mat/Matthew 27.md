@@ -9,7 +9,6 @@ aliases:
   - Mat_27
 tags:
   - bible/chapter
-  - bible/Matthew/chapter
   - bible/Matthew/27
   - bible/new testament
 cssclass:
@@ -65,7 +64,7 @@ Pilate said to them, “Then what shall I do with Jesus who is called Christ?”
 ###### 23
 And he said, “Why? What evil has he done?” But they shouted all the more, “Let him be crucified!”
 ###### 24
-So when Pilate saw that he was gaining nothing, but rather that a riot was beginning, he took water and washed his hands before the crowd, saying, “I am innocent of this man’s blood;  see to it yourselves.”
+So when Pilate saw that he was gaining nothing, but rather that a riot was beginning, he took water and washed his hands before the crowd, saying, “I am innocent of this man’s blood; see to it yourselves.”
 ###### 25
 And all the people answered, “His blood be on us and on our children!”
 ###### 26

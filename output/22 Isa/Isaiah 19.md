@@ -9,7 +9,6 @@ aliases:
   - Isa_19
 tags:
   - bible/chapter
-  - bible/Isaiah/chapter
   - bible/Isaiah/19
   - bible/old testament
 cssclass:
@@ -19,9 +18,9 @@ cssclass:
 # Isaiah 19
 
 ###### 1
-An oracle concerning Egypt. Behold, the Lord  is riding on a swift cloud and comes to Egypt; and the idols of Egypt will tremble at his presence, and the heart of the Egyptians will melt within them.
+An oracle concerning Egypt. Behold, the Lord is riding on a swift cloud and comes to Egypt; and the idols of Egypt will tremble at his presence, and the heart of the Egyptians will melt within them.
 ###### 2
-And I will stir up Egyptians against Egyptians,   and they will fight, each against another and each against his neighbor, city against city, kingdom against kingdom;
+And I will stir up Egyptians against Egyptians, and they will fight, each against another and each against his neighbor, city against city, kingdom against kingdom;
 ###### 3
 and the spirit of the Egyptians within them will be emptied out, and I will confound their counsel; and they will inquire of the idols and the sorcerers, and the mediums and the necromancers;
 ###### 4
@@ -45,7 +44,7 @@ Where then are your wise men? Let them tell you that they might know what the Lo
 ###### 13
 The princes of Zoan have become fools, and the princes of Memphis are deluded; those who are the cornerstones of her tribes have made Egypt stagger.
 ###### 14
-The Lord has mingled within her a spirit of confusion, and they will make Egypt stagger in all its deeds,   as a drunken man staggers in his vomit.
+The Lord has mingled within her a spirit of confusion, and they will make Egypt stagger in all its deeds, as a drunken man staggers in his vomit.
 ###### 15
 And there will be nothing for Egypt that head or tail, palm branch or reed, may do.
 ###### 16

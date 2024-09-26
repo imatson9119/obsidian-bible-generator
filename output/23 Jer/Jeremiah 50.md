@@ -9,7 +9,6 @@ aliases:
   - Jer_50
 tags:
   - bible/chapter
-  - bible/Jeremiah/chapter
   - bible/Jeremiah/50
   - bible/old testament
 cssclass:
@@ -21,7 +20,7 @@ cssclass:
 ###### 1
 The word that the Lord spoke concerning Babylon, concerning the land of the Chaldeans, by Jeremiah the prophet:
 ###### 2
-“Declare among the nations and proclaim, set up a banner and proclaim, conceal it not, and say:   ‘Babylon is taken,   Bel is put to shame, Merodach is dismayed.   Her images are put to shame, her idols are dismayed.’
+“Declare among the nations and proclaim, set up a banner and proclaim, conceal it not, and say: ‘Babylon is taken, Bel is put to shame, Merodach is dismayed. Her images are put to shame, her idols are dismayed.’
 ###### 3
 “For out of the north a nation has come up against her, which shall make her land a desolation, and none shall dwell in it; both man and beast shall flee away.
 ###### 4
@@ -41,15 +40,15 @@ Chaldea shall be plundered; all who plunder her shall be sated, declares the Lor
 ###### 11
 “Though you rejoice, though you exult, O plunderers of my heritage, though you frolic like a heifer in the pasture, and neigh like stallions,
 ###### 12
-your mother shall be utterly shamed, and she who bore you shall be disgraced. Behold, she shall be the last of the nations,   a wilderness, a dry land, and a desert.
+your mother shall be utterly shamed, and she who bore you shall be disgraced. Behold, she shall be the last of the nations, a wilderness, a dry land, and a desert.
 ###### 13
-Because of the wrath of the Lord she shall not be inhabited but shall be an utter desolation;   everyone who passes by Babylon shall be appalled,   and hiss because of all her wounds.
+Because of the wrath of the Lord she shall not be inhabited but shall be an utter desolation; everyone who passes by Babylon shall be appalled, and hiss because of all her wounds.
 ###### 14
-Set yourselves in array against Babylon all around,   all you who bend the bow; shoot at her, spare no arrows,   for she has sinned against the Lord.
+Set yourselves in array against Babylon all around, all you who bend the bow; shoot at her, spare no arrows, for she has sinned against the Lord.
 ###### 15
-Raise a shout against her all around; she has surrendered; her bulwarks have fallen;   her walls are thrown down. For this is the vengeance of the Lord: take vengeance on her;   do to her as she has done.
+Raise a shout against her all around; she has surrendered; her bulwarks have fallen; her walls are thrown down. For this is the vengeance of the Lord: take vengeance on her; do to her as she has done.
 ###### 16
-Cut off from Babylon the sower, and the one who handles the sickle in time of harvest;   because of the sword of the oppressor,   every one shall turn to his own people, and every one shall flee to his own land.
+Cut off from Babylon the sower, and the one who handles the sickle in time of harvest; because of the sword of the oppressor, every one shall turn to his own people, and every one shall flee to his own land.
 ###### 17
 “Israel is a hunted sheep driven away by lions. First the king of Assyria devoured him, and now at last Nebuchadnezzar king of Babylon has gnawed his bones.
 ###### 18
@@ -63,15 +62,15 @@ In those days and in that time, declares the Lord, iniquity shall be sought in I
 ###### 22
 The noise of battle is in the land, and great destruction!
 ###### 23
-How the hammer of the whole earth is cut down and broken!   How Babylon has become a horror among the nations!
+How the hammer of the whole earth is cut down and broken! How Babylon has become a horror among the nations!
 ###### 24
 I set a snare for you and you were taken, O Babylon, and you did not know it; you were found and caught, because you opposed the Lord.
 ###### 25
 The Lord has opened his armory and brought out the weapons of his wrath, for the Lord God of hosts has a work to do in the land of the Chaldeans.
 ###### 26
-Come against her from every quarter; open her granaries;   pile her up like heaps of grain, and devote her to destruction; let nothing be left of her.
+Come against her from every quarter; open her granaries; pile her up like heaps of grain, and devote her to destruction; let nothing be left of her.
 ###### 27
-Kill all her bulls; let them go down to the slaughter. Woe to them, for their day has come,   the time of their punishment.
+Kill all her bulls; let them go down to the slaughter. Woe to them, for their day has come, the time of their punishment.
 ###### 28
 “A voice! They flee and escape from the land of Babylon, to declare in Zion the vengeance of the Lord our God, vengeance for his temple.
 ###### 29
@@ -79,9 +78,9 @@ Kill all her bulls; let them go down to the slaughter. Woe to them, for their da
 ###### 30
 Therefore her young men shall fall in her squares, and all her soldiers shall be destroyed on that day, declares the Lord.
 ###### 31
-“Behold, I am against you, O proud one, declares the Lord God of hosts,   for your day has come, the time when I will punish you.
+“Behold, I am against you, O proud one, declares the Lord God of hosts, for your day has come, the time when I will punish you.
 ###### 32
-The proud one shall stumble and fall, with none to raise him up,   and I will kindle a fire in his cities, and it will devour all that is around him.
+The proud one shall stumble and fall, with none to raise him up, and I will kindle a fire in his cities, and it will devour all that is around him.
 ###### 33
 “Thus says the Lord of hosts: The people of Israel are oppressed, and the people of Judah with them. All who took them captive have held them fast; they refuse to let them go.
 ###### 34
@@ -91,9 +90,9 @@ Their Redeemer is strong; the Lord of hosts is his name. He will surely plead th
 ###### 36
 A sword against the diviners, that they may become fools! A sword against her warriors, that they may be destroyed!
 ###### 37
-A sword against her horses and against her chariots, and against all the foreign troops in her midst, that they may become women!   A sword against all her treasures, that they may be plundered!
+A sword against her horses and against her chariots, and against all the foreign troops in her midst, that they may become women! A sword against all her treasures, that they may be plundered!
 ###### 38
-A drought against her waters, that they may be dried up!   For it is a land of images, and they are mad over idols.
+A drought against her waters, that they may be dried up! For it is a land of images, and they are mad over idols.
 ###### 39
 “Therefore wild beasts shall dwell with hyenas in Babylon, and ostriches shall dwell in her. She shall never again have people, nor be inhabited for all generations.
 ###### 40

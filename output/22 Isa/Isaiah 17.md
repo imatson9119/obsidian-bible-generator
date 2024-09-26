@@ -9,7 +9,6 @@ aliases:
   - Isa_17
 tags:
   - bible/chapter
-  - bible/Isaiah/chapter
   - bible/Isaiah/17
   - bible/old testament
 cssclass:
@@ -43,7 +42,7 @@ though you make them grow on the day that you plant them, and make them blossom 
 ###### 12
 Ah, the thunder of many peoples; they thunder like the thundering of the sea! Ah, the roar of nations; they roar like the roaring of mighty waters!
 ###### 13
-The nations roar like the roaring of many waters,   but he will rebuke them, and they will flee far away, chased like chaff on the mountains before the wind and whirling dust before the storm.
+The nations roar like the roaring of many waters, but he will rebuke them, and they will flee far away, chased like chaff on the mountains before the wind and whirling dust before the storm.
 ###### 14
 At evening time, behold, terror! Before morning, they are no more! This is the portion of those who loot us, and the lot of those who plunder us.
 

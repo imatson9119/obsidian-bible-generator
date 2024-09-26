@@ -9,7 +9,6 @@ aliases:
   - Deu_9
 tags:
   - bible/chapter
-  - bible/Deuteronomy/chapter
   - bible/Deuteronomy/9
   - bible/old testament
 cssclass:
@@ -53,7 +52,7 @@ And I looked, and behold, you had sinned against the Lord your God. You had made
 ###### 17
 So I took hold of the two tablets and threw them out of my two hands and broke them before your eyes.
 ###### 18
-Then I lay prostrate before the Lord  as before, forty days and forty nights. I neither ate bread nor drank water, because of all the sin that you had committed, in doing what was evil in the sight of the Lord to provoke him to anger.
+Then I lay prostrate before the Lord as before, forty days and forty nights. I neither ate bread nor drank water, because of all the sin that you had committed, in doing what was evil in the sight of the Lord to provoke him to anger.
 ###### 19
 For I was afraid of the anger and hot displeasure that the Lord bore against you, so that he was ready to destroy you. But the Lord listened to me that time also.
 ###### 20

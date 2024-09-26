@@ -9,7 +9,6 @@ aliases:
   - Jdg_6
 tags:
   - bible/chapter
-  - bible/Judges/chapter
   - bible/Judges/6
   - bible/old testament
 cssclass:

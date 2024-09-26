@@ -9,7 +9,6 @@ aliases:
   - Gen_29
 tags:
   - bible/chapter
-  - bible/Genesis/chapter
   - bible/Genesis/29
   - bible/old testament
 cssclass:
@@ -65,7 +64,7 @@ So Laban gathered together all the people of the place and made a feast.
 ###### 23
 But in the evening he took his daughter Leah and brought her to Jacob, and he went in to her.
 ###### 24
-(Laban gave  his female servant Zilpah to his daughter Leah to be her servant.)
+(Laban gave his female servant Zilpah to his daughter Leah to be her servant.)
 ###### 25
 And in the morning, behold, it was Leah! And Jacob said to Laban, “What is this you have done to me? Did I not serve with you for Rachel? Why then have you deceived me?”
 ###### 26
@@ -81,7 +80,7 @@ So Jacob went in to Rachel also, and he loved Rachel more than Leah, and served 
 ###### 31
 When the Lord saw that Leah was hated, he opened her womb, but Rachel was barren.
 ###### 32
-And Leah conceived and bore a son, and she called his name Reuben, for she said, “Because the Lord  has looked upon my affliction; for now my husband will love me.”
+And Leah conceived and bore a son, and she called his name Reuben, for she said, “Because the Lord has looked upon my affliction; for now my husband will love me.”
 ###### 33
 She conceived again and bore a son, and said, “Because the Lord has heard that I am hated, he has given me this son also.” And she called his name Simeon.
 ###### 34

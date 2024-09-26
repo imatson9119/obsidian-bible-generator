@@ -9,7 +9,6 @@ aliases:
   - Jn_20
 tags:
   - bible/chapter
-  - bible/John/chapter
   - bible/John/20
   - bible/new testament
 cssclass:
@@ -49,7 +48,7 @@ Having said this, she turned around and saw Jesus standing, but she did not know
 ###### 15
 Jesus said to her, “Woman, why are you weeping? Whom are you seeking?” Supposing him to be the gardener, she said to him, “Sir, if you have carried him away, tell me where you have laid him, and I will take him away.”
 ###### 16
-Jesus said to her, “Mary.” She turned and said to him in Aramaic,  “Rabboni!” (which means Teacher).
+Jesus said to her, “Mary.” She turned and said to him in Aramaic, “Rabboni!” (which means Teacher).
 ###### 17
 Jesus said to her, “Do not cling to me, for I have not yet ascended to the Father; but go to my brothers and say to them, ‘I am ascending to my Father and your Father, to my God and your God.’”
 ###### 18

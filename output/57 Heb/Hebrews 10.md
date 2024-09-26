@@ -9,7 +9,6 @@ aliases:
   - Heb_10
 tags:
   - bible/chapter
-  - bible/Hebrews/chapter
   - bible/Hebrews/10
   - bible/new testament
 cssclass:
@@ -27,7 +26,7 @@ But in these sacrifices there is a reminder of sins every year.
 ###### 4
 For it is impossible for the blood of bulls and goats to take away sins.
 ###### 5
-Consequently, when Christ came into the world, he said,   “Sacrifices and offerings you have not desired, but a body have you prepared for me;
+Consequently, when Christ came into the world, he said, “Sacrifices and offerings you have not desired, but a body have you prepared for me;
 ###### 6
 in burnt offerings and sin offerings you have taken no pleasure.
 ###### 7
@@ -51,7 +50,7 @@ And the Holy Spirit also bears witness to us; for after saying,
 ###### 16
 “This is the covenant that I will make with them after those days, declares the Lord: I will put my laws on their hearts, and write them on their minds,”
 ###### 17
-then he adds,   “I will remember their sins and their lawless deeds no more.”
+then he adds, “I will remember their sins and their lawless deeds no more.”
 ###### 18
 Where there is forgiveness of these, there is no longer any offering for sin.
 ###### 19
@@ -91,7 +90,7 @@ Therefore do not throw away your confidence, which has a great reward.
 ###### 36
 For you have need of endurance, so that when you have done the will of God you may receive what is promised.
 ###### 37
-For,   “Yet a little while, and the coming one will come and will not delay;
+For, “Yet a little while, and the coming one will come and will not delay;
 ###### 38
 but my righteous one shall live by faith, and if he shrinks back, my soul has no pleasure in him.”
 ###### 39

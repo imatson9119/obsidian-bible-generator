@@ -9,7 +9,6 @@ aliases:
   - SS_1
 tags:
   - bible/chapter
-  - bible/Song of Solomon/chapter
   - bible/Song of Solomon/1
   - bible/old testament
 cssclass:
@@ -25,7 +24,7 @@ Let him kiss me with the kisses of his mouth! For your love is better than wine;
 ###### 3
 your anointing oils are fragrant; your name is oil poured out; therefore virgins love you.
 ###### 4
-Draw me after you; let us run.   The king has brought me into his chambers. We will exult and rejoice in you; we will extol your love more than wine; rightly do they love you.
+Draw me after you; let us run. The king has brought me into his chambers. We will exult and rejoice in you; we will extol your love more than wine; rightly do they love you.
 ###### 5
 I am very dark, but lovely, O daughters of Jerusalem, like the tents of Kedar, like the curtains of Solomon.
 ###### 6

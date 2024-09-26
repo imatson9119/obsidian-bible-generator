@@ -9,7 +9,6 @@ aliases:
   - Jos_11
 tags:
   - bible/chapter
-  - bible/Joshua/chapter
   - bible/Joshua/11
   - bible/old testament
 cssclass:
@@ -39,7 +38,7 @@ And Joshua did to them just as the Lord said to him: he hamstrung their horses a
 ###### 10
 And Joshua turned back at that time and captured Hazor and struck its king with the sword, for Hazor formerly was the head of all those kingdoms.
 ###### 11
-And they struck with the sword all who were in it, devoting them to destruction;  there was none left that breathed. And he burned Hazor with fire.
+And they struck with the sword all who were in it, devoting them to destruction; there was none left that breathed. And he burned Hazor with fire.
 ###### 12
 And all the cities of those kings, and all their kings, Joshua captured, and struck them with the edge of the sword, devoting them to destruction, just as Moses the servant of the Lord had commanded.
 ###### 13

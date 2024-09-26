@@ -9,7 +9,6 @@ aliases:
   - Psa_44
 tags:
   - bible/chapter
-  - bible/Psalm/chapter
   - bible/Psalm/44
   - bible/old testament
 cssclass:
@@ -19,13 +18,13 @@ cssclass:
 # Psalm 44
 
 ###### 1
-O God, we have heard with our ears,   our fathers have told us, what deeds you performed in their days,   in the days of old:
+O God, we have heard with our ears, our fathers have told us, what deeds you performed in their days, in the days of old:
 ###### 2
 you with your own hand drove out the nations, but them you planted; you afflicted the peoples, but them you set free;
 ###### 3
-for not by their own sword did they win the land, nor did their own arm save them, but your right hand and your arm, and the light of your face,   for you delighted in them.
+for not by their own sword did they win the land, nor did their own arm save them, but your right hand and your arm, and the light of your face, for you delighted in them.
 ###### 4
-You are my King, O God;   ordain salvation for Jacob!
+You are my King, O God; ordain salvation for Jacob!
 ###### 5
 Through you we push down our foes; through your name we tread down those who rise up against us.
 ###### 6
@@ -45,7 +44,7 @@ You have sold your people for a trifle, demanding no high price for them.
 ###### 13
 You have made us the taunt of our neighbors, the derision and scorn of those around us.
 ###### 14
-You have made us a byword among the nations,   a laughingstock among the peoples.
+You have made us a byword among the nations, a laughingstock among the peoples.
 ###### 15
 All day long my disgrace is before me, and shame has covered my face
 ###### 16
@@ -59,7 +58,7 @@ yet you have broken us in the place of jackals and covered us with the shadow of
 ###### 20
 If we had forgotten the name of our God or spread out our hands to a foreign god,
 ###### 21
-would not God discover this?   For he knows the secrets of the heart.
+would not God discover this? For he knows the secrets of the heart.
 ###### 22
 Yet for your sake we are killed all the day long; we are regarded as sheep to be slaughtered.
 ###### 23
@@ -69,6 +68,6 @@ Why do you hide your face? Why do you forget our affliction and oppression?
 ###### 25
 For our soul is bowed down to the dust; our belly clings to the ground.
 ###### 26
-Rise up; come to our help!   Redeem us for the sake of your steadfast love!
+Rise up; come to our help! Redeem us for the sake of your steadfast love!
 
 

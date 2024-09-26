@@ -9,7 +9,6 @@ aliases:
   - Amo_7
 tags:
   - bible/chapter
-  - bible/Amos/chapter
   - bible/Amos/7
   - bible/old testament
 cssclass:
@@ -21,19 +20,19 @@ cssclass:
 ###### 1
 This is what the Lord God showed me: behold, he was forming locusts when the latter growth was just beginning to sprout, and behold, it was the latter growth after the king’s mowings.
 ###### 2
-When they had finished eating the grass of the land, I said, “O Lord God, please forgive!   How can Jacob stand? He is so small!”
+When they had finished eating the grass of the land, I said, “O Lord God, please forgive! How can Jacob stand? He is so small!”
 ###### 3
 The Lord relented concerning this: “It shall not be,” said the Lord.
 ###### 4
 This is what the Lord God showed me: behold, the Lord God was calling for a judgment by fire, and it devoured the great deep and was eating up the land.
 ###### 5
-Then I said, “O Lord God, please cease!   How can Jacob stand? He is so small!”
+Then I said, “O Lord God, please cease! How can Jacob stand? He is so small!”
 ###### 6
 The Lord relented concerning this: “This also shall not be,” said the Lord God.
 ###### 7
 This is what he showed me: behold, the Lord was standing beside a wall built with a plumb line, with a plumb line in his hand.
 ###### 8
-And the Lord said to me, “Amos, what do you see?” And I said, “A plumb line.” Then the Lord said, “Behold, I am setting a plumb line in the midst of my people Israel;   I will never again pass by them;
+And the Lord said to me, “Amos, what do you see?” And I said, “A plumb line.” Then the Lord said, “Behold, I am setting a plumb line in the midst of my people Israel; I will never again pass by them;
 ###### 9
 the high places of Isaac shall be made desolate, and the sanctuaries of Israel shall be laid waste, and I will rise against the house of Jeroboam with the sword.”
 ###### 10

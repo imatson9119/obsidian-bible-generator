@@ -9,7 +9,6 @@ aliases:
   - Gen_3
 tags:
   - bible/chapter
-  - bible/Genesis/chapter
   - bible/Genesis/3
   - bible/old testament
 cssclass:
@@ -47,15 +46,15 @@ Then the Lord God said to the woman, “What is this that you have done?” The 
 ###### 14
 The Lord God said to the serpent, “Because you have done this, cursed are you above all livestock and above all beasts of the field; on your belly you shall go, and dust you shall eat all the days of your life.
 ###### 15
-I will put enmity between you and the woman, and between your offspring and her offspring;   he shall bruise your head, and you shall bruise his heel.”
+I will put enmity between you and the woman, and between your offspring and her offspring; he shall bruise your head, and you shall bruise his heel.”
 ###### 16
-To the woman he said, “I will surely multiply your pain in childbearing;   in pain you shall bring forth children.   Your desire shall be contrary to your husband, but he shall rule over you.”
+To the woman he said, “I will surely multiply your pain in childbearing; in pain you shall bring forth children. Your desire shall be contrary to your husband, but he shall rule over you.”
 ###### 17
-And to Adam he said, “Because you have listened to the voice of your wife and have eaten of the tree   of which I commanded you, ‘You shall not eat of it,’   cursed is the ground because of you;   in pain you shall eat of it all the days of your life;
+And to Adam he said, “Because you have listened to the voice of your wife and have eaten of the tree of which I commanded you, ‘You shall not eat of it,’ cursed is the ground because of you; in pain you shall eat of it all the days of your life;
 ###### 18
 thorns and thistles it shall bring forth for you; and you shall eat the plants of the field.
 ###### 19
-By the sweat of your face you shall eat bread, till you return to the ground, for out of it you were taken;   for you are dust, and to dust you shall return.”
+By the sweat of your face you shall eat bread, till you return to the ground, for out of it you were taken; for you are dust, and to dust you shall return.”
 ###### 20
 The man called his wife’s name Eve, because she was the mother of all living.
 ###### 21

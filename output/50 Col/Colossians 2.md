@@ -9,7 +9,6 @@ aliases:
   - Col_2
 tags:
   - bible/chapter
-  - bible/Colossians/chapter
   - bible/Colossians/2
   - bible/new testament
 cssclass:
@@ -53,7 +52,7 @@ Therefore let no one pass judgment on you in questions of food and drink, or wit
 ###### 17
 These are a shadow of the things to come, but the substance belongs to Christ.
 ###### 18
-Let no one disqualify you, insisting on asceticism and worship of angels, going on in detail about visions,  puffed up without reason by his sensuous mind,
+Let no one disqualify you, insisting on asceticism and worship of angels, going on in detail about visions, puffed up without reason by his sensuous mind,
 ###### 19
 and not holding fast to the Head, from whom the whole body, nourished and knit together through its joints and ligaments, grows with a growth that is from God.
 ###### 20

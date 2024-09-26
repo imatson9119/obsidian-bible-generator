@@ -9,7 +9,6 @@ aliases:
   - Eza_10
 tags:
   - bible/chapter
-  - bible/Ezra/chapter
   - bible/Ezra/10
   - bible/old testament
 cssclass:

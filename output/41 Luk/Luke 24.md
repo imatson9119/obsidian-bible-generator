@@ -9,7 +9,6 @@ aliases:
   - Luk_24
 tags:
   - bible/chapter
-  - bible/Luke/chapter
   - bible/Luke/24
   - bible/new testament
 cssclass:
@@ -111,7 +110,7 @@ Then he opened their minds to understand the Scriptures,
 ###### 46
 and said to them, “Thus it is written, that the Christ should suffer and on the third day rise from the dead,
 ###### 47
-and that repentance for  the forgiveness of sins should be proclaimed in his name to all nations, beginning from Jerusalem.
+and that repentance for the forgiveness of sins should be proclaimed in his name to all nations, beginning from Jerusalem.
 ###### 48
 You are witnesses of these things.
 ###### 49

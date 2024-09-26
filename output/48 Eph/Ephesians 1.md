@@ -9,7 +9,6 @@ aliases:
   - Eph_1
 tags:
   - bible/chapter
-  - bible/Ephesians/chapter
   - bible/Ephesians/1
   - bible/new testament
 cssclass:
@@ -45,7 +44,7 @@ so that we who were the first to hope in Christ might be to the praise of his gl
 ###### 13
 In him you also, when you heard the word of truth, the gospel of your salvation, and believed in him, were sealed with the promised Holy Spirit,
 ###### 14
-who is the guarantee of our inheritance until we acquire possession of it,  to the praise of his glory.
+who is the guarantee of our inheritance until we acquire possession of it, to the praise of his glory.
 ###### 15
 For this reason, because I have heard of your faith in the Lord Jesus and your love toward all the saints,
 ###### 16

@@ -9,7 +9,6 @@ aliases:
   - Act_8
 tags:
   - bible/chapter
-  - bible/Acts/chapter
   - bible/Acts/8
   - bible/new testament
 cssclass:
@@ -81,7 +80,7 @@ So Philip ran to him and heard him reading Isaiah the prophet and asked, “Do y
 ###### 31
 And he said, “How can I, unless someone guides me?” And he invited Philip to come up and sit with him.
 ###### 32
-Now the passage of the Scripture that he was reading was this:   “Like a sheep he was led to the slaughter and like a lamb before its shearer is silent, so he opens not his mouth.
+Now the passage of the Scripture that he was reading was this: “Like a sheep he was led to the slaughter and like a lamb before its shearer is silent, so he opens not his mouth.
 ###### 33
 In his humiliation justice was denied him. Who can describe his generation? For his life is taken away from the earth.”
 ###### 34

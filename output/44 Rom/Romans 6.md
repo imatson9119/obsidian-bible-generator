@@ -9,7 +9,6 @@ aliases:
   - Rom_6
 tags:
   - bible/chapter
-  - bible/Romans/chapter
   - bible/Romans/6
   - bible/new testament
 cssclass:
@@ -29,7 +28,7 @@ We were buried therefore with him by baptism into death, in order that, just as 
 ###### 5
 For if we have been united with him in a death like his, we shall certainly be united with him in a resurrection like his.
 ###### 6
-We know that our old self  was crucified with him in order that the body of sin might be brought to nothing, so that we would no longer be enslaved to sin.
+We know that our old self was crucified with him in order that the body of sin might be brought to nothing, so that we would no longer be enslaved to sin.
 ###### 7
 For one who has died has been set free from sin.
 ###### 8

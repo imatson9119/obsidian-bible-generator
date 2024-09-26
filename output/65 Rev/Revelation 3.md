@@ -9,7 +9,6 @@ aliases:
   - Rev_3
 tags:
   - bible/chapter
-  - bible/Revelation/chapter
   - bible/Revelation/3
   - bible/new testament
 cssclass:
@@ -19,7 +18,7 @@ cssclass:
 # Revelation 3
 
 ###### 1
-“And to the angel of the church in Sardis write: ‘The words of him     who has the seven spirits of God and the seven stars.   “‘I know your works. You have the reputation     of being alive,     but you are dead.
+“And to the angel of the church in Sardis write: ‘The words of him who has the seven spirits of God and the seven stars. “‘I know your works. You have the reputation of being alive, but you are dead.
 ###### 2
 Wake up, and strengthen what remains and is about to die, for I have not found your works complete in the sight of my God.
 ###### 3
@@ -31,9 +30,9 @@ The one who conquers will be clothed thus in white garments, and I will never bl
 ###### 6
 He who has an ear, let him hear what the Spirit says to the churches.’
 ###### 7
-“And to the angel of the church in Philadelphia write: ‘The words of     the holy one,     the true one,     who has the key of David,     who opens and no one will shut, who shuts and no one opens.
+“And to the angel of the church in Philadelphia write: ‘The words of the holy one, the true one, who has the key of David, who opens and no one will shut, who shuts and no one opens.
 ###### 8
-“‘I know your works. Behold, I have set before you     an open door, which no one is able to shut. I know that you have but little power, and yet you have kept my word and have not denied my name.
+“‘I know your works. Behold, I have set before you an open door, which no one is able to shut. I know that you have but little power, and yet you have kept my word and have not denied my name.
 ###### 9
 Behold, I will make those of the synagogue of Satan who say that they are Jews and are not, but lie—behold, I will make them come and bow down before your feet, and they will learn that I have loved you.
 ###### 10
@@ -45,9 +44,9 @@ The one who conquers, I will make him a pillar in the temple of my God. Never sh
 ###### 13
 He who has an ear, let him hear what the Spirit says to the churches.’
 ###### 14
-“And to the angel of the church in Laodicea write: ‘The words of the     Amen,     the faithful and true witness,     the beginning of God’s creation.
+“And to the angel of the church in Laodicea write: ‘The words of the Amen, the faithful and true witness, the beginning of God’s creation.
 ###### 15
-“‘I know your works: you are neither cold nor hot.     Would that you were either cold or hot!
+“‘I know your works: you are neither cold nor hot. Would that you were either cold or hot!
 ###### 16
 So, because you are lukewarm, and neither hot nor cold, I will spit you out of my mouth.
 ###### 17

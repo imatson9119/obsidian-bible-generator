@@ -9,7 +9,6 @@ aliases:
   - 1Co_2
 tags:
   - bible/chapter
-  - bible/1 Corinthians/chapter
   - bible/1 Corinthians/2
   - bible/new testament
 cssclass:
@@ -19,7 +18,7 @@ cssclass:
 # 1 Corinthians 2
 
 ###### 1
-And I, when I came to you, brothers,  did not come proclaiming to you the testimony of God with lofty speech or wisdom.
+And I, when I came to you, brothers, did not come proclaiming to you the testimony of God with lofty speech or wisdom.
 ###### 2
 For I decided to know nothing among you except Jesus Christ and him crucified.
 ###### 3
@@ -35,7 +34,7 @@ But we impart a secret and hidden wisdom of God, which God decreed before the ag
 ###### 8
 None of the rulers of this age understood this, for if they had, they would not have crucified the Lord of glory.
 ###### 9
-But, as it is written,   “What no eye has seen, nor ear heard, nor the heart of man imagined, what God has prepared for those who love him”—
+But, as it is written, “What no eye has seen, nor ear heard, nor the heart of man imagined, what God has prepared for those who love him”—
 ###### 10
 these things God has revealed to us through the Spirit. For the Spirit searches everything, even the depths of God.
 ###### 11

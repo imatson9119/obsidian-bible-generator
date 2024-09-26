@@ -9,7 +9,6 @@ aliases:
   - 2Ch_8
 tags:
   - bible/chapter
-  - bible/2 Chronicles/chapter
   - bible/2 Chronicles/8
   - bible/old testament
 cssclass:
@@ -41,7 +40,7 @@ And these were the chief officers of King Solomon, 250, who exercised authority 
 ###### 11
 Solomon brought Pharaoh’s daughter up from the city of David to the house that he had built for her, for he said, “My wife shall not live in the house of David king of Israel, for the places to which the ark of the Lord has come are holy.”
 ###### 12
-Then Solomon offered up burnt offerings to the Lord on the altar of the Lord  that he had built before the vestibule,
+Then Solomon offered up burnt offerings to the Lord on the altar of the Lord that he had built before the vestibule,
 ###### 13
 as the duty of each day required, offering according to the commandment of Moses for the Sabbaths, the new moons, and the three annual feasts—the Feast of Unleavened Bread, the Feast of Weeks, and the Feast of Booths.
 ###### 14

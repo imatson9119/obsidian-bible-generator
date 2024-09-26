@@ -9,7 +9,6 @@ aliases:
   - Mrk_12
 tags:
   - bible/chapter
-  - bible/Mark/chapter
   - bible/Mark/12
   - bible/new testament
 cssclass:
@@ -21,7 +20,7 @@ cssclass:
 ###### 1
 And he began to speak to them in parables. “A man planted a vineyard and put a fence around it and dug a pit for the winepress and built a tower, and leased it to tenants and went into another country.
 ###### 2
-When the season came, he sent a servant  to the tenants to get from them some of the fruit of the vineyard.
+When the season came, he sent a servant to the tenants to get from them some of the fruit of the vineyard.
 ###### 3
 And they took him and beat him and sent him away empty-handed.
 ###### 4
@@ -37,9 +36,9 @@ And they took him and killed him and threw him out of the vineyard.
 ###### 9
 What will the owner of the vineyard do? He will come and destroy the tenants and give the vineyard to others.
 ###### 10
-Have you not read this Scripture:     “‘The stone that the builders rejected   has become the cornerstone;
+Have you not read this Scripture: “‘The stone that the builders rejected has become the cornerstone;
 ###### 11
-this was the Lord’s doing,   and it is marvelous in our eyes’?”
+this was the Lord’s doing, and it is marvelous in our eyes’?”
 ###### 12
 And they were seeking to arrest him but feared the people, for they perceived that he had told the parable against them. So they left him and went away.
 ###### 13
@@ -47,7 +46,7 @@ And they sent to him some of the Pharisees and some of the Herodians, to trap hi
 ###### 14
 And they came and said to him, “Teacher, we know that you are true and do not care about anyone’s opinion. For you are not swayed by appearances, but truly teach the way of God. Is it lawful to pay taxes to Caesar, or not? Should we pay them, or should we not?”
 ###### 15
-But, knowing their hypocrisy, he said to them, “Why put me to the test? Bring me a denarius  and let me look at it.”
+But, knowing their hypocrisy, he said to them, “Why put me to the test? Bring me a denarius and let me look at it.”
 ###### 16
 And they brought one. And he said to them, “Whose likeness and inscription is this?” They said to him, “Caesar’s.”
 ###### 17
@@ -85,13 +84,13 @@ And the scribe said to him, “You are right, Teacher. You have truly said that 
 ###### 33
 And to love him with all the heart and with all the understanding and with all the strength, and to love one’s neighbor as oneself, is much more than all whole burnt offerings and sacrifices.”
 ###### 34
-And when Jesus saw that he answered wisely, he said to him, “You are not far from the kingdom of God.”  And after that no one dared to ask him any more questions.
+And when Jesus saw that he answered wisely, he said to him, “You are not far from the kingdom of God.” And after that no one dared to ask him any more questions.
 ###### 35
 And as Jesus taught in the temple, he said, “How can the scribes say that the Christ is the son of David?
 ###### 36
-David himself, in the Holy Spirit, declared,     “‘The Lord said to my Lord, “Sit at my right hand,   until I put your enemies     under your feet.”’
+David himself, in the Holy Spirit, declared, “‘The Lord said to my Lord, “Sit at my right hand, until I put your enemies under your feet.”’
 ###### 37
-David himself calls him Lord. So     how is he his son?” And the great throng heard him gladly.
+David himself calls him Lord. So how is he his son?” And the great throng heard him gladly.
 ###### 38
 And in his teaching he said, “Beware of the scribes, who like to walk around in long robes and like greetings in the marketplaces
 ###### 39

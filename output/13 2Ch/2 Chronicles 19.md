@@ -9,7 +9,6 @@ aliases:
   - 2Ch_19
 tags:
   - bible/chapter
-  - bible/2 Chronicles/chapter
   - bible/2 Chronicles/19
   - bible/old testament
 cssclass:

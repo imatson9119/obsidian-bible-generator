@@ -9,7 +9,6 @@ aliases:
   - Isa_39
 tags:
   - bible/chapter
-  - bible/Isaiah/chapter
   - bible/Isaiah/39
   - bible/old testament
 cssclass:

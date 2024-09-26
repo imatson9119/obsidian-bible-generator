@@ -9,7 +9,6 @@ aliases:
   - Psa_24
 tags:
   - bible/chapter
-  - bible/Psalm/chapter
   - bible/Psalm/24
   - bible/old testament
 cssclass:
@@ -29,7 +28,7 @@ He who has clean hands and a pure heart, who does not lift up his soul to what i
 ###### 5
 He will receive blessing from the Lord and righteousness from the God of his salvation.
 ###### 6
-Such is the generation of those who seek him, who seek the face of the God of Jacob.  Selah
+Such is the generation of those who seek him, who seek the face of the God of Jacob. Selah
 ###### 7
 Lift up your heads, O gates! And be lifted up, O ancient doors, that the King of glory may come in.
 ###### 8
@@ -37,6 +36,6 @@ Who is this King of glory? The Lord, strong and mighty, the Lord, mighty in batt
 ###### 9
 Lift up your heads, O gates! And lift them up, O ancient doors, that the King of glory may come in.
 ###### 10
-Who is this King of glory?   The Lord of hosts, he is the King of glory! Selah
+Who is this King of glory? The Lord of hosts, he is the King of glory! Selah
 
 

@@ -9,7 +9,6 @@ aliases:
   - 1Pe_4
 tags:
   - bible/chapter
-  - bible/1 Peter/chapter
   - bible/1 Peter/4
   - bible/new testament
 cssclass:
@@ -19,7 +18,7 @@ cssclass:
 # 1 Peter 4
 
 ###### 1
-Since therefore Christ suffered in the flesh,  arm yourselves with the same way of thinking, for whoever has suffered in the flesh has ceased from sin,
+Since therefore Christ suffered in the flesh, arm yourselves with the same way of thinking, for whoever has suffered in the flesh has ceased from sin,
 ###### 2
 so as to live for the rest of the time in the flesh no longer for human passions but for the will of God.
 ###### 3
@@ -53,7 +52,7 @@ Yet if anyone suffers as a Christian, let him not be ashamed, but let him glorif
 ###### 17
 For it is time for judgment to begin at the household of God; and if it begins with us, what will be the outcome for those who do not obey the gospel of God?
 ###### 18
-And   “If the righteous is scarcely saved, what will become of the ungodly and the sinner?”
+And “If the righteous is scarcely saved, what will become of the ungodly and the sinner?”
 ###### 19
 Therefore let those who suffer according to God’s will entrust their souls to a faithful Creator while doing good.
 

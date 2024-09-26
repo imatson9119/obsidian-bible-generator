@@ -9,7 +9,6 @@ aliases:
   - Psa_10
 tags:
   - bible/chapter
-  - bible/Psalm/chapter
   - bible/Psalm/10
   - bible/old testament
 cssclass:
@@ -31,7 +30,7 @@ His ways prosper at all times; your judgments are on high, out of his sight; as 
 ###### 6
 He says in his heart, “I shall not be moved; throughout all generations I shall not meet adversity.”
 ###### 7
-His mouth is filled with cursing and deceit and oppression;   under his tongue are mischief and iniquity.
+His mouth is filled with cursing and deceit and oppression; under his tongue are mischief and iniquity.
 ###### 8
 He sits in ambush in the villages; in hiding places he murders the innocent. His eyes stealthily watch for the helpless;
 ###### 9
@@ -41,13 +40,13 @@ The helpless are crushed, sink down, and fall by his might.
 ###### 11
 He says in his heart, “God has forgotten, he has hidden his face, he will never see it.”
 ###### 12
-Arise, O Lord; O God, lift up your hand;   forget not the afflicted.
+Arise, O Lord; O God, lift up your hand; forget not the afflicted.
 ###### 13
 Why does the wicked renounce God and say in his heart, “You will not call to account”?
 ###### 14
 But you do see, for you note mischief and vexation, that you may take it into your hands; to you the helpless commits himself; you have been the helper of the fatherless.
 ###### 15
-Break the arm of the wicked and evildoer;   call his wickedness to account till you find none.
+Break the arm of the wicked and evildoer; call his wickedness to account till you find none.
 ###### 16
 The Lord is king forever and ever; the nations perish from his land.
 ###### 17

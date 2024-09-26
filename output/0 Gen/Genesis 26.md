@@ -9,7 +9,6 @@ aliases:
   - Gen_26
 tags:
   - bible/chapter
-  - bible/Genesis/chapter
   - bible/Genesis/26
   - bible/old testament
 cssclass:
@@ -41,7 +40,7 @@ Abimelech said, “What is this you have done to us? One of the people might eas
 ###### 11
 So Abimelech warned all the people, saying, “Whoever touches this man or his wife shall surely be put to death.”
 ###### 12
-And Isaac sowed in that land and reaped in the same year a hundredfold. The Lord  blessed him,
+And Isaac sowed in that land and reaped in the same year a hundredfold. The Lord blessed him,
 ###### 13
 and the man became rich, and gained more and more until he became very wealthy.
 ###### 14

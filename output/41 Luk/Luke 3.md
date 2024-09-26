@@ -9,7 +9,6 @@ aliases:
   - Luk_3
 tags:
   - bible/chapter
-  - bible/Luke/chapter
   - bible/Luke/3
   - bible/new testament
 cssclass:
@@ -25,9 +24,9 @@ during the high priesthood of Annas and Caiaphas, the word of God came to John t
 ###### 3
 And he went into all the region around the Jordan, proclaiming a baptism of repentance for the forgiveness of sins.
 ###### 4
-As it is written in the book of the words of Isaiah the prophet,   “The voice of one crying in the wilderness:   ‘Prepare the way of the Lord, make his paths straight.
+As it is written in the book of the words of Isaiah the prophet, “The voice of one crying in the wilderness: ‘Prepare the way of the Lord, make his paths straight.
 ###### 5
-Every valley shall be filled,   and every mountain and hill shall be made low,   and the crooked shall become straight, and the rough places shall become level ways,
+Every valley shall be filled, and every mountain and hill shall be made low, and the crooked shall become straight, and the rough places shall become level ways,
 ###### 6
 and all flesh shall see the salvation of God.’”
 ###### 7

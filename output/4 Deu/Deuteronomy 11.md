@@ -9,7 +9,6 @@ aliases:
   - Deu_11
 tags:
   - bible/chapter
-  - bible/Deuteronomy/chapter
   - bible/Deuteronomy/11
   - bible/old testament
 cssclass:
@@ -63,7 +62,7 @@ that your days and the days of your children may be multiplied in the land that 
 ###### 22
 For if you will be careful to do all this commandment that I command you to do, loving the Lord your God, walking in all his ways, and holding fast to him,
 ###### 23
-then the Lord  will drive out all these nations before you, and you will dispossess nations greater and mightier than you.
+then the Lord will drive out all these nations before you, and you will dispossess nations greater and mightier than you.
 ###### 24
 Every place on which the sole of your foot treads shall be yours. Your territory shall be from the wilderness to the Lebanon and from the River, the river Euphrates, to the western sea.
 ###### 25

@@ -9,7 +9,6 @@ aliases:
   - 2Pe_3
 tags:
   - bible/chapter
-  - bible/2 Peter/chapter
   - bible/2 Peter/3
   - bible/new testament
 cssclass:
@@ -35,7 +34,7 @@ But by the same word the heavens and earth that now exist are stored up for fire
 ###### 8
 But do not overlook this one fact, beloved, that with the Lord one day is as a thousand years, and a thousand years as one day.
 ###### 9
-The Lord is not slow to fulfill his promise as some count slowness, but is patient toward you,  not wishing that any should perish, but that all should reach repentance.
+The Lord is not slow to fulfill his promise as some count slowness, but is patient toward you, not wishing that any should perish, but that all should reach repentance.
 ###### 10
 But the day of the Lord will come like a thief, and then the heavens will pass away with a roar, and the heavenly bodies will be burned up and dissolved, and the earth and the works that are done on it will be exposed.
 ###### 11

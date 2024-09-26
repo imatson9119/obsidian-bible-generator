@@ -9,7 +9,6 @@ aliases:
   - 1Ch_23
 tags:
   - bible/chapter
-  - bible/1 Chronicles/chapter
   - bible/1 Chronicles/23
   - bible/old testament
 cssclass:
@@ -25,7 +24,7 @@ David assembled all the leaders of Israel and the priests and the Levites.
 ###### 3
 The Levites, thirty years old and upward, were numbered, and the total was 38,000 men.
 ###### 4
-“Twenty-four thousand of these,” David said,  “shall have charge of the work in the house of the Lord, 6,000 shall be officers and judges,
+“Twenty-four thousand of these,” David said, “shall have charge of the work in the house of the Lord, 6,000 shall be officers and judges,
 ###### 5
 4,000 gatekeepers, and 4,000 shall offer praises to the Lord with the instruments that I have made for praise.”
 ###### 6
@@ -79,7 +78,7 @@ Their duty was also to assist with the showbread, the flour for the grain offeri
 ###### 30
 And they were to stand every morning, thanking and praising the Lord, and likewise at evening,
 ###### 31
-and whenever burnt offerings were offered to the Lord  on Sabbaths, new moons, and feast days, according to the number required of them, regularly before the Lord.
+and whenever burnt offerings were offered to the Lord on Sabbaths, new moons, and feast days, according to the number required of them, regularly before the Lord.
 ###### 32
 Thus they were to keep charge of the tent of meeting and the sanctuary, and to attend the sons of Aaron, their brothers, for the service of the house of the Lord.
 

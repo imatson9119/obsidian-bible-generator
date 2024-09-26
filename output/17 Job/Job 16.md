@@ -9,7 +9,6 @@ aliases:
   - Job_16
 tags:
   - bible/chapter
-  - bible/Job/chapter
   - bible/Job/16
   - bible/old testament
 cssclass:
@@ -21,7 +20,7 @@ cssclass:
 ###### 1
 Then Job answered and said:
 ###### 2
-“I have heard many such things;   miserable comforters are you all.
+“I have heard many such things; miserable comforters are you all.
 ###### 3
 Shall windy words have an end? Or what provokes you that you answer?
 ###### 4
@@ -31,7 +30,7 @@ I could strengthen you with my mouth, and the solace of my lips would assuage yo
 ###### 6
 “If I speak, my pain is not assuaged, and if I forbear, how much of it leaves me?
 ###### 7
-Surely now God has worn me out;   he has made desolate all my company.
+Surely now God has worn me out; he has made desolate all my company.
 ###### 8
 And he has shriveled me up, which is a witness against me, and my leanness has risen up against me; it testifies to my face.
 ###### 9

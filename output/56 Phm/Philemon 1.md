@@ -9,7 +9,6 @@ aliases:
   - Phm_1
 tags:
   - bible/chapter
-  - bible/Philemon/chapter
   - bible/Philemon/1
   - bible/new testament
 cssclass:
@@ -37,7 +36,7 @@ Accordingly, though I am bold enough in Christ to command you to do what is requ
 ###### 9
 yet for love’s sake I prefer to appeal to you—I, Paul, an old man and now a prisoner also for Christ Jesus—
 ###### 10
-I appeal to you for my child, Onesimus,  whose father I became in my imprisonment.
+I appeal to you for my child, Onesimus, whose father I became in my imprisonment.
 ###### 11
 (Formerly he was useless to you, but now he is indeed useful to you and to me.)
 ###### 12

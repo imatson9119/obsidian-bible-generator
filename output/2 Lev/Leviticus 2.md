@@ -9,7 +9,6 @@ aliases:
   - Lev_2
 tags:
   - bible/chapter
-  - bible/Leviticus/chapter
   - bible/Leviticus/2
   - bible/old testament
 cssclass:

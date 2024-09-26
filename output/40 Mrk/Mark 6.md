@@ -9,7 +9,6 @@ aliases:
   - Mrk_6
 tags:
   - bible/chapter
-  - bible/Mark/chapter
   - bible/Mark/6
   - bible/new testament
 cssclass:
@@ -29,7 +28,7 @@ And Jesus said to them, “A prophet is not without honor, except in his hometow
 ###### 5
 And he could do no mighty work there, except that he laid his hands on a few sick people and healed them.
 ###### 6
-And he marveled because of their unbelief.   And he went about among the villages teaching.
+And he marveled because of their unbelief. And he went about among the villages teaching.
 ###### 7
 And he called the twelve and began to send them out two by two, and gave them authority over the unclean spirits.
 ###### 8

@@ -9,7 +9,6 @@ aliases:
   - Ezk_13
 tags:
   - bible/chapter
-  - bible/Ezekiel/chapter
   - bible/Ezekiel/13
   - bible/old testament
 cssclass:

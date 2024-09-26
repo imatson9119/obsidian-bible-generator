@@ -9,7 +9,6 @@ aliases:
   - Job_42
 tags:
   - bible/chapter
-  - bible/Job/chapter
   - bible/Job/42
   - bible/old testament
 cssclass:
@@ -25,7 +24,7 @@ Then Job answered the Lord and said:
 ###### 3
 ‘Who is this that hides counsel without knowledge?’ Therefore I have uttered what I did not understand, things too wonderful for me, which I did not know.
 ###### 4
-‘Hear, and I will speak;   I will question you, and you make it known to me.’
+‘Hear, and I will speak; I will question you, and you make it known to me.’
 ###### 5
 I had heard of you by the hearing of the ear, but now my eye sees you;
 ###### 6
@@ -37,7 +36,7 @@ Now therefore take seven bulls and seven rams and go to my servant Job and offer
 ###### 9
 So Eliphaz the Temanite and Bildad the Shuhite and Zophar the Naamathite went and did what the Lord had told them, and the Lord accepted Job’s prayer.
 ###### 10
-And the Lord  restored the fortunes of Job, when he had prayed for his friends. And the Lord gave Job twice as much as he had before.
+And the Lord restored the fortunes of Job, when he had prayed for his friends. And the Lord gave Job twice as much as he had before.
 ###### 11
 Then came to him all his brothers and sisters and all who had known him before, and ate bread with him in his house. And they showed him sympathy and comforted him for all the evil that the Lord had brought upon him. And each of them gave him a piece of money and a ring of gold.
 ###### 12

@@ -9,7 +9,6 @@ aliases:
   - Psa_122
 tags:
   - bible/chapter
-  - bible/Psalm/chapter
   - bible/Psalm/122
   - bible/old testament
 cssclass:
@@ -19,7 +18,7 @@ cssclass:
 # Psalm 122
 
 ###### 1
-I was glad when they said to me,   “Let us go to the house of the Lord!”
+I was glad when they said to me, “Let us go to the house of the Lord!”
 ###### 2
 Our feet have been standing within your gates, O Jerusalem!
 ###### 3

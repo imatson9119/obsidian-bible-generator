@@ -9,7 +9,6 @@ aliases:
   - Pro_31
 tags:
   - bible/chapter
-  - bible/Proverbs/chapter
   - bible/Proverbs/31
   - bible/old testament
 cssclass:
@@ -35,7 +34,7 @@ let them drink and forget their poverty and remember their misery no more.
 ###### 8
 Open your mouth for the mute, for the rights of all who are destitute.
 ###### 9
-Open your mouth, judge righteously,   defend the rights of the poor and needy.
+Open your mouth, judge righteously, defend the rights of the poor and needy.
 ###### 10
 An excellent wife who can find? She is far more precious than jewels.
 ###### 11

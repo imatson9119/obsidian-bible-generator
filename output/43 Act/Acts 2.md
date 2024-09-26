@@ -9,7 +9,6 @@ aliases:
   - Act_2
 tags:
   - bible/chapter
-  - bible/Acts/chapter
   - bible/Acts/2
   - bible/new testament
 cssclass:
@@ -51,7 +50,7 @@ For these people are not drunk, as you suppose, since it is only the third hour 
 ###### 16
 But this is what was uttered through the prophet Joel:
 ###### 17
-“‘And in the last days it shall be, God declares,   that I will pour out my Spirit on all flesh, and your sons and your daughters shall prophesy, and your young men shall see visions, and your old men shall dream dreams;
+“‘And in the last days it shall be, God declares, that I will pour out my Spirit on all flesh, and your sons and your daughters shall prophesy, and your young men shall see visions, and your old men shall dream dreams;
 ###### 18
 even on my male servants and female servants in those days I will pour out my Spirit, and they shall prophesy.
 ###### 19
@@ -63,15 +62,15 @@ And it shall come to pass that everyone who calls upon the name of the Lord shal
 ###### 22
 “Men of Israel, hear these words: Jesus of Nazareth, a man attested to you by God with mighty works and wonders and signs that God did through him in your midst, as you yourselves know—
 ###### 23
-this Jesus,  delivered up according to the definite plan and foreknowledge of God, you crucified and killed by the hands of lawless men.
+this Jesus, delivered up according to the definite plan and foreknowledge of God, you crucified and killed by the hands of lawless men.
 ###### 24
 God raised him up, loosing the pangs of death, because it was not possible for him to be held by it.
 ###### 25
-For David says concerning him,   “‘I saw the Lord always before me, for he is at my right hand that I may not be shaken;
+For David says concerning him, “‘I saw the Lord always before me, for he is at my right hand that I may not be shaken;
 ###### 26
 therefore my heart was glad, and my tongue rejoiced; my flesh also will dwell in hope.
 ###### 27
-For you will not abandon my soul to Hades,   or let your Holy One see corruption.
+For you will not abandon my soul to Hades, or let your Holy One see corruption.
 ###### 28
 You have made known to me the paths of life; you will make me full of gladness with your presence.’
 ###### 29
@@ -85,7 +84,7 @@ This Jesus God raised up, and of that we all are witnesses.
 ###### 33
 Being therefore exalted at the right hand of God, and having received from the Father the promise of the Holy Spirit, he has poured out this that you yourselves are seeing and hearing.
 ###### 34
-For David did not ascend into the heavens, but he himself says,   “‘The Lord said to my Lord, “Sit at my right hand,
+For David did not ascend into the heavens, but he himself says, “‘The Lord said to my Lord, “Sit at my right hand,
 ###### 35
 until I make your enemies your footstool.”’
 ###### 36

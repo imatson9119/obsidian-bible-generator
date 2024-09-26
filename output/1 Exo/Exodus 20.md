@@ -9,7 +9,6 @@ aliases:
   - Exo_20
 tags:
   - bible/chapter
-  - bible/Exodus/chapter
   - bible/Exodus/20
   - bible/old testament
 cssclass:

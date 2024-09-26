@@ -9,7 +9,6 @@ aliases:
   - Psa_39
 tags:
   - bible/chapter
-  - bible/Psalm/chapter
   - bible/Psalm/39
   - bible/old testament
 cssclass:
@@ -31,18 +30,18 @@ Behold, you have made my days a few handbreadths, and my lifetime is as nothing 
 ###### 6
 Surely a man goes about as a shadow! Surely for nothing they are in turmoil; man heaps up wealth and does not know who will gather!
 ###### 7
-“And now, O Lord, for what do I wait?   My hope is in you.
+“And now, O Lord, for what do I wait? My hope is in you.
 ###### 8
-Deliver me from all my transgressions.   Do not make me the scorn of the fool!
+Deliver me from all my transgressions. Do not make me the scorn of the fool!
 ###### 9
-I am mute; I do not open my mouth,   for it is you who have done it.
+I am mute; I do not open my mouth, for it is you who have done it.
 ###### 10
 Remove your stroke from me; I am spent by the hostility of your hand.
 ###### 11
-When you discipline a man with rebukes for sin, you consume like a moth what is dear to him;   surely all mankind is a mere breath! Selah
+When you discipline a man with rebukes for sin, you consume like a moth what is dear to him; surely all mankind is a mere breath! Selah
 ###### 12
-“Hear my prayer, O Lord, and give ear to my cry; hold not your peace at my tears! For I am a sojourner with you,   a guest, like all my fathers.
+“Hear my prayer, O Lord, and give ear to my cry; hold not your peace at my tears! For I am a sojourner with you, a guest, like all my fathers.
 ###### 13
-Look away from me, that I may smile again,   before I depart and am no more!”
+Look away from me, that I may smile again, before I depart and am no more!”
 
 

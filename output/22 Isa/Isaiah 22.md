@@ -9,7 +9,6 @@ aliases:
   - Isa_22
 tags:
   - bible/chapter
-  - bible/Isaiah/chapter
   - bible/Isaiah/22
   - bible/old testament
 cssclass:
@@ -25,7 +24,7 @@ you who are full of shoutings, tumultuous city, exultant town? Your slain are no
 ###### 3
 All your leaders have fled together; without the bow they were captured. All of you who were found were captured, though they had fled far away.
 ###### 4
-Therefore I said: “Look away from me;   let me weep bitter tears; do not labor to comfort me concerning the destruction of the daughter of my people.”
+Therefore I said: “Look away from me; let me weep bitter tears; do not labor to comfort me concerning the destruction of the daughter of my people.”
 ###### 5
 For the Lord God of hosts has a day of tumult and trampling and confusion in the valley of vision, a battering down of walls and a shouting to the mountains.
 ###### 6
@@ -43,7 +42,7 @@ You made a reservoir between the two walls for the water of the old pool. But yo
 ###### 12
 In that day the Lord God of hosts called for weeping and mourning, for baldness and wearing sackcloth;
 ###### 13
-and behold, joy and gladness, killing oxen and slaughtering sheep, eating flesh and drinking wine.   “Let us eat and drink, for tomorrow we die.”
+and behold, joy and gladness, killing oxen and slaughtering sheep, eating flesh and drinking wine. “Let us eat and drink, for tomorrow we die.”
 ###### 14
 The Lord of hosts has revealed himself in my ears: “Surely this iniquity will not be atoned for you until you die,” says the Lord God of hosts.
 ###### 15

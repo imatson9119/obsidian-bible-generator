@@ -9,7 +9,6 @@ aliases:
   - Job_9
 tags:
   - bible/chapter
-  - bible/Job/chapter
   - bible/Job/9
   - bible/old testament
 cssclass:
@@ -41,7 +40,7 @@ who does great things beyond searching out, and marvelous things beyond number.
 ###### 11
 Behold, he passes by me, and I see him not; he moves on, but I do not perceive him.
 ###### 12
-Behold, he snatches away; who can turn him back?   Who will say to him, ‘What are you doing?’
+Behold, he snatches away; who can turn him back? Who will say to him, ‘What are you doing?’
 ###### 13
 “God will not turn back his anger; beneath him bowed the helpers of Rahab.
 ###### 14
@@ -65,7 +64,7 @@ It is all one; therefore I say, ‘He destroys both the blameless and the wicked
 ###### 23
 When disaster brings sudden death, he mocks at the calamity of the innocent.
 ###### 24
-The earth is given into the hand of the wicked; he covers the faces of its judges—   if it is not he, who then is it?
+The earth is given into the hand of the wicked; he covers the faces of its judges— if it is not he, who then is it?
 ###### 25
 “My days are swifter than a runner; they flee away; they see no good.
 ###### 26

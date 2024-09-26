@@ -9,7 +9,6 @@ aliases:
   - Exo_32
 tags:
   - bible/chapter
-  - bible/Exodus/chapter
   - bible/Exodus/32
   - bible/old testament
 cssclass:
@@ -45,7 +44,7 @@ Why should the Egyptians say, ‘With evil intent did he bring them out, to kill
 ###### 13
 Remember Abraham, Isaac, and Israel, your servants, to whom you swore by your own self, and said to them, ‘I will multiply your offspring as the stars of heaven, and all this land that I have promised I will give to your offspring, and they shall inherit it forever.’”
 ###### 14
-And the Lord  relented from the disaster that he had spoken of bringing on his people.
+And the Lord relented from the disaster that he had spoken of bringing on his people.
 ###### 15
 Then Moses turned and went down from the mountain with the two tablets of the testimony in his hand, tablets that were written on both sides; on the front and on the back they were written.
 ###### 16

@@ -9,7 +9,6 @@ aliases:
   - Pro_16
 tags:
   - bible/chapter
-  - bible/Proverbs/chapter
   - bible/Proverbs/16
   - bible/old testament
 cssclass:
@@ -21,17 +20,17 @@ cssclass:
 ###### 1
 The plans of the heart belong to man, but the answer of the tongue is from the Lord.
 ###### 2
-All the ways of a man are pure in his own eyes, but the Lord  weighs the spirit.
+All the ways of a man are pure in his own eyes, but the Lord weighs the spirit.
 ###### 3
 Commit your work to the Lord, and your plans will be established.
 ###### 4
 The Lord has made everything for its purpose, even the wicked for the day of trouble.
 ###### 5
-Everyone who is arrogant in heart is an abomination to the Lord;   be assured, he will not go unpunished.
+Everyone who is arrogant in heart is an abomination to the Lord; be assured, he will not go unpunished.
 ###### 6
 By steadfast love and faithfulness iniquity is atoned for, and by the fear of the Lord one turns away from evil.
 ###### 7
-When a man’s ways please the Lord,   he makes even his enemies to be at peace with him.
+When a man’s ways please the Lord, he makes even his enemies to be at peace with him.
 ###### 8
 Better is a little with righteousness than great revenues with injustice.
 ###### 9
@@ -57,7 +56,7 @@ Pride goes before destruction, and a haughty spirit before a fall.
 ###### 19
 It is better to be of a lowly spirit with the poor than to divide the spoil with the proud.
 ###### 20
-Whoever gives thought to the word  will discover good, and blessed is he who trusts in the Lord.
+Whoever gives thought to the word will discover good, and blessed is he who trusts in the Lord.
 ###### 21
 The wise of heart is called discerning, and sweetness of speech increases persuasiveness.
 ###### 22
@@ -77,7 +76,7 @@ A dishonest man spreads strife, and a whisperer separates close friends.
 ###### 29
 A man of violence entices his neighbor and leads him in a way that is not good.
 ###### 30
-Whoever winks his eyes plans  dishonest things; he who purses his lips brings evil to pass.
+Whoever winks his eyes plans dishonest things; he who purses his lips brings evil to pass.
 ###### 31
 Gray hair is a crown of glory; it is gained in a righteous life.
 ###### 32

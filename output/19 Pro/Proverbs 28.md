@@ -9,7 +9,6 @@ aliases:
   - Pro_28
 tags:
   - bible/chapter
-  - bible/Proverbs/chapter
   - bible/Proverbs/28
   - bible/old testament
 cssclass:
@@ -27,17 +26,17 @@ A poor man who oppresses the poor is a beating rain that leaves no food.
 ###### 4
 Those who forsake the law praise the wicked, but those who keep the law strive against them.
 ###### 5
-Evil men do not understand justice, but those who seek the Lord  understand it completely.
+Evil men do not understand justice, but those who seek the Lord understand it completely.
 ###### 6
 Better is a poor man who walks in his integrity than a rich man who is crooked in his ways.
 ###### 7
 The one who keeps the law is a son with understanding, but a companion of gluttons shames his father.
 ###### 8
-Whoever multiplies his wealth by interest and profit   gathers it for him who is generous to the poor.
+Whoever multiplies his wealth by interest and profit gathers it for him who is generous to the poor.
 ###### 9
 If one turns away his ear from hearing the law, even his prayer is an abomination.
 ###### 10
-Whoever misleads the upright into an evil way   will fall into his own pit, but the blameless will have a goodly inheritance.
+Whoever misleads the upright into an evil way will fall into his own pit, but the blameless will have a goodly inheritance.
 ###### 11
 A rich man is wise in his own eyes, but a poor man who has understanding will find him out.
 ###### 12
@@ -61,7 +60,7 @@ A faithful man will abound with blessings, but whoever hastens to be rich will n
 ###### 21
 To show partiality is not good, but for a piece of bread a man will do wrong.
 ###### 22
-A stingy man  hastens after wealth and does not know that poverty will come upon him.
+A stingy man hastens after wealth and does not know that poverty will come upon him.
 ###### 23
 Whoever rebukes a man will afterward find more favor than he who flatters with his tongue.
 ###### 24

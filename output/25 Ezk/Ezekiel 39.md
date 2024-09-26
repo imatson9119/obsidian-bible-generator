@@ -9,7 +9,6 @@ aliases:
   - Ezk_39
 tags:
   - bible/chapter
-  - bible/Ezekiel/chapter
   - bible/Ezekiel/39
   - bible/old testament
 cssclass:

@@ -9,7 +9,6 @@ aliases:
   - Num_14
 tags:
   - bible/chapter
-  - bible/Numbers/chapter
   - bible/Numbers/14
   - bible/old testament
 cssclass:
@@ -49,7 +48,7 @@ and they will tell the inhabitants of this land. They have heard that you, O Lor
 ###### 15
 Now if you kill this people as one man, then the nations who have heard your fame will say,
 ###### 16
-‘It is because the Lord  was not able to bring this people into the land that he swore to give to them that he has killed them in the wilderness.’
+‘It is because the Lord was not able to bring this people into the land that he swore to give to them that he has killed them in the wilderness.’
 ###### 17
 And now, please let the power of the Lord be great as you have promised, saying,
 ###### 18

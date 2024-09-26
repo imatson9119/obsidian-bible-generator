@@ -9,7 +9,6 @@ aliases:
   - Jer_26
 tags:
   - bible/chapter
-  - bible/Jeremiah/chapter
   - bible/Jeremiah/26
   - bible/old testament
 cssclass:
@@ -21,7 +20,7 @@ cssclass:
 ###### 1
 In the beginning of the reign of Jehoiakim the son of Josiah, king of Judah, this word came from the Lord:
 ###### 2
-“Thus says the Lord: Stand in the court of the Lord’s house, and speak to all the cities of Judah that come to worship in the house of the Lord  all the words that I command you to speak to them; do not hold back a word.
+“Thus says the Lord: Stand in the court of the Lord’s house, and speak to all the cities of Judah that come to worship in the house of the Lord all the words that I command you to speak to them; do not hold back a word.
 ###### 3
 It may be they will listen, and every one turn from his evil way, that I may relent of the disaster that I intend to do to them because of their evil deeds.
 ###### 4
@@ -53,7 +52,7 @@ Then the officials and all the people said to the priests and the prophets, “T
 ###### 17
 And certain of the elders of the land arose and spoke to all the assembled people, saying,
 ###### 18
-“Micah of Moresheth prophesied in the days of Hezekiah king of Judah, and said to all the people of Judah: ‘Thus says the Lord of hosts,   “‘Zion shall be plowed as a field; Jerusalem shall become a heap of ruins, and the mountain of the house a wooded height.’
+“Micah of Moresheth prophesied in the days of Hezekiah king of Judah, and said to all the people of Judah: ‘Thus says the Lord of hosts, “‘Zion shall be plowed as a field; Jerusalem shall become a heap of ruins, and the mountain of the house a wooded height.’
 ###### 19
 Did Hezekiah king of Judah and all Judah put him to death? Did he not fear the Lord and entreat the favor of the Lord, and did not the Lord relent of the disaster that he had pronounced against them? But we are about to bring great disaster upon ourselves.”
 ###### 20

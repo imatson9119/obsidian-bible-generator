@@ -9,7 +9,6 @@ aliases:
   - Rom_14
 tags:
   - bible/chapter
-  - bible/Romans/chapter
   - bible/Romans/14
   - bible/new testament
 cssclass:
@@ -39,7 +38,7 @@ For to this end Christ died and lived again, that he might be Lord both of the d
 ###### 10
 Why do you pass judgment on your brother? Or you, why do you despise your brother? For we will all stand before the judgment seat of God;
 ###### 11
-for it is written,   “As I live, says the Lord, every knee shall bow to me, and every tongue shall confess to God.”
+for it is written, “As I live, says the Lord, every knee shall bow to me, and every tongue shall confess to God.”
 ###### 12
 So then each of us will give an account of himself to God.
 ###### 13

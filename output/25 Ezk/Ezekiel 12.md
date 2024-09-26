@@ -9,7 +9,6 @@ aliases:
   - Ezk_12
 tags:
   - bible/chapter
-  - bible/Ezekiel/chapter
   - bible/Ezekiel/12
   - bible/old testament
 cssclass:
@@ -37,7 +36,7 @@ In the morning the word of the Lord came to me:
 ###### 9
 “Son of man, has not the house of Israel, the rebellious house, said to you, ‘What are you doing?’
 ###### 10
-Say to them, ‘Thus says the Lord God: This oracle concerns  the prince in Jerusalem and all the house of Israel who are in it.’
+Say to them, ‘Thus says the Lord God: This oracle concerns the prince in Jerusalem and all the house of Israel who are in it.’
 ###### 11
 Say, ‘I am a sign for you: as I have done, so shall it be done to them. They shall go into exile, into captivity.’
 ###### 12

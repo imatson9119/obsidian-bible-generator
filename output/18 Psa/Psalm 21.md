@@ -9,7 +9,6 @@ aliases:
   - Psa_21
 tags:
   - bible/chapter
-  - bible/Psalm/chapter
   - bible/Psalm/21
   - bible/old testament
 cssclass:
@@ -25,9 +24,9 @@ You have given him his heart’s desire and have not withheld the request of his
 ###### 3
 For you meet him with rich blessings; you set a crown of fine gold upon his head.
 ###### 4
-He asked life of you; you gave it to him,   length of days forever and ever.
+He asked life of you; you gave it to him, length of days forever and ever.
 ###### 5
-His glory is great through your salvation;   splendor and majesty you bestow on him.
+His glory is great through your salvation; splendor and majesty you bestow on him.
 ###### 6
 For you make him most blessed forever; you make him glad with the joy of your presence.
 ###### 7

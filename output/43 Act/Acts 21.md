@@ -9,7 +9,6 @@ aliases:
   - Act_21
 tags:
   - bible/chapter
-  - bible/Acts/chapter
   - bible/Acts/21
   - bible/new testament
 cssclass:

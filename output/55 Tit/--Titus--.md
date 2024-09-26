@@ -14,6 +14,6 @@ cssclass:
 
 ## Chapters
 
-[[Titus 1|1]]
-[[Titus 2|2]]
-[[Titus 3|3]]
+#####[[Titus 1|1]]
+#####[[Titus 2|2]]
+#####[[Titus 3|3]]

@@ -9,7 +9,6 @@ aliases:
   - 1Ki_8
 tags:
   - bible/chapter
-  - bible/1 Kings/chapter
   - bible/1 Kings/8
   - bible/old testament
 cssclass:
@@ -29,7 +28,7 @@ And they brought up the ark of the Lord, the tent of meeting, and all the holy v
 ###### 5
 And King Solomon and all the congregation of Israel, who had assembled before him, were with him before the ark, sacrificing so many sheep and oxen that they could not be counted or numbered.
 ###### 6
-Then the priests brought the ark of the covenant of the Lord  to its place in the inner sanctuary of the house, in the Most Holy Place, underneath the wings of the cherubim.
+Then the priests brought the ark of the covenant of the Lord to its place in the inner sanctuary of the house, in the Most Holy Place, underneath the wings of the cherubim.
 ###### 7
 For the cherubim spread out their wings over the place of the ark, so that the cherubim overshadowed the ark and its poles.
 ###### 8
@@ -105,7 +104,7 @@ that they may fear you all the days that they live in the land that you gave to 
 ###### 43
 hear in heaven your dwelling place and do according to all for which the foreigner calls to you, in order that all the peoples of the earth may know your name and fear you, as do your people Israel, and that they may know that this house that I have built is called by your name.
 ###### 44
-“If your people go out to battle against their enemy, by whatever way you shall send them, and they pray to the Lord  toward the city that you have chosen and the house that I have built for your name,
+“If your people go out to battle against their enemy, by whatever way you shall send them, and they pray to the Lord toward the city that you have chosen and the house that I have built for your name,
 ###### 45
 then hear in heaven their prayer and their plea, and maintain their cause.
 ###### 46

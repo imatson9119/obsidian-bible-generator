@@ -9,7 +9,6 @@ aliases:
   - Deu_16
 tags:
   - bible/chapter
-  - bible/Deuteronomy/chapter
   - bible/Deuteronomy/16
   - bible/old testament
 cssclass:

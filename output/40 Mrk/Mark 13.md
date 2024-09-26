@@ -9,7 +9,6 @@ aliases:
   - Mrk_13
 tags:
   - bible/chapter
-  - bible/Mark/chapter
   - bible/Mark/13
   - bible/new testament
 cssclass:
@@ -35,7 +34,7 @@ And when you hear of wars and rumors of wars, do not be alarmed. This must take 
 ###### 8
 For nation will rise against nation, and kingdom against kingdom. There will be earthquakes in various places; there will be famines. These are but the beginning of the birth pains.
 ###### 9
-“But     be on your guard. For they will deliver you over to councils, and you will be beaten     in synagogues, and you will stand before     governors and     kings for my sake,     to bear witness before them.
+“But be on your guard. For they will deliver you over to councils, and you will be beaten in synagogues, and you will stand before governors and kings for my sake, to bear witness before them.
 ###### 10
 And the gospel must first be proclaimed to all nations.
 ###### 11
@@ -45,7 +44,7 @@ And brother will deliver brother over to death, and the father his child, and ch
 ###### 13
 And you will be hated by all for my name’s sake. But the one who endures to the end will be saved.
 ###### 14
-“But when you see     the abomination of desolation standing where he ought not to be (    let the reader understand), then let those who are in Judea flee to the mountains.
+“But when you see the abomination of desolation standing where he ought not to be ( let the reader understand), then let those who are in Judea flee to the mountains.
 ###### 15
 Let the one who is on the housetop not go down, nor enter his house, to take anything out,
 ###### 16
@@ -65,7 +64,7 @@ For false christs and false prophets will arise and perform signs and wonders, t
 ###### 23
 But be on guard; I have told you all things beforehand.
 ###### 24
-“But in those days, after     that tribulation,     the sun will be darkened, and the moon will not give its light,
+“But in those days, after that tribulation, the sun will be darkened, and the moon will not give its light,
 ###### 25
 and the stars will be falling from heaven, and the powers in the heavens will be shaken.
 ###### 26
@@ -81,13 +80,13 @@ Truly, I say to you, this generation will not pass away until all these things t
 ###### 31
 Heaven and earth will pass away, but my words will not pass away.
 ###### 32
-“But concerning that day or that hour,     no one knows, not even the angels in heaven,     nor the Son,     but only the Father.
+“But concerning that day or that hour, no one knows, not even the angels in heaven, nor the Son, but only the Father.
 ###### 33
-Be on guard, keep awake.  For you do not know when the time will come.
+Be on guard, keep awake. For you do not know when the time will come.
 ###### 34
-It is like a man going on a journey, when he leaves home and puts his servants  in charge, each with his work, and commands the doorkeeper to stay awake.
+It is like a man going on a journey, when he leaves home and puts his servants in charge, each with his work, and commands the doorkeeper to stay awake.
 ###### 35
-Therefore stay awake—for you do not know when the master of the house will come, in the evening, or at midnight, or when the rooster crows,  or in the morning—
+Therefore stay awake—for you do not know when the master of the house will come, in the evening, or at midnight, or when the rooster crows, or in the morning—
 ###### 36
 lest he come suddenly and find you asleep.
 ###### 37

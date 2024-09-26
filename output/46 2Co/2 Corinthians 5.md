@@ -9,7 +9,6 @@ aliases:
   - 2Co_5
 tags:
   - bible/chapter
-  - bible/2 Corinthians/chapter
   - bible/2 Corinthians/5
   - bible/new testament
 cssclass:
@@ -51,7 +50,7 @@ and he died for all, that those who live might no longer live for themselves but
 ###### 16
 From now on, therefore, we regard no one according to the flesh. Even though we once regarded Christ according to the flesh, we regard him thus no longer.
 ###### 17
-Therefore, if anyone is in Christ, he is a new creation.  The old has passed away; behold, the new has come.
+Therefore, if anyone is in Christ, he is a new creation. The old has passed away; behold, the new has come.
 ###### 18
 All this is from God, who through Christ reconciled us to himself and gave us the ministry of reconciliation;
 ###### 19

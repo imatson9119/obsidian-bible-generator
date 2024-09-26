@@ -9,7 +9,6 @@ aliases:
   - Jer_24
 tags:
   - bible/chapter
-  - bible/Jeremiah/chapter
   - bible/Jeremiah/24
   - bible/old testament
 cssclass:

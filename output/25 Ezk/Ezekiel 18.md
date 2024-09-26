@@ -9,7 +9,6 @@ aliases:
   - Ezk_18
 tags:
   - bible/chapter
-  - bible/Ezekiel/chapter
   - bible/Ezekiel/18
   - bible/old testament
 cssclass:

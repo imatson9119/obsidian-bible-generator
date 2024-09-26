@@ -9,7 +9,6 @@ aliases:
   - Isa_30
 tags:
   - bible/chapter
-  - bible/Isaiah/chapter
   - bible/Isaiah/30
   - bible/old testament
 cssclass:
@@ -19,7 +18,7 @@ cssclass:
 # Isaiah 30
 
 ###### 1
-“Ah, stubborn children,” declares the Lord,   “who carry out a plan, but not mine, and who make an alliance, but not of my Spirit, that they may add sin to sin;
+“Ah, stubborn children,” declares the Lord, “who carry out a plan, but not mine, and who make an alliance, but not of my Spirit, that they may add sin to sin;
 ###### 2
 who set out to go down to Egypt, without asking for my direction, to take refuge in the protection of Pharaoh and to seek shelter in the shadow of Egypt!
 ###### 3
@@ -31,7 +30,7 @@ everyone comes to shame through a people that cannot profit them, that brings ne
 ###### 6
 An oracle on the beasts of the Negeb. Through a land of trouble and anguish, from where come the lioness and the lion, the adder and the flying fiery serpent, they carry their riches on the backs of donkeys, and their treasures on the humps of camels, to a people that cannot profit them.
 ###### 7
-Egypt’s help is worthless and empty; therefore I have called her   “Rahab who sits still.”
+Egypt’s help is worthless and empty; therefore I have called her “Rahab who sits still.”
 ###### 8
 And now, go, write it before them on a tablet and inscribe it in a book, that it may be for the time to come as a witness forever.
 ###### 9
@@ -43,7 +42,7 @@ leave the way, turn aside from the path, let us hear no more about the Holy One 
 ###### 12
 Therefore thus says the Holy One of Israel, “Because you despise this word and trust in oppression and perverseness and rely on them,
 ###### 13
-therefore this iniquity shall be to you   like a breach in a high wall, bulging out and about to collapse, whose breaking comes suddenly, in an instant;
+therefore this iniquity shall be to you like a breach in a high wall, bulging out and about to collapse, whose breaking comes suddenly, in an instant;
 ###### 14
 and its breaking is like that of a potter’s vessel that is smashed so ruthlessly that among its fragments not a shard is found with which to take fire from the hearth, or to dip up water out of the cistern.”
 ###### 15
@@ -53,7 +52,7 @@ and you said, “No! We will flee upon horses”; therefore you shall flee away;
 ###### 17
 A thousand shall flee at the threat of one; at the threat of five you shall flee, till you are left like a flagstaff on the top of a mountain, like a signal on a hill.
 ###### 18
-Therefore the Lord  waits to be gracious to you, and therefore he exalts himself to show mercy to you. For the Lord is a God of justice;   blessed are all those who wait for him.
+Therefore the Lord waits to be gracious to you, and therefore he exalts himself to show mercy to you. For the Lord is a God of justice; blessed are all those who wait for him.
 ###### 19
 For a people shall dwell in Zion, in Jerusalem; you shall weep no more. He will surely be gracious to you at the sound of your cry. As soon as he hears it, he answers you.
 ###### 20
@@ -77,7 +76,7 @@ his breath is like an overflowing stream that reaches up to the neck; to sift th
 ###### 29
 You shall have a song as in the night when a holy feast is kept, and gladness of heart, as when one sets out to the sound of the flute to go to the mountain of the Lord, to the Rock of Israel.
 ###### 30
-And the Lord  will cause his majestic voice to be heard and the descending blow of his arm to be seen, in furious anger and a flame of devouring fire, with a cloudburst and storm and hailstones.
+And the Lord will cause his majestic voice to be heard and the descending blow of his arm to be seen, in furious anger and a flame of devouring fire, with a cloudburst and storm and hailstones.
 ###### 31
 The Assyrians will be terror-stricken at the voice of the Lord, when he strikes with his rod.
 ###### 32

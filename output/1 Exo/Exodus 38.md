@@ -9,7 +9,6 @@ aliases:
   - Exo_38
 tags:
   - bible/chapter
-  - bible/Exodus/chapter
   - bible/Exodus/38
   - bible/old testament
 cssclass:

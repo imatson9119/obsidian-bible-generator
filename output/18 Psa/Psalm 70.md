@@ -9,7 +9,6 @@ aliases:
   - Psa_70
 tags:
   - bible/chapter
-  - bible/Psalm/chapter
   - bible/Psalm/70
   - bible/old testament
 cssclass:
@@ -27,6 +26,6 @@ Let them turn back because of their shame who say, “Aha, Aha!”
 ###### 4
 May all who seek you rejoice and be glad in you! May those who love your salvation say evermore, “God is great!”
 ###### 5
-But I am poor and needy;   hasten to me, O God! You are my help and my deliverer; O Lord, do not delay!
+But I am poor and needy; hasten to me, O God! You are my help and my deliverer; O Lord, do not delay!
 
 

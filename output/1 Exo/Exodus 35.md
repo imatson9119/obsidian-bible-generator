@@ -9,7 +9,6 @@ aliases:
   - Exo_35
 tags:
   - bible/chapter
-  - bible/Exodus/chapter
   - bible/Exodus/35
   - bible/old testament
 cssclass:

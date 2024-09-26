@@ -9,7 +9,6 @@ aliases:
   - Job_5
 tags:
   - bible/chapter
-  - bible/Job/chapter
   - bible/Job/5
   - bible/old testament
 cssclass:
@@ -35,7 +34,7 @@ but man is born to trouble as the sparks fly upward.
 ###### 8
 “As for me, I would seek God, and to God would I commit my cause,
 ###### 9
-who does great things and unsearchable,   marvelous things without number:
+who does great things and unsearchable, marvelous things without number:
 ###### 10
 he gives rain on the earth and sends waters on the fields;
 ###### 11

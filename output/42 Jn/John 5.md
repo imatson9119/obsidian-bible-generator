@@ -9,7 +9,6 @@ aliases:
   - Jn_5
 tags:
   - bible/chapter
-  - bible/John/chapter
   - bible/John/5
   - bible/new testament
 cssclass:
@@ -33,7 +32,7 @@ The sick man answered him, “Sir, I have no one to put me into the pool when th
 ###### 8
 Jesus said to him, “Get up, take up your bed, and walk.”
 ###### 9
-And at once the man was healed, and he took up his bed and walked.   Now that day was the Sabbath.
+And at once the man was healed, and he took up his bed and walked. Now that day was the Sabbath.
 ###### 10
 So the Jews said to the man who had been healed, “It is the Sabbath, and it is not lawful for you to take up your bed.”
 ###### 11
@@ -53,7 +52,7 @@ But Jesus answered them, “My Father is working until now, and I am working.”
 ###### 18
 This was why the Jews were seeking all the more to kill him, because not only was he breaking the Sabbath, but he was even calling God his own Father, making himself equal with God.
 ###### 19
-So Jesus said to them, “Truly, truly, I say to you, the Son can do nothing of his own accord, but only what he sees the Father doing. For whatever the Father  does, that the Son does likewise.
+So Jesus said to them, “Truly, truly, I say to you, the Son can do nothing of his own accord, but only what he sees the Father doing. For whatever the Father does, that the Son does likewise.
 ###### 20
 For the Father loves the Son and shows him all that he himself is doing. And greater works than these will he show him, so that you may marvel.
 ###### 21
@@ -65,7 +64,7 @@ that all may honor the Son, just as they honor the Father. Whoever does not hono
 ###### 24
 Truly, truly, I say to you, whoever hears my word and believes him who sent me has eternal life. He does not come into judgment, but has passed from death to life.
 ###### 25
-“Truly, truly, I say to you,     an hour is coming, and is now here, when     the dead will hear     the voice of the Son of God, and those who hear     will live.
+“Truly, truly, I say to you, an hour is coming, and is now here, when the dead will hear the voice of the Son of God, and those who hear will live.
 ###### 26
 For as the Father has life in himself, so he has granted the Son also to have life in himself.
 ###### 27
@@ -75,7 +74,7 @@ Do not marvel at this, for an hour is coming when all who are in the tombs will 
 ###### 29
 and come out, those who have done good to the resurrection of life, and those who have done evil to the resurrection of judgment.
 ###### 30
-“I can do nothing on my own. As I hear, I judge, and     my judgment is just, because     I seek not my own will     but the will of him who sent me.
+“I can do nothing on my own. As I hear, I judge, and my judgment is just, because I seek not my own will but the will of him who sent me.
 ###### 31
 If I alone bear witness about myself, my testimony is not true.
 ###### 32

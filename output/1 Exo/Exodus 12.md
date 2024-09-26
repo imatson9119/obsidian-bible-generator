@@ -9,7 +9,6 @@ aliases:
   - Exo_12
 tags:
   - bible/chapter
-  - bible/Exodus/chapter
   - bible/Exodus/12
   - bible/old testament
 cssclass:

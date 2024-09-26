@@ -9,7 +9,6 @@ aliases:
   - Jdg_10
 tags:
   - bible/chapter
-  - bible/Judges/chapter
   - bible/Judges/10
   - bible/old testament
 cssclass:
@@ -29,7 +28,7 @@ And he had thirty sons who rode on thirty donkeys, and they had thirty cities, c
 ###### 5
 And Jair died and was buried in Kamon.
 ###### 6
-The people of Israel again did what was evil in the sight of the Lord  and served the Baals and the Ashtaroth, the gods of Syria, the gods of Sidon, the gods of Moab, the gods of the Ammonites, and the gods of the Philistines. And they forsook the Lord and did not serve him.
+The people of Israel again did what was evil in the sight of the Lord and served the Baals and the Ashtaroth, the gods of Syria, the gods of Sidon, the gods of Moab, the gods of the Ammonites, and the gods of the Philistines. And they forsook the Lord and did not serve him.
 ###### 7
 So the anger of the Lord was kindled against Israel, and he sold them into the hand of the Philistines and into the hand of the Ammonites,
 ###### 8

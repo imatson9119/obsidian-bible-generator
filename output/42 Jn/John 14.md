@@ -9,7 +9,6 @@ aliases:
   - Jn_14
 tags:
   - bible/chapter
-  - bible/John/chapter
   - bible/John/14
   - bible/new testament
 cssclass:
@@ -19,7 +18,7 @@ cssclass:
 # John 14
 
 ###### 1
-“Let not your hearts be troubled.     Believe in God;    believe also in me.
+“Let not your hearts be troubled. Believe in God; believe also in me.
 ###### 2
 In my Father’s house are many rooms. If it were not so, would I have told you that I go to prepare a place for you?
 ###### 3
@@ -31,7 +30,7 @@ Thomas said to him, “Lord, we do not know where you are going. How can we know
 ###### 6
 Jesus said to him, “I am the way, and the truth, and the life. No one comes to the Father except through me.
 ###### 7
-If you had known me, you would have known my Father also.  From now on you do know him and have seen him.”
+If you had known me, you would have known my Father also. From now on you do know him and have seen him.”
 ###### 8
 Philip said to him, “Lord, show us the Father, and it is enough for us.”
 ###### 9
@@ -41,19 +40,19 @@ Do you not believe that I am in the Father and the Father is in me? The words th
 ###### 11
 Believe me that I am in the Father and the Father is in me, or else believe on account of the works themselves.
 ###### 12
-“Truly, truly, I say to you,     whoever believes in me will also do the works that I do; and greater works than these will he do, because I     am going to the Father.
+“Truly, truly, I say to you, whoever believes in me will also do the works that I do; and greater works than these will he do, because I am going to the Father.
 ###### 13
 Whatever you ask in my name, this I will do, that the Father may be glorified in the Son.
 ###### 14
-If you ask me  anything in my name, I will do it.
+If you ask me anything in my name, I will do it.
 ###### 15
-“If you love me, you will     keep my commandments.
+“If you love me, you will keep my commandments.
 ###### 16
-And I will ask the Father, and he will give you another Helper,  to be with you forever,
+And I will ask the Father, and he will give you another Helper, to be with you forever,
 ###### 17
-even the Spirit of truth, whom the world cannot receive, because it neither sees him nor knows him. You know him, for he dwells with you and will be  in you.
+even the Spirit of truth, whom the world cannot receive, because it neither sees him nor knows him. You know him, for he dwells with you and will be in you.
 ###### 18
-“I will not leave you as orphans;     I will come to you.
+“I will not leave you as orphans; I will come to you.
 ###### 19
 Yet a little while and the world will see me no more, but you will see me. Because I live, you also will live.
 ###### 20

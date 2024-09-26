@@ -9,7 +9,6 @@ aliases:
   - Psa_56
 tags:
   - bible/chapter
-  - bible/Psalm/chapter
   - bible/Psalm/56
   - bible/old testament
 cssclass:
@@ -31,11 +30,11 @@ All day long they injure my cause; all their thoughts are against me for evil.
 ###### 6
 They stir up strife, they lurk; they watch my steps, as they have waited for my life.
 ###### 7
-For their crime will they escape?   In wrath cast down the peoples, O God!
+For their crime will they escape? In wrath cast down the peoples, O God!
 ###### 8
-You have kept count of my tossings;   put my tears in your bottle.   Are they not in your book?
+You have kept count of my tossings; put my tears in your bottle. Are they not in your book?
 ###### 9
-Then my enemies will turn back   in the day when I call. This I know, that  God is for me.
+Then my enemies will turn back in the day when I call. This I know, that God is for me.
 ###### 10
 In God, whose word I praise, in the Lord, whose word I praise,
 ###### 11
@@ -43,6 +42,6 @@ in God I trust; I shall not be afraid. What can man do to me?
 ###### 12
 I must perform my vows to you, O God; I will render thank offerings to you.
 ###### 13
-For you have delivered my soul from death, yes, my feet from falling,   that I may walk before God   in the light of life.
+For you have delivered my soul from death, yes, my feet from falling, that I may walk before God in the light of life.
 
 

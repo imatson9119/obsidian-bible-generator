@@ -9,7 +9,6 @@ aliases:
   - Psa_136
 tags:
   - bible/chapter
-  - bible/Psalm/chapter
   - bible/Psalm/136
   - bible/old testament
 cssclass:
@@ -19,7 +18,7 @@ cssclass:
 # Psalm 136
 
 ###### 1
-Give thanks to the Lord, for he is good,   for his steadfast love endures forever.
+Give thanks to the Lord, for he is good, for his steadfast love endures forever.
 ###### 2
 Give thanks to the God of gods, for his steadfast love endures forever.
 ###### 3

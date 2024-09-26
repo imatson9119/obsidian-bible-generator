@@ -9,7 +9,6 @@ aliases:
   - Luk_16
 tags:
   - bible/chapter
-  - bible/Luke/chapter
   - bible/Luke/16
   - bible/new testament
 cssclass:
@@ -29,15 +28,15 @@ I have decided what to do, so that when I am removed from management, people may
 ###### 5
 So, summoning his master’s debtors one by one, he said to the first, ‘How much do you owe my master?’
 ###### 6
-He said, ‘A hundred measures  of oil.’ He said to him, ‘Take your bill, and sit down quickly and write fifty.’
+He said, ‘A hundred measures of oil.’ He said to him, ‘Take your bill, and sit down quickly and write fifty.’
 ###### 7
-Then he said to another, ‘And how much do you owe?’ He said, ‘A hundred measures  of wheat.’ He said to him, ‘Take your bill, and write eighty.’
+Then he said to another, ‘And how much do you owe?’ He said, ‘A hundred measures of wheat.’ He said to him, ‘Take your bill, and write eighty.’
 ###### 8
-The master commended the dishonest manager for his shrewdness. For the sons of this world  are more shrewd in dealing with their own generation than the sons of light.
+The master commended the dishonest manager for his shrewdness. For the sons of this world are more shrewd in dealing with their own generation than the sons of light.
 ###### 9
-And I tell you, make friends for yourselves by means of unrighteous wealth,  so that when it fails they may receive you into the eternal dwellings.
+And I tell you, make friends for yourselves by means of unrighteous wealth, so that when it fails they may receive you into the eternal dwellings.
 ###### 10
-“One who is     faithful in a very little is also faithful in much, and one who is dishonest in a very little is also dishonest in much.
+“One who is faithful in a very little is also faithful in much, and one who is dishonest in a very little is also dishonest in much.
 ###### 11
 If then you have not been faithful in the unrighteous wealth, who will entrust to you the true riches?
 ###### 12
@@ -49,19 +48,19 @@ The Pharisees, who were lovers of money, heard all these things, and they ridicu
 ###### 15
 And he said to them, “You are those who justify yourselves before men, but God knows your hearts. For what is exalted among men is an abomination in the sight of God.
 ###### 16
-“The Law and the Prophets were until John; since then     the good news of the kingdom of God is preached, and     everyone forces his way into it.
+“The Law and the Prophets were until John; since then the good news of the kingdom of God is preached, and everyone forces his way into it.
 ###### 17
 But it is easier for heaven and earth to pass away than for one dot of the Law to become void.
 ###### 18
 “Everyone who divorces his wife and marries another commits adultery, and he who marries a woman divorced from her husband commits adultery.
 ###### 19
-“There was a rich man who was clothed in     purple and fine linen and     who feasted sumptuously every day.
+“There was a rich man who was clothed in purple and fine linen and who feasted sumptuously every day.
 ###### 20
 And at his gate was laid a poor man named Lazarus, covered with sores,
 ###### 21
 who desired to be fed with what fell from the rich man’s table. Moreover, even the dogs came and licked his sores.
 ###### 22
-The poor man died and was carried by the angels to Abraham’s side.  The rich man also died and was buried,
+The poor man died and was carried by the angels to Abraham’s side. The rich man also died and was buried,
 ###### 23
 and in Hades, being in torment, he lifted up his eyes and saw Abraham far off and Lazarus at his side.
 ###### 24

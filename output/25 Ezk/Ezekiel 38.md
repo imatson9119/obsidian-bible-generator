@@ -9,7 +9,6 @@ aliases:
   - Ezk_38
 tags:
   - bible/chapter
-  - bible/Ezekiel/chapter
   - bible/Ezekiel/38
   - bible/old testament
 cssclass:

@@ -9,7 +9,6 @@ aliases:
   - Ezk_5
 tags:
   - bible/chapter
-  - bible/Ezekiel/chapter
   - bible/Ezekiel/5
   - bible/old testament
 cssclass:
@@ -39,7 +38,7 @@ And because of all your abominations I will do with you what I have never yet do
 ###### 10
 Therefore fathers shall eat their sons in your midst, and sons shall eat their fathers. And I will execute judgments on you, and any of you who survive I will scatter to all the winds.
 ###### 11
-Therefore, as I live, declares the Lord God, surely, because you have defiled my sanctuary with all your detestable things and with all your abominations, therefore I will withdraw.  My eye will not spare, and I will have no pity.
+Therefore, as I live, declares the Lord God, surely, because you have defiled my sanctuary with all your detestable things and with all your abominations, therefore I will withdraw. My eye will not spare, and I will have no pity.
 ###### 12
 A third part of you shall die of pestilence and be consumed with famine in your midst; a third part shall fall by the sword all around you; and a third part I will scatter to all the winds and will unsheathe the sword after them.
 ###### 13
@@ -49,7 +48,7 @@ Moreover, I will make you a desolation and an object of reproach among the natio
 ###### 15
 You shall be a reproach and a taunt, a warning and a horror, to the nations all around you, when I execute judgments on you in anger and fury, and with furious rebukes—I am the Lord; I have spoken—
 ###### 16
-when I send against you  the deadly arrows of famine, arrows for destruction, which I will send to destroy you, and when I bring more and more famine upon you and break your supply of bread.
+when I send against you the deadly arrows of famine, arrows for destruction, which I will send to destroy you, and when I bring more and more famine upon you and break your supply of bread.
 ###### 17
 I will send famine and wild beasts against you, and they will rob you of your children. Pestilence and blood shall pass through you, and I will bring the sword upon you. I am the Lord; I have spoken.”
 

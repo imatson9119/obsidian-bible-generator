@@ -9,7 +9,6 @@ aliases:
   - Neh_8
 tags:
   - bible/chapter
-  - bible/Nehemiah/chapter
   - bible/Nehemiah/8
   - bible/old testament
 cssclass:
@@ -31,7 +30,7 @@ And Ezra opened the book in the sight of all the people, for he was above all th
 ###### 6
 And Ezra blessed the Lord, the great God, and all the people answered, “Amen, Amen,” lifting up their hands. And they bowed their heads and worshiped the Lord with their faces to the ground.
 ###### 7
-Also Jeshua, Bani, Sherebiah, Jamin, Akkub, Shabbethai, Hodiah, Maaseiah, Kelita, Azariah, Jozabad, Hanan, Pelaiah, the Levites,  helped the people to understand the Law, while the people remained in their places.
+Also Jeshua, Bani, Sherebiah, Jamin, Akkub, Shabbethai, Hodiah, Maaseiah, Kelita, Azariah, Jozabad, Hanan, Pelaiah, the Levites, helped the people to understand the Law, while the people remained in their places.
 ###### 8
 They read from the book, from the Law of God, clearly, and they gave the sense, so that the people understood the reading.
 ###### 9

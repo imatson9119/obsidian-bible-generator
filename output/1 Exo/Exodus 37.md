@@ -9,7 +9,6 @@ aliases:
   - Exo_37
 tags:
   - bible/chapter
-  - bible/Exodus/chapter
   - bible/Exodus/37
   - bible/old testament
 cssclass:

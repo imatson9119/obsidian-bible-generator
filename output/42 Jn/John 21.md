@@ -9,7 +9,6 @@ aliases:
   - Jn_21
 tags:
   - bible/chapter
-  - bible/John/chapter
   - bible/John/21
   - bible/new testament
 cssclass:

@@ -9,7 +9,6 @@ aliases:
   - Mat_16
 tags:
   - bible/chapter
-  - bible/Matthew/chapter
   - bible/Matthew/16
   - bible/new testament
 cssclass:
@@ -21,7 +20,7 @@ cssclass:
 ###### 1
 And the Pharisees and Sadducees came, and to test him they asked him to show them a sign from heaven.
 ###### 2
-He answered them,  “When it is evening, you say, ‘It will be fair weather, for the sky is red.’
+He answered them, “When it is evening, you say, ‘It will be fair weather, for the sky is red.’
 ###### 3
 And in the morning, ‘It will be stormy today, for the sky is red and threatening.’ You know how to interpret the appearance of the sky, but you cannot interpret the signs of the times.
 ###### 4
@@ -53,9 +52,9 @@ Simon Peter replied, “You are the Christ, the Son of the living God.”
 ###### 17
 And Jesus answered him, “Blessed are you, Simon Bar-Jonah! For flesh and blood has not revealed this to you, but my Father who is in heaven.
 ###### 18
-And I tell you, you are Peter, and on this rock  I will build my church, and the gates of hell  shall not prevail against it.
+And I tell you, you are Peter, and on this rock I will build my church, and the gates of hell shall not prevail against it.
 ###### 19
-I will give you the keys of the kingdom of heaven, and whatever you bind on earth shall be bound in heaven, and whatever you loose on earth shall be loosed  in heaven.”
+I will give you the keys of the kingdom of heaven, and whatever you bind on earth shall be bound in heaven, and whatever you loose on earth shall be loosed in heaven.”
 ###### 20
 Then he strictly charged the disciples to tell no one that he was the Christ.
 ###### 21
@@ -63,11 +62,11 @@ From that time Jesus began to show his disciples that he must go to Jerusalem an
 ###### 22
 And Peter took him aside and began to rebuke him, saying, “Far be it from you, Lord! This shall never happen to you.”
 ###### 23
-But he turned and said to Peter, “Get behind me, Satan! You are a hindrance  to me. For you are not setting your mind on the things of God, but on the things of man.”
+But he turned and said to Peter, “Get behind me, Satan! You are a hindrance to me. For you are not setting your mind on the things of God, but on the things of man.”
 ###### 24
 Then Jesus told his disciples, “If anyone would come after me, let him deny himself and take up his cross and follow me.
 ###### 25
-For whoever would save his life  will lose it, but whoever loses his life for my sake will find it.
+For whoever would save his life will lose it, but whoever loses his life for my sake will find it.
 ###### 26
 For what will it profit a man if he gains the whole world and forfeits his soul? Or what shall a man give in return for his soul?
 ###### 27

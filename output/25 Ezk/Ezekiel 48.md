@@ -9,7 +9,6 @@ aliases:
   - Ezk_48
 tags:
   - bible/chapter
-  - bible/Ezekiel/chapter
   - bible/Ezekiel/48
   - bible/old testament
 cssclass:
@@ -19,7 +18,7 @@ cssclass:
 # Ezekiel 48
 
 ###### 1
-“These are the names of the tribes: Beginning at the northern extreme, beside the way of Hethlon to Lebo-hamath, as far as Hazar-enan (which is on the northern border of Damascus over against Hamath), and extending from the east side to the west,  Dan, one portion.
+“These are the names of the tribes: Beginning at the northern extreme, beside the way of Hethlon to Lebo-hamath, as far as Hazar-enan (which is on the northern border of Damascus over against Hamath), and extending from the east side to the west, Dan, one portion.
 ###### 2
 Adjoining the territory of Dan, from the east side to the west, Asher, one portion.
 ###### 3

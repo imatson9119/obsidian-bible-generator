@@ -9,7 +9,6 @@ aliases:
   - Ezk_47
 tags:
   - bible/chapter
-  - bible/Ezekiel/chapter
   - bible/Ezekiel/47
   - bible/old testament
 cssclass:

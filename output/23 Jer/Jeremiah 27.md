@@ -9,7 +9,6 @@ aliases:
   - Jer_27
 tags:
   - bible/chapter
-  - bible/Jeremiah/chapter
   - bible/Jeremiah/27
   - bible/old testament
 cssclass:

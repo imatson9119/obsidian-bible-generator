@@ -9,7 +9,6 @@ aliases:
   - Neh_7
 tags:
   - bible/chapter
-  - bible/Nehemiah/chapter
   - bible/Nehemiah/7
   - bible/old testament
 cssclass:
@@ -163,6 +162,6 @@ And some of the heads of fathers’ houses gave into the treasury of the work 20
 ###### 72
 And what the rest of the people gave was 20,000 darics of gold, 2,000 minas of silver, and 67 priests’ garments.
 ###### 73
-So the priests, the Levites, the gatekeepers, the singers, some of the people, the temple servants, and all Israel, lived in their towns.   And when the seventh month had come, the people of Israel were in their towns.
+So the priests, the Levites, the gatekeepers, the singers, some of the people, the temple servants, and all Israel, lived in their towns. And when the seventh month had come, the people of Israel were in their towns.
 
 

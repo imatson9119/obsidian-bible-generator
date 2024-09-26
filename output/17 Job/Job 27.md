@@ -9,7 +9,6 @@ aliases:
   - Job_27
 tags:
   - bible/chapter
-  - bible/Job/chapter
   - bible/Job/27
   - bible/old testament
 cssclass:
@@ -39,7 +38,7 @@ Will God hear his cry when distress comes upon him?
 ###### 10
 Will he take delight in the Almighty? Will he call upon God at all times?
 ###### 11
-I will teach you concerning the hand of God;   what is with the Almighty I will not conceal.
+I will teach you concerning the hand of God; what is with the Almighty I will not conceal.
 ###### 12
 Behold, all of you have seen it yourselves; why then have you become altogether vain?
 ###### 13

@@ -9,7 +9,6 @@ aliases:
   - Pro_11
 tags:
   - bible/chapter
-  - bible/Proverbs/chapter
   - bible/Proverbs/11
   - bible/old testament
 cssclass:
@@ -19,13 +18,13 @@ cssclass:
 # Proverbs 11
 
 ###### 1
-A false balance is an abomination to the Lord,   but a just weight is his delight.
+A false balance is an abomination to the Lord, but a just weight is his delight.
 ###### 2
 When pride comes, then comes disgrace, but with the humble is wisdom.
 ###### 3
-The integrity of the upright guides them,   but the crookedness of the treacherous destroys them.
+The integrity of the upright guides them, but the crookedness of the treacherous destroys them.
 ###### 4
-Riches do not profit in the day of wrath,   but righteousness delivers from death.
+Riches do not profit in the day of wrath, but righteousness delivers from death.
 ###### 5
 The righteousness of the blameless keeps his way straight, but the wicked falls by his own wickedness.
 ###### 6
@@ -45,7 +44,7 @@ Whoever belittles his neighbor lacks sense, but a man of understanding remains s
 ###### 13
 Whoever goes about slandering reveals secrets, but he who is trustworthy in spirit keeps a thing covered.
 ###### 14
-Where there is no guidance, a people falls,   but in an abundance of counselors there is safety.
+Where there is no guidance, a people falls, but in an abundance of counselors there is safety.
 ###### 15
 Whoever puts up security for a stranger will surely suffer harm, but he who hates striking hands in pledge is secure.
 ###### 16
@@ -63,7 +62,7 @@ Be assured, an evil person will not go unpunished, but the offspring of the righ
 ###### 22
 Like a gold ring in a pig’s snout is a beautiful woman without discretion.
 ###### 23
-The desire of the righteous ends only in good,   the expectation of the wicked in wrath.
+The desire of the righteous ends only in good, the expectation of the wicked in wrath.
 ###### 24
 One gives freely, yet grows all the richer; another withholds what he should give, and only suffers want.
 ###### 25

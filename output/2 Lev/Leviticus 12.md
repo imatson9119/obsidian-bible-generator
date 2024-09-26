@@ -9,7 +9,6 @@ aliases:
   - Lev_12
 tags:
   - bible/chapter
-  - bible/Leviticus/chapter
   - bible/Leviticus/12
   - bible/old testament
 cssclass:
@@ -33,6 +32,6 @@ But if she bears a female child, then she shall be unclean two weeks, as in her 
 ###### 7
 and he shall offer it before the Lord and make atonement for her. Then she shall be clean from the flow of her blood. This is the law for her who bears a child, either male or female.
 ###### 8
-And if she cannot afford a lamb, then she shall take two turtledoves or two pigeons,  one for a burnt offering and the other for a sin offering. And the priest shall make atonement for her, and she shall be clean.”
+And if she cannot afford a lamb, then she shall take two turtledoves or two pigeons, one for a burnt offering and the other for a sin offering. And the priest shall make atonement for her, and she shall be clean.”
 
 

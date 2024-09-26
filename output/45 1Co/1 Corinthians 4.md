@@ -9,7 +9,6 @@ aliases:
   - 1Co_4
 tags:
   - bible/chapter
-  - bible/1 Corinthians/chapter
   - bible/1 Corinthians/4
   - bible/new testament
 cssclass:
@@ -51,7 +50,7 @@ For though you have countless guides in Christ, you do not have many fathers. Fo
 ###### 16
 I urge you, then, be imitators of me.
 ###### 17
-That is why I sent you Timothy, my beloved and faithful child in the Lord, to remind you of my ways in Christ,  as I teach them everywhere in every church.
+That is why I sent you Timothy, my beloved and faithful child in the Lord, to remind you of my ways in Christ, as I teach them everywhere in every church.
 ###### 18
 Some are arrogant, as though I were not coming to you.
 ###### 19

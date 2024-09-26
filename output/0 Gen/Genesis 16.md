@@ -9,7 +9,6 @@ aliases:
   - Gen_16
 tags:
   - bible/chapter
-  - bible/Genesis/chapter
   - bible/Genesis/16
   - bible/old testament
 cssclass:
@@ -39,7 +38,7 @@ The angel of the Lord said to her, “Return to your mistress and submit to her.
 ###### 10
 The angel of the Lord also said to her, “I will surely multiply your offspring so that they cannot be numbered for multitude.”
 ###### 11
-And the angel of the Lord said to her, “Behold, you are pregnant and shall bear a son. You shall call his name Ishmael,   because the Lord has listened to your affliction.
+And the angel of the Lord said to her, “Behold, you are pregnant and shall bear a son. You shall call his name Ishmael, because the Lord has listened to your affliction.
 ###### 12
 He shall be a wild donkey of a man, his hand against everyone and everyone’s hand against him, and he shall dwell over against all his kinsmen.”
 ###### 13

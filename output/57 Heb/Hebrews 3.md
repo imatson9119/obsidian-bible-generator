@@ -9,7 +9,6 @@ aliases:
   - Heb_3
 tags:
   - bible/chapter
-  - bible/Hebrews/chapter
   - bible/Hebrews/3
   - bible/new testament
 cssclass:
@@ -31,7 +30,7 @@ Now Moses was faithful in all God’s house as a servant, to testify to the thin
 ###### 6
 but Christ is faithful over God’s house as a son. And we are his house, if indeed we hold fast our confidence and our boasting in our hope.
 ###### 7
-Therefore, as the Holy Spirit says,   “Today, if you hear his voice,
+Therefore, as the Holy Spirit says, “Today, if you hear his voice,
 ###### 8
 do not harden your hearts as in the rebellion, on the day of testing in the wilderness,
 ###### 9
@@ -47,7 +46,7 @@ But exhort one another every day, as long as it is called “today,” that none
 ###### 14
 For we have come to share in Christ, if indeed we hold our original confidence firm to the end.
 ###### 15
-As it is said,   “Today, if you hear his voice, do not harden your hearts as in the rebellion.”
+As it is said, “Today, if you hear his voice, do not harden your hearts as in the rebellion.”
 ###### 16
 For who were those who heard and yet rebelled? Was it not all those who left Egypt led by Moses?
 ###### 17

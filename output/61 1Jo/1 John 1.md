@@ -9,7 +9,6 @@ aliases:
   - 1Jo_1
 tags:
   - bible/chapter
-  - bible/1 John/chapter
   - bible/1 John/1
   - bible/new testament
 cssclass:

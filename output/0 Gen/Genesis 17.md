@@ -9,7 +9,6 @@ aliases:
   - Gen_17
 tags:
   - bible/chapter
-  - bible/Genesis/chapter
   - bible/Genesis/17
   - bible/old testament
 cssclass:
@@ -27,7 +26,7 @@ Then Abram fell on his face. And God said to him,
 ###### 4
 “Behold, my covenant is with you, and you shall be the father of a multitude of nations.
 ###### 5
-No longer shall your name be called Abram, but your name shall be Abraham,  for I have made you the father of a multitude of nations.
+No longer shall your name be called Abram, but your name shall be Abraham, for I have made you the father of a multitude of nations.
 ###### 6
 I will make you exceedingly fruitful, and I will make you into nations, and kings shall come from you.
 ###### 7

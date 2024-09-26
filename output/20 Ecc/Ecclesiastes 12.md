@@ -9,7 +9,6 @@ aliases:
   - Ecc_12
 tags:
   - bible/chapter
-  - bible/Ecclesiastes/chapter
   - bible/Ecclesiastes/12
   - bible/old testament
 cssclass:

@@ -9,7 +9,6 @@ aliases:
   - Hag_1
 tags:
   - bible/chapter
-  - bible/Haggai/chapter
   - bible/Haggai/1
   - bible/old testament
 cssclass:

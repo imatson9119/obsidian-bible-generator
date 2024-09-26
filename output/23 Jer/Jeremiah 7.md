@@ -9,7 +9,6 @@ aliases:
   - Jer_7
 tags:
   - bible/chapter
-  - bible/Jeremiah/chapter
   - bible/Jeremiah/7
   - bible/old testament
 cssclass:

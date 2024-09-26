@@ -9,7 +9,6 @@ aliases:
   - 1Ki_3
 tags:
   - bible/chapter
-  - bible/1 Kings/chapter
   - bible/1 Kings/3
   - bible/old testament
 cssclass:
@@ -19,7 +18,7 @@ cssclass:
 # 1 Kings 3
 
 ###### 1
-Solomon made a marriage alliance with Pharaoh king of Egypt. He took Pharaoh’s daughter and brought her into the city of David until he had finished building his own house and the house of the Lord  and the wall around Jerusalem.
+Solomon made a marriage alliance with Pharaoh king of Egypt. He took Pharaoh’s daughter and brought her into the city of David until he had finished building his own house and the house of the Lord and the wall around Jerusalem.
 ###### 2
 The people were sacrificing at the high places, however, because no house had yet been built for the name of the Lord.
 ###### 3

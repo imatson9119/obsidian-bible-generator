@@ -9,7 +9,6 @@ aliases:
   - Psa_140
 tags:
   - bible/chapter
-  - bible/Psalm/chapter
   - bible/Psalm/140
   - bible/old testament
 cssclass:
@@ -43,6 +42,6 @@ Let not the slanderer be established in the land; let evil hunt down the violent
 ###### 12
 I know that the Lord will maintain the cause of the afflicted, and will execute justice for the needy.
 ###### 13
-Surely the righteous shall give thanks to your name;   the upright shall dwell in your presence.
+Surely the righteous shall give thanks to your name; the upright shall dwell in your presence.
 
 

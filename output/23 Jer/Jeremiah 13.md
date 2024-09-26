@@ -9,7 +9,6 @@ aliases:
   - Jer_13
 tags:
   - bible/chapter
-  - bible/Jeremiah/chapter
   - bible/Jeremiah/13
   - bible/old testament
 cssclass:
@@ -49,9 +48,9 @@ And I will dash them one against another, fathers and sons together, declares th
 ###### 15
 Hear and give ear; be not proud, for the Lord has spoken.
 ###### 16
-Give glory to the Lord your God   before he brings darkness, before your feet stumble on the twilight mountains, and while you look for light he turns it into gloom and makes it deep darkness.
+Give glory to the Lord your God before he brings darkness, before your feet stumble on the twilight mountains, and while you look for light he turns it into gloom and makes it deep darkness.
 ###### 17
-But if you will not listen,   my soul will weep in secret for your pride; my eyes will weep bitterly and run down with tears, because the Lord’s flock has been taken captive.
+But if you will not listen, my soul will weep in secret for your pride; my eyes will weep bitterly and run down with tears, because the Lord’s flock has been taken captive.
 ###### 18
 Say to the king and the queen mother: “Take a lowly seat, for your beautiful crown has come down from your head.”
 ###### 19
@@ -59,18 +58,18 @@ The cities of the Negeb are shut up, with none to open them; all Judah is taken 
 ###### 20
 “Lift up your eyes and see those who come from the north. Where is the flock that was given you, your beautiful flock?
 ###### 21
-What will you say when they set as head over you those whom you yourself have taught to be friends to you?   Will not pangs take hold of you like those of a woman in labor?
+What will you say when they set as head over you those whom you yourself have taught to be friends to you? Will not pangs take hold of you like those of a woman in labor?
 ###### 22
-And if you say in your heart,   ‘Why have these things come upon me?’ it is for the greatness of your iniquity that your skirts are lifted up and you suffer violence.
+And if you say in your heart, ‘Why have these things come upon me?’ it is for the greatness of your iniquity that your skirts are lifted up and you suffer violence.
 ###### 23
 Can the Ethiopian change his skin or the leopard his spots? Then also you can do good who are accustomed to do evil.
 ###### 24
-I will scatter you  like chaff driven by the wind from the desert.
+I will scatter you like chaff driven by the wind from the desert.
 ###### 25
 This is your lot, the portion I have measured out to you, declares the Lord, because you have forgotten me and trusted in lies.
 ###### 26
 I myself will lift up your skirts over your face, and your shame will be seen.
 ###### 27
-I have seen your abominations, your adulteries and neighings, your lewd whorings,   on the hills in the field. Woe to you, O Jerusalem! How long will it be before you are made clean?”
+I have seen your abominations, your adulteries and neighings, your lewd whorings, on the hills in the field. Woe to you, O Jerusalem! How long will it be before you are made clean?”
 
 

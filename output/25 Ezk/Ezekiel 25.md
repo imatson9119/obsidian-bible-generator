@@ -9,7 +9,6 @@ aliases:
   - Ezk_25
 tags:
   - bible/chapter
-  - bible/Ezekiel/chapter
   - bible/Ezekiel/25
   - bible/old testament
 cssclass:
@@ -27,7 +26,7 @@ Say to the Ammonites, Hear the word of the Lord God: Thus says the Lord God, Bec
 ###### 4
 therefore behold, I am handing you over to the people of the East for a possession, and they shall set their encampments among you and make their dwellings in your midst. They shall eat your fruit, and they shall drink your milk.
 ###### 5
-I will make Rabbah a pasture for camels and Ammon  a fold for flocks. Then you will know that I am the Lord.
+I will make Rabbah a pasture for camels and Ammon a fold for flocks. Then you will know that I am the Lord.
 ###### 6
 For thus says the Lord God: Because you have clapped your hands and stamped your feet and rejoiced with all the malice within your soul against the land of Israel,
 ###### 7

@@ -9,7 +9,6 @@ aliases:
   - Ezk_21
 tags:
   - bible/chapter
-  - bible/Ezekiel/chapter
   - bible/Ezekiel/21
   - bible/old testament
 cssclass:
@@ -35,9 +34,9 @@ And when they say to you, ‘Why do you groan?’ you shall say, ‘Because of t
 ###### 8
 And the word of the Lord came to me:
 ###### 9
-“Son of man, prophesy and say, Thus says the Lord, say:   “A sword, a sword is sharpened and also polished,
+“Son of man, prophesy and say, Thus says the Lord, say: “A sword, a sword is sharpened and also polished,
 ###### 10
-sharpened for slaughter,   polished to flash like lightning! (Or shall we rejoice? You have despised the rod, my son, with everything of wood.)
+sharpened for slaughter, polished to flash like lightning! (Or shall we rejoice? You have despised the rod, my son, with everything of wood.)
 ###### 11
 So the sword is given to be polished, that it may be grasped in the hand. It is sharpened and polished to be given into the hand of the slayer.
 ###### 12
@@ -67,13 +66,13 @@ But to them it will seem like a false divination. They have sworn solemn oaths, 
 ###### 24
 “Therefore thus says the Lord God: Because you have made your guilt to be remembered, in that your transgressions are uncovered, so that in all your deeds your sins appear—because you have come to remembrance, you shall be taken in hand.
 ###### 25
-And you, O profane  wicked one, prince of Israel, whose day has come, the time of your final punishment,
+And you, O profane wicked one, prince of Israel, whose day has come, the time of your final punishment,
 ###### 26
 thus says the Lord God: Remove the turban and take off the crown. Things shall not remain as they are. Exalt that which is low, and bring low that which is exalted.
 ###### 27
 A ruin, ruin, ruin I will make it. This also shall not be, until he comes, the one to whom judgment belongs, and I will give it to him.
 ###### 28
-“And you, son of man, prophesy, and say, Thus says the Lord God  concerning the Ammonites and concerning their reproach; say, A sword, a sword is drawn for the slaughter. It is polished to consume and to flash like lightning—
+“And you, son of man, prophesy, and say, Thus says the Lord God concerning the Ammonites and concerning their reproach; say, A sword, a sword is drawn for the slaughter. It is polished to consume and to flash like lightning—
 ###### 29
 while they see for you false visions, while they divine lies for you—to place you on the necks of the profane wicked, whose day has come, the time of their final punishment.
 ###### 30

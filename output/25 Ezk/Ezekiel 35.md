@@ -9,7 +9,6 @@ aliases:
   - Ezk_35
 tags:
   - bible/chapter
-  - bible/Ezekiel/chapter
   - bible/Ezekiel/35
   - bible/old testament
 cssclass:
@@ -41,7 +40,7 @@ I will make you a perpetual desolation, and your cities shall not be inhabited. 
 ###### 11
 therefore, as I live, declares the Lord God, I will deal with you according to the anger and envy that you showed because of your hatred against them. And I will make myself known among them, when I judge you.
 ###### 12
-And you shall know that I am the Lord.   “I have heard all the revilings that you uttered against the mountains of Israel, saying, ‘They are laid desolate; they are given us to devour.’
+And you shall know that I am the Lord. “I have heard all the revilings that you uttered against the mountains of Israel, saying, ‘They are laid desolate; they are given us to devour.’
 ###### 13
 And you magnified yourselves against me with your mouth, and multiplied your words against me; I heard it.
 ###### 14

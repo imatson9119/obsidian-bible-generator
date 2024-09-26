@@ -9,7 +9,6 @@ aliases:
   - Gen_12
 tags:
   - bible/chapter
-  - bible/Genesis/chapter
   - bible/Genesis/12
   - bible/old testament
 cssclass:
@@ -51,7 +50,7 @@ And when the princes of Pharaoh saw her, they praised her to Pharaoh. And the wo
 ###### 16
 And for her sake he dealt well with Abram; and he had sheep, oxen, male donkeys, male servants, female servants, female donkeys, and camels.
 ###### 17
-But the Lord  afflicted Pharaoh and his house with great plagues because of Sarai, Abram’s wife.
+But the Lord afflicted Pharaoh and his house with great plagues because of Sarai, Abram’s wife.
 ###### 18
 So Pharaoh called Abram and said, “What is this you have done to me? Why did you not tell me that she was your wife?
 ###### 19

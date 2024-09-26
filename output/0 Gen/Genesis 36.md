@@ -9,7 +9,6 @@ aliases:
   - Gen_36
 tags:
   - bible/chapter
-  - bible/Genesis/chapter
   - bible/Genesis/36
   - bible/old testament
 cssclass:

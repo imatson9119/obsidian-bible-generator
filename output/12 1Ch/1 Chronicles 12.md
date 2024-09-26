@@ -9,7 +9,6 @@ aliases:
   - 1Ch_12
 tags:
   - bible/chapter
-  - bible/1 Chronicles/chapter
   - bible/1 Chronicles/12
   - bible/old testament
 cssclass:
@@ -53,7 +52,7 @@ And some of the men of Benjamin and Judah came to the stronghold to David.
 ###### 17
 David went out to meet them and said to them, “If you have come to me in friendship to help me, my heart will be joined to you; but if to betray me to my adversaries, although there is no wrong in my hands, then may the God of our fathers see and rebuke you.”
 ###### 18
-Then the Spirit clothed Amasai, chief of the thirty, and he said, “We are yours, O David, and with you, O son of Jesse!   Peace, peace to you, and peace to your helpers! For your God helps you.” Then David received them and made them officers of his troops.
+Then the Spirit clothed Amasai, chief of the thirty, and he said, “We are yours, O David, and with you, O son of Jesse! Peace, peace to you, and peace to your helpers! For your God helps you.” Then David received them and made them officers of his troops.
 ###### 19
 Some of the men of Manasseh deserted to David when he came with the Philistines for the battle against Saul. (Yet he did not help them, for the rulers of the Philistines took counsel and sent him away, saying, “At peril to our heads he will desert to his master Saul.”)
 ###### 20

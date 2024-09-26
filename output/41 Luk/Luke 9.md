@@ -9,7 +9,6 @@ aliases:
   - Luk_9
 tags:
   - bible/chapter
-  - bible/Luke/chapter
   - bible/Luke/9
   - bible/new testament
 cssclass:
@@ -87,7 +86,7 @@ And as the men were parting from him, Peter said to Jesus, “Master, it is good
 ###### 34
 As he was saying these things, a cloud came and overshadowed them, and they were afraid as they entered the cloud.
 ###### 35
-And a voice came out of the cloud, saying, “This is my Son, my Chosen One;  listen to him!”
+And a voice came out of the cloud, saying, “This is my Son, my Chosen One; listen to him!”
 ###### 36
 And when the voice had spoken, Jesus was found alone. And they kept silent and told no one in those days anything of what they had seen.
 ###### 37
@@ -103,7 +102,7 @@ Jesus answered, “O faithless and twisted generation, how long am I to be with 
 ###### 42
 While he was coming, the demon threw him to the ground and convulsed him. But Jesus rebuked the unclean spirit and healed the boy, and gave him back to his father.
 ###### 43
-And all were astonished at the majesty of God.   But while they were all marveling at everything he was doing, Jesus said to his disciples,
+And all were astonished at the majesty of God. But while they were all marveling at everything he was doing, Jesus said to his disciples,
 ###### 44
 “Let these words sink into your ears: The Son of Man is about to be delivered into the hands of men.”
 ###### 45

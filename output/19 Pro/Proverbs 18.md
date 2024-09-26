@@ -9,7 +9,6 @@ aliases:
   - Pro_18
 tags:
   - bible/chapter
-  - bible/Proverbs/chapter
   - bible/Proverbs/18
   - bible/old testament
 cssclass:

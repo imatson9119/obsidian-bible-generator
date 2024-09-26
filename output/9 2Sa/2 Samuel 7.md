@@ -9,7 +9,6 @@ aliases:
   - 2Sa_7
 tags:
   - bible/chapter
-  - bible/2 Samuel/chapter
   - bible/2 Samuel/7
   - bible/old testament
 cssclass:
@@ -19,7 +18,7 @@ cssclass:
 # 2 Samuel 7
 
 ###### 1
-Now when the king lived in his house and the Lord  had given him rest from all his surrounding enemies,
+Now when the king lived in his house and the Lord had given him rest from all his surrounding enemies,
 ###### 2
 the king said to Nathan the prophet, “See now, I dwell in a house of cedar, but the ark of God dwells in a tent.”
 ###### 3
@@ -49,7 +48,7 @@ I will be to him a father, and he shall be to me a son. When he commits iniquity
 ###### 15
 but my steadfast love will not depart from him, as I took it from Saul, whom I put away from before you.
 ###### 16
-And your house and your kingdom shall be made sure forever before me.  Your throne shall be established forever.’”
+And your house and your kingdom shall be made sure forever before me. Your throne shall be established forever.’”
 ###### 17
 In accordance with all these words, and in accordance with all this vision, Nathan spoke to David.
 ###### 18

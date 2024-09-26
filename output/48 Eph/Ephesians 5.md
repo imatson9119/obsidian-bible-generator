@@ -9,7 +9,6 @@ aliases:
   - Eph_5
 tags:
   - bible/chapter
-  - bible/Ephesians/chapter
   - bible/Ephesians/5
   - bible/new testament
 cssclass:
@@ -45,7 +44,7 @@ For it is shameful even to speak of the things that they do in secret.
 ###### 13
 But when anything is exposed by the light, it becomes visible,
 ###### 14
-for anything that becomes visible is light. Therefore it says,   “Awake, O sleeper, and arise from the dead, and Christ will shine on you.”
+for anything that becomes visible is light. Therefore it says, “Awake, O sleeper, and arise from the dead, and Christ will shine on you.”
 ###### 15
 Look carefully then how you walk, not as unwise but as wise,
 ###### 16

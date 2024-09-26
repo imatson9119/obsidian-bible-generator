@@ -9,7 +9,6 @@ aliases:
   - Jdg_18
 tags:
   - bible/chapter
-  - bible/Judges/chapter
   - bible/Judges/18
   - bible/old testament
 cssclass:
@@ -77,7 +76,7 @@ And there was no deliverer because it was far from Sidon, and they had no dealin
 ###### 29
 And they named the city Dan, after the name of Dan their ancestor, who was born to Israel; but the name of the city was Laish at the first.
 ###### 30
-And the people of Dan set up the carved image for themselves, and Jonathan the son of Gershom, son of Moses,  and his sons were priests to the tribe of the Danites until the day of the captivity of the land.
+And the people of Dan set up the carved image for themselves, and Jonathan the son of Gershom, son of Moses, and his sons were priests to the tribe of the Danites until the day of the captivity of the land.
 ###### 31
 So they set up Micah’s carved image that he made, as long as the house of God was at Shiloh.
 

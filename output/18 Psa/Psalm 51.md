@@ -9,7 +9,6 @@ aliases:
   - Psa_51
 tags:
   - bible/chapter
-  - bible/Psalm/chapter
   - bible/Psalm/51
   - bible/old testament
 cssclass:
@@ -19,21 +18,21 @@ cssclass:
 # Psalm 51
 
 ###### 1
-Have mercy on me, O God, according to your steadfast love; according to your abundant mercy   blot out my transgressions.
+Have mercy on me, O God, according to your steadfast love; according to your abundant mercy blot out my transgressions.
 ###### 2
 Wash me thoroughly from my iniquity, and cleanse me from my sin!
 ###### 3
 For I know my transgressions, and my sin is ever before me.
 ###### 4
-Against you, you only, have I sinned and done what is evil in your sight,   so that you may be justified in your words and blameless in your judgment.
+Against you, you only, have I sinned and done what is evil in your sight, so that you may be justified in your words and blameless in your judgment.
 ###### 5
 Behold, I was brought forth in iniquity, and in sin did my mother conceive me.
 ###### 6
 Behold, you delight in truth in the inward being, and you teach me wisdom in the secret heart.
 ###### 7
-Purge me with hyssop, and I shall be clean;   wash me, and I shall be whiter than snow.
+Purge me with hyssop, and I shall be clean; wash me, and I shall be whiter than snow.
 ###### 8
-Let me hear joy and gladness;   let the bones that you have broken rejoice.
+Let me hear joy and gladness; let the bones that you have broken rejoice.
 ###### 9
 Hide your face from my sins, and blot out all my iniquities.
 ###### 10
@@ -53,7 +52,7 @@ For you will not delight in sacrifice, or I would give it; you will not be pleas
 ###### 17
 The sacrifices of God are a broken spirit; a broken and contrite heart, O God, you will not despise.
 ###### 18
-Do good to Zion in your good pleasure;   build up the walls of Jerusalem;
+Do good to Zion in your good pleasure; build up the walls of Jerusalem;
 ###### 19
 then will you delight in right sacrifices, in burnt offerings and whole burnt offerings; then bulls will be offered on your altar.
 

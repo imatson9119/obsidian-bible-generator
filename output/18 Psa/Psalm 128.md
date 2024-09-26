@@ -9,7 +9,6 @@ aliases:
   - Psa_128
 tags:
   - bible/chapter
-  - bible/Psalm/chapter
   - bible/Psalm/128
   - bible/old testament
 cssclass:
@@ -29,6 +28,6 @@ Behold, thus shall the man be blessed who fears the Lord.
 ###### 5
 The Lord bless you from Zion! May you see the prosperity of Jerusalem all the days of your life!
 ###### 6
-May you see your children’s children!   Peace be upon Israel!
+May you see your children’s children! Peace be upon Israel!
 
 

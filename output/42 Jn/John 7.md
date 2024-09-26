@@ -9,7 +9,6 @@ aliases:
   - Jn_7
 tags:
   - bible/chapter
-  - bible/John/chapter
   - bible/John/7
   - bible/new testament
 cssclass:
@@ -33,7 +32,7 @@ Jesus said to them, “My time has not yet come, but your time is always here.
 ###### 7
 The world cannot hate you, but it hates me because I testify about it that its works are evil.
 ###### 8
-You go up to the feast. I am not  going up to this feast, for my time has not yet fully come.”
+You go up to the feast. I am not going up to this feast, for my time has not yet fully come.”
 ###### 9
 After saying this, he remained in Galilee.
 ###### 10
@@ -51,7 +50,7 @@ The Jews therefore marveled, saying, “How is it that this man has learning, wh
 ###### 16
 So Jesus answered them, “My teaching is not mine, but his who sent me.
 ###### 17
-If anyone’s will is to do God’s  will, he will know whether the teaching is from God or whether I am speaking on my own authority.
+If anyone’s will is to do God’s will, he will know whether the teaching is from God or whether I am speaking on my own authority.
 ###### 18
 The one who speaks on his own authority seeks his own glory; but the one who seeks the glory of him who sent him is true, and in him there is no falsehood.
 ###### 19
@@ -93,7 +92,7 @@ What does he mean by saying, ‘You will seek me and you will not find me,’ an
 ###### 37
 On the last day of the feast, the great day, Jesus stood up and cried out, “If anyone thirsts, let him come to me and drink.
 ###### 38
-Whoever believes in me, as  the Scripture has said, ‘Out of his heart will flow rivers of living water.’”
+Whoever believes in me, as the Scripture has said, ‘Out of his heart will flow rivers of living water.’”
 ###### 39
 Now this he said about the Spirit, whom those who believed in him were to receive, for as yet the Spirit had not been given, because Jesus was not yet glorified.
 ###### 40
@@ -121,7 +120,7 @@ Nicodemus, who had gone to him before, and who was one of them, said to them,
 ###### 51
 “Does our law judge a man without first giving him a hearing and learning what he does?”
 ###### 52
-They replied, “Are you from Galilee too? Search and see that no prophet arises from Galilee.”   [The earliest manuscripts do not include 7:53–8:11.]
+They replied, “Are you from Galilee too? Search and see that no prophet arises from Galilee.” [The earliest manuscripts do not include 7:53–8:11.]
 ###### 53
 [[They went each to his own house,
 

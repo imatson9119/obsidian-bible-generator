@@ -9,7 +9,6 @@ aliases:
   - Zch_3
 tags:
   - bible/chapter
-  - bible/Zechariah/chapter
   - bible/Zechariah/3
   - bible/old testament
 cssclass:

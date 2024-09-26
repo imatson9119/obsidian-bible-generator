@@ -9,7 +9,6 @@ aliases:
   - Jer_45
 tags:
   - bible/chapter
-  - bible/Jeremiah/chapter
   - bible/Jeremiah/45
   - bible/old testament
 cssclass:

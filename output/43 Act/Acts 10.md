@@ -9,7 +9,6 @@ aliases:
   - Act_10
 tags:
   - bible/chapter
-  - bible/Acts/chapter
   - bible/Acts/10
   - bible/new testament
 cssclass:
@@ -23,7 +22,7 @@ At Caesarea there was a man named Cornelius, a centurion of what was known as th
 ###### 2
 a devout man who feared God with all his household, gave alms generously to the people, and prayed continually to God.
 ###### 3
-About the ninth hour of the day  he saw clearly in a vision an angel of God come in and say to him, “Cornelius.”
+About the ninth hour of the day he saw clearly in a vision an angel of God come in and say to him, “Cornelius.”
 ###### 4
 And he stared at him in terror and said, “What is it, Lord?” And he said to him, “Your prayers and your alms have ascended as a memorial before God.
 ###### 5

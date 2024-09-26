@@ -9,7 +9,6 @@ aliases:
   - 1Ki_9
 tags:
   - bible/chapter
-  - bible/1 Kings/chapter
   - bible/1 Kings/9
   - bible/old testament
 cssclass:
@@ -19,7 +18,7 @@ cssclass:
 # 1 Kings 9
 
 ###### 1
-As soon as Solomon had finished building the house of the Lord  and the king’s house and all that Solomon desired to build,
+As soon as Solomon had finished building the house of the Lord and the king’s house and all that Solomon desired to build,
 ###### 2
 the Lord appeared to Solomon a second time, as he had appeared to him at Gibeon.
 ###### 3

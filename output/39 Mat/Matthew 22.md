@@ -9,7 +9,6 @@ aliases:
   - Mat_22
 tags:
   - bible/chapter
-  - bible/Matthew/chapter
   - bible/Matthew/22
   - bible/new testament
 cssclass:
@@ -23,7 +22,7 @@ And again Jesus spoke to them in parables, saying,
 ###### 2
 “The kingdom of heaven may be compared to a king who gave a wedding feast for his son,
 ###### 3
-and sent his servants  to call those who were invited to the wedding feast, but they would not come.
+and sent his servants to call those who were invited to the wedding feast, but they would not come.
 ###### 4
 Again he sent other servants, saying, ‘Tell those who are invited, “See, I have prepared my dinner, my oxen and my fat calves have been slaughtered, and everything is ready. Come to the wedding feast.”’
 ###### 5
@@ -39,7 +38,7 @@ Go therefore to the main roads and invite to the wedding feast as many as you fi
 ###### 10
 And those servants went out into the roads and gathered all whom they found, both bad and good. So the wedding hall was filled with guests.
 ###### 11
-“But when the king came in to look at the guests, he saw there     a man who had no wedding garment.
+“But when the king came in to look at the guests, he saw there a man who had no wedding garment.
 ###### 12
 And he said to him, ‘Friend, how did you get in here without a wedding garment?’ And he was speechless.
 ###### 13
@@ -105,9 +104,9 @@ saying, “What do you think about the Christ? Whose son is he?” They said to 
 ###### 43
 He said to them, “How is it then that David, in the Spirit, calls him Lord, saying,
 ###### 44
-“‘The Lord said to my Lord, “Sit at my right hand,   until I put your enemies under your feet”’?
+“‘The Lord said to my Lord, “Sit at my right hand, until I put your enemies under your feet”’?
 ###### 45
-If then David calls him Lord,     how is he his son?”
+If then David calls him Lord, how is he his son?”
 ###### 46
 And no one was able to answer him a word, nor from that day did anyone dare to ask him any more questions.
 

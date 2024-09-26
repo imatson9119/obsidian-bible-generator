@@ -9,7 +9,6 @@ aliases:
   - Ezk_44
 tags:
   - bible/chapter
-  - bible/Ezekiel/chapter
   - bible/Ezekiel/44
   - bible/old testament
 cssclass:

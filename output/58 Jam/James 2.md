@@ -9,7 +9,6 @@ aliases:
   - Jam_2
 tags:
   - bible/chapter
-  - bible/James/chapter
   - bible/James/2
   - bible/new testament
 cssclass:
@@ -19,7 +18,7 @@ cssclass:
 # James 2
 
 ###### 1
-My brothers,  show no partiality as you hold the faith in our Lord Jesus Christ, the Lord of glory.
+My brothers, show no partiality as you hold the faith in our Lord Jesus Christ, the Lord of glory.
 ###### 2
 For if a man wearing a gold ring and fine clothing comes into your assembly, and a poor man in shabby clothing also comes in,
 ###### 3

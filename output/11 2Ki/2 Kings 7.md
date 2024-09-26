@@ -9,7 +9,6 @@ aliases:
   - 2Ki_7
 tags:
   - bible/chapter
-  - bible/2 Kings/chapter
   - bible/2 Kings/7
   - bible/old testament
 cssclass:
@@ -23,7 +22,7 @@ But Elisha said, “Hear the word of the Lord: thus says the Lord, Tomorrow abou
 ###### 2
 Then the captain on whose hand the king leaned said to the man of God, “If the Lord himself should make windows in heaven, could this thing be?” But he said, “You shall see it with your own eyes, but you shall not eat of it.”
 ###### 3
-Now there were four men who were lepers  at the entrance to the gate. And they said to one another, “Why are we sitting here until we die?
+Now there were four men who were lepers at the entrance to the gate. And they said to one another, “Why are we sitting here until we die?
 ###### 4
 If we say, ‘Let us enter the city,’ the famine is in the city, and we shall die there. And if we sit here, we die also. So now come, let us go over to the camp of the Syrians. If they spare our lives we shall live, and if they kill us we shall but die.”
 ###### 5

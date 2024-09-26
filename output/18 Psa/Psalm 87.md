@@ -9,7 +9,6 @@ aliases:
   - Psa_87
 tags:
   - bible/chapter
-  - bible/Psalm/chapter
   - bible/Psalm/87
   - bible/old testament
 cssclass:
@@ -21,7 +20,7 @@ cssclass:
 ###### 1
 On the holy mount stands the city he founded;
 ###### 2
-the Lord  loves the gates of Zion more than all the dwelling places of Jacob.
+the Lord loves the gates of Zion more than all the dwelling places of Jacob.
 ###### 3
 Glorious things of you are spoken, O city of God. Selah
 ###### 4

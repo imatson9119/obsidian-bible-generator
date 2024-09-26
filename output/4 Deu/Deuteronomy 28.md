@@ -9,7 +9,6 @@ aliases:
   - Deu_28
 tags:
   - bible/chapter
-  - bible/Deuteronomy/chapter
   - bible/Deuteronomy/28
   - bible/old testament
 cssclass:
@@ -31,9 +30,9 @@ Blessed shall be your basket and your kneading bowl.
 ###### 6
 Blessed shall you be when you come in, and blessed shall you be when you go out.
 ###### 7
-“The Lord  will cause your enemies who rise against you to be defeated before you. They shall come out against you one way and flee before you seven ways.
+“The Lord will cause your enemies who rise against you to be defeated before you. They shall come out against you one way and flee before you seven ways.
 ###### 8
-The Lord  will command the blessing on you in your barns and in all that you undertake. And he will bless you in the land that the Lord your God is giving you.
+The Lord will command the blessing on you in your barns and in all that you undertake. And he will bless you in the land that the Lord your God is giving you.
 ###### 9
 The Lord will establish you as a people holy to himself, as he has sworn to you, if you keep the commandments of the Lord your God and walk in his ways.
 ###### 10
@@ -57,7 +56,7 @@ Cursed shall be the fruit of your womb and the fruit of your ground, the increas
 ###### 19
 Cursed shall you be when you come in, and cursed shall you be when you go out.
 ###### 20
-“The Lord  will send on you curses, confusion, and frustration in all that you undertake to do, until you are destroyed and perish quickly on account of the evil of your deeds, because you have forsaken me.
+“The Lord will send on you curses, confusion, and frustration in all that you undertake to do, until you are destroyed and perish quickly on account of the evil of your deeds, because you have forsaken me.
 ###### 21
 The Lord will make the pestilence stick to you until he has consumed you off the land that you are entering to take possession of it.
 ###### 22
@@ -143,9 +142,9 @@ Every sickness also and every affliction that is not recorded in the book of thi
 ###### 62
 Whereas you were as numerous as the stars of heaven, you shall be left few in number, because you did not obey the voice of the Lord your God.
 ###### 63
-And as the Lord  took delight in doing you good and multiplying you, so the Lord will take delight in bringing ruin upon you and destroying you. And you shall be plucked off the land that you are entering to take possession of it.
+And as the Lord took delight in doing you good and multiplying you, so the Lord will take delight in bringing ruin upon you and destroying you. And you shall be plucked off the land that you are entering to take possession of it.
 ###### 64
-“And the Lord  will scatter you among all peoples, from one end of the earth to the other, and there you shall serve other gods of wood and stone, which neither you nor your fathers have known.
+“And the Lord will scatter you among all peoples, from one end of the earth to the other, and there you shall serve other gods of wood and stone, which neither you nor your fathers have known.
 ###### 65
 And among these nations you shall find no respite, and there shall be no resting place for the sole of your foot, but the Lord will give you there a trembling heart and failing eyes and a languishing soul.
 ###### 66
@@ -153,6 +152,6 @@ Your life shall hang in doubt before you. Night and day you shall be in dread an
 ###### 67
 In the morning you shall say, ‘If only it were evening!’ and at evening you shall say, ‘If only it were morning!’ because of the dread that your heart shall feel, and the sights that your eyes shall see.
 ###### 68
-And the Lord  will bring you back in ships to Egypt, a journey that I promised that you should never make again; and there you shall offer yourselves for sale to your enemies as male and female slaves, but there will be no buyer.”
+And the Lord will bring you back in ships to Egypt, a journey that I promised that you should never make again; and there you shall offer yourselves for sale to your enemies as male and female slaves, but there will be no buyer.”
 
 

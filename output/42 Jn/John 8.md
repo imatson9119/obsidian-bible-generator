@@ -9,7 +9,6 @@ aliases:
   - Jn_8
 tags:
   - bible/chapter
-  - bible/John/chapter
   - bible/John/8
   - bible/new testament
 cssclass:
@@ -49,7 +48,7 @@ Jesus answered, “Even if I do bear witness about myself, my testimony is true,
 ###### 15
 You judge according to the flesh; I judge no one.
 ###### 16
-Yet even if I do judge, my judgment is true, for it is not I alone who judge, but I and the Father  who sent me.
+Yet even if I do judge, my judgment is true, for it is not I alone who judge, but I and the Father who sent me.
 ###### 17
 In your Law it is written that the testimony of two people is true.
 ###### 18
@@ -85,7 +84,7 @@ and you will know the truth, and the truth will set you free.”
 ###### 33
 They answered him, “We are offspring of Abraham and have never been enslaved to anyone. How is it that you say, ‘You will become free’?”
 ###### 34
-Jesus answered them, “Truly, truly, I say to you, everyone who practices sin is a slave  to sin.
+Jesus answered them, “Truly, truly, I say to you, everyone who practices sin is a slave to sin.
 ###### 35
 The slave does not remain in the house forever; the son remains forever.
 ###### 36

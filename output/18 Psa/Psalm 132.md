@@ -9,7 +9,6 @@ aliases:
   - Psa_132
 tags:
   - bible/chapter
-  - bible/Psalm/chapter
   - bible/Psalm/132
   - bible/old testament
 cssclass:
@@ -37,9 +36,9 @@ Arise, O Lord, and go to your resting place, you and the ark of your might.
 ###### 9
 Let your priests be clothed with righteousness, and let your saints shout for joy.
 ###### 10
-For the sake of your servant David,   do not turn away the face of your anointed one.
+For the sake of your servant David, do not turn away the face of your anointed one.
 ###### 11
-The Lord swore to David a sure oath   from which he will not turn back:   “One of the sons of your body I will set on your throne.
+The Lord swore to David a sure oath from which he will not turn back: “One of the sons of your body I will set on your throne.
 ###### 12
 If your sons keep my covenant and my testimonies that I shall teach them, their sons also forever shall sit on your throne.”
 ###### 13

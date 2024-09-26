@@ -9,7 +9,6 @@ aliases:
   - 1Ti_6
 tags:
   - bible/chapter
-  - bible/1 Timothy/chapter
   - bible/1 Timothy/6
   - bible/new testament
 cssclass:
@@ -21,7 +20,7 @@ cssclass:
 ###### 1
 Let all who are under a yoke as bondservants regard their own masters as worthy of all honor, so that the name of God and the teaching may not be reviled.
 ###### 2
-Those who have believing masters must not be disrespectful on the ground that they are brothers; rather they must serve all the better since those who benefit by their good service are believers and beloved.   Teach and urge these things.
+Those who have believing masters must not be disrespectful on the ground that they are brothers; rather they must serve all the better since those who benefit by their good service are believers and beloved. Teach and urge these things.
 ###### 3
 If anyone teaches a different doctrine and does not agree with the sound words of our Lord Jesus Christ and the teaching that accords with godliness,
 ###### 4
@@ -59,6 +58,6 @@ thus storing up treasure for themselves as a good foundation for the future, so 
 ###### 20
 O Timothy, guard the deposit entrusted to you. Avoid the irreverent babble and contradictions of what is falsely called “knowledge,”
 ###### 21
-for by professing it some have swerved from the faith.   Grace be with you.
+for by professing it some have swerved from the faith. Grace be with you.
 
 

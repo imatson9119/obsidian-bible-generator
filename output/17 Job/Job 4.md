@@ -9,7 +9,6 @@ aliases:
   - Job_4
 tags:
   - bible/chapter
-  - bible/Job/chapter
   - bible/Job/4
   - bible/old testament
 cssclass:
@@ -37,7 +36,7 @@ As I have seen, those who plow iniquity and sow trouble reap the same.
 ###### 9
 By the breath of God they perish, and by the blast of his anger they are consumed.
 ###### 10
-The roar of the lion, the voice of the fierce lion,   the teeth of the young lions are broken.
+The roar of the lion, the voice of the fierce lion, the teeth of the young lions are broken.
 ###### 11
 The strong lion perishes for lack of prey, and the cubs of the lioness are scattered.
 ###### 12
@@ -49,16 +48,16 @@ dread came upon me, and trembling, which made all my bones shake.
 ###### 15
 A spirit glided past my face; the hair of my flesh stood up.
 ###### 16
-It stood still, but I could not discern its appearance.   A form was before my eyes; there was silence, then I heard a voice:
+It stood still, but I could not discern its appearance. A form was before my eyes; there was silence, then I heard a voice:
 ###### 17
 ‘Can mortal man be in the right before God? Can a man be pure before his Maker?
 ###### 18
 Even in his servants he puts no trust, and his angels he charges with error;
 ###### 19
-how much more those who dwell in houses of clay, whose foundation is in the dust, who are crushed like  the moth.
+how much more those who dwell in houses of clay, whose foundation is in the dust, who are crushed like the moth.
 ###### 20
 Between morning and evening they are beaten to pieces; they perish forever without anyone regarding it.
 ###### 21
-Is not their tent-cord plucked up within them,   do they not die, and that without wisdom?’
+Is not their tent-cord plucked up within them, do they not die, and that without wisdom?’
 
 

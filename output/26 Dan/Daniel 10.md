@@ -9,7 +9,6 @@ aliases:
   - Dan_10
 tags:
   - bible/chapter
-  - bible/Daniel/chapter
   - bible/Daniel/10
   - bible/old testament
 cssclass:
@@ -33,7 +32,7 @@ His body was like beryl, his face like the appearance of lightning, his eyes lik
 ###### 7
 And I, Daniel, alone saw the vision, for the men who were with me did not see the vision, but a great trembling fell upon them, and they fled to hide themselves.
 ###### 8
-So I was left alone and saw this great vision, and no strength was left in me. My radiant appearance was fearfully changed,  and I retained no strength.
+So I was left alone and saw this great vision, and no strength was left in me. My radiant appearance was fearfully changed, and I retained no strength.
 ###### 9
 Then I heard the sound of his words, and as I heard the sound of his words, I fell on my face in deep sleep with my face to the ground.
 ###### 10

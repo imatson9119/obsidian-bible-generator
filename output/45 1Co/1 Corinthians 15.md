@@ -9,7 +9,6 @@ aliases:
   - 1Co_15
 tags:
   - bible/chapter
-  - bible/1 Corinthians/chapter
   - bible/1 Corinthians/15
   - bible/new testament
 cssclass:
@@ -107,7 +106,7 @@ It is sown in dishonor; it is raised in glory. It is sown in weakness; it is rai
 ###### 44
 It is sown a natural body; it is raised a spiritual body. If there is a natural body, there is also a spiritual body.
 ###### 45
-Thus it is written, “The first man Adam became a living being”;  the last Adam became a life-giving spirit.
+Thus it is written, “The first man Adam became a living being”; the last Adam became a life-giving spirit.
 ###### 46
 But it is not the spiritual that is first but the natural, and then the spiritual.
 ###### 47
@@ -125,7 +124,7 @@ in a moment, in the twinkling of an eye, at the last trumpet. For the trumpet wi
 ###### 53
 For this perishable body must put on the imperishable, and this mortal body must put on immortality.
 ###### 54
-When the perishable puts on the imperishable, and the mortal puts on immortality, then shall come to pass the saying that is written:   “Death is swallowed up in victory.”
+When the perishable puts on the imperishable, and the mortal puts on immortality, then shall come to pass the saying that is written: “Death is swallowed up in victory.”
 ###### 55
 “O death, where is your victory? O death, where is your sting?”
 ###### 56

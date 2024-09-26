@@ -9,7 +9,6 @@ aliases:
   - 1Th_4
 tags:
   - bible/chapter
-  - bible/1 Thessalonians/chapter
   - bible/1 Thessalonians/4
   - bible/new testament
 cssclass:
@@ -23,7 +22,7 @@ Finally, then, brothers, we ask and urge you in the Lord Jesus, that as you rece
 ###### 2
 For you know what instructions we gave you through the Lord Jesus.
 ###### 3
-For this is the will of God, your sanctification:  that you abstain from sexual immorality;
+For this is the will of God, your sanctification: that you abstain from sexual immorality;
 ###### 4
 that each one of you know how to control his own body in holiness and honor,
 ###### 5

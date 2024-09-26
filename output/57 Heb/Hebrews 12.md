@@ -9,7 +9,6 @@ aliases:
   - Heb_12
 tags:
   - bible/chapter
-  - bible/Hebrews/chapter
   - bible/Hebrews/12
   - bible/new testament
 cssclass:
@@ -27,7 +26,7 @@ Consider him who endured from sinners such hostility against himself, so that yo
 ###### 4
 In your struggle against sin you have not yet resisted to the point of shedding your blood.
 ###### 5
-And have you forgotten the exhortation that addresses you as sons?   “My son, do not regard lightly the discipline of the Lord, nor be weary when reproved by him.
+And have you forgotten the exhortation that addresses you as sons? “My son, do not regard lightly the discipline of the Lord, nor be weary when reproved by him.
 ###### 6
 For the Lord disciplines the one he loves, and chastises every son whom he receives.”
 ###### 7

@@ -9,7 +9,6 @@ aliases:
   - Ezk_9
 tags:
   - bible/chapter
-  - bible/Ezekiel/chapter
   - bible/Ezekiel/9
   - bible/old testament
 cssclass:

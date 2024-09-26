@@ -9,7 +9,6 @@ aliases:
   - Act_28
 tags:
   - bible/chapter
-  - bible/Acts/chapter
   - bible/Acts/28
   - bible/new testament
 cssclass:
@@ -69,7 +68,7 @@ And some were convinced by what he said, but others disbelieved.
 ###### 25
 And disagreeing among themselves, they departed after Paul had made one statement: “The Holy Spirit was right in saying to your fathers through Isaiah the prophet:
 ###### 26
-“‘Go to this people, and say,   “You will indeed hear but never understand, and you will indeed see but never perceive.”
+“‘Go to this people, and say, “You will indeed hear but never understand, and you will indeed see but never perceive.”
 ###### 27
 For this people’s heart has grown dull, and with their ears they can barely hear, and their eyes they have closed; lest they should see with their eyes and hear with their ears and understand with their heart and turn, and I would heal them.’
 ###### 28

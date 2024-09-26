@@ -9,7 +9,6 @@ aliases:
   - Pro_21
 tags:
   - bible/chapter
-  - bible/Proverbs/chapter
   - bible/Proverbs/21
   - bible/old testament
 cssclass:
@@ -21,11 +20,11 @@ cssclass:
 ###### 1
 The king’s heart is a stream of water in the hand of the Lord; he turns it wherever he will.
 ###### 2
-Every way of a man is right in his own eyes, but the Lord  weighs the heart.
+Every way of a man is right in his own eyes, but the Lord weighs the heart.
 ###### 3
 To do righteousness and justice is more acceptable to the Lord than sacrifice.
 ###### 4
-Haughty eyes and a proud heart,   the lamp of the wicked, are sin.
+Haughty eyes and a proud heart, the lamp of the wicked, are sin.
 ###### 5
 The plans of the diligent lead surely to abundance, but everyone who is hasty comes only to poverty.
 ###### 6
@@ -47,9 +46,9 @@ Whoever closes his ear to the cry of the poor will himself call out and not be a
 ###### 14
 A gift in secret averts anger, and a concealed bribe, strong wrath.
 ###### 15
-When justice is done, it is a joy to the righteous   but terror to evildoers.
+When justice is done, it is a joy to the righteous but terror to evildoers.
 ###### 16
-One who wanders from the way of good sense   will rest in the assembly of the dead.
+One who wanders from the way of good sense will rest in the assembly of the dead.
 ###### 17
 Whoever loves pleasure will be a poor man; he who loves wine and oil will not be rich.
 ###### 18
@@ -63,7 +62,7 @@ Whoever pursues righteousness and kindness will find life, righteousness, and ho
 ###### 22
 A wise man scales the city of the mighty and brings down the stronghold in which they trust.
 ###### 23
-Whoever keeps his mouth and his tongue   keeps himself out of trouble.
+Whoever keeps his mouth and his tongue keeps himself out of trouble.
 ###### 24
 “Scoffer” is the name of the arrogant, haughty man who acts with arrogant pride.
 ###### 25

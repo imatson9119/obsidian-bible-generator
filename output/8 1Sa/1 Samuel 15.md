@@ -9,7 +9,6 @@ aliases:
   - 1Sa_15
 tags:
   - bible/chapter
-  - bible/1 Samuel/chapter
   - bible/1 Samuel/15
   - bible/old testament
 cssclass:
@@ -61,9 +60,9 @@ And Saul said to Samuel, “I have obeyed the voice of the Lord. I have gone on 
 ###### 21
 But the people took of the spoil, sheep and oxen, the best of the things devoted to destruction, to sacrifice to the Lord your God in Gilgal.”
 ###### 22
-And Samuel said,   “Has the Lord as great delight in burnt offerings and sacrifices, as in obeying the voice of the Lord? Behold, to obey is better than sacrifice, and to listen than the fat of rams.
+And Samuel said, “Has the Lord as great delight in burnt offerings and sacrifices, as in obeying the voice of the Lord? Behold, to obey is better than sacrifice, and to listen than the fat of rams.
 ###### 23
-For rebellion is as the sin of divination, and presumption is as iniquity and idolatry. Because you have rejected the word of the Lord,   he has also rejected you from being king.”
+For rebellion is as the sin of divination, and presumption is as iniquity and idolatry. Because you have rejected the word of the Lord, he has also rejected you from being king.”
 ###### 24
 Saul said to Samuel, “I have sinned, for I have transgressed the commandment of the Lord and your words, because I feared the people and obeyed their voice.
 ###### 25
@@ -83,7 +82,7 @@ So Samuel turned back after Saul, and Saul bowed before the Lord.
 ###### 32
 Then Samuel said, “Bring here to me Agag the king of the Amalekites.” And Agag came to him cheerfully. Agag said, “Surely the bitterness of death is past.”
 ###### 33
-And Samuel said, “As your sword has made women childless, so shall your mother be childless among women.” And Samuel hacked Agag to pieces before the Lord  in Gilgal.
+And Samuel said, “As your sword has made women childless, so shall your mother be childless among women.” And Samuel hacked Agag to pieces before the Lord in Gilgal.
 ###### 34
 Then Samuel went to Ramah, and Saul went up to his house in Gibeah of Saul.
 ###### 35

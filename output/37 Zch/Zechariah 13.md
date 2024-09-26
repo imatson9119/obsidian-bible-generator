@@ -9,7 +9,6 @@ aliases:
   - Zch_13
 tags:
   - bible/chapter
-  - bible/Zechariah/chapter
   - bible/Zechariah/13
   - bible/old testament
 cssclass:
@@ -31,10 +30,10 @@ but he will say, ‘I am no prophet, I am a worker of the soil, for a man sold m
 ###### 6
 And if one asks him, ‘What are these wounds on your back?’ he will say, ‘The wounds I received in the house of my friends.’
 ###### 7
-“Awake, O sword, against my shepherd, against the man who stands next to me,” declares the Lord of hosts.   “Strike the shepherd, and the sheep will be scattered; I will turn my hand against the little ones.
+“Awake, O sword, against my shepherd, against the man who stands next to me,” declares the Lord of hosts. “Strike the shepherd, and the sheep will be scattered; I will turn my hand against the little ones.
 ###### 8
-In the whole land, declares the Lord, two thirds shall be cut off and perish,   and one third shall be left alive.
+In the whole land, declares the Lord, two thirds shall be cut off and perish, and one third shall be left alive.
 ###### 9
-And I will put this third into the fire, and refine them as one refines silver, and test them as gold is tested.   They will call upon my name, and I will answer them.   I will say, ‘They are my people’; and they will say, ‘The Lord is my God.’”
+And I will put this third into the fire, and refine them as one refines silver, and test them as gold is tested. They will call upon my name, and I will answer them. I will say, ‘They are my people’; and they will say, ‘The Lord is my God.’”
 
 

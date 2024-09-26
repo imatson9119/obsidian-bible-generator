@@ -9,7 +9,6 @@ aliases:
   - Ezk_17
 tags:
   - bible/chapter
-  - bible/Ezekiel/chapter
   - bible/Ezekiel/17
   - bible/old testament
 cssclass:
@@ -43,7 +42,7 @@ Then the word of the Lord came to me:
 ###### 12
 “Say now to the rebellious house, Do you not know what these things mean? Tell them, behold, the king of Babylon came to Jerusalem, and took her king and her princes and brought them to him to Babylon.
 ###### 13
-And he took one of the royal offspring  and made a covenant with him, putting him under oath (the chief men of the land he had taken away),
+And he took one of the royal offspring and made a covenant with him, putting him under oath (the chief men of the land he had taken away),
 ###### 14
 that the kingdom might be humble and not lift itself up, and keep his covenant that it might stand.
 ###### 15

@@ -9,7 +9,6 @@ aliases:
   - Job_38
 tags:
   - bible/chapter
-  - bible/Job/chapter
   - bible/Job/38
   - bible/old testament
 cssclass:
@@ -19,7 +18,7 @@ cssclass:
 # Job 38
 
 ###### 1
-Then the Lord  answered Job out of the whirlwind and said:
+Then the Lord answered Job out of the whirlwind and said:
 ###### 2
 “Who is this that darkens counsel by words without knowledge?
 ###### 3
@@ -63,7 +62,7 @@ You know, for you were born then, and the number of your days is great!
 ###### 22
 “Have you entered the storehouses of the snow, or have you seen the storehouses of the hail,
 ###### 23
-which I have reserved for the time of trouble,   for the day of battle and war?
+which I have reserved for the time of trouble, for the day of battle and war?
 ###### 24
 What is the way to the place where the light is distributed, or where the east wind is scattered upon the earth?
 ###### 25

@@ -9,7 +9,6 @@ aliases:
   - Ecc_7
 tags:
   - bible/chapter
-  - bible/Ecclesiastes/chapter
   - bible/Ecclesiastes/7
   - bible/old testament
 cssclass:
@@ -23,7 +22,7 @@ A good name is better than precious ointment, and the day of death than the day 
 ###### 2
 It is better to go to the house of mourning than to go to the house of feasting, for this is the end of all mankind, and the living will lay it to heart.
 ###### 3
-Sorrow is better than laughter,   for by sadness of face the heart is made glad.
+Sorrow is better than laughter, for by sadness of face the heart is made glad.
 ###### 4
 The heart of the wise is in the house of mourning, but the heart of fools is in the house of mirth.
 ###### 5
@@ -35,7 +34,7 @@ Surely oppression drives the wise into madness, and a bribe corrupts the heart.
 ###### 8
 Better is the end of a thing than its beginning, and the patient in spirit is better than the proud in spirit.
 ###### 9
-Be not quick in your spirit to become angry,   for anger lodges in the heart of fools.
+Be not quick in your spirit to become angry, for anger lodges in the heart of fools.
 ###### 10
 Say not, “Why were the former days better than these?” For it is not from wisdom that you ask this.
 ###### 11
@@ -43,7 +42,7 @@ Wisdom is good with an inheritance, an advantage to those who see the sun.
 ###### 12
 For the protection of wisdom is like the protection of money, and the advantage of knowledge is that wisdom preserves the life of him who has it.
 ###### 13
-Consider the work of God:   who can make straight what he has made crooked?
+Consider the work of God: who can make straight what he has made crooked?
 ###### 14
 In the day of prosperity be joyful, and in the day of adversity consider: God has made the one as well as the other, so that man may not find out anything that will be after him.
 ###### 15

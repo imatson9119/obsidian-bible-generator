@@ -9,7 +9,6 @@ aliases:
   - Rom_15
 tags:
   - bible/chapter
-  - bible/Romans/chapter
   - bible/Romans/15
   - bible/new testament
 cssclass:
@@ -35,13 +34,13 @@ Therefore welcome one another as Christ has welcomed you, for the glory of God.
 ###### 8
 For I tell you that Christ became a servant to the circumcised to show God’s truthfulness, in order to confirm the promises given to the patriarchs,
 ###### 9
-and in order that the Gentiles might glorify God for his mercy. As it is written,   “Therefore I will praise you among the Gentiles, and sing to your name.”
+and in order that the Gentiles might glorify God for his mercy. As it is written, “Therefore I will praise you among the Gentiles, and sing to your name.”
 ###### 10
-And again it is said,   “Rejoice, O Gentiles, with his people.”
+And again it is said, “Rejoice, O Gentiles, with his people.”
 ###### 11
-And again,   “Praise the Lord, all you Gentiles, and let all the peoples extol him.”
+And again, “Praise the Lord, all you Gentiles, and let all the peoples extol him.”
 ###### 12
-And again Isaiah says,     “The root of Jesse will come, even he who arises to rule the Gentiles;   in him will the Gentiles hope.”
+And again Isaiah says, “The root of Jesse will come, even he who arises to rule the Gentiles; in him will the Gentiles hope.”
 ###### 13
 May the God of hope fill you with all joy and peace in believing, so that by the power of the Holy Spirit you may abound in hope.
 ###### 14
@@ -59,7 +58,7 @@ by the power of signs and wonders, by the power of the Spirit of God—so that f
 ###### 20
 and thus I make it my ambition to preach the gospel, not where Christ has already been named, lest I build on someone else’s foundation,
 ###### 21
-but as it is written,   “Those who have never been told of him will see, and those who have never heard will understand.”
+but as it is written, “Those who have never been told of him will see, and those who have never heard will understand.”
 ###### 22
 This is the reason why I have so often been hindered from coming to you.
 ###### 23

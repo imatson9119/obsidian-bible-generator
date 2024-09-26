@@ -9,7 +9,6 @@ aliases:
   - 2Co_13
 tags:
   - bible/chapter
-  - bible/2 Corinthians/chapter
   - bible/2 Corinthians/13
   - bible/new testament
 cssclass:
@@ -39,7 +38,7 @@ For we are glad when we are weak and you are strong. Your restoration is what we
 ###### 10
 For this reason I write these things while I am away from you, that when I come I may not have to be severe in my use of the authority that the Lord has given me for building up and not for tearing down.
 ###### 11
-Finally, brothers, rejoice. Aim for restoration, comfort one another,  agree with one another, live in peace; and the God of love and peace will be with you.
+Finally, brothers, rejoice. Aim for restoration, comfort one another, agree with one another, live in peace; and the God of love and peace will be with you.
 ###### 12
 Greet one another with a holy kiss.
 ###### 13

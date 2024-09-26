@@ -9,7 +9,6 @@ aliases:
   - Num_36
 tags:
   - bible/chapter
-  - bible/Numbers/chapter
   - bible/Numbers/36
   - bible/old testament
 cssclass:

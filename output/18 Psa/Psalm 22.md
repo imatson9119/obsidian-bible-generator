@@ -9,7 +9,6 @@ aliases:
   - Psa_22
 tags:
   - bible/chapter
-  - bible/Psalm/chapter
   - bible/Psalm/22
   - bible/old testament
 cssclass:
@@ -23,13 +22,13 @@ My God, my God, why have you forsaken me? Why are you so far from saving me, fro
 ###### 2
 O my God, I cry by day, but you do not answer, and by night, but I find no rest.
 ###### 3
-Yet you are holy,   enthroned on the praises of Israel.
+Yet you are holy, enthroned on the praises of Israel.
 ###### 4
 In you our fathers trusted; they trusted, and you delivered them.
 ###### 5
 To you they cried and were rescued; in you they trusted and were not put to shame.
 ###### 6
-But I am a worm and not a man,   scorned by mankind and despised by the people.
+But I am a worm and not a man, scorned by mankind and despised by the people.
 ###### 7
 All who see me mock me; they make mouths at me; they wag their heads;
 ###### 8
@@ -41,7 +40,7 @@ On you was I cast from my birth, and from my mother’s womb you have been my Go
 ###### 11
 Be not far from me, for trouble is near, and there is none to help.
 ###### 12
-Many bulls encompass me;   strong bulls of Bashan surround me;
+Many bulls encompass me; strong bulls of Bashan surround me;
 ###### 13
 they open wide their mouths at me, like a ravening and roaring lion.
 ###### 14

@@ -9,7 +9,6 @@ aliases:
   - Act_16
 tags:
   - bible/chapter
-  - bible/Acts/chapter
   - bible/Acts/16
   - bible/new testament
 cssclass:

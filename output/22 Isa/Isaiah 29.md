@@ -9,7 +9,6 @@ aliases:
   - Isa_29
 tags:
   - bible/chapter
-  - bible/Isaiah/chapter
   - bible/Isaiah/29
   - bible/old testament
 cssclass:
@@ -27,7 +26,7 @@ And I will encamp against you all around, and will besiege you with towers and I
 ###### 4
 And you will be brought low; from the earth you shall speak, and from the dust your speech will be bowed down; your voice shall come from the ground like the voice of a ghost, and from the dust your speech shall whisper.
 ###### 5
-But the multitude of your foreign foes shall be like small dust, and the multitude of the ruthless like passing chaff.   And in an instant, suddenly,
+But the multitude of your foreign foes shall be like small dust, and the multitude of the ruthless like passing chaff. And in an instant, suddenly,
 ###### 6
 you will be visited by the Lord of hosts with thunder and with earthquake and great noise, with whirlwind and tempest, and the flame of a devouring fire.
 ###### 7
@@ -35,7 +34,7 @@ And the multitude of all the nations that fight against Ariel, all that fight ag
 ###### 8
 As when a hungry man dreams, and behold, he is eating, and awakes with his hunger not satisfied, or as when a thirsty man dreams, and behold, he is drinking, and awakes faint, with his thirst not quenched, so shall the multitude of all the nations be that fight against Mount Zion.
 ###### 9
-Astonish yourselves and be astonished; blind yourselves and be blind! Be drunk, but not with wine;   stagger, but not with strong drink!
+Astonish yourselves and be astonished; blind yourselves and be blind! Be drunk, but not with wine; stagger, but not with strong drink!
 ###### 10
 For the Lord has poured out upon you a spirit of deep sleep, and has closed your eyes (the prophets), and covered your heads (the seers).
 ###### 11
@@ -51,9 +50,9 @@ Ah, you who hide deep from the Lord your counsel, whose deeds are in the dark, a
 ###### 16
 You turn things upside down! Shall the potter be regarded as the clay, that the thing made should say of its maker, “He did not make me”; or the thing formed say of him who formed it, “He has no understanding”?
 ###### 17
-Is it not yet a very little while   until Lebanon shall be turned into a fruitful field, and the fruitful field shall be regarded as a forest?
+Is it not yet a very little while until Lebanon shall be turned into a fruitful field, and the fruitful field shall be regarded as a forest?
 ###### 18
-In that day the deaf shall hear   the words of a book, and out of their gloom and darkness   the eyes of the blind shall see.
+In that day the deaf shall hear the words of a book, and out of their gloom and darkness the eyes of the blind shall see.
 ###### 19
 The meek shall obtain fresh joy in the Lord, and the poor among mankind shall exult in the Holy One of Israel.
 ###### 20
@@ -63,7 +62,7 @@ who by a word make a man out to be an offender, and lay a snare for him who repr
 ###### 22
 Therefore thus says the Lord, who redeemed Abraham, concerning the house of Jacob: “Jacob shall no more be ashamed, no more shall his face grow pale.
 ###### 23
-For when he sees his children,   the work of my hands, in his midst, they will sanctify my name;   they will sanctify the Holy One of Jacob and will stand in awe of the God of Israel.
+For when he sees his children, the work of my hands, in his midst, they will sanctify my name; they will sanctify the Holy One of Jacob and will stand in awe of the God of Israel.
 ###### 24
 And those who go astray in spirit will come to understanding, and those who murmur will accept instruction.”
 

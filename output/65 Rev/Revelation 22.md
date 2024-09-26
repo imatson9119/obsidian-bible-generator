@@ -9,7 +9,6 @@ aliases:
   - Rev_22
 tags:
   - bible/chapter
-  - bible/Revelation/chapter
   - bible/Revelation/22
   - bible/new testament
 cssclass:
@@ -31,7 +30,7 @@ And night will be no more. They will need no light of lamp or sun, for the Lord 
 ###### 6
 And he said to me, “These words are trustworthy and true. And the Lord, the God of the spirits of the prophets, has sent his angel to show his servants what must soon take place.”
 ###### 7
-“And behold,     I am coming soon.     Blessed is the one who keeps the words of the prophecy of this book.”
+“And behold, I am coming soon. Blessed is the one who keeps the words of the prophecy of this book.”
 ###### 8
 I, John, am the one who heard and saw these things. And when I heard and saw them, I fell down to worship at the feet of the angel who showed them to me,
 ###### 9
@@ -41,7 +40,7 @@ And he said to me, “Do not seal up the words of the prophecy of this book, for
 ###### 11
 Let the evildoer still do evil, and the filthy still be filthy, and the righteous still do right, and the holy still be holy.”
 ###### 12
-“Behold,     I am coming soon,     bringing my recompense with me,     to repay each one for what he has done.
+“Behold, I am coming soon, bringing my recompense with me, to repay each one for what he has done.
 ###### 13
 I am the Alpha and the Omega, the first and the last, the beginning and the end.”
 ###### 14
@@ -49,7 +48,7 @@ Blessed are those who wash their robes, so that they may have the right to the t
 ###### 15
 Outside are the dogs and sorcerers and the sexually immoral and murderers and idolaters, and everyone who loves and practices falsehood.
 ###### 16
-“I, Jesus, have sent my angel to testify to you about these things     for the churches. I am     the root and     the descendant of David,     the bright morning star.”
+“I, Jesus, have sent my angel to testify to you about these things for the churches. I am the root and the descendant of David, the bright morning star.”
 ###### 17
 The Spirit and the Bride say, “Come.” And let the one who hears say, “Come.” And let the one who is thirsty come; let the one who desires take the water of life without price.
 ###### 18

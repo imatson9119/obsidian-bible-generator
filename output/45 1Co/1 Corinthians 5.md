@@ -9,7 +9,6 @@ aliases:
   - 1Co_5
 tags:
   - bible/chapter
-  - bible/1 Corinthians/chapter
   - bible/1 Corinthians/5
   - bible/new testament
 cssclass:

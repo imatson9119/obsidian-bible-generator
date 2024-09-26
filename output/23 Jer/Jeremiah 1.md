@@ -9,7 +9,6 @@ aliases:
   - Jer_1
 tags:
   - bible/chapter
-  - bible/Jeremiah/chapter
   - bible/Jeremiah/1
   - bible/old testament
 cssclass:
@@ -33,11 +32,11 @@ Then I said, “Ah, Lord God! Behold, I do not know how to speak, for I am only 
 ###### 7
 But the Lord said to me, “Do not say, ‘I am only a youth’; for to all to whom I send you, you shall go, and whatever I command you, you shall speak.
 ###### 8
-Do not be afraid of them,   for I am with you to deliver you, declares the Lord.”
+Do not be afraid of them, for I am with you to deliver you, declares the Lord.”
 ###### 9
 Then the Lord put out his hand and touched my mouth. And the Lord said to me, “Behold, I have put my words in your mouth.
 ###### 10
-See, I have set you this day over nations and over kingdoms,   to pluck up and to break down, to destroy and to overthrow, to build and to plant.”
+See, I have set you this day over nations and over kingdoms, to pluck up and to break down, to destroy and to overthrow, to build and to plant.”
 ###### 11
 And the word of the Lord came to me, saying, “Jeremiah, what do you see?” And I said, “I see an almond branch.”
 ###### 12

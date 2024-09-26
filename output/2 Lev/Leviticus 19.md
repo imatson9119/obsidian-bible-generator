@@ -9,7 +9,6 @@ aliases:
   - Lev_19
 tags:
   - bible/chapter
-  - bible/Leviticus/chapter
   - bible/Leviticus/19
   - bible/old testament
 cssclass:

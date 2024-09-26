@@ -9,7 +9,6 @@ aliases:
   - Psa_15
 tags:
   - bible/chapter
-  - bible/Psalm/chapter
   - bible/Psalm/15
   - bible/old testament
 cssclass:

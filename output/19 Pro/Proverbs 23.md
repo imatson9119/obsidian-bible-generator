@@ -9,7 +9,6 @@ aliases:
   - Pro_23
 tags:
   - bible/chapter
-  - bible/Proverbs/chapter
   - bible/Proverbs/23
   - bible/old testament
 cssclass:
@@ -25,11 +24,11 @@ and put a knife to your throat if you are given to appetite.
 ###### 3
 Do not desire his delicacies, for they are deceptive food.
 ###### 4
-Do not toil to acquire wealth;   be discerning enough to desist.
+Do not toil to acquire wealth; be discerning enough to desist.
 ###### 5
-When your eyes light on it, it is gone,   for suddenly it sprouts wings, flying like an eagle toward heaven.
+When your eyes light on it, it is gone, for suddenly it sprouts wings, flying like an eagle toward heaven.
 ###### 6
-Do not eat the bread of a man who is stingy;   do not desire his delicacies,
+Do not eat the bread of a man who is stingy; do not desire his delicacies,
 ###### 7
 for he is like one who is inwardly calculating. “Eat and drink!” he says to you, but his heart is not with you.
 ###### 8
@@ -43,7 +42,7 @@ for their Redeemer is strong; he will plead their cause against you.
 ###### 12
 Apply your heart to instruction and your ear to words of knowledge.
 ###### 13
-Do not withhold discipline from a child;   if you strike him with a rod, he will not die.
+Do not withhold discipline from a child; if you strike him with a rod, he will not die.
 ###### 14
 If you strike him with the rod, you will save his soul from Sheol.
 ###### 15
@@ -61,7 +60,7 @@ Be not among drunkards or among gluttonous eaters of meat,
 ###### 21
 for the drunkard and the glutton will come to poverty, and slumber will clothe them with rags.
 ###### 22
-Listen to your father who gave you life,   and do not despise your mother when she is old.
+Listen to your father who gave you life, and do not despise your mother when she is old.
 ###### 23
 Buy truth, and do not sell it; buy wisdom, instruction, and understanding.
 ###### 24
@@ -71,7 +70,7 @@ Let your father and mother be glad; let her who bore you rejoice.
 ###### 26
 My son, give me your heart, and let your eyes observe my ways.
 ###### 27
-For a prostitute is a deep pit;   an adulteress is a narrow well.
+For a prostitute is a deep pit; an adulteress is a narrow well.
 ###### 28
 She lies in wait like a robber and increases the traitors among mankind.
 ###### 29

@@ -9,7 +9,6 @@ aliases:
   - Ezk_15
 tags:
   - bible/chapter
-  - bible/Ezekiel/chapter
   - bible/Ezekiel/15
   - bible/old testament
 cssclass:

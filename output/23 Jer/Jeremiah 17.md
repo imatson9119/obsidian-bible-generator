@@ -9,7 +9,6 @@ aliases:
   - Jer_17
 tags:
   - bible/chapter
-  - bible/Jeremiah/chapter
   - bible/Jeremiah/17
   - bible/old testament
 cssclass:
@@ -29,31 +28,31 @@ You shall loosen your hand from your heritage that I gave to you, and I will mak
 ###### 5
 Thus says the Lord: “Cursed is the man who trusts in man and makes flesh his strength, whose heart turns away from the Lord.
 ###### 6
-He is like a shrub in the desert,   and shall not see any good come. He shall dwell in the parched places of the wilderness, in an uninhabited salt land.
+He is like a shrub in the desert, and shall not see any good come. He shall dwell in the parched places of the wilderness, in an uninhabited salt land.
 ###### 7
-“Blessed is the man who trusts in the Lord,   whose trust is the Lord.
+“Blessed is the man who trusts in the Lord, whose trust is the Lord.
 ###### 8
 He is like a tree planted by water, that sends out its roots by the stream, and does not fear when heat comes, for its leaves remain green, and is not anxious in the year of drought, for it does not cease to bear fruit.”
 ###### 9
 The heart is deceitful above all things, and desperately sick; who can understand it?
 ###### 10
-“I the Lord search the heart   and test the mind,   to give every man according to his ways, according to the fruit of his deeds.”
+“I the Lord search the heart and test the mind, to give every man according to his ways, according to the fruit of his deeds.”
 ###### 11
-Like the partridge that gathers a brood that she did not hatch, so is he who gets riches but not by justice;   in the midst of his days they will leave him,   and at his end he will be a fool.
+Like the partridge that gathers a brood that she did not hatch, so is he who gets riches but not by justice; in the midst of his days they will leave him, and at his end he will be a fool.
 ###### 12
 A glorious throne set on high from the beginning is the place of our sanctuary.
 ###### 13
-O Lord, the hope of Israel,   all who forsake you shall be put to shame; those who turn away from you  shall be written in the earth, for they have forsaken the Lord, the fountain of living water.
+O Lord, the hope of Israel, all who forsake you shall be put to shame; those who turn away from you shall be written in the earth, for they have forsaken the Lord, the fountain of living water.
 ###### 14
 Heal me, O Lord, and I shall be healed; save me, and I shall be saved, for you are my praise.
 ###### 15
 Behold, they say to me, “Where is the word of the Lord? Let it come!”
 ###### 16
-I have not run away from being your shepherd, nor have I desired the day of sickness.   You know what came out of my lips; it was before your face.
+I have not run away from being your shepherd, nor have I desired the day of sickness. You know what came out of my lips; it was before your face.
 ###### 17
-Be not a terror to me;   you are my refuge in the day of disaster.
+Be not a terror to me; you are my refuge in the day of disaster.
 ###### 18
-Let those be put to shame who persecute me, but let me not be put to shame;   let them be dismayed, but let me not be dismayed;   bring upon them the day of disaster; destroy them with double destruction!
+Let those be put to shame who persecute me, but let me not be put to shame; let them be dismayed, but let me not be dismayed; bring upon them the day of disaster; destroy them with double destruction!
 ###### 19
 Thus said the Lord to me: “Go and stand in the People’s Gate, by which the kings of Judah enter and by which they go out, and in all the gates of Jerusalem,
 ###### 20

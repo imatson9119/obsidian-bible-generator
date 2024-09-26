@@ -9,7 +9,6 @@ aliases:
   - Rom_13
 tags:
   - bible/chapter
-  - bible/Romans/chapter
   - bible/Romans/13
   - bible/new testament
 cssclass:

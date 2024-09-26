@@ -9,7 +9,6 @@ aliases:
   - 2Sa_12
 tags:
   - bible/chapter
-  - bible/2 Samuel/chapter
   - bible/2 Samuel/12
   - bible/old testament
 cssclass:
@@ -57,7 +56,7 @@ On the seventh day the child died. And the servants of David were afraid to tell
 ###### 19
 But when David saw that his servants were whispering together, David understood that the child was dead. And David said to his servants, “Is the child dead?” They said, “He is dead.”
 ###### 20
-Then David arose from the earth and washed and anointed himself and changed his clothes. And he went into the house of the Lord  and worshiped. He then went to his own house. And when he asked, they set food before him, and he ate.
+Then David arose from the earth and washed and anointed himself and changed his clothes. And he went into the house of the Lord and worshiped. He then went to his own house. And when he asked, they set food before him, and he ate.
 ###### 21
 Then his servants said to him, “What is this thing that you have done? You fasted and wept for the child while he was alive; but when the child died, you arose and ate food.”
 ###### 22

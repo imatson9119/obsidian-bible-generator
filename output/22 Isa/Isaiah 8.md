@@ -9,7 +9,6 @@ aliases:
   - Isa_8
 tags:
   - bible/chapter
-  - bible/Isaiah/chapter
   - bible/Isaiah/8
   - bible/old testament
 cssclass:

@@ -9,7 +9,6 @@ aliases:
   - Job_24
 tags:
   - bible/chapter
-  - bible/Job/chapter
   - bible/Job/24
   - bible/old testament
 cssclass:
@@ -27,7 +26,7 @@ They drive away the donkey of the fatherless; they take the widow’s ox for a p
 ###### 4
 They thrust the poor off the road; the poor of the earth all hide themselves.
 ###### 5
-Behold, like wild donkeys in the desert the poor  go out to their toil, seeking game; the wasteland yields food for their children.
+Behold, like wild donkeys in the desert the poor go out to their toil, seeking game; the wasteland yields food for their children.
 ###### 6
 They gather their fodder in the field, and they glean the vineyard of the wicked man.
 ###### 7

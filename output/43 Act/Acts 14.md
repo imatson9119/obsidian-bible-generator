@@ -9,7 +9,6 @@ aliases:
   - Act_14
 tags:
   - bible/chapter
-  - bible/Acts/chapter
   - bible/Acts/14
   - bible/new testament
 cssclass:

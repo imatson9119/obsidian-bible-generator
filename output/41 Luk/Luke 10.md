@@ -9,7 +9,6 @@ aliases:
   - Luk_10
 tags:
   - bible/chapter
-  - bible/Luke/chapter
   - bible/Luke/10
   - bible/new testament
 cssclass:
@@ -43,13 +42,13 @@ But whenever you enter a town and they do not receive you, go into its streets a
 ###### 12
 I tell you, it will be more bearable on that day for Sodom than for that town.
 ###### 13
-“Woe to you, Chorazin! Woe to you, Bethsaida! For if the mighty works done in you had been done in     Tyre and Sidon, they would have repented long ago, sitting in sackcloth and ashes.
+“Woe to you, Chorazin! Woe to you, Bethsaida! For if the mighty works done in you had been done in Tyre and Sidon, they would have repented long ago, sitting in sackcloth and ashes.
 ###### 14
 But it will be more bearable in the judgment for Tyre and Sidon than for you.
 ###### 15
 And you, Capernaum, will you be exalted to heaven? You shall be brought down to Hades.
 ###### 16
-“The one who hears you hears me, and     the one who rejects you rejects me, and     the one who rejects me rejects him who sent me.”
+“The one who hears you hears me, and the one who rejects you rejects me, and the one who rejects me rejects him who sent me.”
 ###### 17
 The seventy-two returned with joy, saying, “Lord, even the demons are subject to us in your name!”
 ###### 18
@@ -87,7 +86,7 @@ But a Samaritan, as he journeyed, came to where he was, and when he saw him, he 
 ###### 34
 He went to him and bound up his wounds, pouring on oil and wine. Then he set him on his own animal and brought him to an inn and took care of him.
 ###### 35
-And the next day he took out two denarii  and gave them to the innkeeper, saying, ‘Take care of him, and whatever more you spend, I will repay you when I come back.’
+And the next day he took out two denarii and gave them to the innkeeper, saying, ‘Take care of him, and whatever more you spend, I will repay you when I come back.’
 ###### 36
 Which of these three, do you think, proved to be a neighbor to the man who fell among the robbers?”
 ###### 37
@@ -101,6 +100,6 @@ But Martha was distracted with much serving. And she went up to him and said, �
 ###### 41
 But the Lord answered her, “Martha, Martha, you are anxious and troubled about many things,
 ###### 42
-but one thing is necessary.  Mary has chosen the good portion, which will not be taken away from her.”
+but one thing is necessary. Mary has chosen the good portion, which will not be taken away from her.”
 
 

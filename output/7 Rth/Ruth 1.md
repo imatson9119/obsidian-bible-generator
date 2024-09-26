@@ -9,7 +9,6 @@ aliases:
   - Rth_1
 tags:
   - bible/chapter
-  - bible/Ruth/chapter
   - bible/Ruth/1
   - bible/old testament
 cssclass:
@@ -33,7 +32,7 @@ Then she arose with her daughters-in-law to return from the country of Moab, for
 ###### 7
 So she set out from the place where she was with her two daughters-in-law, and they went on the way to return to the land of Judah.
 ###### 8
-But Naomi said to her two daughters-in-law, “Go, return each of you to her mother’s house. May the Lord  deal kindly with you, as you have dealt with the dead and with me.
+But Naomi said to her two daughters-in-law, “Go, return each of you to her mother’s house. May the Lord deal kindly with you, as you have dealt with the dead and with me.
 ###### 9
 The Lord grant that you may find rest, each of you in the house of her husband!” Then she kissed them, and they lifted up their voices and wept.
 ###### 10

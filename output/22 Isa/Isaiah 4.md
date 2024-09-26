@@ -9,7 +9,6 @@ aliases:
   - Isa_4
 tags:
   - bible/chapter
-  - bible/Isaiah/chapter
   - bible/Isaiah/4
   - bible/old testament
 cssclass:

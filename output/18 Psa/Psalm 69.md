@@ -9,7 +9,6 @@ aliases:
   - Psa_69
 tags:
   - bible/chapter
-  - bible/Psalm/chapter
   - bible/Psalm/69
   - bible/old testament
 cssclass:
@@ -23,9 +22,9 @@ Save me, O God! For the waters have come up to my neck.
 ###### 2
 I sink in deep mire, where there is no foothold; I have come into deep waters, and the flood sweeps over me.
 ###### 3
-I am weary with my crying out;   my throat is parched.   My eyes grow dim with waiting for my God.
+I am weary with my crying out; my throat is parched. My eyes grow dim with waiting for my God.
 ###### 4
-More in number than the hairs of my head are those who hate me without cause; mighty are those who would destroy me,   those who attack me with lies. What I did not steal must I now restore?
+More in number than the hairs of my head are those who hate me without cause; mighty are those who would destroy me, those who attack me with lies. What I did not steal must I now restore?
 ###### 5
 O God, you know my folly; the wrongs I have done are not hidden from you.
 ###### 6
@@ -45,13 +44,13 @@ I am the talk of those who sit in the gate, and the drunkards make songs about m
 ###### 13
 But as for me, my prayer is to you, O Lord. At an acceptable time, O God, in the abundance of your steadfast love answer me in your saving faithfulness.
 ###### 14
-Deliver me from sinking in the mire;   let me be delivered from my enemies and from the deep waters.
+Deliver me from sinking in the mire; let me be delivered from my enemies and from the deep waters.
 ###### 15
 Let not the flood sweep over me, or the deep swallow me up, or the pit close its mouth over me.
 ###### 16
 Answer me, O Lord, for your steadfast love is good; according to your abundant mercy, turn to me.
 ###### 17
-Hide not your face from your servant,   for I am in distress; make haste to answer me.
+Hide not your face from your servant, for I am in distress; make haste to answer me.
 ###### 18
 Draw near to my soul, redeem me; ransom me because of my enemies!
 ###### 19
@@ -61,9 +60,9 @@ Reproaches have broken my heart, so that I am in despair. I looked for pity, but
 ###### 21
 They gave me poison for food, and for my thirst they gave me sour wine to drink.
 ###### 22
-Let their own table before them become a snare;   and when they are at peace, let it become a trap.
+Let their own table before them become a snare; and when they are at peace, let it become a trap.
 ###### 23
-Let their eyes be darkened, so that they cannot see,   and make their loins tremble continually.
+Let their eyes be darkened, so that they cannot see, and make their loins tremble continually.
 ###### 24
 Pour out your indignation upon them, and let your burning anger overtake them.
 ###### 25

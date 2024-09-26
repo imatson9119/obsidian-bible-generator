@@ -9,7 +9,6 @@ aliases:
   - Zch_11
 tags:
   - bible/chapter
-  - bible/Zechariah/chapter
   - bible/Zechariah/11
   - bible/old testament
 cssclass:
@@ -23,7 +22,7 @@ Open your doors, O Lebanon, that the fire may devour your cedars!
 ###### 2
 Wail, O cypress, for the cedar has fallen, for the glorious trees are ruined! Wail, oaks of Bashan, for the thick forest has been felled!
 ###### 3
-The sound of the wail of the shepherds, for their glory is ruined! The sound of the roar of the lions,   for the thicket of the Jordan is ruined!
+The sound of the wail of the shepherds, for their glory is ruined! The sound of the roar of the lions, for the thicket of the Jordan is ruined!
 ###### 4
 Thus said the Lord my God: “Become shepherd of the flock doomed to slaughter.
 ###### 5
@@ -51,6 +50,6 @@ Then the Lord said to me, “Take once more the equipment of a foolish shepherd.
 ###### 16
 For behold, I am raising up in the land a shepherd who does not care for those being destroyed, or seek the young or heal the maimed or nourish the healthy, but devours the flesh of the fat ones, tearing off even their hoofs.
 ###### 17
-“Woe to my worthless shepherd,   who deserts the flock! May the sword strike his arm and his right eye! Let his arm be wholly withered, his right eye utterly blinded!”
+“Woe to my worthless shepherd, who deserts the flock! May the sword strike his arm and his right eye! Let his arm be wholly withered, his right eye utterly blinded!”
 
 

@@ -9,7 +9,6 @@ aliases:
   - Jn_4
 tags:
   - bible/chapter
-  - bible/John/chapter
   - bible/John/4
   - bible/new testament
 cssclass:
@@ -45,7 +44,7 @@ Are you greater than our father Jacob? He gave us the well and drank from it him
 ###### 13
 Jesus said to her, “Everyone who drinks of this water will be thirsty again,
 ###### 14
-but whoever drinks of the water that I will give him will never be thirsty again.  The water that I will give him will become in him a spring of water welling up to eternal life.”
+but whoever drinks of the water that I will give him will never be thirsty again. The water that I will give him will become in him a spring of water welling up to eternal life.”
 ###### 15
 The woman said to him, “Sir, give me this water, so that I will not be thirsty or have to come here to draw water.”
 ###### 16
@@ -113,7 +112,7 @@ So he came again to Cana in Galilee, where he had made the water wine. And at Ca
 ###### 47
 When this man heard that Jesus had come from Judea to Galilee, he went to him and asked him to come down and heal his son, for he was at the point of death.
 ###### 48
-So Jesus said to him, “Unless you  see signs and wonders you will not believe.”
+So Jesus said to him, “Unless you see signs and wonders you will not believe.”
 ###### 49
 The official said to him, “Sir, come down before my child dies.”
 ###### 50

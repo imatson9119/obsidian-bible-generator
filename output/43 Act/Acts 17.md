@@ -9,7 +9,6 @@ aliases:
   - Act_17
 tags:
   - bible/chapter
-  - bible/Acts/chapter
   - bible/Acts/17
   - bible/new testament
 cssclass:
@@ -27,7 +26,7 @@ explaining and proving that it was necessary for the Christ to suffer and to ris
 ###### 4
 And some of them were persuaded and joined Paul and Silas, as did a great many of the devout Greeks and not a few of the leading women.
 ###### 5
-But the Jews  were jealous, and taking some wicked men of the rabble, they formed a mob, set the city in an uproar, and attacked the house of Jason, seeking to bring them out to the crowd.
+But the Jews were jealous, and taking some wicked men of the rabble, they formed a mob, set the city in an uproar, and attacked the house of Jason, seeking to bring them out to the crowd.
 ###### 6
 And when they could not find them, they dragged Jason and some of the brothers before the city authorities, shouting, “These men who have turned the world upside down have come here also,
 ###### 7
@@ -73,7 +72,7 @@ And he made from one man every nation of mankind to live on all the face of the 
 ###### 27
 that they should seek God, and perhaps feel their way toward him and find him. Yet he is actually not far from each one of us,
 ###### 28
-for   “‘In him we live and move and have our being’; as even some of your own poets have said, “‘For we are indeed his offspring.’
+for “‘In him we live and move and have our being’; as even some of your own poets have said, “‘For we are indeed his offspring.’
 ###### 29
 Being then God’s offspring, we ought not to think that the divine being is like gold or silver or stone, an image formed by the art and imagination of man.
 ###### 30

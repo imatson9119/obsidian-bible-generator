@@ -9,7 +9,6 @@ aliases:
   - Lev_3
 tags:
   - bible/chapter
-  - bible/Leviticus/chapter
   - bible/Leviticus/3
   - bible/old testament
 cssclass:

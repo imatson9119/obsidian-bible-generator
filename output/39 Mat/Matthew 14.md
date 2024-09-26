@@ -9,7 +9,6 @@ aliases:
   - Mat_14
 tags:
   - bible/chapter
-  - bible/Matthew/chapter
   - bible/Matthew/14
   - bible/new testament
 cssclass:

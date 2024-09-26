@@ -9,7 +9,6 @@ aliases:
   - Act_11
 tags:
   - bible/chapter
-  - bible/Acts/chapter
   - bible/Acts/11
   - bible/new testament
 cssclass:

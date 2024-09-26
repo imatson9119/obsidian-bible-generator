@@ -9,7 +9,6 @@ aliases:
   - Ezk_42
 tags:
   - bible/chapter
-  - bible/Ezekiel/chapter
   - bible/Ezekiel/42
   - bible/old testament
 cssclass:
@@ -43,7 +42,7 @@ with a passage in front of them. They were similar to the chambers on the north,
 ###### 12
 as were the entrances of the chambers on the south. There was an entrance at the beginning of the passage, the passage before the corresponding wall on the east as one enters them.
 ###### 13
-Then he said to me, “The north chambers and the south chambers opposite the yard are the holy chambers, where the priests who approach the Lord  shall eat the most holy offerings. There they shall put the most holy offerings—the grain offering, the sin offering, and the guilt offering—for the place is holy.
+Then he said to me, “The north chambers and the south chambers opposite the yard are the holy chambers, where the priests who approach the Lord shall eat the most holy offerings. There they shall put the most holy offerings—the grain offering, the sin offering, and the guilt offering—for the place is holy.
 ###### 14
 When the priests enter the Holy Place, they shall not go out of it into the outer court without laying there the garments in which they minister, for these are holy. They shall put on other garments before they go near to that which is for the people.”
 ###### 15

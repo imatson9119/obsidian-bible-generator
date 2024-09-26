@@ -9,7 +9,6 @@ aliases:
   - Jer_16
 tags:
   - bible/chapter
-  - bible/Jeremiah/chapter
   - bible/Jeremiah/16
   - bible/old testament
 cssclass:
@@ -55,7 +54,7 @@ For my eyes are on all their ways. They are not hidden from me, nor is their ini
 ###### 18
 But first I will doubly repay their iniquity and their sin, because they have polluted my land with the carcasses of their detestable idols, and have filled my inheritance with their abominations.”
 ###### 19
-O Lord, my strength and my stronghold,   my refuge in the day of trouble,   to you shall the nations come from the ends of the earth and say: “Our fathers have inherited nothing but lies,   worthless things in which there is no profit.
+O Lord, my strength and my stronghold, my refuge in the day of trouble, to you shall the nations come from the ends of the earth and say: “Our fathers have inherited nothing but lies, worthless things in which there is no profit.
 ###### 20
 Can man make for himself gods? Such are not gods!”
 ###### 21

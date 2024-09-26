@@ -9,7 +9,6 @@ aliases:
   - Psa_139
 tags:
   - bible/chapter
-  - bible/Psalm/chapter
   - bible/Psalm/139
   - bible/old testament
 cssclass:
@@ -33,7 +32,7 @@ Such knowledge is too wonderful for me; it is high; I cannot attain it.
 ###### 7
 Where shall I go from your Spirit? Or where shall I flee from your presence?
 ###### 8
-If I ascend to heaven, you are there!   If I make my bed in Sheol, you are there!
+If I ascend to heaven, you are there! If I make my bed in Sheol, you are there!
 ###### 9
 If I take the wings of the morning and dwell in the uttermost parts of the sea,
 ###### 10
@@ -45,7 +44,7 @@ even the darkness is not dark to you; the night is bright as the day, for darkne
 ###### 13
 For you formed my inward parts; you knitted me together in my mother’s womb.
 ###### 14
-I praise you, for I am fearfully and wonderfully made.   Wonderful are your works; my soul knows it very well.
+I praise you, for I am fearfully and wonderfully made. Wonderful are your works; my soul knows it very well.
 ###### 15
 My frame was not hidden from you, when I was being made in secret, intricately woven in the depths of the earth.
 ###### 16
@@ -63,7 +62,7 @@ Do I not hate those who hate you, O Lord? And do I not loathe those who rise up 
 ###### 22
 I hate them with complete hatred; I count them my enemies.
 ###### 23
-Search me, O God, and know my heart!   Try me and know my thoughts!
+Search me, O God, and know my heart! Try me and know my thoughts!
 ###### 24
 And see if there be any grievous way in me, and lead me in the way everlasting!
 

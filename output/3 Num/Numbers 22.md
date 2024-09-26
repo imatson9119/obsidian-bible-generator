@@ -9,7 +9,6 @@ aliases:
   - Num_22
 tags:
   - bible/chapter
-  - bible/Numbers/chapter
   - bible/Numbers/22
   - bible/old testament
 cssclass:
@@ -73,13 +72,13 @@ Then the angel of the Lord went ahead and stood in a narrow place, where there w
 ###### 27
 When the donkey saw the angel of the Lord, she lay down under Balaam. And Balaam’s anger was kindled, and he struck the donkey with his staff.
 ###### 28
-Then the Lord  opened the mouth of the donkey, and she said to Balaam, “What have I done to you, that you have struck me these three times?”
+Then the Lord opened the mouth of the donkey, and she said to Balaam, “What have I done to you, that you have struck me these three times?”
 ###### 29
 And Balaam said to the donkey, “Because you have made a fool of me. I wish I had a sword in my hand, for then I would kill you.”
 ###### 30
 And the donkey said to Balaam, “Am I not your donkey, on which you have ridden all your life long to this day? Is it my habit to treat you this way?” And he said, “No.”
 ###### 31
-Then the Lord  opened the eyes of Balaam, and he saw the angel of the Lord standing in the way, with his drawn sword in his hand. And he bowed down and fell on his face.
+Then the Lord opened the eyes of Balaam, and he saw the angel of the Lord standing in the way, with his drawn sword in his hand. And he bowed down and fell on his face.
 ###### 32
 And the angel of the Lord said to him, “Why have you struck your donkey these three times? Behold, I have come out to oppose you because your way is perverse before me.
 ###### 33

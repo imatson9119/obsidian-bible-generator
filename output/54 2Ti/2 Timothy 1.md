@@ -9,7 +9,6 @@ aliases:
   - 2Ti_1
 tags:
   - bible/chapter
-  - bible/2 Timothy/chapter
   - bible/2 Timothy/1
   - bible/new testament
 cssclass:
@@ -21,7 +20,7 @@ cssclass:
 ###### 1
 Paul, an apostle of Christ Jesus by the will of God according to the promise of the life that is in Christ Jesus,
 ###### 2
-To Timothy, my beloved child:   Grace, mercy, and peace from God the Father and Christ Jesus our Lord.
+To Timothy, my beloved child: Grace, mercy, and peace from God the Father and Christ Jesus our Lord.
 ###### 3
 I thank God whom I serve, as did my ancestors, with a clear conscience, as I remember you constantly in my prayers night and day.
 ###### 4

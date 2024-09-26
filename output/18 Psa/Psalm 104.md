@@ -9,7 +9,6 @@ aliases:
   - Psa_104
 tags:
   - bible/chapter
-  - bible/Psalm/chapter
   - bible/Psalm/104
   - bible/old testament
 cssclass:
@@ -19,9 +18,9 @@ cssclass:
 # Psalm 104
 
 ###### 1
-Bless the Lord, O my soul! O Lord my God, you are very great!   You are clothed with splendor and majesty,
+Bless the Lord, O my soul! O Lord my God, you are very great! You are clothed with splendor and majesty,
 ###### 2
-covering yourself with light as with a garment,   stretching out the heavens like a tent.
+covering yourself with light as with a garment, stretching out the heavens like a tent.
 ###### 3
 He lays the beams of his chambers on the waters; he makes the clouds his chariot; he rides on the wings of the wind;
 ###### 4
@@ -47,9 +46,9 @@ From your lofty abode you water the mountains; the earth is satisfied with the f
 ###### 14
 You cause the grass to grow for the livestock and plants for man to cultivate, that he may bring forth food from the earth
 ###### 15
-and wine to gladden the heart of man,   oil to make his face shine and bread to strengthen man’s heart.
+and wine to gladden the heart of man, oil to make his face shine and bread to strengthen man’s heart.
 ###### 16
-The trees of the Lord are watered abundantly,   the cedars of Lebanon that he planted.
+The trees of the Lord are watered abundantly, the cedars of Lebanon that he planted.
 ###### 17
 In them the birds build their nests; the stork has her home in the fir trees.
 ###### 18
@@ -67,7 +66,7 @@ Man goes out to his work and to his labor until the evening.
 ###### 24
 O Lord, how manifold are your works! In wisdom have you made them all; the earth is full of your creatures.
 ###### 25
-Here is the sea, great and wide,   which teems with creatures innumerable, living things both small and great.
+Here is the sea, great and wide, which teems with creatures innumerable, living things both small and great.
 ###### 26
 There go the ships, and Leviathan, which you formed to play in it.
 ###### 27
@@ -79,14 +78,14 @@ When you hide your face, they are dismayed; when you take away their breath, the
 ###### 30
 When you send forth your Spirit, they are created, and you renew the face of the ground.
 ###### 31
-May the glory of the Lord  endure forever; may the Lord  rejoice in his works,
+May the glory of the Lord endure forever; may the Lord rejoice in his works,
 ###### 32
 who looks on the earth and it trembles, who touches the mountains and they smoke!
 ###### 33
-I will sing to the Lord  as long as I live; I will sing praise to my God while I have being.
+I will sing to the Lord as long as I live; I will sing praise to my God while I have being.
 ###### 34
 May my meditation be pleasing to him, for I rejoice in the Lord.
 ###### 35
-Let sinners be consumed from the earth, and let the wicked be no more!   Bless the Lord, O my soul!   Praise the Lord!
+Let sinners be consumed from the earth, and let the wicked be no more! Bless the Lord, O my soul! Praise the Lord!
 
 

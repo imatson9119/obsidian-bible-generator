@@ -9,7 +9,6 @@ aliases:
   - Num_6
 tags:
   - bible/chapter
-  - bible/Numbers/chapter
   - bible/Numbers/6
   - bible/old testament
 cssclass:
@@ -21,7 +20,7 @@ cssclass:
 ###### 1
 And the Lord spoke to Moses, saying,
 ###### 2
-“Speak to the people of Israel and say to them, When either a man or a woman makes a special vow, the vow of a Nazirite,  to separate himself to the Lord,
+“Speak to the people of Israel and say to them, When either a man or a woman makes a special vow, the vow of a Nazirite, to separate himself to the Lord,
 ###### 3
 he shall separate himself from wine and strong drink. He shall drink no vinegar made from wine or strong drink and shall not drink any juice of grapes or eat grapes, fresh or dried.
 ###### 4
@@ -29,7 +28,7 @@ All the days of his separation he shall eat nothing that is produced by the grap
 ###### 5
 “All the days of his vow of separation, no razor shall touch his head. Until the time is completed for which he separates himself to the Lord, he shall be holy. He shall let the locks of hair of his head grow long.
 ###### 6
-“All the days that he separates himself to the Lord  he shall not go near a dead body.
+“All the days that he separates himself to the Lord he shall not go near a dead body.
 ###### 7
 Not even for his father or for his mother, for brother or sister, if they die, shall he make himself unclean, because his separation to God is on his head.
 ###### 8
@@ -65,11 +64,11 @@ The Lord spoke to Moses, saying,
 ###### 23
 “Speak to Aaron and his sons, saying, Thus you shall bless the people of Israel: you shall say to them,
 ###### 24
-The Lord  bless you and keep you;
+The Lord bless you and keep you;
 ###### 25
-the Lord  make his face to shine upon you and be gracious to you;
+the Lord make his face to shine upon you and be gracious to you;
 ###### 26
-the Lord  lift up his countenance upon you and give you peace.
+the Lord lift up his countenance upon you and give you peace.
 ###### 27
 “So shall they put my name upon the people of Israel, and I will bless them.”
 

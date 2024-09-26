@@ -9,7 +9,6 @@ aliases:
   - Ezk_45
 tags:
   - bible/chapter
-  - bible/Ezekiel/chapter
   - bible/Ezekiel/45
   - bible/old testament
 cssclass:

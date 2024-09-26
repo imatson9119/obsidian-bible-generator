@@ -9,7 +9,6 @@ aliases:
   - Luk_4
 tags:
   - bible/chapter
-  - bible/Luke/chapter
   - bible/Luke/4
   - bible/new testament
 cssclass:
@@ -33,13 +32,13 @@ and said to him, “To you I will give all this authority and their glory, for i
 ###### 7
 If you, then, will worship me, it will all be yours.”
 ###### 8
-And Jesus answered him, “It is written,     “‘You shall worship the Lord your God,   and     him only shall you serve.’”
+And Jesus answered him, “It is written, “‘You shall worship the Lord your God, and him only shall you serve.’”
 ###### 9
 And he took him to Jerusalem and set him on the pinnacle of the temple and said to him, “If you are the Son of God, throw yourself down from here,
 ###### 10
-for it is written,   “‘He will command his angels concerning you, to guard you,’
+for it is written, “‘He will command his angels concerning you, to guard you,’
 ###### 11
-and   “‘On their hands they will bear you up, lest you strike your foot against a stone.’”
+and “‘On their hands they will bear you up, lest you strike your foot against a stone.’”
 ###### 12
 And Jesus answered him, “It is said, ‘You shall not put the Lord your God to the test.’”
 ###### 13
@@ -53,7 +52,7 @@ And he came to Nazareth, where he had been brought up. And as was his custom, he
 ###### 17
 And the scroll of the prophet Isaiah was given to him. He unrolled the scroll and found the place where it was written,
 ###### 18
-“The Spirit of the Lord     is upon me, because he has anointed me to proclaim good news to the poor.   He has sent me to proclaim liberty to the captives and recovering of sight to the blind,     to set at liberty those who are oppressed,
+“The Spirit of the Lord is upon me, because he has anointed me to proclaim good news to the poor. He has sent me to proclaim liberty to the captives and recovering of sight to the blind, to set at liberty those who are oppressed,
 ###### 19
 to proclaim the year of the Lord’s favor.”
 ###### 20
@@ -71,7 +70,7 @@ But in truth, I tell you, there were many widows in Israel in the days of Elijah
 ###### 26
 and Elijah was sent to none of them but only to Zarephath, in the land of Sidon, to a woman who was a widow.
 ###### 27
-And there were many lepers  in Israel in the time of the prophet Elisha, and none of them was cleansed, but only Naaman the Syrian.”
+And there were many lepers in Israel in the time of the prophet Elisha, and none of them was cleansed, but only Naaman the Syrian.”
 ###### 28
 When they heard these things, all in the synagogue were filled with wrath.
 ###### 29
@@ -85,7 +84,7 @@ and they were astonished at his teaching, for his word possessed authority.
 ###### 33
 And in the synagogue there was a man who had the spirit of an unclean demon, and he cried out with a loud voice,
 ###### 34
-“Ha!  What have you to do with us, Jesus of Nazareth? Have you come to destroy us? I know who you are—the Holy One of God.”
+“Ha! What have you to do with us, Jesus of Nazareth? Have you come to destroy us? I know who you are—the Holy One of God.”
 ###### 35
 But Jesus rebuked him, saying, “Be silent and come out of him!” And when the demon had thrown him down in their midst, he came out of him, having done him no harm.
 ###### 36

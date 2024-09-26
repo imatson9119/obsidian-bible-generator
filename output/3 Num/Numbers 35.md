@@ -9,7 +9,6 @@ aliases:
   - Num_35
 tags:
   - bible/chapter
-  - bible/Numbers/chapter
   - bible/Numbers/35
   - bible/old testament
 cssclass:

@@ -9,7 +9,6 @@ aliases:
   - Jos_24
 tags:
   - bible/chapter
-  - bible/Joshua/chapter
   - bible/Joshua/24
   - bible/old testament
 cssclass:

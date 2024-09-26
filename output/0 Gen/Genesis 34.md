@@ -9,7 +9,6 @@ aliases:
   - Gen_34
 tags:
   - bible/chapter
-  - bible/Genesis/chapter
   - bible/Genesis/34
   - bible/old testament
 cssclass:

@@ -6,12 +6,6 @@ aliases:
   - Scripture
   - Scriptures
   - Word of God
-  - Holy Bible
-  - Holy Scriptures
-  - Holy Word
-  - Holy Writ
-  - Holy Scripture
-  - Gods Word
 tags:
   - bible
 cssclass:

@@ -9,7 +9,6 @@ aliases:
   - Jdg_5
 tags:
   - bible/chapter
-  - bible/Judges/chapter
   - bible/Judges/5
   - bible/old testament
 cssclass:
@@ -25,15 +24,15 @@ Then sang Deborah and Barak the son of Abinoam on that day:
 ###### 3
 “Hear, O kings; give ear, O princes; to the Lord I will sing; I will make melody to the Lord, the God of Israel.
 ###### 4
-“Lord, when you went out from Seir, when you marched from the region of Edom,   the earth trembled and the heavens dropped, yes, the clouds dropped water.
+“Lord, when you went out from Seir, when you marched from the region of Edom, the earth trembled and the heavens dropped, yes, the clouds dropped water.
 ###### 5
-The mountains quaked before the Lord,   even Sinai before the Lord, the God of Israel.
+The mountains quaked before the Lord, even Sinai before the Lord, the God of Israel.
 ###### 6
 “In the days of Shamgar, son of Anath, in the days of Jael, the highways were abandoned, and travelers kept to the byways.
 ###### 7
 The villagers ceased in Israel; they ceased to be until I arose; I, Deborah, arose as a mother in Israel.
 ###### 8
-When new gods were chosen, then war was in the gates.   Was shield or spear to be seen among forty thousand in Israel?
+When new gods were chosen, then war was in the gates. Was shield or spear to be seen among forty thousand in Israel?
 ###### 9
 My heart goes out to the commanders of Israel who offered themselves willingly among the people. Bless the Lord.
 ###### 10
@@ -51,11 +50,11 @@ the princes of Issachar came with Deborah, and Issachar faithful to Barak; into 
 ###### 16
 Why did you sit still among the sheepfolds, to hear the whistling for the flocks? Among the clans of Reuben there were great searchings of heart.
 ###### 17
-Gilead stayed beyond the Jordan;   and Dan, why did he stay with the ships?   Asher sat still at the coast of the sea, staying by his landings.
+Gilead stayed beyond the Jordan; and Dan, why did he stay with the ships? Asher sat still at the coast of the sea, staying by his landings.
 ###### 18
-Zebulun is a people who risked their lives to the death;   Naphtali, too, on the heights of the field.
+Zebulun is a people who risked their lives to the death; Naphtali, too, on the heights of the field.
 ###### 19
-“The kings came, they fought; then fought the kings of Canaan, at Taanach, by the waters of Megiddo;   they got no spoils of silver.
+“The kings came, they fought; then fought the kings of Canaan, at Taanach, by the waters of Megiddo; they got no spoils of silver.
 ###### 20
 From heaven the stars fought, from their courses they fought against Sisera.
 ###### 21
@@ -63,7 +62,7 @@ The torrent Kishon swept them away, the ancient torrent, the torrent Kishon. Mar
 ###### 22
 “Then loud beat the horses’ hoofs with the galloping, galloping of his steeds.
 ###### 23
-“Curse Meroz, says the angel of the Lord, curse its inhabitants thoroughly,   because they did not come to the help of the Lord, to the help of the Lord against the mighty.
+“Curse Meroz, says the angel of the Lord, curse its inhabitants thoroughly, because they did not come to the help of the Lord, to the help of the Lord against the mighty.
 ###### 24
 “Most blessed of women be Jael, the wife of Heber the Kenite, of tent-dwelling women most blessed.
 ###### 25
@@ -79,6 +78,6 @@ Her wisest princesses answer, indeed, she answers herself,
 ###### 30
 ‘Have they not found and divided the spoil?— A womb or two for every man; spoil of dyed materials for Sisera, spoil of dyed materials embroidered, two pieces of dyed work embroidered for the neck as spoil?’
 ###### 31
-“So may all your enemies perish, O Lord! But your friends be like the sun as he rises in his might.”   And the land had rest for forty years.
+“So may all your enemies perish, O Lord! But your friends be like the sun as he rises in his might.” And the land had rest for forty years.
 
 

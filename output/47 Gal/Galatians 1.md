@@ -9,7 +9,6 @@ aliases:
   - Gal_1
 tags:
   - bible/chapter
-  - bible/Galatians/chapter
   - bible/Galatians/1
   - bible/new testament
 cssclass:

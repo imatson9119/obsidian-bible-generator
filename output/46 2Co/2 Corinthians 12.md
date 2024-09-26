@@ -9,7 +9,6 @@ aliases:
   - 2Co_12
 tags:
   - bible/chapter
-  - bible/2 Corinthians/chapter
   - bible/2 Corinthians/12
   - bible/new testament
 cssclass:
@@ -31,7 +30,7 @@ On behalf of this man I will boast, but on my own behalf I will not boast, excep
 ###### 6
 though if I should wish to boast, I would not be a fool, for I would be speaking the truth; but I refrain from it, so that no one may think more of me than he sees in me or hears from me.
 ###### 7
-So to keep me from becoming conceited because of the surpassing greatness of the revelations,  a thorn was given me in the flesh, a messenger of Satan to harass me, to keep me from becoming conceited.
+So to keep me from becoming conceited because of the surpassing greatness of the revelations, a thorn was given me in the flesh, a messenger of Satan to harass me, to keep me from becoming conceited.
 ###### 8
 Three times I pleaded with the Lord about this, that it should leave me.
 ###### 9

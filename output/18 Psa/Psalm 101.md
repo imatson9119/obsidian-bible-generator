@@ -9,7 +9,6 @@ aliases:
   - Psa_101
 tags:
   - bible/chapter
-  - bible/Psalm/chapter
   - bible/Psalm/101
   - bible/old testament
 cssclass:
@@ -33,6 +32,6 @@ I will look with favor on the faithful in the land, that they may dwell with me;
 ###### 7
 No one who practices deceit shall dwell in my house; no one who utters lies shall continue before my eyes.
 ###### 8
-Morning by morning I will destroy all the wicked in the land,   cutting off all the evildoers from the city of the Lord.
+Morning by morning I will destroy all the wicked in the land, cutting off all the evildoers from the city of the Lord.
 
 

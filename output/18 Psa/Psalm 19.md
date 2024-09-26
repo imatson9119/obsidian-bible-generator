@@ -9,7 +9,6 @@ aliases:
   - Psa_19
 tags:
   - bible/chapter
-  - bible/Psalm/chapter
   - bible/Psalm/19
   - bible/old testament
 cssclass:
@@ -31,17 +30,17 @@ which comes out like a bridegroom leaving his chamber, and, like a strong man, r
 ###### 6
 Its rising is from the end of the heavens, and its circuit to the end of them, and there is nothing hidden from its heat.
 ###### 7
-The law of the Lord is perfect,   reviving the soul;   the testimony of the Lord is sure,   making wise the simple;
+The law of the Lord is perfect, reviving the soul; the testimony of the Lord is sure, making wise the simple;
 ###### 8
-the precepts of the Lord are right, rejoicing the heart; the commandment of the Lord is pure,   enlightening the eyes;
+the precepts of the Lord are right, rejoicing the heart; the commandment of the Lord is pure, enlightening the eyes;
 ###### 9
 the fear of the Lord is clean, enduring forever; the rules of the Lord are true, and righteous altogether.
 ###### 10
-More to be desired are they than gold, even much fine gold;   sweeter also than honey and drippings of the honeycomb.
+More to be desired are they than gold, even much fine gold; sweeter also than honey and drippings of the honeycomb.
 ###### 11
-Moreover, by them is your servant warned;   in keeping them there is great reward.
+Moreover, by them is your servant warned; in keeping them there is great reward.
 ###### 12
-Who can discern his errors?   Declare me innocent from hidden faults.
+Who can discern his errors? Declare me innocent from hidden faults.
 ###### 13
 Keep back your servant also from presumptuous sins; let them not have dominion over me! Then I shall be blameless, and innocent of great transgression.
 ###### 14

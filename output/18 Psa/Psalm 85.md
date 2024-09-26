@@ -9,7 +9,6 @@ aliases:
   - Psa_85
 tags:
   - bible/chapter
-  - bible/Psalm/chapter
   - bible/Psalm/85
   - bible/old testament
 cssclass:
@@ -37,7 +36,7 @@ Let me hear what God the Lord will speak, for he will speak peace to his people,
 ###### 9
 Surely his salvation is near to those who fear him, that glory may dwell in our land.
 ###### 10
-Steadfast love and faithfulness meet;   righteousness and peace kiss each other.
+Steadfast love and faithfulness meet; righteousness and peace kiss each other.
 ###### 11
 Faithfulness springs up from the ground, and righteousness looks down from the sky.
 ###### 12

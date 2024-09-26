@@ -9,7 +9,6 @@ aliases:
   - 1Ch_26
 tags:
   - bible/chapter
-  - bible/1 Chronicles/chapter
   - bible/1 Chronicles/26
   - bible/old testament
 cssclass:

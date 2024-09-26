@@ -9,7 +9,6 @@ aliases:
   - Rev_19
 tags:
   - bible/chapter
-  - bible/Revelation/chapter
   - bible/Revelation/19
   - bible/new testament
 cssclass:
@@ -19,15 +18,15 @@ cssclass:
 # Revelation 19
 
 ###### 1
-After this I heard what seemed to be the loud voice of a great multitude in heaven, crying out, “Hallelujah!   Salvation and glory and power belong to our God,
+After this I heard what seemed to be the loud voice of a great multitude in heaven, crying out, “Hallelujah! Salvation and glory and power belong to our God,
 ###### 2
 for his judgments are true and just; for he has judged the great prostitute who corrupted the earth with her immorality, and has avenged on her the blood of his servants.”
 ###### 3
-Once more they cried out, “Hallelujah!   The smoke from her goes up forever and ever.”
+Once more they cried out, “Hallelujah! The smoke from her goes up forever and ever.”
 ###### 4
 And the twenty-four elders and the four living creatures fell down and worshiped God who was seated on the throne, saying, “Amen. Hallelujah!”
 ###### 5
-And from the throne came a voice saying,   “Praise our God, all you his servants,   you who fear him, small and great.”
+And from the throne came a voice saying, “Praise our God, all you his servants, you who fear him, small and great.”
 ###### 6
 Then I heard what seemed to be the voice of a great multitude, like the roar of many waters and like the sound of mighty peals of thunder, crying out, “Hallelujah! For the Lord our God the Almighty reigns.
 ###### 7

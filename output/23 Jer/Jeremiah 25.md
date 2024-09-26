@@ -9,7 +9,6 @@ aliases:
   - Jer_25
 tags:
   - bible/chapter
-  - bible/Jeremiah/chapter
   - bible/Jeremiah/25
   - bible/old testament
 cssclass:
@@ -25,7 +24,7 @@ which Jeremiah the prophet spoke to all the people of Judah and all the inhabita
 ###### 3
 “For twenty-three years, from the thirteenth year of Josiah the son of Amon, king of Judah, to this day, the word of the Lord has come to me, and I have spoken persistently to you, but you have not listened.
 ###### 4
-You have neither listened nor inclined your ears to hear, although the Lord  persistently sent to you all his servants the prophets,
+You have neither listened nor inclined your ears to hear, although the Lord persistently sent to you all his servants the prophets,
 ###### 5
 saying, ‘Turn now, every one of you, from his evil way and evil deeds, and dwell upon the land that the Lord has given to you and your fathers from of old and forever.
 ###### 6
@@ -77,22 +76,22 @@ all the kings of the north, far and near, one after another, and all the kingdom
 ###### 29
 For behold, I begin to work disaster at the city that is called by my name, and shall you go unpunished? You shall not go unpunished, for I am summoning a sword against all the inhabitants of the earth, declares the Lord of hosts.’
 ###### 30
-“You, therefore, shall prophesy against them all these words, and say to them:   “‘The Lord will roar from on high, and from his holy habitation utter his voice; he will roar mightily against his fold,   and shout, like those who tread grapes, against all the inhabitants of the earth.
+“You, therefore, shall prophesy against them all these words, and say to them: “‘The Lord will roar from on high, and from his holy habitation utter his voice; he will roar mightily against his fold, and shout, like those who tread grapes, against all the inhabitants of the earth.
 ###### 31
-The clamor will resound to the ends of the earth, for the Lord has an indictment against the nations;   he is entering into judgment with all flesh, and the wicked he will put to the sword, declares the Lord.’
+The clamor will resound to the ends of the earth, for the Lord has an indictment against the nations; he is entering into judgment with all flesh, and the wicked he will put to the sword, declares the Lord.’
 ###### 32
-“Thus says the Lord of hosts: Behold, disaster is going forth from nation to nation,   and a great tempest is stirring   from the farthest parts of the earth!
+“Thus says the Lord of hosts: Behold, disaster is going forth from nation to nation, and a great tempest is stirring from the farthest parts of the earth!
 ###### 33
 “And those pierced by the Lord on that day shall extend from one end of the earth to the other. They shall not be lamented, or gathered, or buried; they shall be dung on the surface of the ground.
 ###### 34
-“Wail, you shepherds, and cry out,   and roll in ashes, you lords of the flock, for the days of your slaughter and dispersion have come, and you shall fall like a choice vessel.
+“Wail, you shepherds, and cry out, and roll in ashes, you lords of the flock, for the days of your slaughter and dispersion have come, and you shall fall like a choice vessel.
 ###### 35
 No refuge will remain for the shepherds, nor escape for the lords of the flock.
 ###### 36
-A voice—the cry of the shepherds,   and the wail of the lords of the flock! For the Lord is laying waste their pasture,
+A voice—the cry of the shepherds, and the wail of the lords of the flock! For the Lord is laying waste their pasture,
 ###### 37
-and the peaceful folds are devastated   because of the fierce anger of the Lord.
+and the peaceful folds are devastated because of the fierce anger of the Lord.
 ###### 38
-Like a lion he has left his lair, for their land has become a waste because of the sword of the oppressor,   and because of his fierce anger.”
+Like a lion he has left his lair, for their land has become a waste because of the sword of the oppressor, and because of his fierce anger.”
 
 

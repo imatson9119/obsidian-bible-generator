@@ -9,7 +9,6 @@ aliases:
   - Psa_18
 tags:
   - bible/chapter
-  - bible/Psalm/chapter
   - bible/Psalm/18
   - bible/old testament
 cssclass:
@@ -25,7 +24,7 @@ The Lord is my rock and my fortress and my deliverer, my God, my rock, in whom I
 ###### 3
 I call upon the Lord, who is worthy to be praised, and I am saved from my enemies.
 ###### 4
-The cords of death encompassed me;   the torrents of destruction assailed me;
+The cords of death encompassed me; the torrents of destruction assailed me;
 ###### 5
 the cords of Sheol entangled me; the snares of death confronted me.
 ###### 6
@@ -35,13 +34,13 @@ Then the earth reeled and rocked; the foundations also of the mountains trembled
 ###### 8
 Smoke went up from his nostrils, and devouring fire from his mouth; glowing coals flamed forth from him.
 ###### 9
-He bowed the heavens and came down;   thick darkness was under his feet.
+He bowed the heavens and came down; thick darkness was under his feet.
 ###### 10
 He rode on a cherub and flew; he came swiftly on the wings of the wind.
 ###### 11
 He made darkness his covering, his canopy around him, thick clouds dark with water.
 ###### 12
-Out of the brightness before him   hailstones and coals of fire broke through his clouds.
+Out of the brightness before him hailstones and coals of fire broke through his clouds.
 ###### 13
 The Lord also thundered in the heavens, and the Most High uttered his voice, hailstones and coals of fire.
 ###### 14
@@ -77,7 +76,7 @@ For it is you who light my lamp; the Lord my God lightens my darkness.
 ###### 29
 For by you I can run against a troop, and by my God I can leap over a wall.
 ###### 30
-This God—his way is perfect; the word of the Lord  proves true; he is a shield for all those who take refuge in him.
+This God—his way is perfect; the word of the Lord proves true; he is a shield for all those who take refuge in him.
 ###### 31
 For who is God, but the Lord? And who is a rock, except our God?—
 ###### 32
@@ -103,9 +102,9 @@ They cried for help, but there was none to save; they cried to the Lord, but he 
 ###### 42
 I beat them fine as dust before the wind; I cast them out like the mire of the streets.
 ###### 43
-You delivered me from strife with the people; you made me the head of the nations;   people whom I had not known served me.
+You delivered me from strife with the people; you made me the head of the nations; people whom I had not known served me.
 ###### 44
-As soon as they heard of me they obeyed me;   foreigners came cringing to me.
+As soon as they heard of me they obeyed me; foreigners came cringing to me.
 ###### 45
 Foreigners lost heart and came trembling out of their fortresses.
 ###### 46

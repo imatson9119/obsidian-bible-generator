@@ -9,7 +9,6 @@ aliases:
   - Jos_3
 tags:
   - bible/chapter
-  - bible/Joshua/chapter
   - bible/Joshua/3
   - bible/old testament
 cssclass:
@@ -39,7 +38,7 @@ And Joshua said to the people of Israel, “Come here and listen to the words of
 ###### 10
 And Joshua said, “Here is how you shall know that the living God is among you and that he will without fail drive out from before you the Canaanites, the Hittites, the Hivites, the Perizzites, the Girgashites, the Amorites, and the Jebusites.
 ###### 11
-Behold, the ark of the covenant of the Lord of all the earth  is passing over before you into the Jordan.
+Behold, the ark of the covenant of the Lord of all the earth is passing over before you into the Jordan.
 ###### 12
 Now therefore take twelve men from the tribes of Israel, from each tribe a man.
 ###### 13

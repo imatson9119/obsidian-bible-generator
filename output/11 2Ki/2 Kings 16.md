@@ -9,7 +9,6 @@ aliases:
   - 2Ki_16
 tags:
   - bible/chapter
-  - bible/2 Kings/chapter
   - bible/2 Kings/16
   - bible/old testament
 cssclass:
@@ -23,7 +22,7 @@ In the seventeenth year of Pekah the son of Remaliah, Ahaz the son of Jotham, ki
 ###### 2
 Ahaz was twenty years old when he began to reign, and he reigned sixteen years in Jerusalem. And he did not do what was right in the eyes of the Lord his God, as his father David had done,
 ###### 3
-but he walked in the way of the kings of Israel. He even burned his son as an offering,  according to the despicable practices of the nations whom the Lord drove out before the people of Israel.
+but he walked in the way of the kings of Israel. He even burned his son as an offering, according to the despicable practices of the nations whom the Lord drove out before the people of Israel.
 ###### 4
 And he sacrificed and made offerings on the high places and on the hills and under every green tree.
 ###### 5

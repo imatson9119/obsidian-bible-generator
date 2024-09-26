@@ -9,7 +9,6 @@ aliases:
   - Luk_21
 tags:
   - bible/chapter
-  - bible/Luke/chapter
   - bible/Luke/21
   - bible/new testament
 cssclass:
@@ -49,7 +48,7 @@ Settle it therefore in your minds not to meditate beforehand how to answer,
 ###### 15
 for I will give you a mouth and wisdom, which none of your adversaries will be able to withstand or contradict.
 ###### 16
-You will be delivered up even by parents and brothers  and relatives and friends, and some of you they will put to death.
+You will be delivered up even by parents and brothers and relatives and friends, and some of you they will put to death.
 ###### 17
 You will be hated by all for my name’s sake.
 ###### 18
@@ -57,7 +56,7 @@ But not a hair of your head will perish.
 ###### 19
 By your endurance you will gain your lives.
 ###### 20
-“But     when you see Jerusalem surrounded by armies, then know that     its desolation has come near.
+“But when you see Jerusalem surrounded by armies, then know that its desolation has come near.
 ###### 21
 Then let those who are in Judea flee to the mountains, and let those who are inside the city depart, and let not those who are out in the country enter it,
 ###### 22
@@ -67,7 +66,7 @@ Alas for women who are pregnant and for those who are nursing infants in those d
 ###### 24
 They will fall by the edge of the sword and be led captive among all nations, and Jerusalem will be trampled underfoot by the Gentiles, until the times of the Gentiles are fulfilled.
 ###### 25
-“And     there will be signs in sun and moon     and stars, and on the earth     distress of nations in perplexity because of the roaring of the sea and the waves,
+“And there will be signs in sun and moon and stars, and on the earth distress of nations in perplexity because of the roaring of the sea and the waves,
 ###### 26
 people fainting with fear and with foreboding of what is coming on the world. For the powers of the heavens will be shaken.
 ###### 27
@@ -85,7 +84,7 @@ Truly, I say to you, this generation will not pass away until all has taken plac
 ###### 33
 Heaven and earth will pass away, but my words will not pass away.
 ###### 34
-“But watch yourselves     lest     your hearts be weighed down with dissipation and drunkenness and     cares of this life, and     that day come upon you suddenly     like a trap.
+“But watch yourselves lest your hearts be weighed down with dissipation and drunkenness and cares of this life, and that day come upon you suddenly like a trap.
 ###### 35
 For it will come upon all who dwell on the face of the whole earth.
 ###### 36

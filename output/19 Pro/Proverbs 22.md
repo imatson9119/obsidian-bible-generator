@@ -9,7 +9,6 @@ aliases:
   - Pro_22
 tags:
   - bible/chapter
-  - bible/Proverbs/chapter
   - bible/Proverbs/22
   - bible/old testament
 cssclass:
@@ -45,13 +44,13 @@ The eyes of the Lord keep watch over knowledge, but he overthrows the words of t
 ###### 13
 The sluggard says, “There is a lion outside! I shall be killed in the streets!”
 ###### 14
-The mouth of forbidden women is a deep pit;   he with whom the Lord is angry will fall into it.
+The mouth of forbidden women is a deep pit; he with whom the Lord is angry will fall into it.
 ###### 15
 Folly is bound up in the heart of a child, but the rod of discipline drives it far from him.
 ###### 16
 Whoever oppresses the poor to increase his own wealth, or gives to the rich, will only come to poverty.
 ###### 17
-Incline your ear, and hear the words of the wise,   and apply your heart to my knowledge,
+Incline your ear, and hear the words of the wise, and apply your heart to my knowledge,
 ###### 18
 for it will be pleasant if you keep them within you, if all of them are ready on your lips.
 ###### 19

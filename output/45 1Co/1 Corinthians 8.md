@@ -9,7 +9,6 @@ aliases:
   - 1Co_8
 tags:
   - bible/chapter
-  - bible/1 Corinthians/chapter
   - bible/1 Corinthians/8
   - bible/new testament
 cssclass:
@@ -19,7 +18,7 @@ cssclass:
 # 1 Corinthians 8
 
 ###### 1
-Now concerning  food offered to idols: we know that “all of us possess knowledge.” This “knowledge” puffs up, but love builds up.
+Now concerning food offered to idols: we know that “all of us possess knowledge.” This “knowledge” puffs up, but love builds up.
 ###### 2
 If anyone imagines that he knows something, he does not yet know as he ought to know.
 ###### 3
