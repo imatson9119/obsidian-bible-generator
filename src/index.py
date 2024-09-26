@@ -1,5 +1,5 @@
 import os
-from src.constants import book_abbreviations, abbv_to_full
+from src.constants import book_abbreviations
 import json
 
 
@@ -56,12 +56,6 @@ aliases:
   - Scripture
   - Scriptures
   - Word of God
-  - Holy Bible
-  - Holy Scriptures
-  - Holy Word
-  - Holy Writ
-  - Holy Scripture
-  - Gods Word
 tags:
   - bible
 cssclass:
@@ -95,7 +89,7 @@ cssclass:
 
 ## Chapters
 
-{'\n'.join([f'[[{book_name} {i+1}|{i+1}]]' for i in range(len(bible_data[book_name]))])}
+{'\n'.join([f'#####[[{book_name} {i+1}|{i+1}]]' for i in range(len(bible_data[book_name]))])}
 '''
   return book
 
@@ -119,7 +113,6 @@ aliases:
   - {book_abbreviations[book_name.lower()]}_{chapter_number}
 tags:
   - bible/chapter
-  - bible/{book_name}/chapter
   - bible/{book_name}/{chapter_number}
   - bible/{'old testament' if i < 39 else 'new testament'}
 cssclass:
@@ -130,7 +123,7 @@ cssclass:
 
 {''.join(
   [
-    f'###### {i}\n{x.strip()}\n' + 
+    f'###### {i}\n{clean_verse(x)}\n' + 
       get_cross_references(book_name, chapter_number, i, cross_refs)
     for i,x in bible_data[book_name][chapter_number].items()
   ])}
@@ -158,9 +151,6 @@ aliases:
   - {book_name} {chapter_number}_{verse_number}
 tags:
   - bible/verse
-  - bible/{book_name}/verse
-  - bible/{book_name}/{chapter_number}/verse
-  - bible/{book_name}/{chapter_number}/{verse_number}
   - bible/{'old testament' if i < 39 else 'new testament'}
 cssclass:
   - bible
@@ -174,6 +164,8 @@ cssclass:
 '''
   return verse
 
+def clean_verse(verse):
+  return " ".join(verse.strip().split())
 
 if __name__ == "__main__":
   main()
